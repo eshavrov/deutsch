@@ -99,6 +99,7 @@
   border-color: #51c7e7;
   color: #1aa0c5;
 }
+
 @media (max-width: 600px) {
   .btn {
     width: 100%;

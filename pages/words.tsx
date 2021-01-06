@@ -7,30 +7,26 @@ import { LANGUAGE } from "constants/index";
 import { getDictonary } from "constants/db";
 
 const HomePage = (props) => {
-  const {
-    dict = [],
-    word,
-    variants = [],
-    nativeLanguage,
-    languages,
-    count,
-  } = props;
+  const { dict = [], word, variants = [], nativeLanguage, languages } = props;
 
   return (
     <WordVariants
       dict={dict}
       word={word}
       variants={variants}
-      count={count}
       nativeLanguage={nativeLanguage}
       languages={languages}
     />
   );
 };
 
-HomePage.getInitialProps = () => {
+HomePage.getInitialProps = ({ query }) => {
   let nativeLanguage = LANGUAGE.RU;
-  let languages = [LANGUAGE.DE, LANGUAGE.RU];
+
+  let languages =
+    query.lang === LANGUAGE.RU
+      ? [LANGUAGE.RU, LANGUAGE.DE]
+      : [LANGUAGE.DE, LANGUAGE.RU];
 
   // number of variants to answer
   const count = 4;

@@ -1,6 +1,6 @@
 import React from "react";
 
-import { getRegExpLangVoice } from "../helpers/voice";
+import { getRegExpLangVoice } from "helpers/voice";
 
 const useVoices = ({ nativeLanguage, lang, langOrigin }) => {
   const [voices, setVoices] = React.useState([]);
