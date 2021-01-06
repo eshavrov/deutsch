@@ -11,9 +11,12 @@ const getWord = (dictonary = []) => {
   };
 };
 
-const getVariants = (word, count = 4, dictonary = []) => {
+const getVariants = (dictonary = [], count = 4, word = null) => {
   const set = new Set();
-  set.add(word.id);
+
+  if (word) {
+    set.add(word.id);
+  }
 
   const size = dictonary.length;
 
@@ -22,9 +25,9 @@ const getVariants = (word, count = 4, dictonary = []) => {
   return [...set.values()].sort(() => Math.random() - 0.5);
 };
 
-const getWordAndVarants = (dict = [], countVariants = 4) => {
+const getWordAndVarants = (dict = [], { count = 4 } = {}) => {
   const word = getWord(dict);
-  const variants = getVariants(word, countVariants, dict);
+  const variants = getVariants(dict, count, word);
 
   return { word, variants };
 };
