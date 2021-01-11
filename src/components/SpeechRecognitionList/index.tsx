@@ -11,8 +11,6 @@ import { LANGUAGE, LANGUAGE_REGION } from "constants/index";
 // @ts-ignore
 import sfxErrorSound1 from "../../../static/sfx/0.mp3";
 // @ts-ignore
-// import sfxErrorSound2 from "../../../static/sfx/2.mp3";
-// @ts-ignore
 import sfxSoundOfSuccess from "../../../static/sfx/success-0.mp3";
 
 import { animatedContainerStyle, animatendCardStyle } from "./animated";
@@ -22,7 +20,8 @@ const tgtrimm = (str) =>
   str
     .replace(/ *\([^)]*\) */g, "")
     .replace(/[^a-zA-ZА-Яа-яЁё]/gi, "")
-    .toLowerCase().trim();
+    .toLowerCase()
+    .trim();
 const INTERVAL = 5000;
 
 const SpeechRecognitionList = (props) => {
@@ -42,10 +41,9 @@ const SpeechRecognitionList = (props) => {
   const [mood, setMood] = React.useState(0);
   const [signal, toggleSignal] = React.useState(false);
 
-  // const [{ st, xy }, set] = useSpring(() => ({ st: 0, xy: [0, 0] }));
   const { signalState } = useSpring({
     signalState: signal ? 1 : 0,
-    config: { duration: 750 },
+    config: { duration: 1000 },
   });
 
   const msgRef: any = React.useRef();
@@ -62,8 +60,6 @@ const SpeechRecognitionList = (props) => {
   const onSpeack = React.useCallback(() => {
     window.speechSynthesis;
     if (!msgRef.current) return;
-    // setMood(0);
-    // toggleSignal((state) => !state);
 
     voices.forEach((voice, i) => {
       setTimeout(() => {
@@ -74,7 +70,6 @@ const SpeechRecognitionList = (props) => {
     });
 
     setTimeout(() => {
-      console.log("startListening");
       SpeechRecognition.startListening({
         language: LANGUAGE_REGION[langOrigin],
         continuous: false,
@@ -130,8 +125,6 @@ const SpeechRecognitionList = (props) => {
       setMood(-1);
       toggleSignal((state) => !state);
 
-      console.log("***", listening, timeSpan, INTERVAL, timer);
-      console.log("abortListening");
       SpeechRecognition.abortListening();
       setTimer(0);
 
@@ -150,18 +143,10 @@ const SpeechRecognitionList = (props) => {
           false
         );
 
-      console.log(isGood);
-      console.log(value, transcript);
-      console.log(tgtrimm(transcript));
-
-      console.log(value.split(",").map(tgtrimm));
-
       if (isGood) {
-        console.log("+++", transcript, value);
         setMood(1);
         toggleSignal((state) => !state);
 
-        console.log("abortListening");
         SpeechRecognition.abortListening();
         playSoundOfSuccess();
         setTimer(0);
@@ -171,8 +156,6 @@ const SpeechRecognitionList = (props) => {
         setIndexLine((i) => i + 1);
       }
     } else if (timer !== 0) {
-      console.log("-- no", Date.now() - timer);
-      console.log("startListening");
       SpeechRecognition.startListening({
         language: LANGUAGE_REGION[langOrigin],
         continuous: false,
@@ -184,6 +167,13 @@ const SpeechRecognitionList = (props) => {
     return <button onClick={onStart}>start</button>;
   }
 
+  const i = indexLine % dict.length;
+  const right = dict.length - i - 1;
+  const list = dict.slice(
+    Math.max(0, (indexLine % dict.length) - Math.max(1, 3 - right)),
+    Math.max(0, (indexLine % dict.length) + 3)
+  );
+
   return (
     <a.div
       className={s.container}
@@ -191,11 +181,15 @@ const SpeechRecognitionList = (props) => {
     >
       <table className={s.card}>
         <tbody>
-          {dict.map(({ phrase, translation, id }, index) => {
-            const selected = listening && index === indexLine % dict.length;
+          {list.map(({ phrase, translation, id }, index) => {
+            const actived = id === dict[indexLine % dict.length].id;
+            const selected = listening && actived;
+            const style = actived
+              ? animatendCardStyle({ mood, signalState })
+              : null;
 
             return (
-              <tr key={id} className={s.line}>
+              <a.tr key={id} className={s.line} style={style}>
                 <td className={s["cell-word"]}>
                   <span
                     className={cn(s.word, {
@@ -205,20 +199,12 @@ const SpeechRecognitionList = (props) => {
                     {phrase}
                   </span>
                 </td>
-                {/* <td className={s["cell-translated"]}>
-                  <span
-                    className={cn(s.translated, {
-                      [s["translated--selected"]]: index === indexLine,
-                    })}
-                  >
-                    {translation}
-                  </span>
-                </td> */}
-              </tr>
+              </a.tr>
             );
           })}
         </tbody>
       </table>
+      <p>{transcript}</p>
     </a.div>
   );
 };
