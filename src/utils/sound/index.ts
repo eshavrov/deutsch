@@ -38,7 +38,6 @@ export default function useSound(
   // We want to lazy-load Howler, since sounds can't play on load anyway.
   useOnMount(() => {
     import("howler").then((mod) => {
-			console.log("howler", mod);
       if (!isMounted.current) {
         HowlConstructor.current = mod.Howl;
         isMounted.current = true;
@@ -51,7 +50,6 @@ export default function useSound(
           ...delegated,
         });
 
-				console.log("setSound",sound);
         setSound(sound);
       }
     });
@@ -66,8 +64,6 @@ export default function useSound(
   // tweak the sound
   React.useEffect(() => {
     if (HowlConstructor.current && sound) {
-			console.log("setSound HowlConstructor",sound);
-
       setSound(
         new HowlConstructor.current({
           src: [url],
@@ -99,8 +95,6 @@ export default function useSound(
 
   const play: PlayFunction = React.useCallback(
     (options?: PlayOptions) => {
-
-			console.log("Play", sound);
       if (typeof options === "undefined") {
         options = {};
       }

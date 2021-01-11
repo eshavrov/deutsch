@@ -1,0 +1,395 @@
+// Группа 1. Глаголы стадии
+["Beginn", "Начало"],
+["Fortsetzung", "Продолжение"],
+["Beendigung", "Завершение"],
+
+// Группа 2. Глаголы движения
+["BewegungsartenBewegung aufwärts/ abwärts", "Виды движений"],
+["Geschwindigkeit", "Движение вверх/ вниз"],
+["Verfolgung", "Скорость"],
+["Bewegung vom Ausgang bis", "Преследование"],
+["zum Eingang", "Цикл движений от начальной до конечной точки движения"],
+["Bewegung im Wasser", "Движение в воде"],
+
+// Группа 3. Глаголы наличия
+["Vorhandensein und Zugehörigkeit", "Наличие/принадлежность"],
+["Mangel/ Abwesenheit", "Нехватка", ],
+["Zugeben/ Überfluss","Добавление, избыток"],
+["Kürzung","Сокращение",],
+["Erhaltung/ Aufbewahrung","Сохранение"],
+
+// Группа 4. Глаголы положения
+["Lage/ Position ", "Положение"], 
+
+// Группа 5. Бытовые глаголы
+["Leben", "Жить"],
+["Arbeiten", "Работать"],
+["Essen/ trinken", "Есть/ пить"],
+["Sich kleiden", "Одеваться"],
+["Schlafen/ Morgentoilette", "Спать/ приводить себя в порядок"],
+["Krank sein", "Болеть"],
+
+// Группа 6. Глаголы чувства
+["Gutes Verhalten", "Хорошее отношение"],
+["Schlechtes Verhalten", "Плохое отношение"],
+["Kummer/ Freude", "Горе/ радость"],
+["Stolz/ Bescheidenheit", "Гордость/ скромность"],
+["Zuversicht/ Zweifel", "Уверенность/ сомнение"],
+["Fleiß/ Faulheit", "Старание/ лень"],
+["Andere Gefühle ", "Оттенки эмоции"],
+
+// Группа 7. Глаголы восприятия и мышления
+["Empfindung der Welt", "Восприятие мира"],
+["Schulung/ Lernprozess", "Обучение"],
+["Einzelne Lernoperationen", "Учебные операции"],
+["Logische Operationen/ Denken", "Логические операции"],
+
+// Группа 8. Рабочие операции
+["Arbeiten/ machen", "Работать/делать"],
+["Vorbereiten/ prüfen", "Готовить/ проверять"],
+["Operationen mit der Hand", "Брать (и другие операции рукой)" ],
+["Verbinden/ befestigen", "Соединять/ закреплять" ],
+["Aufmachen/ zumachen", "Закрывать/ открывать" ],
+["Zerstören/ teilen", "Разрушать/ делить на части" ],
+["Operationen mit Wasser", "Операции с водой" ],
+
+// Группа 9. Глаголы общения
+["Sprechen", "Говорить" ],
+["Sich wenden an j-n", "Обращаться" ],
+["Antworten", "Отвечать" ],
+["Nehmen", "Брать" ],
+["Geben", "Давать" ],
+["Besuch/ Etikette", "Визит/ этикет" ],
+["Verletzung der Etikette", "Нарушение этикета/ наказание" ],
+
+// Группа 10. Глаголы борьбы
+["Angreifen", "Нападать"],
+["Verteidigen", "Защищаться"],
+["Kampfausgang", "Исход борьбы"],
+["Waffenverwendung", "Действия с оружием"],
+
+
+
+
+
+
+
+// Структура прилагательных 
+
+// Группа 1. Признаки, воспринимаемые органами чувств
+1.1. Глаз
+1.2. Кожа
+Eigenschaften empfunden von Augen (Farbe, Größe, Form)
+Eigenschaften empfunden von der Haut 
+
+1.3. Язык
+1.4. Ухо
+1.5. Hoc
+Geschmack
+Eigenschaften empfunden vom Gehör
+Geruch 
+
+Группа 2. Время
+2.1. Основные признаки
+2.2. Стадии Непрерывность/ частотность 
+Hauptmerkmale der Zeit
+Zeitstufen/ Stadien Kontinuität/ Häufigkeit 
+
+Группа 3. Способности человека
+3.1. Способность
+3.2. Отсутствие способности
+3.3. Прилежание/ внимательность
+3.4. Умение/ опыт
+Begabung
+Mangel an Fähigkeit
+Fleiß/ Aufmerksamkeit
+Können/ Erfahrung 
+
+
+Группа 4. Эмоция/ чувство/ настроение
+4.1. Характер
+4.2. Настроение
+4.3. Эмоциональная оценка
+4.4. Оттенки эмоции
+Charakter
+Stimmung
+Emotionelle Einschätzung
+Schattierungen der Gefühle 
+
+
+
+Группа 5- Мораль/ поведение
+5.1. Основные моральные характеристики
+5.2. Отношение к другим людям
+5.3. Качества в общении
+5.4. Качества в действиях
+Moralische Einschätzung
+Verhalten gegenüber anderen
+Eigenschaften im Umgang
+Eigenschaften in Handlungen 
+
+
+Группа 6. Абстрактные прилагательные 
+6.1. Классификация Klassifikation
+6.2. Качество Qualität
+6.3. Количество Quantität
+6.4. Категории Kategorien
+6.5. Соответствие Entsprechung
+6.6. Выгода Vorteil/ Nachteil 
+
+
+Группа 7. Состояние/ статус 
+7.1. Физическое состояние Kondition (körperliche undseelische)
+7.2. Финансовое положение Wohlstand
+7.3. Биологический и семейный Biologischer Zustand und Faстатус milienzustand
+7.4. Применение Gebrauchsfertigkeit 
+
+
+// Структура существительных 
+
+группа 1. Мир
+1.1. Небо Himmel
+1.2. Земля Erde
+1.3. Вода Wasser
+1.4. Положение Lage/ Richtung
+1.5. Зоны Geographische Zonen 
+
+Группа 2. Погода/ природные явления
+2.1. Сезон Jahreszeit/ Klima
+2.2. Метеорология Meteorologie
+2.3. Осадки Niederschläge
+2.4. Стихийные бедствия Naturkatastrophen 
+
+Группа 3. Геометрия 
+
+3.1. Размер Größe/Abmessung
+3.2. Форма Form
+3.3. Фигуры на плоскости Fläche Figuren
+3.4. Линия ' Linien
+3.5. Структура Struktur/ Aufbau
+
+
+Группа 4. Время 
+4.1. Единицы времени Zeiteinheiten
+4.2. Месяцы Monate
+4.3. Дни недели Wochentage
+4.4. Временные этапы Zeitstufen/ Stadien
+4.5. Стадии дня Tageseinteilung/ Tagesabschnitt
+4.6. Рабочее время Arbeitszeit
+4.7. Праздник/ свободное время Feiertag/ Freizeit 
+
+
+Группа 5. Вещество/ материал 
+
+5.1. Физическое состояние
+5.2. Металлы
+5.3. Строительные материалы
+5.4. Сырье
+5.5. Ткани/ кожа и мех
+5.6 Отходы
+Physischer Zustand
+Metalle
+Baustoffe
+Rohstoff
+Stoff/ Gewebe
+Abfälle 
+
+
+Группа 6. Растения 
+
+6.1. Овощи
+6.2. Фрукты/ ягоды
+6.3 Зерно
+6.4 Деревья
+6.5. Части дерева
+Gemüse
+Obst/ Beeren
+Getreide
+Bäume
+Bestandteile eines Baumes
+6.6. Цветы Blumen 
+
+
+Группа 7. Животные 
+7.1. Дикие животные Wildtiere
+7.2. Домашние животные Haustiere
+7.3. Птицы . Vögel und Geflügel
+7.4. Рыбы Fische
+7.5. Насекомые Insekten
+7.6. Прочие классы Andere Tierarten 
+
+Группа 8. Человек
+8.1. Общие сведения
+8.2. Анатомия
+8.3. Отношения между людьми
+allgemeine Angaben und Personalien
+Anatomie
+Beziehungen zwischen Menschen
+
+
+Группа 9« Жилье 
+
+9.1. Дом/адрес Haus/ Adresse
+9.2. Устройство дома Aufbau eines Hauses
+9.3. Комнаты Zimmer
+9.4. Мебель/ обстановка Möbel/ Einrichtung
+9.5. Постель Bettwäsche
+9.6. Сосуды/ емкости Gefäße/ Behälter
+9.7. Бытовые приборы/ принад- Hausgeräte
+лежности
+
+
+Группа 10. Одежда 
+
+10.1. Верхняя одежда
+10.2. Одежда/ белье
+10.3. Обувь
+Oberbekleidung
+Kleidung/ Wäsche
+Schuhe 
+10.4. Головные уборы Kopfbedeckung
+10.5. Элементы одежды и туалета Bestandteile der Kleidung/Zubehör
+
+Группа 11. Питание 
+11.1. Прием пищи Mahlzeiten
+11.2. Блюда Gerichte/ Gänge
+11.3. Приправы Zutaten/ Gewürze
+11.4. Напитки \ Getränke
+11.5. Сладости Süßigkeiten
+11.6. Пищевые продукты Lebensmittel
+11.7. Хлеб Brot
+11.8. Столовая посуда/ кухонные принадлежности Geschirr/ Küchenzubehör
+ 
+
+Группа 12. Чувство/ характер
+1. Положительные эмоции
+2. Отрицательные эмоции
+3. Терпение/ твердость/ сла
+4. Любовь/ ненависть
+5. Гордость/ скромность/ такт
+6. Желание/ прилежание/
+Positive Emotionen
+Negative Emotionen
+Geduld/ Festigkeit/ Schwäche
+Liebe/ Hass
+Stolz/ Bescheidenheit/ Takt
+Wunsch/ Fleiß/ Faulheit 
+
+
+Группа 13. Мышление/ наука
+1. Природа/ сознание
+OJ2. Познание
+L3. Категории мышления
+13.4. Исследование
+ШЗ. Анализ
+13.6. Результат
+Natur/ Bewusstsein
+Erkenntnis
+Kategorien des Denkens
+Forschung
+Analyse
+Ergebnis 
+
+13.7. Сообщение
+13.8. Критика
+Mitteilung
+Kritik
+
+Группа 14. Образование 
+14.1. Учебное заведение
+14.2. Учебные предметы
+14.3. Учеба
+14.4. Экзамен/ оценка
+14.5. Языкознание
+Bildungseinrichtung
+Schulfächer
+Studium
+Prüfung/ Note
+Sprachkunde 
+
+
+Группа 15. Культура 
+15.1. Кино
+15.2. Театр
+15.3. Музыка
+15.4. Литература
+15.5. Спорт
+Filmkunst
+Theater
+Musik
+Literatur
+Sport
+
+
+Группа 16. Работа 
+16.1. Труд/ занятость
+16.2. Сфера
+16.3. Предприятие
+16.4. Профессия
+16.5. Инструменты/ оборудование
+Arbeit/ Beschäftigung
+Tätigkeitsgebiet
+Betrieb
+Beruf
+Werkzeug/ Ausrüstung
+
+
+Группа 17. Связь 
+17.1. Почта/ телефон Post/ Telefon
+17.2. Железная дорога Eisenbahn
+17.3. Авиатранспорт Flugverkehr
+17.4. Автомобильный транспорт Autoverkehr 
+
+Группа 18. Город 
+
+18.1. Улицы/площади
+18.2. Транспорт
+18.3. Социально-культурные и
+бытовые учреждения
+18.4. Торговля/ услуги
+Straßen/ Plätze
+Stadtverkehr
+Objekte einer Stadt
+Handel/ Dienstleistungen 
+
+Группа 19. Общение 
+
+19.1. Информация Information
+19.2. Общение/ высказывание Gespräch/ Äußerung
+19.3. Визит Besuch
+19.4. Этикет Etikette 
+
+Группа 20. Государство 
+
+20.1. Страна
+20.2. Народ
+20.3. Общественное положение
+20.4. Право/ закон
+20.5. Политика
+20.6. Экономика
+20.7. Внешняя политика
+Land
+Volk
+Soziale Stellung
+Recht/ Gesetz
+Politik
+Wirtschaft
+Außenpolitik 
+
+
+Группа 21. Медицина 
+
+21.1. Здоровье/ болезнь
+21.2. Наружные повреждения
+21.3. Инфекция
+21.4. Другие заболевания
+21.5. Симптом
+21.6. Медосмотр/лечение
+21.7. Врачи/ больница
+Gesundheit/ Krankheit
+Verletzungen/ Hautkrankheit
+Infektion
+Andere Krankheiten
+Symptom
+Ärztliche Untersuchung/ Behandlung
+Arzte/ Krankenhaus 

@@ -1,6 +1,6 @@
 import React from "react";
 
-import AudioDictonary from "components/AudioDictonary";
+import SpeechRecognitionList from "components/SpeechRecognitionList";
 import { LANGUAGE } from "constants/index";
 import { getDictonary } from "constants/db";
 
@@ -8,7 +8,7 @@ const HomePage = (props) => {
   const { dict = [], nativeLanguage, languages } = props;
 
   return (
-    <AudioDictonary
+    <SpeechRecognitionList
       dict={dict}
       nativeLanguage={nativeLanguage}
       languages={languages}
@@ -24,7 +24,7 @@ HomePage.getInitialProps = ({ query }) => {
       ? [LANGUAGE.RU, LANGUAGE.DE]
       : [LANGUAGE.DE, LANGUAGE.RU];
 
-  const dict = Object.values(getDictonary({ languages, count: 8 }));
+  const dict = Object.values(getDictonary({ languages, count: 10 }));
 
   return { dict, languages, nativeLanguage };
 };

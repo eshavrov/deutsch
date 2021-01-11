@@ -9,7 +9,7 @@ import sfxErrorSound1 from "../../../static/sfx/0.mp3";
 // @ts-ignore
 import sfxErrorSound2 from "../../../static/sfx/2.mp3";
 // @ts-ignore
-import sfxSoundOfSuccess from "../../../static/sfx/1.mp3";
+import sfxSoundOfSuccess from "../../../static/sfx/success-0.mp3";
 
 import { Smile } from "components/Smile";
 import { getWordAndVarants } from "helpers/words";
@@ -59,24 +59,24 @@ const WordVariants = (props) => {
   const [playSoundOfSuccess] = useSound(sfxSoundOfSuccess, { volume: 0.75 });
 
   const isGood = React.useMemo(() => {
-    return transcript.toUpperCase() === word.value.toUpperCase();
+    return transcript.toUpperCase() === word.phrase.toUpperCase();
   }, [transcript, word]);
 
   React.useEffect(() => {
     const synth = window.speechSynthesis;
 
     if (synth) {
-      msgRef.current = new window.SpeechSynthesisUtterance(word.value);
+      msgRef.current = new window.SpeechSynthesisUtterance(word.phrase);
       msgOriginalRef.current = new window.SpeechSynthesisUtterance(
-        word.description
+        word.translation
       );
     }
   }, []);
 
   React.useEffect(() => {
-    msgRef.current = new window.SpeechSynthesisUtterance(word.value);
+    msgRef.current = new window.SpeechSynthesisUtterance(word.phrase);
     msgOriginalRef.current = new window.SpeechSynthesisUtterance(
-      word.description
+      word.translation
     );
   }, [voices, word]);
 
@@ -106,14 +106,19 @@ const WordVariants = (props) => {
   );
 
   const onSpeackStart = React.useCallback(() => {
+    console.log("on speak start", msgRef.current);
+
     if (!msgRef.current) return;
 
     msgRef.current.voice = voices[Math.round(Math.random())];
     msgRef.current.lang = lang;
+    console.log("on speak start", msgRef.current);
+
     window.speechSynthesis.speak(msgRef.current);
   }, [voices, lang]);
 
   const onSpeack = React.useCallback(() => {
+    console.log("on speak", msgRef.current);
     if (!msgRef.current) return;
 
     voices.forEach((voice, i) => {
@@ -121,17 +126,19 @@ const WordVariants = (props) => {
         msgRef.current.voice = voice;
         msgRef.current.lang = lang;
         window.speechSynthesis.speak(msgRef.current);
+        console.log("on speak", msgRef.current);
+
       }, i * 1000);
     });
 
     originalVoices.forEach((voice, i) => {
       setTimeout(() => {
         msgOriginalRef.current.voice = voice;
-        msgOriginalRef.current.lang = lang;
+        msgOriginalRef.current.lang = langOrigin;
         window.speechSynthesis.speak(msgOriginalRef.current);
       }, (i + voices.length + 1) * 1000);
     });
-  }, [originalVoices, voices, lang]);
+  }, [originalVoices, voices, lang, langOrigin]);
 
   const onClick = React.useCallback(
     (event) => {
@@ -204,18 +211,18 @@ const WordVariants = (props) => {
         <Smile
           st={st}
           xy={xy}
-          text={`${word.value}${isGood ? " ✓" : ""}`}
+          text={`${word.phrase}${isGood ? " ✓" : ""}`}
           onClick={onSpeackStart}
         />
         <div className={s.content}>
           <ul onClick={onClick} className={s.ul}>
             {variants.map((id) => {
               const isOpened = Boolean(btnStatus[id]);
-              const title = isOpened ? shortWord(dict[id][1]) : "";
+              const title = isOpened ? shortWord(dict[id].translation) : "";
 
               return (
                 <li key={id} data-id={id} className={s.btn} title={title}>
-                  {shortWord(dict[id][isOpened ? 0 : 1])}
+                  {shortWord(dict[id][isOpened ? "phrase" : "translation"])}
                 </li>
               );
             })}
