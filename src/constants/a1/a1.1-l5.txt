@@ -1,0 +1,209 @@
+die Uhr
+часы, час
+
+die Uhrzeit
+время, время на часах
+
+das Viertel
+четверть
+
+die Geschäftszeit
+время работы, часы работы
+
+die Sprechstunde
+приемные часы, часы приема, время приема
+
+die Öffnungszeit
+время открытия
+
+geöffnet
+открытый, открыто
+
+wann
+когда
+
+der Tag
+день
+
+der Morgen
+утро
+
+der Vormittag
+первая половина дня, до обеда
+
+der Nachmittag
+вторая половина дня, после обеда
+
+der Abend
+вечер
+
+die Nacht
+ночь
+
+die Woche
+неделя
+
+der Montag
+понедельник
+
+der Dienstag
+вторник
+
+der Mittwoch
+среда
+
+der Donnerstag
+четверг
+
+der Freitag
+пятница
+
+der Samstag
+суббота
+
+der Sonntag
+воскресенье
+
+heute
+сегодня
+
+morgen
+завтра
+
+übermorgen
+послезавтра
+
+arbeiten
+работать, трудиться
+
+aufräumen
+убирать, заниматься уборкой, наводить порядок
+
+aufstehen
+вставать, подниматься
+
+einkaufen
+делать покупки, закупать, покупать
+
+fernsehen
+смотреть телевизор
+
+das Frühstück
+завтрак
+
+Frühstück machen
+готовить завтрак
+
+frühstücken
+завтракать
+
+der Fußball
+футбол
+
+Fußball spielen
+играть в футбол
+
+kochen
+готовить, варить, кипятить
+
+das Mittagessen
+обед
+
+gehen
+идти, ходить
+
+spazieren gehen
+гулять, прогуливаться пешком
+
+die Hausaufgabe
+домашнее задание
+
+Hausaufgaben machen
+делать домашнее задание
+
+ins Bett gehen
+идти спать, ложиться спать
+
+ins Kino gehen
+идти в кино, ходить в кино, пойти в кино
+
+die Ansage
+объявление, оповещение, извещение
+
+der Bahnhof
+вокзал, станция
+
+der Geburtstag
+день рождения, дата рождения
+
+die Praxis
+практика
+
+das Kino
+кино, кинотеатр
+
+der Moment
+момент, миг, мгновение
+
+die Nachrichten
+сообщения, известия, новости
+
+das Schild
+вывеска, табличка, знак
+
+der Terminkalender
+ежедневник
+
+die Touristeninformation
+информация для туристов
+
+anfangen
+начать, приступать
+
+anrufen
+окликать,звать, звонить
+
+erzählen
+рассказывать, сообщать
+
+dann
+потом, затем
+
+erst
+сперва, вначале, только, лишь
+
+manchmal
+иногда, порой
+
+dumm
+глупый
+
+früh
+ранний, рано
+
+ganz
+весь, целый
+
+hübsch
+красивый, симпатичный, милый
+
+langweilig
+скучный, нудный
+
+lustig
+веселый, радостный
+
+nett
+милый, приятный
+
+offiziell
+официальный, служебный
+
+privat
+частный, личный
+
+spät
+поздний, запоздалый
+
+sympathisch
+симпатичный

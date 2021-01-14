@@ -1,0 +1,107 @@
+absagen
+отменять, сообщить об отмене
+
+vereinbaren
+согласовывать, договариваться
+
+verschieben
+переносить, передвигать
+
+der Doktor
+врач, доктор
+
+das Fieber
+температура, жар
+
+die Gesundheit
+здоровье
+
+die Krankheit
+болезнь
+
+die Medizin
+лекарство
+
+die Praxis
+практика, приемная, кабинет
+
+der Schmerz
+боль
+
+die Tablette
+таблетка
+
+husten
+кашлять
+
+untersuchen
+осматривать
+
+wehtun
+болеть, боль
+
+gesund
+здоровый
+
+krank
+больной
+
+der Arm
+рука
+
+das Auge
+глаз
+
+der Bauch
+живот
+
+das Bein
+нога
+
+der Finger
+палец
+
+der Fuß
+стопа, ступня
+
+das Haar
+волос
+
+der Hals
+шея, горло
+
+die Hand
+рука, кисть, ладонь
+
+der Kopf
+голова
+
+der Mund
+рот
+
+die Nase
+нос
+
+das Ohr
+ухо
+
+der Rücken
+спина
+
+der Zahn
+зуб
+
+der Absender
+отправитель
+
+der Empfänger
+получатель
+
+das Datum
+дата
+
+der Gruß
+привет, приветствие
+
+die Unterschrift
+подпись

@@ -1,0 +1,239 @@
+arbeiten
+работать
+
+ich arbeite
+я работаю
+
+du arbeitest
+ты работаешь
+
+er arbeitet
+он работает
+
+sie arbeitet
+она работает
+
+es arbeitet
+оно работает
+
+wir arbeiten
+мы работаем
+
+ihr arbeitet
+вы работаете
+
+Sie arbeiten
+Вы работаете
+
+fernsehen
+смотреть телевизор
+
+ich sehe fern
+я смотрю телевизор
+
+du siehst fern
+ты смотришь телевизор
+
+er sieht fern
+он смотрит телевизор
+
+sie sieht fern
+она смотрит телевизор
+
+es sieht fern
+оно смотрит телевизор
+
+wir sehen fern
+мы смотрим телевизор
+
+ihr seht fern
+вы смотрите телевизор
+
+Sie sehen fern
+Вы смотрите телевизор
+
+ich möchte
+я хочу
+
+du möchtest
+ты хочешь
+
+er möchte
+он хочет
+
+sie möchte
+она хочет
+
+es möchte
+оно хочет
+
+wir möchten
+мы хотим
+
+ihr möchtet
+вы хотите
+
+Sie möchten
+Вы хотите
+
+lesen
+читать
+
+ich lese
+я читаю
+
+du liest
+ты читаешь
+
+er liest
+он читает
+
+sie liest
+она читает
+
+es liest
+оно читает
+
+wir lesen
+мы читаем
+
+ihr lest
+вы читаете
+
+Sie lesen
+Вы читаете
+
+treffen
+встречаться
+
+ich treffe
+я встречаю
+
+du triffst
+ты встречаешь
+
+er trifft
+он встречает
+
+sie trifft
+она встречает
+
+es trifft
+оно встречает
+
+wir treffen
+мы встречаем
+
+ihr trefft
+вы встречаете
+
+Sie treffen
+Вы встречаете
+
+nehmen
+брать
+
+ich nehme
+я беру
+
+du nimmst
+ты берёшь
+
+er nimmt
+он берёт
+
+sie nimmt
+она берёт
+
+es nimmt
+оно берёт
+
+wir nehmen
+мы берём
+
+ihr nehmt
+вы берёте
+
+Sie nehmen
+Вы берёте
+
+schlafen
+спать
+
+ich schlafe
+я сплю
+
+du schläfst
+ты спишь
+
+er schläft
+он спит
+
+sie schläft
+она спит
+
+es schläft
+оно спит
+
+wir schlafen
+мы спим
+
+ihr schlaft
+вы спите
+
+Sie schlafen
+Вы спите
+
+können
+мочь, уметь
+
+ich kann
+я могу, я умею
+
+du kannst
+ты можешь, ты умеешь
+
+er kann
+он может, он умеет
+
+sie kann
+она может, она умеет
+
+es kann
+оно может, оно умеет
+
+wir können
+мы можем, мы умеем
+
+ihr könnt
+вы можете, вы умеете
+
+Sie können
+Вы можете, Вы умеете
+
+wollen
+хотеть
+
+ich will
+я хочу
+
+du willst
+ты хочешь
+
+er will
+он хочет
+
+sie will
+она хочет
+
+es will
+оно хочет
+
+wir wollen
+мы хотим
+
+ihr wollt
+вы хотите
+
+Sie wollen
+Вы хотите

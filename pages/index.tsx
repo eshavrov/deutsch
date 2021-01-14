@@ -1,4 +1,5 @@
 import React from "react";
+import { Layout } from "components/common";
 
 import WordVariants from "components/WordVariants";
 import { getWordAndVarants } from "helpers/words";
@@ -35,11 +36,13 @@ HomePage.getInitialProps = () => {
   // number of variants to answer
   const count = 4;
 
-  const dict = getDictonary({ languages, count: 30 });
+  const dict = getDictonary({ languages, count: 300 });
 
   const { word, variants } = getWordAndVarants(dict, { count });
 
   return { word, variants, dict, languages, nativeLanguage };
 };
+
+HomePage.Layout = Layout;
 
 export default HomePage;

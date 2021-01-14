@@ -1,12 +1,14 @@
 import React from "react";
 
+import { Layout } from "components/common";
+
 import WordVariants from "components/WordVariants";
 import { getWordAndVarants } from "helpers/words";
 
 import { LANGUAGE } from "constants/index";
 import { getDictonary } from "constants/db";
 
-const HomePage = (props) => {
+const Page = (props) => {
   const { dict = [], word, variants = [], nativeLanguage, languages } = props;
 
   return (
@@ -20,7 +22,7 @@ const HomePage = (props) => {
   );
 };
 
-HomePage.getInitialProps = ({ query }) => {
+Page.getInitialProps = ({ query }) => {
   let nativeLanguage = LANGUAGE.RU;
 
   let languages =
@@ -38,4 +40,6 @@ HomePage.getInitialProps = ({ query }) => {
   return { word, variants, dict, languages, nativeLanguage };
 };
 
-export default HomePage;
+Page.Layout = Layout;
+
+export default Page;

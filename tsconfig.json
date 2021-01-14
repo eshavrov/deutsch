@@ -19,7 +19,9 @@
       "constants/*": ["src/constants/*"],
       "helpers/*": ["src/helpers/*"],
       "utils/*": ["src/utils/*"],
-      "hooks/*": ["src/hooks/*"]
+      "hooks/*": ["src/hooks/*"],
+      "lib/*": ["lib/*"],
+      "config/*": ["config/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],

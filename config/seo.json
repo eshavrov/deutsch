@@ -1,0 +1,16 @@
+{
+	"title": "Simulator zum Deutschlernen",
+	"titleTemplate": "%s - Simulator zum Deutschlernen",
+	"description": "Kostenloser Trainer zum Deutschlernen",
+	"openGraph": {
+		"type": "website",
+		"locale": "ru",
+		"url": "localhost:3000",
+		"site_name": "Simulator zum Deutschlernen"
+	},
+	"twitter": {
+		"handle": "@shavrov",
+		"site": "@shavrov",
+		"cardType": "summary_large_image"
+	}
+}
