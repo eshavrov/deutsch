@@ -18,8 +18,8 @@
 }
 
 .bolb {
-  background-color: #fff;
-  border: 2px solid #e5e5e5;
+  background-color: var(--primary);
+  border: 2px solid var(--primary);
   border-radius: 25px;
   box-sizing: border-box;
   user-select: auto;
@@ -47,8 +47,8 @@
 .pip {
   box-sizing: border-box;
   position: absolute;
-  background-color: #fff;
-  border: 2px solid #e5e5e5;
+  background-color: var(--primary);
+  border: 2px solid var(--primary);
   border-radius: 2px;
   content: "";
   height: 14.14427px;

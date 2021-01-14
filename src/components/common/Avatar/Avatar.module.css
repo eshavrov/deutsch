@@ -1,0 +1,19 @@
+.avatar {
+	/* inline-block h-8 w-8 rounded-full border-2 border-primary hover:border-secondary 
+	focus:border-secondary transition linear-out duration-150" */
+
+	display: inline-block;
+	width: 2rem;
+	height: 2rem;
+	border-radius: 9999px;
+	border-width: 2px;
+	border-color: var(--primary);
+
+	transition-property: all;
+	transition-duration: 150ms;
+}
+.avatar:hover{
+	/* transform: scale(1.15); */
+	cursor: pointer;
+
+}

@@ -5,6 +5,8 @@ import { animated as a } from "react-spring";
 import { useVoices } from "hooks/useVoices";
 import { LANGUAGE } from "constants/index";
 
+import { Button } from "components/ui";
+
 import s from "./styles.module.css";
 
 const WordVariants = (props) => {
@@ -77,7 +79,13 @@ const WordVariants = (props) => {
   }, []);
 
   if (!start) {
-    return <button onClick={onStart}>start</button>;
+    return (
+      <div className={s.start}>
+        <Button variant="slim" onClick={onStart}>
+          Начнём!
+        </Button>
+      </div>
+    );
   }
 
   return (

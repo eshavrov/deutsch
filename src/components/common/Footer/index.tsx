@@ -25,8 +25,8 @@ const Footer: FC<Props> = ({ className, pages }) => {
         <div className={s.wrapper}>
           <div className={s.item}>
             <Link href="/">
-              <a className="flex flex-initial items-center font-bold md:mr-24">
-                <span className="rounded-full border border-gray-700 mr-2">
+              <a className={s["logo-link"]}>
+                <span className={s["logo-wrapper"]}>
                   <Logo />
                 </span>
                 <span>Simulator zum Deutschlernen</span>
@@ -36,23 +36,18 @@ const Footer: FC<Props> = ({ className, pages }) => {
           <div className={s.item}>
             <ul className={s.list}>
               <li className={s["list-item"]}>
-                <Link href="/">
-                  <a className={s["list-item-link"]}>Home</a>
-                </Link>
-              </li>
-              <li className={s["list-item"]}>
                 <Link href="/audio">
-                  <a className={s["list-item-link"]}>audio</a>
+                  <a className={s["list-item-link"]}>Запоминаем!</a>
                 </Link>
               </li>
               <li className={s["list-item"]}>
                 <Link href="/words">
-                  <a className={s["list-item-link"]}>Words</a>
+                  <a className={s["list-item-link"]}>Угадай слова!</a>
                 </Link>
               </li>
               <li className={s["list-item"]}>
                 <Link href="/new">
-                  <a className={s["list-item-link"]}>Test</a>
+                  <a className={s["list-item-link"]}>Тест на слух!</a>
                 </Link>
               </li>
 

@@ -21,7 +21,11 @@
       "utils/*": ["src/utils/*"],
       "hooks/*": ["src/hooks/*"],
       "lib/*": ["lib/*"],
-      "config/*": ["config/*"]
+      "config/*": ["config/*"],
+      "@commerce/*": ["framework/commerce/*"],
+      "@commerce": ["framework/commerce"],
+      "@framework/*": ["framework/bigcommerce/*"],
+      "@framework": ["framework/bigcommerce"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],

@@ -1,6 +1,6 @@
-import { FC, useRef, useEffect, useCallback } from "react";
+import React from "react";
 import Portal from "@reach/portal";
-import s from "./Modal.module.css";
+
 import { Cross } from "components/icons";
 import {
   disableBodyScroll,
@@ -8,6 +8,8 @@ import {
   clearAllBodyScrollLocks,
 } from "body-scroll-lock";
 import FocusTrap from "lib/focus-trap";
+
+import s from "./Modal.module.css";
 interface Props {
   className?: string;
   children?: any;
@@ -16,10 +18,15 @@ interface Props {
   onEnter?: () => void | null;
 }
 
-const Modal: FC<Props> = ({ children, open, onClose, onEnter = null }) => {
-  const ref = useRef() as React.MutableRefObject<HTMLDivElement>;
+const Modal: React.FC<Props> = ({
+  children,
+  open,
+  onClose,
+  onEnter = null,
+}) => {
+  const ref = React.useRef() as React.MutableRefObject<HTMLDivElement>;
 
-  const handleKey = useCallback(
+  const handleKey = React.useCallback(
     (e: KeyboardEvent) => {
       if (e.key === "Escape") {
         return onClose();
@@ -28,7 +35,7 @@ const Modal: FC<Props> = ({ children, open, onClose, onEnter = null }) => {
     [onClose]
   );
 
-  useEffect(() => {
+  React.useEffect(() => {
     if (ref.current) {
       if (open) {
         disableBodyScroll(ref.current);
@@ -51,9 +58,9 @@ const Modal: FC<Props> = ({ children, open, onClose, onEnter = null }) => {
             <button
               onClick={() => onClose()}
               aria-label="Close panel"
-              className="hover:text-gray-500 transition ease-in-out duration-150 focus:outline-none absolute right-0 top-0 m-6"
+              className={s["btn-close"]}
             >
-              <Cross className="h-6 w-6" />
+              <Cross className={s.cross} />
             </button>
             <FocusTrap focusFirst>{children}</FocusTrap>
           </div>

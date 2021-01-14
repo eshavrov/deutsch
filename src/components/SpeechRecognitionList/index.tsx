@@ -7,6 +7,7 @@ import useSound from "utils/sound";
 
 import { useVoices } from "hooks/useVoices";
 import { LANGUAGE, LANGUAGE_REGION } from "constants/index";
+import { Button } from "components/ui";
 
 // @ts-ignore
 import sfxErrorSound1 from "../../../static/sfx/0.mp3";
@@ -164,7 +165,13 @@ const SpeechRecognitionList = (props) => {
   }, [transcript, listening, indexLine, timer, dict]);
 
   if (!start) {
-    return <button onClick={onStart}>start</button>;
+    return (
+      <div className={s.start}>
+        <Button variant="slim" onClick={onStart}>
+          Начнём!
+        </Button>
+      </div>
+    );
   }
 
   const i = indexLine % dict.length;

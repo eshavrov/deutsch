@@ -1,27 +1,24 @@
+import React from "react";
 import cn from "classnames";
-import React, {
-  forwardRef,
-  ButtonHTMLAttributes,
-  JSXElementConstructor,
-  useRef,
-} from "react";
 import mergeRefs from "react-merge-refs";
-import s from "./Button.module.css";
-import { LoadingDots } from "components/ui";
 
-export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+import { LoadingDots } from "components/ui";
+import s from "./Button.module.css";
+
+export interface ButtonProps
+  extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   href?: string;
   className?: string;
   variant?: "flat" | "slim";
   active?: boolean;
   type?: "submit" | "reset" | "button";
-  Component?: string | JSXElementConstructor<any>;
+  Component?: string | React.JSXElementConstructor<any>;
   width?: string | number;
   loading?: boolean;
   disabled?: boolean;
 }
 
-const Button: React.FC<ButtonProps> = forwardRef((props, buttonRef) => {
+const Button: React.FC<ButtonProps> = React.forwardRef((props, buttonRef) => {
   const {
     className,
     variant = "flat",
@@ -34,7 +31,7 @@ const Button: React.FC<ButtonProps> = forwardRef((props, buttonRef) => {
     Component = "button",
     ...rest
   } = props;
-  const ref = useRef<typeof Component>(null);
+  const ref = React.useRef<typeof Component>(null);
 
   const rootClassName = cn(
     s.root,
@@ -61,7 +58,7 @@ const Button: React.FC<ButtonProps> = forwardRef((props, buttonRef) => {
     >
       {children}
       {loading && (
-        <i className="pl-2 m-0 flex">
+        <i className={s["loading-dots"]}>
           <LoadingDots />
         </i>
       )}

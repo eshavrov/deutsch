@@ -14,8 +14,6 @@ class AppDocument extends Document {
   }
 
   render() {
-
-
     return (
       <Html lang="ru">
         <Head />

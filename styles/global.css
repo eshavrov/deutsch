@@ -1,6 +1,6 @@
 :root {
-  --primary: #ffffff;
-  --primary-2: #f1f3f5;
+  --primary: #f1f3f5;
+  --primary-2: hsl(210, 17%, 95%);
   --secondary: #000000;
   --secondary-2: #111;
 
@@ -13,6 +13,11 @@
   --hover: rgba(0, 0, 0, 0.075);
   --hover-1: rgba(0, 0, 0, 0.15);
   --hover-2: rgba(0, 0, 0, 0.25);
+
+  --focus: rgba(118, 169, 250, 0.45);
+  --focus-gray: rgba(30, 30, 30, 0.45);
+
+  --light: rgba(255, 255, 255, 0.35);
 
   --cyan: #22b8cf;
   --green: #37b679;
@@ -37,12 +42,15 @@
   --accents-9: #212529;
   --font-sans: -apple-system, system-ui, BlinkMacSystemFont, "Helvetica Neue",
     "Helvetica", sans-serif;
+  --overlay: rgba(0, 0, 0, 0.35);
+  --top: var(--primary);
+
 }
 
 [data-theme="dark"] {
-  --primary: #000000;
+  --primary: #222;
   --primary-2: #111;
-  --secondary: #ffffff;
+  --secondary: #ccc;
   --secondary-2: #f1f3f5;
   --hover: rgba(255, 255, 255, 0.075);
   --hover-1: rgba(255, 255, 255, 0.15);
@@ -63,6 +71,10 @@
   --accents-7: #e9ecef;
   --accents-8: #f1f3f5;
   --accents-9: #f8f9fa;
+
+  --light: rgba(0, 0, 0, 0);
+  --overlay: rgba(0, 0, 0, 0.65);
+  --top: #252525;
 }
 
 *,
@@ -133,4 +145,34 @@ a {
   to {
     opacity: 1;
   }
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  border: 0 solid #d2d6dc;
+}
+
+form {
+  outline: none;
+}
+
+button {
+  background-color: transparent;
+}
+
+.outline-none {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+ol,
+ul {
+  list-style: none;
 }

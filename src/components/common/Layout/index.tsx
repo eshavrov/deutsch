@@ -8,8 +8,8 @@ import { useAcceptCookies } from "lib/hooks/useAcceptCookies";
 import { Sidebar, Button, Modal, LoadingDots } from "components/ui";
 // import { CartSidebarView } from "components/cart";
 
-// import LoginView from "components/auth/LoginView";
-// import { CommerceProvider } from "@framework";
+import LoginView from "components/auth/LoginView";
+import { CommerceProvider } from "@framework";
 
 import s from "./Layout.module.css";
 
@@ -23,14 +23,14 @@ const dynamicProps = {
   loading: () => <Loading />,
 };
 
-// const SignUpView = dynamic(
-//   () => import("components/auth/SignUpView"),
-//   dynamicProps
-// );
-// const ForgotPassword = dynamic(
-//   () => import("components/auth/ForgotPassword"),
-//   dynamicProps
-// );
+const SignUpView = dynamic(
+  () => import("components/auth/SignUpView"),
+  dynamicProps
+);
+const ForgotPassword = dynamic(
+  () => import("components/auth/ForgotPassword"),
+  dynamicProps
+);
 // const FeatureBar = dynamic(
 //   () => import("components/common/FeatureBar"),
 //   dynamicProps
@@ -53,24 +53,28 @@ const Layout: FC<Props> = ({ children, pageProps }) => {
   const { acceptedCookies, onAcceptCookies } = useAcceptCookies();
   const { locale = "en-US" } = useRouter();
 
+  const config = React.useMemo(() => {
+    return { locale };
+  }, [locale]);
+
   return (
-    // <CommerceProvider locale={locale}>
-    <div className={cn(s.root)}>
-      <Navbar />
-      <main className="fit">{children}</main>
-      <Footer pages={pageProps.pages} />
+    <CommerceProvider config={config}>
+      <div className={cn(s.root)}>
+        <Navbar />
+        <main className="fit">{children}</main>
+        <Footer pages={pageProps.pages} />
 
-      <Sidebar open={displaySidebar} onClose={closeSidebar}>
-        {/* <CartSidebarView /> */}
-      </Sidebar>
+        <Sidebar open={displaySidebar} onClose={closeSidebar}>
+          {/* <CartSidebarView /> */}
+        </Sidebar>
 
-      <Modal open={displayModal} onClose={closeModal}>
-        {/* {modalView === "LOGIN_VIEW" && <LoginView />}
-        {modalView === "SIGNUP_VIEW" && <SignUpView />}
-        {modalView === "FORGOT_VIEW" && <ForgotPassword />} */}
-      </Modal>
+        <Modal open={displayModal} onClose={closeModal}>
+          {modalView === "LOGIN_VIEW" && <LoginView />}
+          {modalView === "SIGNUP_VIEW" && <SignUpView />}
+          {modalView === "FORGOT_VIEW" && <ForgotPassword />}
+        </Modal>
 
-      {/* <FeatureBar
+        {/* <FeatureBar
         title="This site uses cookies to improve your experience. By clicking, you agree to our Privacy Policy."
         hide={acceptedCookies}
         action={
@@ -79,8 +83,8 @@ const Layout: FC<Props> = ({ children, pageProps }) => {
           </Button>
         }
       /> */}
-    </div>
-    // </CommerceProvider>
+      </div>
+    </CommerceProvider>
   );
 };
 

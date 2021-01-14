@@ -2,7 +2,10 @@ import React from "react";
 import Link from "next/link";
 import s from "./Navbar.module.css";
 import { Logo, Container } from "components/ui";
-// import { Searchbar, UserNav } from "components/common";
+import {
+  //Searchbar,
+  UserNav,
+} from "components/common";
 import cn from "classnames";
 import throttle from "lodash.throttle";
 
@@ -51,7 +54,7 @@ const Navbar: React.FC = () => {
           </div>
 
           <div className="flex justify-end flex-1 space-x-8">
-            {/* <UserNav /> */}
+            <UserNav />
           </div>
         </div>
 
