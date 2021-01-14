@@ -58,6 +58,7 @@ const Layout: FC<Props> = ({ children, pageProps }) => {
   }, [locale]);
 
   return (
+    //@ts-ignore
     <CommerceProvider config={config}>
       <div className={cn(s.root)}>
         <Navbar />

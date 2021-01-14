@@ -2,7 +2,7 @@ const randomIndex = (count) =>
   Math.max(0, Math.floor((Math.random() - 0.01) * count));
 
 const getWord = (dictonary = {}) => {
-  const keys = Object.keys(dictonary)
+  const keys = Object.keys(dictonary);
   const index = randomIndex(keys.length);
 
   const entry = dictonary[keys[index]];
@@ -16,12 +16,12 @@ const getVariants = (dictonary = {}, count = 4, word = null) => {
   if (word) {
     set.add(word.id);
   }
-  const keys = Object.keys(dictonary)
+  const keys = Object.keys(dictonary);
 
   const size = keys.length;
 
   while (set.size < count) set.add(randomIndex(size));
-
+  //@ts-ignore
   return [...set.values()].sort(() => Math.random() - 0.5);
 };
 

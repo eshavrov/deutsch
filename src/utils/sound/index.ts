@@ -15,13 +15,13 @@ export default function useSound(
     ...delegated
   }: HookOptions = {}
 ) {
-  const HowlConstructor = React.useRef<HowlStatic | null>(null);
+  const HowlConstructor = React.useRef<any | null>(null);
   const isMounted = React.useRef(false);
 
   const [isPlaying, setIsPlaying] = React.useState(false);
   const [duration, setDuration] = React.useState<number | null>(null);
 
-  const [sound, setSound] = React.useState<Howl | null>(null);
+  const [sound, setSound] = React.useState<any | null>(null);
 
   const handleLoad = function () {
     if (typeof onload === "function") {

@@ -12,12 +12,14 @@ const Logo = ({ className = "", ...props }) => (
   </svg>
 );
 
-const Logo2 = () => (
+const Logo2 = ({ className = "", ...props }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width="32"
     height="32"
     viewBox="0 0 512 512"
+    className={className}
+    {...props}
   >
     <g fill="#000">
       <path d="M496.077 166.957C459.906 69.473 366.071 0 256 0S52.094 69.473 15.923 166.957h480.154z" />

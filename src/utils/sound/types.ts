@@ -1,3 +1,4 @@
+
 export type SpriteMap = {
   [key: string]: [number, number];
 };
@@ -20,7 +21,7 @@ export interface PlayOptions {
 export type PlayFunction = (options?: PlayOptions) => void;
 
 export interface ExposedData {
-  sound: Howl | null;
+  sound: any | null;
   stop: (id?: string) => void;
   pause: (id?: string) => void;
   isPlaying: boolean;

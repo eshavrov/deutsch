@@ -6,11 +6,13 @@ import getSlug from "lib/get-slug";
 import { Logo, Container } from "components/ui";
 import { I18nWidget } from "components/common";
 import s from "./Footer.module.css";
+import type { Page } from '@framework/api/operations/get-all-pages'
+
 
 interface Props {
   className?: string;
   children?: any;
-  pages?: any[];
+  pages?: Page[]
 }
 
 const LEGAL_PAGES = ["terms-of-use", "shipping-returns", "privacy-policy"];
