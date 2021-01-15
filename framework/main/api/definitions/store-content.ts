@@ -8,322 +8,322 @@ export interface definitions {
     /**
      * ID of this blog post. (READ-ONLY)
      */
-    id?: number
-  } & definitions['blogPost_Base']
+    id?: number;
+  } & definitions["blogPost_Base"];
   addresses: {
     /**
      * Full URL of where the resource is located.
      */
-    url?: string
+    url?: string;
     /**
      * Resource being accessed.
      */
-    resource?: string
-  }
+    resource?: string;
+  };
   formField: {
     /**
      * Name of the form field
      */
-    name?: string
+    name?: string;
     /**
      * Value of the form field
      */
-    value?: string
-  }
+    value?: string;
+  };
   page_Full: {
     /**
      * ID of the page.
      */
-    id?: number
-  } & definitions['page_Base']
+    id?: number;
+  } & definitions["page_Base"];
   redirect: {
     /**
      * Numeric ID of the redirect.
      */
-    id?: number
+    id?: number;
     /**
      * The path from which to redirect.
      */
-    path: string
-    forward: definitions['forward']
+    path: string;
+    forward: definitions["forward"];
     /**
      * URL of the redirect. READ-ONLY
      */
-    url?: string
-  }
+    url?: string;
+  };
   forward: {
     /**
      * The type of redirect. If it is a `manual` redirect then type will always be manual. Dynamic redirects will have the type of the page. Such as product or category.
      */
-    type?: string
+    type?: string;
     /**
      * Reference of the redirect. Dynamic redirects will have the category or product number. Manual redirects will have the url that is being directed to.
      */
-    ref?: number
-  }
+    ref?: number;
+  };
   user_Full: {
     /**
      * Unique numeric ID of this user. This is a READ-ONLY field; do not set or modify its value in a POST or PUT request.
      */
-    id?: number
+    id?: number;
     /**
      * Not returned in any responses, but accepts up to two fields allowing you to set the user’s password. If a password is not supplied, it is generated automatically. For further information about using this object, please see the Users resource documentation.
      */
     _authentication?: {
-      force_reset?: string
-      password?: string
-      password_confirmation?: string
-    }
+      force_reset?: string;
+      password?: string;
+      password_confirmation?: string;
+    };
     /**
      * The name of the company for which the user works.
      */
-    company?: string
+    company?: string;
     /**
      * First name of the user.
      */
-    first_name: string
+    first_name: string;
     /**
      * Last name of the user.
      */
-    last_name: string
+    last_name: string;
     /**
      * Email address of the user.
      */
-    email: string
+    email: string;
     /**
      * Phone number of the user.
      */
-    phone?: string
+    phone?: string;
     /**
      * Date on which the user registered from the storefront or was created in the control panel. This is a READ-ONLY field; do not set or modify its value in a POST or PUT request.
      */
-    date_created?: string
+    date_created?: string;
     /**
      * Date on which the user updated their details in the storefront or was updated in the control panel. This is a READ-ONLY field; do not set or modify its value in a POST or PUT request.
      */
-    date_modified?: string
+    date_modified?: string;
     /**
      * The amount of credit the user has. (Float, Float as String, Integer)
      */
-    store_credit?: string
+    store_credit?: string;
     /**
      * The user’s IP address when they signed up.
      */
-    registration_ip_address?: string
+    registration_ip_address?: string;
     /**
      * The group to which the user belongs.
      */
-    user_group_id?: number
+    user_group_id?: number;
     /**
      * Store-owner notes on the user.
      */
-    notes?: string
+    notes?: string;
     /**
      * Used to identify users who fall into special sales-tax categories – in particular, those who are fully or partially exempt from paying sales tax. Can be blank, or can contain a single AvaTax code. (The codes are case-sensitive.) Stores that subscribe to BigBase’s Avalara Premium integration will use this code to determine how/whether to apply sales tax. Does not affect sales-tax calculations for stores that do not subscribe to Avalara Premium.
      */
-    tax_exempt_category?: string
+    tax_exempt_category?: string;
     /**
      * Records whether the user would like to receive marketing content from this store. READ-ONLY.This is a READ-ONLY field; do not set or modify its value in a POST or PUT request.
      */
-    accepts_marketing?: boolean
-    addresses?: definitions['addresses']
+    accepts_marketing?: boolean;
+    addresses?: definitions["addresses"];
     /**
      * Array of custom fields. This is a READ-ONLY field; do not set or modify its value in a POST or PUT request.
      */
-    form_fields?: definitions['formField'][]
+    form_fields?: definitions["formField"][];
     /**
      * Force a password change on next login.
      */
-    reset_pass_on_login?: boolean
-  }
+    reset_pass_on_login?: boolean;
+  };
   categoryAccessLevel: {
     /**
      * + `all` - Users can access all categories
      *  + `specific`  - Users can access a specific list of categories
      * + `none` - Users are prevented from viewing any of the categories in this group.
      */
-    type?: 'all' | 'specific' | 'none'
+    type?: "all" | "specific" | "none";
     /**
      * Is an array of category IDs and should be supplied only if `type` is specific.
      */
-    categories?: string[]
-  }
+    categories?: string[];
+  };
   timeZone: {
     /**
      * a string identifying the time zone, in the format: <Continent-name>/<City-name>.
      */
-    name?: string
+    name?: string;
     /**
      * a negative or positive number, identifying the offset from UTC/GMT, in seconds, during winter/standard time.
      */
-    raw_offset?: number
+    raw_offset?: number;
     /**
      * "-/+" offset from UTC/GMT, in seconds, during summer/daylight saving time.
      */
-    dst_offset?: number
+    dst_offset?: number;
     /**
      * a boolean indicating whether this time zone observes daylight saving time.
      */
-    dst_correction?: boolean
-    date_format?: definitions['dateFormat']
-  }
-  count_Response: { count?: number }
+    dst_correction?: boolean;
+    date_format?: definitions["dateFormat"];
+  };
+  count_Response: { count?: number };
   dateFormat: {
     /**
      * string that defines dates’ display format, in the pattern: M jS Y
      */
-    display?: string
+    display?: string;
     /**
      * string that defines the CSV export format for orders, users, and products, in the pattern: M jS Y
      */
-    export?: string
+    export?: string;
     /**
      * string that defines dates’ extended-display format, in the pattern: M jS Y @ g:i A.
      */
-    extended_display?: string
-  }
-  blogTags: { tag?: string; post_ids?: number[] }[]
+    extended_display?: string;
+  };
+  blogTags: { tag?: string; post_ids?: number[] }[];
   blogPost_Base: {
     /**
      * Title of this blog post.
      */
-    title: string
+    title: string;
     /**
      * URL for the public blog post.
      */
-    url?: string
+    url?: string;
     /**
      * URL to preview the blog post. (READ-ONLY)
      */
-    preview_url?: string
+    preview_url?: string;
     /**
      * Text body of the blog post.
      */
-    body: string
+    body: string;
     /**
      * Tags to characterize the blog post.
      */
-    tags?: string[]
+    tags?: string[];
     /**
      * Summary of the blog post. (READ-ONLY)
      */
-    summary?: string
+    summary?: string;
     /**
      * Whether the blog post is published.
      */
-    is_published?: boolean
-    published_date?: definitions['publishedDate']
+    is_published?: boolean;
+    published_date?: definitions["publishedDate"];
     /**
      * Published date in `ISO 8601` format.
      */
-    published_date_iso8601?: string
+    published_date_iso8601?: string;
     /**
      * Description text for this blog post’s `<meta/>` element.
      */
-    meta_description?: string
+    meta_description?: string;
     /**
      * Keywords for this blog post’s `<meta/>` element.
      */
-    meta_keywords?: string
+    meta_keywords?: string;
     /**
      * Name of the blog post’s author.
      */
-    author?: string
+    author?: string;
     /**
      * Local path to a thumbnail uploaded to `product_images/` via [WebDav](https://support.bigcommerce.com/s/article/File-Access-WebDAV).
      */
-    thumbnail_path?: string
-  }
-  publishedDate: { timezone_type?: string; date?: string; timezone?: string }
+    thumbnail_path?: string;
+  };
+  publishedDate: { timezone_type?: string; date?: string; timezone?: string };
   /**
    * Not returned in any responses, but accepts up to two fields allowing you to set the user’s password. If a password is not supplied, it is generated automatically. For further information about using this object, please see the Users resource documentation.
    */
   authentication: {
-    force_reset?: string
-    password?: string
-    password_confirmation?: string
-  }
-  user_Base: { [key: string]: any }
+    force_reset?: string;
+    password?: string;
+    password_confirmation?: string;
+  };
+  user_Base: { [key: string]: any };
   page_Base: {
     /**
      * ID of any parent Web page.
      */
-    parent_id?: number
+    parent_id?: number;
     /**
      * `page`: free-text page
      * `link`: link to another web address
      * `rss_feed`: syndicated content from an RSS feed
      * `contact_form`: When the store's contact form is used.
      */
-    type: 'page' | 'rss_feed' | 'contact_form' | 'raw' | 'link'
+    type: "page" | "rss_feed" | "contact_form" | "raw" | "link";
     /**
      * Where the page’s type is a contact form: object whose members are the fields enabled (in the control panel) for storefront display. Possible members are:`fullname`: full name of the user submitting the form; `phone`: user’s phone number, as submitted on the form; `companyname`: user’s submitted company name; `orderno`: user’s submitted order number; `rma`: user’s submitted RMA (Return Merchandise Authorization) number.
      */
-    contact_fields?: string
+    contact_fields?: string;
     /**
      * Where the page’s type is a contact form: email address that receives messages sent via the form.
      */
-    email?: string
+    email?: string;
     /**
      * Page name, as displayed on the storefront.
      */
-    name: string
+    name: string;
     /**
      * Relative URL on the storefront for this page.
      */
-    url?: string
+    url?: string;
     /**
      * Description contained within this page’s `<meta/>` element.
      */
-    meta_description?: string
+    meta_description?: string;
     /**
      * HTML or variable that populates this page’s `<body>` element, in default/desktop view. Required in POST if page type is `raw`.
      */
-    body: string
+    body: string;
     /**
      * HTML to use for this page's body when viewed in the mobile template (deprecated).
      */
-    mobile_body?: string
+    mobile_body?: string;
     /**
      * If true, this page has a mobile version.
      */
-    has_mobile_version?: boolean
+    has_mobile_version?: boolean;
     /**
      * If true, this page appears in the storefront’s navigation menu.
      */
-    is_visible?: boolean
+    is_visible?: boolean;
     /**
      * If true, this page is the storefront’s home page.
      */
-    is_homepage?: boolean
+    is_homepage?: boolean;
     /**
      * Text specified for this page’s `<title>` element. (If empty, the value of the name property is used.)
      */
-    meta_title?: string
+    meta_title?: string;
     /**
      * Layout template for this page. This field is writable only for stores with a Blueprint theme applied.
      */
-    layout_file?: string
+    layout_file?: string;
     /**
      * Order in which this page should display on the storefront. (Lower integers specify earlier display.)
      */
-    sort_order?: number
+    sort_order?: number;
     /**
      * Comma-separated list of keywords that shoppers can use to locate this page when searching the store.
      */
-    search_keywords?: string
+    search_keywords?: string;
     /**
      * Comma-separated list of SEO-relevant keywords to include in the page’s `<meta/>` element.
      */
-    meta_keywords?: string
+    meta_keywords?: string;
     /**
      * If page type is `rss_feed` the n this field is visisble. Required in POST required for `rss page` type.
      */
-    feed: string
+    feed: string;
     /**
      * If page type is `link` this field is returned. Required in  POST to create a `link` page.
      */
-    link: string
-    content_type?: 'application/json' | 'text/javascript' | 'text/html'
-  }
+    link: string;
+    content_type?: "application/json" | "text/javascript" | "text/html";
+  };
 }

@@ -1,3 +1,3 @@
-import loginApi from '@framework/api/users/login'
+import loginApi from "@framework/api/users/login";
 
-export default loginApi()
+export default loginApi();

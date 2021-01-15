@@ -1,16 +1,16 @@
-import { useCallback } from 'react'
-import type { HookFetcher } from '@base/utils/types'
-import { BaseError } from '@base/utils/errors'
-import useCartAddItem from '@base/cart/use-add-item'
-import type { ItemBody, AddItemBody } from '../api/cart'
-import useCart, { Cart } from './use-cart'
+import { useCallback } from "react";
+import type { HookFetcher } from "@base/utils/types";
+import { BaseError } from "@base/utils/errors";
+import useCartAddItem from "@base/cart/use-add-item";
+import type { ItemBody, AddItemBody } from "../api/cart";
+import useCart, { Cart } from "./use-cart";
 
 const defaultOpts = {
-  url: '/api/main/cart',
-  method: 'POST',
-}
+  url: "/api/main/cart",
+  method: "POST",
+};
 
-export type AddItemInput = ItemBody
+export type AddItemInput = ItemBody;
 
 export const fetcher: HookFetcher<Cart, AddItemBody> = (
   options,
@@ -22,35 +22,35 @@ export const fetcher: HookFetcher<Cart, AddItemBody> = (
     (!Number.isInteger(item.quantity) || item.quantity! < 1)
   ) {
     throw new BaseError({
-      message: 'The item quantity has to be a valid integer greater than 0',
-    })
+      message: "The item quantity has to be a valid integer greater than 0",
+    });
   }
 
   return fetch({
     ...defaultOpts,
     ...options,
     body: { item },
-  })
-}
+  });
+};
 
 export function extendHook(customFetcher: typeof fetcher) {
   const useAddItem = () => {
-    const { mutate } = useCart()
-    const fn = useCartAddItem(defaultOpts, customFetcher)
+    const { mutate } = useCart();
+    const fn = useCartAddItem(defaultOpts, customFetcher);
 
     return useCallback(
       async function addItem(input: AddItemInput) {
-        const data = await fn({ item: input })
-        await mutate(data, false)
-        return data
+        const data = await fn({ item: input });
+        await mutate(data, false);
+        return data;
       },
       [fn, mutate]
-    )
-  }
+    );
+  };
 
-  useAddItem.extend = extendHook
+  useAddItem.extend = extendHook;
 
-  return useAddItem
+  return useAddItem;
 }
 
-export default extendHook(fetcher)
+export default extendHook(fetcher);

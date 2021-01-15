@@ -1,35 +1,33 @@
-import isAllowedMethod from './utils/is-allowed-method'
-import createApiHandler, {
-  MainApiHandler,
-} from './utils/create-api-handler'
-import { MainApiError } from './utils/errors'
+import isAllowedMethod from "./utils/is-allowed-method";
+import createApiHandler, { MainApiHandler } from "./utils/create-api-handler";
+import { MainApiError } from "./utils/errors";
 
-const METHODS = ['GET']
-const fullCheckout = true
+const METHODS = ["GET"];
+const fullCheckout = true;
 
 // TODO: a complete implementation should have schema validation for `req.body`
 const checkoutApi: MainApiHandler<any> = async (req, res, config) => {
-  if (!isAllowedMethod(req, res, METHODS)) return
+  if (!isAllowedMethod(req, res, METHODS)) return;
 
-  const { cookies } = req
-  const cartId = cookies[config.cartCookie]
+  const { cookies } = req;
+  const cartId = cookies[config.cartCookie];
 
   try {
     if (!cartId) {
-      res.redirect('/cart')
-      return
+      res.redirect("/cart");
+      return;
     }
 
     const { data } = await config.storeApiFetch(
       `/v3/carts/${cartId}/redirect_urls`,
       {
-        method: 'POST',
+        method: "POST",
       }
-    )
+    );
 
     if (fullCheckout) {
-      res.redirect(data.checkout_url)
-      return
+      res.redirect(data.checkout_url);
+      return;
     }
 
     // TODO: make the embedded checkout work too!
@@ -45,22 +43,22 @@ const checkoutApi: MainApiHandler<any> = async (req, res, config) => {
           <div id="checkout"></div>
         </body>
       </html>
-    `
+    `;
 
-    res.status(200)
-    res.setHeader('Content-Type', 'text/html')
-    res.write(html)
-    res.end()
+    res.status(200);
+    res.setHeader("Content-Type", "text/html");
+    res.write(html);
+    res.end();
   } catch (error) {
-    console.error(error)
+    console.error(error);
 
     const message =
       error instanceof MainApiError
-        ? 'An unexpected error ocurred with the Main API'
-        : 'An unexpected error ocurred'
+        ? "An unexpected error ocurred with the Main API"
+        : "An unexpected error ocurred";
 
-    res.status(500).json({ data: null, errors: [{ message }] })
+    res.status(500).json({ data: null, errors: [{ message }] });
   }
-}
+};
 
-export default createApiHandler(checkoutApi, {}, {})
+export default createApiHandler(checkoutApi, {}, {});

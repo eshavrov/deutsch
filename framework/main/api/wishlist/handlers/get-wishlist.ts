@@ -1,37 +1,36 @@
-import getUserId from '../../operations/get-user-id'
-import getUserWishlist from '../../operations/get-user-wishlist'
-import type { Wishlist, WishlistHandlers } from '..'
+import getUserId from "../../operations/get-user-id";
+import getUserWishlist from "../../operations/get-user-wishlist";
+import type { Wishlist, WishlistHandlers } from "..";
 
 // Return wishlist info
-const getWishlist: WishlistHandlers['getWishlist'] = async ({
+const getWishlist: WishlistHandlers["getWishlist"] = async ({
   res,
   body: { userToken, includeProducts },
   config,
 }) => {
-  let result: { data?: Wishlist } = {}
+  let result: { data?: Wishlist } = {};
 
   if (userToken) {
-    const userId =
-      userToken && (await getUserId({ userToken, config }))
+    const userId = userToken && (await getUserId({ userToken, config }));
 
     if (!userId) {
       // If the userToken is invalid, then this request is too
       return res.status(404).json({
         data: null,
-        errors: [{ message: 'Wishlist not found' }],
-      })
+        errors: [{ message: "Wishlist not found" }],
+      });
     }
 
     const { wishlist } = await getUserWishlist({
       variables: { userId },
       includeProducts,
       config,
-    })
+    });
 
-    result = { data: wishlist }
+    result = { data: wishlist };
   }
 
-  res.status(200).json({ data: result.data ?? null })
-}
+  res.status(200).json({ data: result.data ?? null });
+};
 
-export default getWishlist
+export default getWishlist;

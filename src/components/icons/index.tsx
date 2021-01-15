@@ -14,5 +14,4 @@ export { default as Moon } from "./Moon";
 export { default as Info } from "./Info";
 // export { default as ChevronUp } from './ChevronUp'
 // export { default as Vercel } from './Vercel'
-export { default as Result } from './Result'
-
+export { default as Result } from "./Result";

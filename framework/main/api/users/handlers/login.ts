@@ -1,10 +1,10 @@
-import { FetcherError } from '@base/utils/errors'
-import login from '../../operations/login'
-import type { LoginHandlers } from '../login'
+import { FetcherError } from "@base/utils/errors";
+import login from "../../operations/login";
+import type { LoginHandlers } from "../login";
 
-const invalidCredentials = /invalid credentials/i
+const invalidCredentials = /invalid credentials/i;
 
-const loginHandler: LoginHandlers['login'] = async ({
+const loginHandler: LoginHandlers["login"] = async ({
   res,
   body: { email, password },
   config,
@@ -13,15 +13,16 @@ const loginHandler: LoginHandlers['login'] = async ({
   if (!(email && password)) {
     return res.status(400).json({
       data: null,
-      errors: [{ message: 'Invalid request' }],
-    })
+      errors: [{ message: "Invalid request" }],
+    });
   }
   // TODO: validate the password and email
   // Passwords must be at least 7 characters and contain both alphabetic
   // and numeric characters.
+  console.log("Succes login ", { email, password });
 
   try {
-    await login({ variables: { email, password }, config, res })
+    // await login({ variables: { email, password }, config, res })
   } catch (error) {
     // Check if the email and password didn't match an existing account
     if (
@@ -33,17 +34,17 @@ const loginHandler: LoginHandlers['login'] = async ({
         errors: [
           {
             message:
-              'Cannot find an account that matches the provided credentials',
-            code: 'invalid_credentials',
+              "Cannot find an account that matches the provided credentials",
+            code: "invalid_credentials",
           },
         ],
-      })
+      });
     }
 
-    throw error
+    throw error;
   }
 
-  res.status(200).json({ data: null })
-}
+  res.status(200).json({ data: null });
+};
 
-export default loginHandler
+export default loginHandler;

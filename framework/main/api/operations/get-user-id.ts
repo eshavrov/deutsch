@@ -1,5 +1,5 @@
-import { GetUserIdQuery } from '../../schema'
-import { MainConfig, getConfig } from '..'
+import { GetUserIdQuery } from "../../schema";
+import { MainConfig, getConfig } from "..";
 
 export const getUserIdQuery = /* GraphQL */ `
   query getUserId {
@@ -7,16 +7,16 @@ export const getUserIdQuery = /* GraphQL */ `
       entityId
     }
   }
-`
+`;
 
 async function getUserId({
   userToken,
   config,
 }: {
-  userToken: string
-  config?: MainConfig
+  userToken: string;
+  config?: MainConfig;
 }): Promise<number | undefined> {
-  config = getConfig(config)
+  config = getConfig(config);
 
   const { data } = await config.fetch<GetUserIdQuery>(
     getUserIdQuery,
@@ -26,9 +26,9 @@ async function getUserId({
         cookie: `${config.userCookie}=${userToken}`,
       },
     }
-  )
+  );
 
-  return data?.user?.entityId
+  return data?.user?.entityId;
 }
 
-export default getUserId
+export default getUserId;

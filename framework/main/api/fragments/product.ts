@@ -13,14 +13,14 @@ export const productPrices = /* GraphQL */ `
       currencyCode
     }
   }
-`
+`;
 
 export const swatchOptionFragment = /* GraphQL */ `
   fragment swatchOption on SwatchOptionValue {
     isDefault
     hexColors
   }
-`
+`;
 
 export const multipleChoiceOptionFragment = /* GraphQL */ `
   fragment multipleChoiceOption on MultipleChoiceOption {
@@ -35,7 +35,7 @@ export const multipleChoiceOptionFragment = /* GraphQL */ `
   }
 
   ${swatchOptionFragment}
-`
+`;
 
 export const productInfoFragment = /* GraphQL */ `
   fragment productInfo on Product {
@@ -93,7 +93,7 @@ export const productInfoFragment = /* GraphQL */ `
 
   ${productPrices}
   ${multipleChoiceOptionFragment}
-`
+`;
 
 export const productConnectionFragment = /* GraphQL */ `
   fragment productConnnection on ProductConnection {
@@ -110,4 +110,4 @@ export const productConnectionFragment = /* GraphQL */ `
   }
 
   ${productInfoFragment}
-`
+`;

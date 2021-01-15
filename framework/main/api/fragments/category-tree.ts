@@ -6,4 +6,4 @@ export const categoryTreeItemFragment = /* GraphQL */ `
     description
     productCount
   }
-`
+`;

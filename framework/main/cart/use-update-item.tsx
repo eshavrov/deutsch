@@ -1,18 +1,18 @@
-import { useCallback } from 'react'
-import debounce from 'lodash.debounce'
-import type { HookFetcher } from '@base/utils/types'
-import { BaseError } from '@base/utils/errors'
-import useCartUpdateItem from '@base/cart/use-update-item'
-import type { ItemBody, UpdateItemBody } from '../api/cart'
-import { fetcher as removeFetcher } from './use-remove-item'
-import useCart, { Cart } from './use-cart'
+import { useCallback } from "react";
+import debounce from "lodash.debounce";
+import type { HookFetcher } from "@base/utils/types";
+import { BaseError } from "@base/utils/errors";
+import useCartUpdateItem from "@base/cart/use-update-item";
+import type { ItemBody, UpdateItemBody } from "../api/cart";
+import { fetcher as removeFetcher } from "./use-remove-item";
+import useCart, { Cart } from "./use-cart";
 
 const defaultOpts = {
-  url: '/api/main/cart',
-  method: 'PUT',
-}
+  url: "/api/main/cart",
+  method: "PUT",
+};
 
-export type UpdateItemInput = Partial<{ id: string } & ItemBody>
+export type UpdateItemInput = Partial<{ id: string } & ItemBody>;
 
 export const fetcher: HookFetcher<Cart | null, UpdateItemBody> = (
   options,
@@ -22,28 +22,28 @@ export const fetcher: HookFetcher<Cart | null, UpdateItemBody> = (
   if (Number.isInteger(item.quantity)) {
     // Also allow the update hook to remove an item if the quantity is lower than 1
     if (item.quantity! < 1) {
-      return removeFetcher(null, { itemId }, fetch)
+      return removeFetcher(null, { itemId }, fetch);
     }
   } else if (item.quantity) {
     throw new BaseError({
-      message: 'The item quantity has to be a valid integer',
-    })
+      message: "The item quantity has to be a valid integer",
+    });
   }
 
   return fetch({
     ...defaultOpts,
     ...options,
     body: { itemId, item },
-  })
-}
+  });
+};
 
 function extendHook(customFetcher: typeof fetcher, cfg?: { wait?: number }) {
   const useUpdateItem = (item?: any) => {
-    const { mutate } = useCart()
+    const { mutate } = useCart();
     const fn = useCartUpdateItem<Cart | null, UpdateItemBody>(
       defaultOpts,
       customFetcher
-    )
+    );
 
     return useCallback(
       debounce(async (input: UpdateItemInput) => {
@@ -54,17 +54,17 @@ function extendHook(customFetcher: typeof fetcher, cfg?: { wait?: number }) {
             variantId: input.productId ?? item?.variant_id,
             quantity: input.quantity,
           },
-        })
-        await mutate(data, false)
-        return data
+        });
+        await mutate(data, false);
+        return data;
       }, cfg?.wait ?? 500),
       [fn, mutate]
-    )
-  }
+    );
+  };
 
-  useUpdateItem.extend = extendHook
+  useUpdateItem.extend = extendHook;
 
-  return useUpdateItem
+  return useUpdateItem;
 }
 
-export default extendHook(fetcher)
+export default extendHook(fetcher);

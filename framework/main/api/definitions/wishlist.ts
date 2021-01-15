@@ -8,15 +8,15 @@ export interface definitions {
     /**
      * The user id.
      */
-    user_id: number
+    user_id: number;
     /**
      * Whether the wishlist is available to the public.
      */
-    is_public?: boolean
+    is_public?: boolean;
     /**
      * The title of the wishlist.
      */
-    name?: string
+    name?: string;
     /**
      * Array of Wishlist items.
      */
@@ -24,26 +24,26 @@ export interface definitions {
       /**
        * The ID of the product.
        */
-      product_id?: number
+      product_id?: number;
       /**
        * The variant ID of the product.
        */
-      variant_id?: number
-    }[]
-  }
+      variant_id?: number;
+    }[];
+  };
   wishlist_Put: {
     /**
      * The user id.
      */
-    user_id: number
+    user_id: number;
     /**
      * Whether the wishlist is available to the public.
      */
-    is_public?: boolean
+    is_public?: boolean;
     /**
      * The title of the wishlist.
      */
-    name?: string
+    name?: string;
     /**
      * Array of Wishlist items.
      */
@@ -51,67 +51,67 @@ export interface definitions {
       /**
        * The ID of the item
        */
-      id?: number
+      id?: number;
       /**
        * The ID of the product.
        */
-      product_id?: number
+      product_id?: number;
       /**
        * The variant ID of the item.
        */
-      variant_id?: number
-    }[]
-  }
+      variant_id?: number;
+    }[];
+  };
   wishlist_Full: {
     /**
      * Wishlist ID, provided after creating a wishlist with a POST.
      */
-    id?: number
+    id?: number;
     /**
      * The ID the user to which the wishlist belongs.
      */
-    user_id?: number
+    user_id?: number;
     /**
      * The Wishlist's name.
      */
-    name?: string
+    name?: string;
     /**
      * Whether the Wishlist is available to the public.
      */
-    is_public?: boolean
+    is_public?: boolean;
     /**
      * The token of the Wishlist. This is created internally within Main. The Wishlist ID is to be used for external apps. Read-Only
      */
-    token?: string
+    token?: string;
     /**
      * Array of Wishlist items
      */
-    items?: definitions['wishlistItem_Full'][]
-  }
+    items?: definitions["wishlistItem_Full"][];
+  };
   wishlistItem_Full: {
     /**
      * The ID of the item
      */
-    id?: number
+    id?: number;
     /**
      * The ID of the product.
      */
-    product_id?: number
+    product_id?: number;
     /**
      * The variant ID of the item.
      */
-    variant_id?: number
-  }
+    variant_id?: number;
+  };
   wishlistItem_Post: {
     /**
      * The ID of the product.
      */
-    product_id?: number
+    product_id?: number;
     /**
      * The variant ID of the product.
      */
-    variant_id?: number
-  }
+    variant_id?: number;
+  };
   /**
    * Data about the response, including pagination and collection totals.
    */
@@ -119,24 +119,24 @@ export interface definitions {
     /**
      * Total number of items in the result set.
      */
-    total?: number
+    total?: number;
     /**
      * Total number of items in the collection response.
      */
-    count?: number
+    count?: number;
     /**
      * The amount of items returned in the collection per page, controlled by the limit parameter.
      */
-    per_page?: number
+    per_page?: number;
     /**
      * The page you are currently on within the collection.
      */
-    current_page?: number
+    current_page?: number;
     /**
      * The total number of pages in the collection.
      */
-    total_pages?: number
-  }
-  error: { status?: number; title?: string; type?: string }
-  metaCollection: { pagination?: definitions['pagination'] }
+    total_pages?: number;
+  };
+  error: { status?: number; title?: string; type?: string };
+  metaCollection: { pagination?: definitions["pagination"] };
 }

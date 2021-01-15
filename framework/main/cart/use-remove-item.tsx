@@ -1,17 +1,17 @@
-import { useCallback } from 'react'
-import { HookFetcher } from '@base/utils/types'
-import useCartRemoveItem from '@base/cart/use-remove-item'
-import type { RemoveItemBody } from '../api/cart'
-import useCart, { Cart } from './use-cart'
+import { useCallback } from "react";
+import { HookFetcher } from "@base/utils/types";
+import useCartRemoveItem from "@base/cart/use-remove-item";
+import type { RemoveItemBody } from "../api/cart";
+import useCart, { Cart } from "./use-cart";
 
 const defaultOpts = {
-  url: '/api/main/cart',
-  method: 'DELETE',
-}
+  url: "/api/main/cart",
+  method: "DELETE",
+};
 
 export type RemoveItemInput = {
-  id: string
-}
+  id: string;
+};
 
 export const fetcher: HookFetcher<Cart | null, RemoveItemBody> = (
   options,
@@ -22,30 +22,30 @@ export const fetcher: HookFetcher<Cart | null, RemoveItemBody> = (
     ...defaultOpts,
     ...options,
     body: { itemId },
-  })
-}
+  });
+};
 
 export function extendHook(customFetcher: typeof fetcher) {
   const useRemoveItem = (item?: any) => {
-    const { mutate } = useCart()
+    const { mutate } = useCart();
     const fn = useCartRemoveItem<Cart | null, RemoveItemBody>(
       defaultOpts,
       customFetcher
-    )
+    );
 
     return useCallback(
       async function removeItem(input: RemoveItemInput) {
-        const data = await fn({ itemId: input.id ?? item?.id })
-        await mutate(data, false)
-        return data
+        const data = await fn({ itemId: input.id ?? item?.id });
+        await mutate(data, false);
+        return data;
       },
       [fn, mutate]
-    )
-  }
+    );
+  };
 
-  useRemoveItem.extend = extendHook
+  useRemoveItem.extend = extendHook;
 
-  return useRemoveItem
+  return useRemoveItem;
 }
 
-export default extendHook(fetcher)
+export default extendHook(fetcher);

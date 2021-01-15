@@ -1,16 +1,16 @@
 import createApiHandler, {
   MainApiHandler,
   MainHandler,
-} from '../utils/create-api-handler'
-import isAllowedMethod from '../utils/is-allowed-method'
-import { MainApiError } from '../utils/errors'
-import logout from './handlers/logout'
+} from "../utils/create-api-handler";
+import isAllowedMethod from "../utils/is-allowed-method";
+import { MainApiError } from "../utils/errors";
+import logout from "./handlers/logout";
 
 export type LogoutHandlers = {
-  logout: MainHandler<null, { redirectTo?: string }>
-}
+  logout: MainHandler<null, { redirectTo?: string }>;
+};
 
-const METHODS = ['GET']
+const METHODS = ["GET"];
 
 const logoutApi: MainApiHandler<null, LogoutHandlers> = async (
   req,
@@ -18,25 +18,25 @@ const logoutApi: MainApiHandler<null, LogoutHandlers> = async (
   config,
   handlers
 ) => {
-  if (!isAllowedMethod(req, res, METHODS)) return
+  if (!isAllowedMethod(req, res, METHODS)) return;
 
   try {
-    const redirectTo = req.query.redirect_to
-    const body = typeof redirectTo === 'string' ? { redirectTo } : {}
+    const redirectTo = req.query.redirect_to;
+    const body = typeof redirectTo === "string" ? { redirectTo } : {};
 
-    return await handlers['logout']({ req, res, config, body })
+    return await handlers["logout"]({ req, res, config, body });
   } catch (error) {
-    console.error(error)
+    console.error(error);
 
     const message =
       error instanceof MainApiError
-        ? 'An unexpected error ocurred with the API'
-        : 'An unexpected error ocurred'
+        ? "An unexpected error ocurred with the API"
+        : "An unexpected error ocurred";
 
-    res.status(500).json({ data: null, errors: [{ message }] })
+    res.status(500).json({ data: null, errors: [{ message }] });
   }
-}
+};
 
-const handlers = { logout }
+const handlers = { logout };
 
-export default createApiHandler(logoutApi, handlers, {})
+export default createApiHandler(logoutApi, handlers, {});

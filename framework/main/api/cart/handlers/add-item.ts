@@ -1,9 +1,9 @@
-import { parseCartItem } from '../../utils/parse-item'
-import getCartCookie from '../../utils/get-cart-cookie'
-import type { CartHandlers } from '..'
+import { parseCartItem } from "../../utils/parse-item";
+import getCartCookie from "../../utils/get-cart-cookie";
+import type { CartHandlers } from "..";
 
 // Return current cart info
-const addItem: CartHandlers['addItem'] = async ({
+const addItem: CartHandlers["addItem"] = async ({
   res,
   body: { cartId, item },
   config,
@@ -11,30 +11,30 @@ const addItem: CartHandlers['addItem'] = async ({
   if (!item) {
     return res.status(400).json({
       data: null,
-      errors: [{ message: 'Missing item' }],
-    })
+      errors: [{ message: "Missing item" }],
+    });
   }
-  if (!item.quantity) item.quantity = 1
+  if (!item.quantity) item.quantity = 1;
 
   const options = {
-    method: 'POST',
+    method: "POST",
     body: JSON.stringify({
       line_items: [parseCartItem(item)],
       ...(!cartId && config.storeChannelId
         ? { channel_id: config.storeChannelId }
         : {}),
     }),
-  }
+  };
   const { data } = cartId
     ? await config.storeApiFetch(`/v3/carts/${cartId}/items`, options)
-    : await config.storeApiFetch('/v3/carts', options)
+    : await config.storeApiFetch("/v3/carts", options);
 
   // Create or update the cart cookie
   res.setHeader(
-    'Set-Cookie',
+    "Set-Cookie",
     getCartCookie(config.cartCookie, data.id, config.cartCookieMaxAge)
-  )
-  res.status(200).json({ data })
-}
+  );
+  res.status(200).json({ data });
+};
 
-export default addItem
+export default addItem;

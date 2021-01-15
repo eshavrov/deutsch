@@ -1,5 +1,5 @@
-import type { GetLoggedInUserQuery } from '../../../schema'
-import type { UsersHandlers } from '..'
+import type { GetLoggedInUserQuery } from "../../../schema";
+import type { UsersHandlers } from "..";
 
 export const getLoggedInUserQuery = /* GraphQL */ `
   query getLoggedInUser {
@@ -20,16 +20,16 @@ export const getLoggedInUserQuery = /* GraphQL */ `
       }
     }
   }
-`
+`;
 
-export type User = NonNullable<GetLoggedInUserQuery['user']>
+export type User = NonNullable<GetLoggedInUserQuery["user"]>;
 
-const getLoggedInUser: UsersHandlers['getLoggedInUser'] = async ({
+const getLoggedInUser: UsersHandlers["getLoggedInUser"] = async ({
   req,
   res,
   config,
 }) => {
-  const token = req.cookies[config.userCookie]
+  const token = req.cookies[config.userCookie];
 
   if (token) {
     const { data } = await config.fetch<GetLoggedInUserQuery>(
@@ -40,20 +40,20 @@ const getLoggedInUser: UsersHandlers['getLoggedInUser'] = async ({
           cookie: `${config.userCookie}=${token}`,
         },
       }
-    )
-    const { user } = data
+    );
+    const { user } = data;
 
     if (!user) {
       return res.status(400).json({
         data: null,
-        errors: [{ message: 'User not found', code: 'not_found' }],
-      })
+        errors: [{ message: "User not found", code: "not_found" }],
+      });
     }
 
-    return res.status(200).json({ data: { user } })
+    return res.status(200).json({ data: { user } });
   }
 
-  res.status(200).json({ data: null })
-}
+  res.status(200).json({ data: null });
+};
 
-export default getLoggedInUser
+export default getLoggedInUser;

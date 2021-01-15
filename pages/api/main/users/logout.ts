@@ -1,3 +1,3 @@
-import logoutApi from '@framework/api/users/logout'
+import logoutApi from "@framework/api/users/logout";
 
-export default logoutApi()
+export default logoutApi();

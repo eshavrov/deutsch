@@ -1,7 +1,7 @@
-import type { GetProductQuery, GetProductQueryVariables } from '../../schema'
-import setProductLocaleMeta from '../utils/set-product-locale-meta'
-import { productInfoFragment } from '../fragments/product'
-import { MainConfig, getConfig } from '..'
+import type { GetProductQuery, GetProductQueryVariables } from "../../schema";
+import setProductLocaleMeta from "../utils/set-product-locale-meta";
+import { productInfoFragment } from "../fragments/product";
+import { MainConfig, getConfig } from "..";
 
 export const getProductQuery = /* GraphQL */ `
   query getProduct(
@@ -54,65 +54,65 @@ export const getProductQuery = /* GraphQL */ `
   }
 
   ${productInfoFragment}
-`
+`;
 
 export type ProductNode = Extract<
-  GetProductQuery['site']['route']['node'],
-  { __typename: 'Product' }
->
+  GetProductQuery["site"]["route"]["node"],
+  { __typename: "Product" }
+>;
 
 export type GetProductResult<
   T extends { product?: any } = { product?: ProductNode }
-> = T
+> = T;
 
 export type ProductVariables = { locale?: string } & (
   | { path: string; slug?: never }
   | { path?: never; slug: string }
-)
+);
 
 async function getProduct(opts: {
-  variables: ProductVariables
-  config?: MainConfig
-  preview?: boolean
-}): Promise<GetProductResult>
+  variables: ProductVariables;
+  config?: MainConfig;
+  preview?: boolean;
+}): Promise<GetProductResult>;
 
 async function getProduct<T extends { product?: any }, V = any>(opts: {
-  query: string
-  variables: V
-  config?: MainConfig
-  preview?: boolean
-}): Promise<GetProductResult<T>>
+  query: string;
+  variables: V;
+  config?: MainConfig;
+  preview?: boolean;
+}): Promise<GetProductResult<T>>;
 
 async function getProduct({
   query = getProductQuery,
   variables: { slug, ...vars },
   config,
 }: {
-  query?: string
-  variables: ProductVariables
-  config?: MainConfig
-  preview?: boolean
+  query?: string;
+  variables: ProductVariables;
+  config?: MainConfig;
+  preview?: boolean;
 }): Promise<GetProductResult> {
-  config = getConfig(config)
+  config = getConfig(config);
 
-  const locale = vars.locale || config.locale
+  const locale = vars.locale || config.locale;
   const variables: GetProductQueryVariables = {
     ...vars,
     locale,
     hasLocale: !!locale,
     path: slug ? `/${slug}/` : vars.path!,
-  }
-  const { data } = await config.fetch<GetProductQuery>(query, { variables })
-  const product = data.site?.route?.node
+  };
+  const { data } = await config.fetch<GetProductQuery>(query, { variables });
+  const product = data.site?.route?.node;
 
-  if (product?.__typename === 'Product') {
+  if (product?.__typename === "Product") {
     if (locale && config.applyLocale) {
-      setProductLocaleMeta(product)
+      setProductLocaleMeta(product);
     }
-    return { product }
+    return { product };
   }
 
-  return {}
+  return {};
 }
 
-export default getProduct
+export default getProduct;
