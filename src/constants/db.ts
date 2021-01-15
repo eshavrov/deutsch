@@ -14,15 +14,16 @@ const projection = ([phrase, translation], index) => {
 
 const getDictonary = ({ count = 100, languages }) => {
   const [lang] = languages;
-  console.log(verbs);
-  return verbs
-    .slice(0, 300)
-    //.sort((a) => Math.random() - 0.5)
-    .slice(0, count)
-    .map(projection)
-    .reduce((acc, entry) => {
-      return { ...acc, [entry.id]: entry };
-    }, {});
+  return (
+    verbs
+      .slice(0, 300)
+      //.sort((a) => Math.random() - 0.5)
+      .slice(0, count)
+      .map(projection)
+      .reduce((acc, entry) => {
+        return { ...acc, [entry.id]: entry };
+      }, {})
+  );
 
   const dictIndxs = getVariants(verbs, count);
   let dict = dictIndxs.map((i) => verbs[i]);

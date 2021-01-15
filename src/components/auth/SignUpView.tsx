@@ -35,7 +35,6 @@ const SignUpView: React.FC<Props> = () => {
     try {
       setLoading(true);
       setMessage("");
-      console.log("___", signup);
       await signup({
         email,
         firstName,

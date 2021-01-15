@@ -106,19 +106,15 @@ const WordVariants = (props) => {
   );
 
   const onSpeackStart = React.useCallback(() => {
-    console.log("on speak start", msgRef.current);
-
     if (!msgRef.current) return;
 
     msgRef.current.voice = voices[Math.round(Math.random())];
     msgRef.current.lang = lang;
-    console.log("on speak start", msgRef.current);
 
     window.speechSynthesis.speak(msgRef.current);
   }, [voices, lang]);
 
   const onSpeack = React.useCallback(() => {
-    console.log("on speak", msgRef.current);
     if (!msgRef.current) return;
 
     voices.forEach((voice, i) => {
@@ -126,8 +122,6 @@ const WordVariants = (props) => {
         msgRef.current.voice = voice;
         msgRef.current.lang = lang;
         window.speechSynthesis.speak(msgRef.current);
-        console.log("on speak", msgRef.current);
-
       }, i * 1000);
     });
 
