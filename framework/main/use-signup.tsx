@@ -14,20 +14,20 @@ export type SignupInput = SignupBody;
 
 export const fetcher: HookFetcher<null, SignupBody> = (
   options,
-  { firstName, lastName, email, password },
+  { loginName, firstName, lastName, email, password },
   fetch
 ) => {
-  if (!(firstName && lastName && email && password)) {
+  if (!(loginName && email && password)) {
     throw new BaseError({
       message:
-        "Для регистрации необходимы имя, фамилия, адрес электронной почты и пароль",
+        "Для регистрации необходимы логин, адрес электронной почты и пароль",
     });
   }
 
   return fetch({
     ...defaultOpts,
     ...options,
-    body: { firstName, lastName, email, password },
+    body: { loginName, firstName, lastName, email, password },
   });
 };
 

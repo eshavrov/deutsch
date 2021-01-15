@@ -7,6 +7,7 @@ import { MainApiError } from "../utils/errors";
 import signup from "./handlers/signup";
 
 export type SignupBody = {
+  loginName: string;
   firstName: string;
   lastName: string;
   email: string;

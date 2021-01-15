@@ -14,8 +14,9 @@ const SignUpView: React.FC<Props> = () => {
   // Form State
   const [email, setEmail] = React.useState("");
   const [password, setPassword] = React.useState("");
-  const [firstName, setFirstName] = React.useState("");
-  const [lastName, setLastName] = React.useState("");
+  // const [firstName, setFirstName] = React.useState("");
+  // const [lastName, setLastName] = React.useState("");
+  const [loginName, setLoginName] = React.useState("");
   const [loading, setLoading] = React.useState(false);
   const [message, setMessage] = React.useState("");
   const [dirty, setDirty] = React.useState(false);
@@ -37,8 +38,9 @@ const SignUpView: React.FC<Props> = () => {
       setMessage("");
       await signup({
         email,
-        firstName,
-        lastName,
+        loginName,
+        firstName: "",
+        lastName: "",
         password,
       });
       setLoading(false);
@@ -76,8 +78,9 @@ const SignUpView: React.FC<Props> = () => {
         {message && (
           <div className="text-red border border-red p-3">{message}</div>
         )}
-        <Input placeholder="Имя" onChange={setFirstName} />
-        <Input placeholder="Фамилия" onChange={setLastName} />
+        {/* <Input placeholder="Имя" onChange={setFirstName} />
+        <Input placeholder="Фамилия" onChange={setLastName} /> */}
+        <Input placeholder="Логин" onChange={setLoginName} /> 
         <Input type="email" placeholder="Email" onChange={setEmail} />
         <Input type="password" placeholder="Пароль" onChange={setPassword} />
         <span className={s["achtung-wrapper"]}>

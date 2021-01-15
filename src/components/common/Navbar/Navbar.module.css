@@ -46,19 +46,6 @@
   margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
-@media (min-width: 768px) {
-  .wrapper {
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
-  }
-}
-
-@media (min-width: 1024px) {
-  .search-nav {
-    display: block;
-  }
-}
-
 .link {
   display: inline-flex;
   align-items: center;
@@ -92,4 +79,17 @@
 .logo:hover {
   /* @apply shadow-md; */
   transform: scale(1.25);
+}
+
+@media (min-width: 768px) {
+  .wrapper {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .search-nav {
+    display: block;
+  }
 }

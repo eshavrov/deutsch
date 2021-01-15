@@ -5,6 +5,7 @@ export const getLoggedInUserQuery = /* GraphQL */ `
   query getLoggedInUser {
     user {
       entityId
+      loginName
       firstName
       lastName
       email

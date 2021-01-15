@@ -4,18 +4,24 @@ import { SignupHandlers } from "../signup";
 
 const signup: SignupHandlers["signup"] = async ({
   res,
-  body: { firstName, lastName, email, password },
+  body: { loginName, firstName, lastName, email, password },
   config,
 }) => {
   // TODO: Add proper validations with something like Ajv
-  if (!(firstName && lastName && email && password)) {
+  if (!(loginName && email && password)) {
     return res.status(400).json({
       data: null,
       errors: [{ message: "Invalid request" }],
     });
   }
 
-  console.log("Succes signup", { firstName, lastName, email, password });
+  console.log("Succes signup", {
+    loginName,
+    firstName,
+    lastName,
+    email,
+    password,
+  });
   // TODO: validate the password and email
   // Passwords must be at least 7 characters and contain both alphabetic
   // and numeric characters.

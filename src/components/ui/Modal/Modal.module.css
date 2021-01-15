@@ -50,3 +50,17 @@
   width: 1.5rem;
   height: 1.5rem;
 }
+
+@media (max-width: 600px) {
+  .modal {
+    width: 100%;
+    min-height: 100%;
+    padding: 1rem;
+    padding-top: 3rem;
+  }
+
+  .modal > div {
+    max-width: 20rem;
+    margin: 0 auto;
+  }
+}

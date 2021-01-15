@@ -361,6 +361,8 @@ export type User = {
   userGroupId: Scalars["Int"];
   /** The email address of the user. */
   email: Scalars["String"];
+  /** The login name of the user. */
+  loginName: Scalars["String"];
   /** The first name of the user. */
   firstName: Scalars["String"];
   /** The last name of the user. */
@@ -1660,6 +1662,7 @@ export type GetLoggedInUserQuery = { __typename?: "Query" } & {
     { __typename?: "User" } & Pick<
       User,
       | "entityId"
+      | "loginName"
       | "firstName"
       | "lastName"
       | "email"
