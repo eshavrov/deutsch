@@ -16,7 +16,7 @@ const useVoices = ({ nativeLanguage, lang, langOrigin }) => {
   React.useEffect(() => {
     const synth = window.speechSynthesis;
 
-    if (synth) {
+    if (synth && synth.hasOwnProperty("addEventListener")) {
       const _voicesChangedCallback = () => {
         const _voices = synth.getVoices();
 
