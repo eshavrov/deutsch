@@ -22,10 +22,10 @@
       "hooks/*": ["src/hooks/*"],
       "lib/*": ["lib/*"],
       "config/*": ["config/*"],
-      "@commerce/*": ["framework/commerce/*"],
-      "@commerce": ["framework/commerce"],
-      "@framework/*": ["framework/bigcommerce/*"],
-      "@framework": ["framework/bigcommerce"]
+      "@base/*": ["framework/base/*"],
+      "@base": ["framework/base"],
+      "@framework/*": ["framework/main/*"],
+      "@framework": ["framework/main"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],

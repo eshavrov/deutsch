@@ -50,7 +50,6 @@ const I18nWidget: React.FC = () => {
 
   const options = locales?.filter((val) => val !== locale);
   const currentLocale = locale || defaultLocale;
-  console.log(options);
 
   return (
     <ClickOutside active={display} onClick={() => setDisplay(false)}>

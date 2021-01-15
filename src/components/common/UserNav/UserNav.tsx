@@ -4,7 +4,7 @@ import cn from "classnames";
 import { useTheme } from "next-themes";
 
 import useCart from "@framework/cart/use-cart";
-import useCustomer from "@framework/use-customer";
+import useUser from "@framework/use-user";
 import { Result, Moon, Sun } from "components/icons";
 import { useUI } from "components/ui/context";
 import DropdownMenu from "./DropdownMenu";
@@ -20,8 +20,10 @@ const countItems = (count: number, items: any[]) =>
   items.reduce(countItem, count);
 
 const UserNav: FC<Props> = ({ className, children, ...props }) => {
-  const { data } = useCart();
-  const { data: customer } = useCustomer();
+  // const { data } = useCart();
+  const data = null;
+  const { data: user } = useUser();
+  // const user = null;
   const { toggleSidebar, closeSidebarIfPresent, openModal } = useUI();
   const itemsCount = Object.values(data?.line_items ?? {}).reduce(
     countItems,
@@ -58,7 +60,7 @@ const UserNav: FC<Props> = ({ className, children, ...props }) => {
             </Link>
           </li>
           <li className={s.item}>
-            {customer ? (
+            {user ? (
               <DropdownMenu />
             ) : (
               <button

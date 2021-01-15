@@ -23,6 +23,7 @@ const tgtrimm = (str) =>
     .replace(/[^a-zA-ZА-Яа-яЁё]/gi, "")
     .toLowerCase()
     .trim();
+
 const INTERVAL = 5000;
 
 const SpeechRecognitionList = (props) => {

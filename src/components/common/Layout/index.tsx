@@ -9,7 +9,7 @@ import { Sidebar, Button, Modal, LoadingDots } from "components/ui";
 // import { CartSidebarView } from "components/cart";
 
 import LoginView from "components/auth/LoginView";
-import { CommerceProvider } from "@framework";
+import { BaseProvider } from "@framework";
 
 import s from "./Layout.module.css";
 
@@ -59,7 +59,7 @@ const Layout: FC<Props> = ({ children, pageProps }) => {
 
   return (
     //@ts-ignore
-    <CommerceProvider config={config}>
+    <BaseProvider config={config}>
       <div className={cn(s.root)}>
         <Navbar />
         <main className="fit">{children}</main>
@@ -85,7 +85,7 @@ const Layout: FC<Props> = ({ children, pageProps }) => {
         }
       /> */}
       </div>
-    </CommerceProvider>
+    </BaseProvider>
   );
 };
 
