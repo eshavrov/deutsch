@@ -6,6 +6,8 @@ import SpeechRecognition, { useSpeechRecognition } from "utils/speech";
 import useSound from "utils/sound";
 
 import { useVoices } from "hooks/useVoices";
+import { useWordStat, EVENT_STATUS } from "hooks/useWordStat";
+
 import { LANGUAGE, LANGUAGE_REGION } from "constants/index";
 import { Button } from "components/ui";
 
@@ -58,6 +60,7 @@ const SpeechRecognitionList = (props) => {
     lang,
     langOrigin,
   });
+  const [wordStat, setWordStat] = useWordStat(dict[indexLine % dict.length]);
 
   const onSpeack = React.useCallback(() => {
     window.speechSynthesis;
@@ -124,6 +127,10 @@ const SpeechRecognitionList = (props) => {
     const timeSpan = Date.now() - timer;
 
     if (listening && timeSpan > INTERVAL && timer !== 0) {
+      if (!!transcript) {
+        setWordStat(EVENT_STATUS.SPEECH_RECOGNITION_LIST_OPPS);
+      }
+
       setMood(-1);
       toggleSignal((state) => !state);
 
@@ -138,7 +145,7 @@ const SpeechRecognitionList = (props) => {
       const value = dict[_indexLine].translation;
 
       const isGood = value
-        .split(",")
+        .split(";")
         .map(tgtrimm)
         .reduce(
           (acc, word) => acc || tgtrimm(transcript).includes(word),
@@ -146,6 +153,8 @@ const SpeechRecognitionList = (props) => {
         );
 
       if (isGood) {
+        setWordStat(EVENT_STATUS.SPEECH_RECOGNITION_LIST_GOOD);
+
         setMood(1);
         toggleSignal((state) => !state);
 

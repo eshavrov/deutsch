@@ -3,6 +3,7 @@ import { useSpring, animated as a } from "react-spring";
 
 import SpeechRecognition, { useSpeechRecognition } from "utils/speech";
 import useSound from "utils/sound";
+import { useWordStat, EVENT_STATUS } from "hooks/useWordStat";
 
 // @ts-ignore
 import sfxErrorSound1 from "../../../static/sfx/0.mp3";
@@ -22,7 +23,7 @@ import { animatedContainerStyle, animatendCardStyle } from "./animated";
 
 const WordVariants = (props) => {
   const {
-    dict = [],
+    dict = {},
     word: initialWord,
     variants: initialVariants = [],
     languages: [lang, langOrigin],
@@ -58,8 +59,15 @@ const WordVariants = (props) => {
   const [playErrorSound2] = useSound(sfxErrorSound2, { volume: 0.75 });
   const [playSoundOfSuccess] = useSound(sfxSoundOfSuccess, { volume: 0.75 });
 
+  const [wordStat, setWordStat] = useWordStat(word);
+
   const isGood = React.useMemo(() => {
-    return transcript.toUpperCase() === word.phrase.toUpperCase();
+    const _isGood = transcript.toUpperCase() === word.phrase.toUpperCase();
+    if (_isGood) {
+      setWordStat(EVENT_STATUS.WORDS_SPEECH_GOOD, { word });
+    }
+
+    return _isGood;
   }, [transcript, word]);
 
   React.useEffect(() => {
@@ -147,10 +155,12 @@ const WordVariants = (props) => {
       toggleSignal((state) => !state);
 
       if (word.id === +id) {
+        setWordStat(EVENT_STATUS.WORDS_GOOD, { word });
         setMood(1);
         onSpeack();
         setTimeout(onNext, 5000);
       } else {
+        setWordStat(EVENT_STATUS.WORDS_OPPS, { word, w2: dict[id] });
         setBtnStatus((state) => ({ ...state, [id]: !state[id] }));
         setTryIndex((count) => count + 1);
         setMood(-1);
@@ -162,7 +172,7 @@ const WordVariants = (props) => {
         }
       }
     },
-    [word, tryIndex, playErrorSound1, playErrorSound2]
+    [word, wordStat, tryIndex, playErrorSound1, playErrorSound2, dict]
   );
 
   const onNext = React.useCallback(() => {

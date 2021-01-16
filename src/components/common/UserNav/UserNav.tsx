@@ -3,7 +3,7 @@ import Link from "next/link";
 import cn from "classnames";
 import { useTheme } from "next-themes";
 
-import useCart from "@framework/cart/use-cart";
+// import useCart from "@framework/cart/use-cart";
 import useUser from "@framework/use-user";
 import { Result, Moon, Sun } from "components/icons";
 import { useUI } from "components/ui/context";

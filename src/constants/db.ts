@@ -1,5 +1,7 @@
 // import { words200 as verbs } from "./verbs";
-import { list as verbs } from "./a1/a1.1-l1";
+// import { list as verbs } from "./a1/a1.1-l1";
+import { verbs } from "./verbs";
+
 
 import { LANGUAGE } from "./index";
 import { getVariants } from "helpers/words";
