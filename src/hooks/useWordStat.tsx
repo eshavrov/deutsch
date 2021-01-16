@@ -39,7 +39,7 @@ const useWordStat = (word) => {
     STAT_INIT
   );
 
-  const setWordStat = (status, options = {}) => {
+  const setWordStat = (status, options: { w2?: any } = {}) => {
     switch (status) {
       case EVENT_STATUS.WORDS_GOOD: {
         setState({
