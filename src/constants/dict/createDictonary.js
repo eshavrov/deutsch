@@ -1,11 +1,16 @@
-import { list } from "../a1/a";
-import { words200, verbs, irregularVerbs } from "../verbs";
-import { groups } from "../verbsGroups";
-import { list as listA11L1 } from "../a1/a1.1-l1";
-import { list as listA11L2 } from "../a1/a1.1-l2";
-import { list as listA11L3 } from "../a1/a1.1-l3";
-import { groups as datumGroups } from "../a1/Datum";
-import { createHash } from "crypto";
+const fs = require("fs");
+const { createHash } = require("crypto");
+
+const listA11L1 = require("./in_data/other/a1/case1/a1.1-l1.json");
+const listA11L2 = require("./in_data/other/a1/case1/a1.1-l2.json");
+const listA11L3 = require("./in_data/other/a1/case1/a1.1-l3.json");
+const words200 = require("./in_data/de-online_ru/200words.json");
+const verbs = require("./in_data/other/verbs.json");
+const irregularVerbs = require("./in_data/de-online_ru/irregularVerbs.json");
+
+const { list } = require("./in_data/other/a1/all");
+const { groups } = require("./in_data/other/verbsGroups");
+const { groups: datumGroups } = require("./in_data/other/a1/Datum");
 
 const getId = (uni) => {
   return createHash("md5").update(uni).digest("hex");
@@ -193,14 +198,16 @@ const addVerb = (dictonary, data, options = {}) => {
   add(dictonary, data, { ...options, cb });
 };
 
-// list.forEach((data) => add(dictonary, data));
-// words200.forEach((data) => add(dictonary, data));
-// verbs.forEach((data) => add(dictonary, data));
-// groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
-// [...listA11L1, ...listA11L2, ...listA11L3].forEach((data) =>
-//   add(dictonary, data)
-// );
-// datumGroups.forEach((g) => g.forEach((data) => add(dictonary, data)));
+groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
+[
+  ...list,
+  ...words200,
+  ...verbs,
+  ...listA11L1,
+  ...listA11L2,
+  ...listA11L3,
+].forEach((data) => add(dictonary, data));
+datumGroups.forEach((g) => g.forEach((data) => add(dictonary, data)));
 
 irregularVerbs.forEach((data) => {
   const w = data[0] || "";
@@ -213,8 +220,6 @@ dictonary.sort((a, b) => (a.base > b.base ? 1 : -1));
 console.log("---------------- end test --------------");
 // console.log(dictonary.filter(({ type }) => type === "*"));
 
-console.log(dictonary.length, words200.filter(([p]) => Boolean(p)).length);
-
 ["*", "verb", "noun"].forEach((t) =>
   console.log(t + " = ", dictonary.filter(({ type }) => type === t).length)
 );
@@ -223,8 +228,10 @@ console.log(dictonary.length, words200.filter(([p]) => Boolean(p)).length);
 //   .filter(({ type }) => type === "verb")
 //   .forEach(({ id, base, translate }) => console.log(base, translate));
 
-  // dictonary
-  // .filter(({ translate }) => /,/ig.test(translate))
-  // .forEach(({ id, base, translate }) => console.log(base, translate));
+// dictonary
+// .filter(({ translate }) => /,/ig.test(translate))
+// .forEach(({ id, base, translate }) => console.log(base, translate));
 
-console.log(dictonary)
+// console.log(dictonary);
+
+fs.writeFileSync("./db.json", JSON.stringify(dictonary, null, "  "));
