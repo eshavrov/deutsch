@@ -15913,6 +15913,15 @@
   },
   {
     "type": "noun",
+    "base": "Werkstatt",
+    "article": "die",
+    "original": "die Werkstatt, ä-en",
+    "translate": "мастерская; цех; ателье",
+    "context": [],
+    "id": "96e6fa77c4d34ebe676488720a05272c"
+  },
+  {
+    "type": "noun",
     "base": "Werkzeug",
     "article": "das",
     "original": "das Werkzeug, -e",
@@ -20618,15 +20627,6 @@
     "id": "5a176e2c0bbcf5cd608df7faea565474"
   },
   {
-    "type": "*",
-    "base": "die Werkstatt, ä-en",
-    "article": null,
-    "original": "die Werkstatt, ä-en",
-    "translate": "мастерская; цех; ателье",
-    "context": [],
-    "id": "6d923dfc3f05cd3dcbb1db22ad2a2f92"
-  },
-  {
     "type": "verb",
     "base": "dienen",
     "article": null,
@@ -20785,17 +20785,8 @@
     "type": "*",
     "base": "dort",
     "article": null,
-    "original": "dort",
-    "translate": "там; туда; вон там",
-    "context": [],
-    "id": "d5aefad4a8cc6efeffc4d8c5708f9a0a"
-  },
-  {
-    "type": "*",
-    "base": "dort, -her, -hin",
-    "article": null,
     "original": "dort, -her, -hin",
-    "translate": "",
+    "translate": "там; туда; вон там",
     "context": [
       [
         "Deine Tasche kannst du dorthin stellen.",
@@ -20806,7 +20797,7 @@
         ""
       ]
     ],
-    "id": "49a125965d24b76fb47e9493ba1bc4ef"
+    "id": "d5aefad4a8cc6efeffc4d8c5708f9a0a"
   },
   {
     "type": "verb",
