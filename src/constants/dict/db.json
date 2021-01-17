@@ -6008,7 +6008,7 @@
     "base": "an",
     "article": null,
     "original": "an",
-    "translate": "на; у; при",
+    "translate": "на; у; при; на вертикальной плоскости",
     "context": [
       [
         "Fahren Sie an der nächsten Straße nach rechts.",
@@ -9879,6 +9879,15 @@
   },
   {
     "type": "*",
+    "base": "hinter",
+    "article": null,
+    "original": "hinter",
+    "translate": "за; позади",
+    "context": [],
+    "id": "1b0d435fbca67f0a4216e009c5d7b6b8"
+  },
+  {
+    "type": "*",
     "base": "hoch",
     "article": null,
     "original": "hoch",
@@ -11164,6 +11173,15 @@
     "translate": "конечно; естественно",
     "context": [],
     "id": "cbb38c5c8388cd7dd2f0e8a2b220690a"
+  },
+  {
+    "type": "verb",
+    "base": "neben",
+    "article": null,
+    "original": "neben",
+    "translate": "рядом; около",
+    "context": [],
+    "id": "5b9ce0eb9f1f0c6b68fa4db350e0362c"
   },
   {
     "type": "verb",
