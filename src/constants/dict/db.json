@@ -6333,6 +6333,15 @@
     "id": "e959e4ee870b8883701dbdc0befeb105"
   },
   {
+    "type": "*",
+    "base": "arm",
+    "article": null,
+    "original": "arm",
+    "translate": "бедный",
+    "context": [],
+    "id": "8cbccd27ca5b870faa76982d4382576a"
+  },
+  {
     "type": "verb",
     "base": "atmen",
     "article": null,
@@ -8827,6 +8836,15 @@
     "id": "fd8023b8c71e00cc010d9ebdb36d82d6"
   },
   {
+    "type": "*",
+    "base": "faul",
+    "article": null,
+    "original": "faul",
+    "translate": "ленивый",
+    "context": [],
+    "id": "3c3e786ef61af6a18bdd07a876058432"
+  },
+  {
     "type": "verb",
     "base": "fechten",
     "article": null,
@@ -8975,6 +8993,15 @@
     "context": [],
     "irregular": true,
     "id": "8bb4e0c5b624ff9c5a975c0566a43c26"
+  },
+  {
+    "type": "*",
+    "base": "flüssig",
+    "article": null,
+    "original": "flüssig",
+    "translate": "жидкий",
+    "context": [],
+    "id": "827d9887ea6877ef177d6e64ffc0a078"
   },
   {
     "type": "verb",
@@ -9282,6 +9309,15 @@
     "id": "1994c96c97f7d53478e55ad0c79b218e"
   },
   {
+    "type": "*",
+    "base": "gefährlich",
+    "article": null,
+    "original": "gefährlich",
+    "translate": "опасный",
+    "context": [],
+    "id": "2c60ad0e9993ecd33a3d45ebaab308c2"
+  },
+  {
     "type": "verb",
     "base": "gegen",
     "article": null,
@@ -9316,6 +9352,15 @@
     "translate": "принадлежать; относиться",
     "context": [],
     "id": "9a72c6bf02212ea0670e3dc36e693c80"
+  },
+  {
+    "type": "*",
+    "base": "geizig",
+    "article": null,
+    "original": "geizig",
+    "translate": "жадный",
+    "context": [],
+    "id": "0fb676e6f6b423324a27e46838fdf5bd"
   },
   {
     "type": "*",
@@ -9801,7 +9846,7 @@
     "base": "heiß",
     "article": null,
     "original": "heiß",
-    "translate": "жарко",
+    "translate": "жарко; горячий",
     "context": [],
     "id": "a2b82f1089340ae99794c3e8ed92c90e"
   },
@@ -9921,6 +9966,15 @@
     "translate": "хотеть есть; испытывать голод; быть голодным",
     "context": [],
     "id": "211f88bd7ca019617c58953eea3a837d"
+  },
+  {
+    "type": "*",
+    "base": "hungrig",
+    "article": null,
+    "original": "hungrig",
+    "translate": "голодный",
+    "context": [],
+    "id": "6647c899f1fd8f087279f8c7389f2596"
   },
   {
     "type": "verb",
@@ -10610,6 +10664,15 @@
   },
   {
     "type": "*",
+    "base": "leer",
+    "article": null,
+    "original": "leer",
+    "translate": "пустой",
+    "context": [],
+    "id": "68f1de0d6d928ec93ee289e7b21c1a31"
+  },
+  {
+    "type": "*",
     "base": "leer sein",
     "article": null,
     "original": "leer sein",
@@ -11232,6 +11295,15 @@
   },
   {
     "type": "*",
+    "base": "neugirig",
+    "article": null,
+    "original": "neugirig",
+    "translate": "любопытный",
+    "context": [],
+    "id": "b2399aee411913083b14106abb8c1b01"
+  },
+  {
+    "type": "*",
     "base": "nicht",
     "article": null,
     "original": "nicht",
@@ -11633,6 +11705,15 @@
     "id": "9fdb8f7ae068020008b0823cb9b29ce4"
   },
   {
+    "type": "*",
+    "base": "reich",
+    "article": null,
+    "original": "reich",
+    "translate": "богатый",
+    "context": [],
+    "id": "c4a21aa4dbab00abb5143fb59f112eff"
+  },
+  {
     "type": "verb",
     "base": "reisen",
     "article": null,
@@ -12031,6 +12112,15 @@
     "context": [],
     "irregular": true,
     "id": "e72b67c35bc86d19adce4df61514971f"
+  },
+  {
+    "type": "*",
+    "base": "schmutzig",
+    "article": null,
+    "original": "schmutzig",
+    "translate": "грязный",
+    "context": [],
+    "id": "b26e193791a6cab5a47355ca0ce08aef"
   },
   {
     "type": "verb",
@@ -12980,6 +13070,15 @@
   },
   {
     "type": "*",
+    "base": "tief",
+    "article": null,
+    "original": "tief",
+    "translate": "глубокий",
+    "context": [],
+    "id": "3079e78b36b969ddb29552e23742a63e"
+  },
+  {
+    "type": "*",
     "base": "toll",
     "article": null,
     "original": "toll",
@@ -13013,6 +13112,15 @@
     "translate": "тренироваться",
     "context": [],
     "id": "d429970df868dd51139debea67a348bc"
+  },
+  {
+    "type": "*",
+    "base": "traurig",
+    "article": null,
+    "original": "traurig",
+    "translate": "грустный",
+    "context": [],
+    "id": "f67e6cb3489474f399246dc5225e4ecf"
   },
   {
     "type": "verb",
