@@ -274,6 +274,15 @@
   },
   {
     "type": "noun",
+    "base": "Anzug",
+    "article": "der",
+    "original": "der Anzug",
+    "translate": "костюм",
+    "context": [],
+    "id": "ac72c763acd91cce18828ede1ca2979b"
+  },
+  {
+    "type": "noun",
     "base": "Apartment",
     "article": "das",
     "original": "das Apartment, -s",
@@ -986,7 +995,7 @@
     "base": "Brief",
     "article": "der",
     "original": "der Brief, -e",
-    "translate": "",
+    "translate": "письмо",
     "context": [
       [
         "Haben Sie einen Brief für mich?",
@@ -994,6 +1003,15 @@
       ]
     ],
     "id": "cc6611e14030bfc4526b3c43e450e7bb"
+  },
+  {
+    "type": "*",
+    "base": "Briefe schreiben",
+    "article": null,
+    "original": "Briefe schreiben",
+    "translate": "писать письмо",
+    "context": [],
+    "id": "cc190103ceeb34b97414332d8713a7b0"
   },
   {
     "type": "noun",
@@ -1060,7 +1078,7 @@
     "base": "Buch",
     "article": "das",
     "original": "das Buch, -ü, er",
-    "translate": "",
+    "translate": "книга",
     "context": [
       [
         "Gute Bücher sind oft sehr teuer.",
@@ -1205,6 +1223,15 @@
   },
   {
     "type": "noun",
+    "base": "Computerspiel",
+    "article": "das",
+    "original": "das Computerspiel",
+    "translate": "компьютерная игра",
+    "context": [],
+    "id": "fc152d5c118c6dcb48a29cfe86bb0e37"
+  },
+  {
+    "type": "noun",
     "base": "Dame",
     "article": "die",
     "original": "die Dame, -n",
@@ -1293,6 +1320,15 @@
       ]
     ],
     "id": "0ff6e4054f9238b29b61152dd23f3457"
+  },
+  {
+    "type": "noun",
+    "base": "Disko",
+    "article": "die",
+    "original": "die Disko",
+    "translate": "дискотека",
+    "context": [],
+    "id": "5b830abdea20e620836ecc930654d8ca"
   },
   {
     "type": "noun",
@@ -1702,7 +1738,7 @@
     "base": "Fahrkarte",
     "article": "die",
     "original": "die Fahrkarte, -n",
-    "translate": "",
+    "translate": "билет",
     "context": [
       [
         "Hast du schon eine Fahrkarte?",
@@ -1724,6 +1760,15 @@
       ]
     ],
     "id": "7890e4e50b3cef769932615f11e57728"
+  },
+  {
+    "type": "*",
+    "base": "Fahrrad fahren",
+    "article": null,
+    "original": "Fahrrad fahren",
+    "translate": "ехать на велосипеде",
+    "context": [],
+    "id": "55278f1d9581cd6a4d7703fed44661fe"
   },
   {
     "type": "noun",
@@ -1780,6 +1825,15 @@
       ]
     ],
     "id": "d72c78e1c31a2c10fa69db5b03152b81"
+  },
+  {
+    "type": "noun",
+    "base": "Farrad",
+    "article": "das",
+    "original": "das Farrad",
+    "translate": "велосипед",
+    "context": [],
+    "id": "8fe092bda0444635f3ff0b46e1462fa8"
   },
   {
     "type": "noun",
@@ -1887,7 +1941,7 @@
     "base": "Film",
     "article": "der",
     "original": "der Film, -e",
-    "translate": "",
+    "translate": "фильм",
     "context": [
       [
         "Ich möchte gern diesen Film sehen.",
@@ -2067,7 +2121,7 @@
     "base": "Freizeit",
     "article": "die",
     "original": "die Freizeit",
-    "translate": "",
+    "translate": "свободное время; досуг",
     "context": [
       [
         "In meiner Freizeit spiele ich oft Fußball.",
@@ -2102,6 +2156,15 @@
       ]
     ],
     "id": "7f9a683b498036f7c2372908ac7ded47"
+  },
+  {
+    "type": "*",
+    "base": "Freunde treffen",
+    "article": null,
+    "original": "Freunde treffen",
+    "translate": "встречаться с друзьями",
+    "context": [],
+    "id": "3e1c97b0fcc09bb56f5502d32fa1e03c"
   },
   {
     "type": "noun",
@@ -2299,7 +2362,7 @@
     "base": "Geschäft",
     "article": "das",
     "original": "das Geschäft, -e",
-    "translate": "дело; занятие; сделка; магазин",
+    "translate": "дело; занятие; сделка; магазин; бизнес",
     "context": [],
     "id": "d0afd2a73f401316e7c699133ef20f41"
   },
@@ -2356,6 +2419,15 @@
     "translate": "стекло; стакан; рюмка",
     "context": [],
     "id": "af4152505c3c9fb4ce23a245dc5c6c53"
+  },
+  {
+    "type": "noun",
+    "base": "Grad",
+    "article": "das",
+    "original": "das Grad",
+    "translate": "градус",
+    "context": [],
+    "id": "f95eae641d557f0940cc520daf4fcfbc"
   },
   {
     "type": "noun",
@@ -2437,6 +2509,15 @@
     "translate": "привет",
     "context": [],
     "id": "d986abcad77238b5a1b17be52a1530f0"
+  },
+  {
+    "type": "noun",
+    "base": "Handy",
+    "article": "das",
+    "original": "das Handy",
+    "translate": "мобильный телефон",
+    "context": [],
+    "id": "e7a2348f95a0d7dbe825a7b54e44baf6"
   },
   {
     "type": "noun",
@@ -2539,12 +2620,30 @@
   },
   {
     "type": "noun",
+    "base": "Hobby",
+    "article": "das",
+    "original": "das Hobby",
+    "translate": "хобби",
+    "context": [],
+    "id": "9b62a3fb32253b4284064e11199bfe1d"
+  },
+  {
+    "type": "noun",
     "base": "Hotel",
     "article": "das",
     "original": "das Hotel",
     "translate": "гостиница; отель",
     "context": [],
     "id": "ace7757478fbc216bae0070a3fc01387"
+  },
+  {
+    "type": "noun",
+    "base": "Hund",
+    "article": "der",
+    "original": "der Hund",
+    "translate": "собака",
+    "context": [],
+    "id": "cd9f14229112fbe0def926e866d05869"
   },
   {
     "type": "noun",
@@ -2587,7 +2686,7 @@
     "base": "Internet",
     "article": "das",
     "original": "das Internet",
-    "translate": "",
+    "translate": "интернет",
     "context": [
       [
         "Das findest du im Internet.",
@@ -2708,6 +2807,15 @@
   },
   {
     "type": "noun",
+    "base": "Karte",
+    "article": "die",
+    "original": "die Karte",
+    "translate": "карта",
+    "context": [],
+    "id": "c64d1f1b30b9c10f131bb29aa337106b"
+  },
+  {
+    "type": "noun",
     "base": "Kartoffel",
     "article": "die",
     "original": "die Kartoffel",
@@ -2777,6 +2885,15 @@
     "translate": "пирог; пирожное",
     "context": [],
     "id": "f54caa0a15023dfa95f700eb04eef367"
+  },
+  {
+    "type": "noun",
+    "base": "Kugelschreiber",
+    "article": "der",
+    "original": "der Kugelschreiber",
+    "translate": "шариковая ручка",
+    "context": [],
+    "id": "13340c183639a5aa72fe998099131752"
   },
   {
     "type": "noun",
@@ -3149,6 +3266,15 @@
   },
   {
     "type": "noun",
+    "base": "Norden",
+    "article": "der",
+    "original": "der Norden",
+    "translate": "север",
+    "context": [],
+    "id": "6c2cf367563a4e96d0aa714d8c72df34"
+  },
+  {
+    "type": "noun",
     "base": "November",
     "article": "der",
     "original": "der November",
@@ -3255,12 +3381,30 @@
   },
   {
     "type": "noun",
+    "base": "Osten",
+    "article": "der",
+    "original": "der Osten",
+    "translate": "восток",
+    "context": [],
+    "id": "5ddd49f17f7799e7f693a8c46d3c5703"
+  },
+  {
+    "type": "noun",
     "base": "Packung",
     "article": "die",
     "original": "die Packung",
     "translate": "упаковка; пачка",
     "context": [],
     "id": "48a229b74764f28dcec79ba3d1092ee7"
+  },
+  {
+    "type": "noun",
+    "base": "Park",
+    "article": "der",
+    "original": "der Park",
+    "translate": "парк",
+    "context": [],
+    "id": "2f4584db49bc42fff6b65623f4b5d12e"
   },
   {
     "type": "noun",
@@ -3315,6 +3459,15 @@
     "translate": "фунт; полкилограмма",
     "context": [],
     "id": "5e883138371749bb674f05de5cd824a4"
+  },
+  {
+    "type": "noun",
+    "base": "Picknick",
+    "article": "das",
+    "original": "das Picknick",
+    "translate": "пикник",
+    "context": [],
+    "id": "e922cafd5e796ea02fe5e0795de99154"
   },
   {
     "type": "noun",
@@ -3417,12 +3570,39 @@
   },
   {
     "type": "noun",
+    "base": "Regen",
+    "article": "der",
+    "original": "der Regen",
+    "translate": "дождь",
+    "context": [],
+    "id": "6bd6b507be8446a55b7404d631d255a0"
+  },
+  {
+    "type": "noun",
     "base": "Reis",
     "article": "der",
     "original": "der Reis",
     "translate": "рис",
     "context": [],
     "id": "aba55288372994152b2dcc9f5679f4ac"
+  },
+  {
+    "type": "noun",
+    "base": "Reise",
+    "article": "die",
+    "original": "die Reise",
+    "translate": "поездка; путешествие",
+    "context": [],
+    "id": "1b7b97c4e3a639dcbd3cf323952bcf05"
+  },
+  {
+    "type": "noun",
+    "base": "Reiseführer",
+    "article": "der",
+    "original": "der Reiseführer",
+    "translate": "путеводитель",
+    "context": [],
+    "id": "107f1db4e3bb6bc1c338705774fb7ec7"
   },
   {
     "type": "noun",
@@ -3525,12 +3705,39 @@
   },
   {
     "type": "noun",
+    "base": "Schloss",
+    "article": "das",
+    "original": "das Schloss",
+    "translate": "замок; крепость",
+    "context": [],
+    "id": "35f850ba49a179300aaed7d08be3b863"
+  },
+  {
+    "type": "noun",
+    "base": "Schlüssel",
+    "article": "der",
+    "original": "der Schlüssel",
+    "translate": "ключ",
+    "context": [],
+    "id": "285c09053e9c7e07e92f31d8b4efe8de"
+  },
+  {
+    "type": "noun",
     "base": "Schrank",
     "article": "der",
     "original": "der Schrank",
     "translate": "шкаф",
     "context": [],
     "id": "8d0338213f1d4da0ac403b038180a278"
+  },
+  {
+    "type": "noun",
+    "base": "Schuh",
+    "article": "der",
+    "original": "der Schuh",
+    "translate": "туфля; ботинок",
+    "context": [],
+    "id": "43d19fe6c5be3b339698819ddee4e112"
   },
   {
     "type": "noun",
@@ -3576,6 +3783,15 @@
     "translate": "вы",
     "context": [],
     "id": "f7ec4b166db18fe57e8cd88ba6e4fb9e"
+  },
+  {
+    "type": "*",
+    "base": "Ski fahren",
+    "article": null,
+    "original": "Ski fahren",
+    "translate": "кататься на лыжах",
+    "context": [],
+    "id": "839fa0f9512aa20339a5de564de349fb"
   },
   {
     "type": "noun",
@@ -3651,12 +3867,48 @@
   },
   {
     "type": "noun",
+    "base": "Speise",
+    "article": "die",
+    "original": "die Speise",
+    "translate": "блюдо",
+    "context": [],
+    "id": "389eeb06c75da98b0059d9fac8794b88"
+  },
+  {
+    "type": "noun",
+    "base": "Speisekarte",
+    "article": "die",
+    "original": "die Speisekarte",
+    "translate": "меню",
+    "context": [],
+    "id": "4fcab85ea42397d2d061c1e7008e5544"
+  },
+  {
+    "type": "noun",
     "base": "Spiel",
     "article": "das",
     "original": "das Spiel",
     "translate": "игра",
     "context": [],
     "id": "7e031b0349266635d5eb183a38b260a2"
+  },
+  {
+    "type": "noun",
+    "base": "Sport",
+    "article": "der",
+    "original": "der Sport",
+    "translate": "спорт",
+    "context": [],
+    "id": "6b2b1caee846d9be6eccb5e8cfe72445"
+  },
+  {
+    "type": "*",
+    "base": "Sport machen",
+    "article": null,
+    "original": "Sport machen",
+    "translate": "заниматься спортом",
+    "context": [],
+    "id": "5fb430c67b1eed29fc7cec4a569db28b"
   },
   {
     "type": "noun",
@@ -3750,6 +4002,15 @@
   },
   {
     "type": "noun",
+    "base": "Süden",
+    "article": "der",
+    "original": "der Süden",
+    "translate": "юг",
+    "context": [],
+    "id": "5ebd285cecf3a7c95d4f53649ef8d8d9"
+  },
+  {
+    "type": "noun",
     "base": "Tag",
     "article": "der",
     "original": "der Tag, -e",
@@ -3765,6 +4026,15 @@
     "translate": "время суток",
     "context": [],
     "id": "9ef7487aa5c73753624d3b761efd01ce"
+  },
+  {
+    "type": "noun",
+    "base": "Tasche",
+    "article": "die",
+    "original": "die Tasche",
+    "translate": "сумка; карман",
+    "context": [],
+    "id": "4dbbafd86169de9c2f51442d91b3bfbc"
   },
   {
     "type": "noun",
@@ -3801,6 +4071,15 @@
     "translate": "тарелка",
     "context": [],
     "id": "249edc6ecbdd8933522befaff317a5f5"
+  },
+  {
+    "type": "noun",
+    "base": "Temperatur",
+    "article": "die",
+    "original": "die Temperatur",
+    "translate": "температура",
+    "context": [],
+    "id": "7bb651c292beb000f080898b9e556d5d"
   },
   {
     "type": "noun",
@@ -4113,6 +4392,24 @@
     "id": "dcf894cbdc7f4243630f00d7a4d8d2c5"
   },
   {
+    "type": "noun",
+    "base": "Westen",
+    "article": "der",
+    "original": "der Westen",
+    "translate": "запад",
+    "context": [],
+    "id": "f15441c472219fa0c7913a96cd37dab7"
+  },
+  {
+    "type": "noun",
+    "base": "Wetter",
+    "article": "das",
+    "original": "das Wetter",
+    "translate": "погода",
+    "context": [],
+    "id": "9c72a96d6df9b5864d950f81ca2068b1"
+  },
+  {
     "type": "*",
     "base": "Widerstand leisten",
     "article": null,
@@ -4147,6 +4444,15 @@
     "translate": "Как дела?",
     "context": [],
     "id": "b4ea3b6be6356be55e90ed2c3824c2e5"
+  },
+  {
+    "type": "noun",
+    "base": "Wind",
+    "article": "der",
+    "original": "der Wind",
+    "translate": "ветер",
+    "context": [],
+    "id": "507b77cd040c2fdad7b1349b99b24fab"
   },
   {
     "type": "noun",
@@ -5802,6 +6108,15 @@
     "id": "fd20fd082737e174bbb5a6ddb242c77c"
   },
   {
+    "type": "*",
+    "base": "bewölkt",
+    "article": null,
+    "original": "bewölkt",
+    "translate": "облачно",
+    "context": [],
+    "id": "d21d6239724f752fc489d78a694513d7"
+  },
+  {
     "type": "verb",
     "base": "bezahlen",
     "article": null,
@@ -5975,7 +6290,7 @@
     "base": "bleiben",
     "article": null,
     "original": "bleiben",
-    "translate": "оставаться",
+    "translate": "оставаться; остаться",
     "context": [
       [
         "Ich bleibe heute zu Hause.",
@@ -6172,6 +6487,15 @@
   },
   {
     "type": "*",
+    "base": "circa",
+    "article": null,
+    "original": "circa",
+    "translate": "примерно; приблизительно",
+    "context": [],
+    "id": "24b1a4064f8a096dd5a0688751e4f069"
+  },
+  {
+    "type": "*",
     "base": "circa/ca.",
     "article": null,
     "original": "circa/ca.",
@@ -6218,6 +6542,15 @@
     "translate": "присутствовать",
     "context": [],
     "id": "36c82b8f049ee7fec636e6b288c3d433"
+  },
+  {
+    "type": "verb",
+    "base": "dabeihaben",
+    "article": null,
+    "original": "dabeihaben",
+    "translate": "иметь при себе; иметь с собой",
+    "context": [],
+    "id": "00e161065e9ce6259dd7ce200126d06f"
   },
   {
     "type": "verb",
@@ -6433,6 +6766,15 @@
   },
   {
     "type": "*",
+    "base": "doch",
+    "article": null,
+    "original": "doch",
+    "translate": "всё-таки; все же",
+    "context": [],
+    "id": "668389581d7831865ba2c0bd4db90bf9"
+  },
+  {
+    "type": "*",
     "base": "dort",
     "article": null,
     "original": "dort",
@@ -6540,6 +6882,15 @@
   },
   {
     "type": "*",
+    "base": "du fährst",
+    "article": null,
+    "original": "du fährst",
+    "translate": "ты едешь",
+    "context": [],
+    "id": "16d0962f0f1190919f473ffb9bd047d7"
+  },
+  {
+    "type": "*",
     "base": "du hilfst",
     "article": null,
     "original": "du hilfst",
@@ -6555,6 +6906,42 @@
     "translate": "ты ешь; ты кушаешь",
     "context": [],
     "id": "ec345f8ac37228c183317e5e6e6c4946"
+  },
+  {
+    "type": "*",
+    "base": "du nimmst",
+    "article": null,
+    "original": "du nimmst",
+    "translate": "ты берешь",
+    "context": [],
+    "id": "5ae060dd056e87845f6e66cbf3401a53"
+  },
+  {
+    "type": "*",
+    "base": "du nimmst mit",
+    "article": null,
+    "original": "du nimmst mit",
+    "translate": "ты берёшь с собой",
+    "context": [],
+    "id": "10546de2858de833b78ca24a7d8e3cc2"
+  },
+  {
+    "type": "*",
+    "base": "du schläfst",
+    "article": null,
+    "original": "du schläfst",
+    "translate": "ты спишь",
+    "context": [],
+    "id": "7fa70c6768f05c9d86ebed4858c614e3"
+  },
+  {
+    "type": "*",
+    "base": "du triffst",
+    "article": null,
+    "original": "du triffst",
+    "translate": "ты встречаешь",
+    "context": [],
+    "id": "d9a11c26cd1d32d9900130e4a316226c"
   },
   {
     "type": "*",
@@ -6925,6 +7312,15 @@
   },
   {
     "type": "*",
+    "base": "er fährt",
+    "article": null,
+    "original": "er fährt",
+    "translate": "он едет",
+    "context": [],
+    "id": "52097c003be44e757dd46ecc2513665b"
+  },
+  {
+    "type": "*",
     "base": "er hilft",
     "article": null,
     "original": "er hilft",
@@ -6940,6 +7336,42 @@
     "translate": "он ест; он кушает",
     "context": [],
     "id": "ce7d91e6094c4429cc8e013297dd0296"
+  },
+  {
+    "type": "*",
+    "base": "er nimmt",
+    "article": null,
+    "original": "er nimmt",
+    "translate": "он берет",
+    "context": [],
+    "id": "140f08991bd504676739cde0bc741b5b"
+  },
+  {
+    "type": "*",
+    "base": "er nimmt mit",
+    "article": null,
+    "original": "er nimmt mit",
+    "translate": "он берёт с собой",
+    "context": [],
+    "id": "affe21088b5191437b603545c7a2893e"
+  },
+  {
+    "type": "*",
+    "base": "er schläft",
+    "article": null,
+    "original": "er schläft",
+    "translate": "он спит",
+    "context": [],
+    "id": "58536e43fde3ee8b9176bd39eb2126f9"
+  },
+  {
+    "type": "*",
+    "base": "er trifft",
+    "article": null,
+    "original": "er trifft",
+    "translate": "он встречает",
+    "context": [],
+    "id": "04547689a9b4d0988a9a2cdda871d1f2"
   },
   {
     "type": "verb",
@@ -7968,6 +8400,15 @@
     "id": "e626840e67a10993dd3cbcc3cd055e36"
   },
   {
+    "type": "verb",
+    "base": "grillen",
+    "article": null,
+    "original": "grillen",
+    "translate": "жарить на гриле",
+    "context": [],
+    "id": "95f28b70313971eee27e3a9600ea98a1"
+  },
+  {
     "type": "*",
     "base": "groß",
     "article": null,
@@ -8085,6 +8526,15 @@
     "translate": "лечить",
     "context": [],
     "id": "213ad19d842afe54e1496b79978482e5"
+  },
+  {
+    "type": "*",
+    "base": "heiß",
+    "article": null,
+    "original": "heiß",
+    "translate": "жарко",
+    "context": [],
+    "id": "a2b82f1089340ae99794c3e8ed92c90e"
   },
   {
     "type": "verb",
@@ -8246,6 +8696,24 @@
   },
   {
     "type": "*",
+    "base": "im Frühling",
+    "article": null,
+    "original": "im Frühling",
+    "translate": "весной",
+    "context": [],
+    "id": "51d3485a2ab0b771b68f4e5a65dfb081"
+  },
+  {
+    "type": "*",
+    "base": "im Internet surfen",
+    "article": null,
+    "original": "im Internet surfen",
+    "translate": "сидеть в интернете",
+    "context": [],
+    "id": "a36655c3d22b066258a67819fb00b832"
+  },
+  {
+    "type": "*",
     "base": "im Moment",
     "article": null,
     "original": "im Moment",
@@ -8255,10 +8723,37 @@
   },
   {
     "type": "*",
+    "base": "im Norden",
+    "article": null,
+    "original": "im Norden",
+    "translate": "на севере",
+    "context": [],
+    "id": "544d5db7aa646896ac4b83a2d168a1e0"
+  },
+  {
+    "type": "*",
+    "base": "im Sommer",
+    "article": null,
+    "original": "im Sommer",
+    "translate": "летом",
+    "context": [],
+    "id": "e0de275257a2c2e60546613d529bce54"
+  },
+  {
+    "type": "*",
+    "base": "im Süden",
+    "article": null,
+    "original": "im Süden",
+    "translate": "на юге",
+    "context": [],
+    "id": "f70f8d94397163b142cdca528d114e7b"
+  },
+  {
+    "type": "*",
     "base": "immer",
     "article": null,
     "original": "immer",
-    "translate": "всегда",
+    "translate": "всегда; постоянно",
     "context": [
       [
         "Frau Bast kommt immer zu spät.",
@@ -8395,6 +8890,15 @@
     "id": "3ca5d7443ef686ad579a2d511abd16d2"
   },
   {
+    "type": "verb",
+    "base": "joggen",
+    "article": null,
+    "original": "joggen",
+    "translate": "бегать трусцой; бегать",
+    "context": [],
+    "id": "9f78347e9614e964cee4bafa38fcba61"
+  },
+  {
     "type": "*",
     "base": "jung",
     "article": null,
@@ -8407,6 +8911,15 @@
       ]
     ],
     "id": "b7e81bf076abbdcc3976a4eba1714b59"
+  },
+  {
+    "type": "*",
+    "base": "kalt",
+    "article": null,
+    "original": "kalt",
+    "translate": "холодно",
+    "context": [],
+    "id": "e662e44ff4513751c30f9acc77fc8784"
   },
   {
     "type": "*",
@@ -8930,6 +9443,15 @@
     "id": "ae15c7742d16d76ae16f8f2670db8486"
   },
   {
+    "type": "*",
+    "base": "meist",
+    "article": null,
+    "original": "meist",
+    "translate": "чаще всего",
+    "context": [],
+    "id": "32e95243ba27dba7e88e2958f56ac629"
+  },
+  {
     "type": "verb",
     "base": "melken",
     "article": null,
@@ -8968,6 +9490,15 @@
     "id": "d09fa52d86b84ca74dc5134d4ec65433"
   },
   {
+    "type": "*",
+    "base": "minus",
+    "article": null,
+    "original": "minus",
+    "translate": "минус",
+    "context": [],
+    "id": "df692e7045a22fc24777e507d7a991af"
+  },
+  {
     "type": "verb",
     "base": "misslingen",
     "article": null,
@@ -8985,6 +9516,15 @@
     "translate": "с; вместе с",
     "context": [],
     "id": "b4c02cf00715ab576c293461a3c768a1"
+  },
+  {
+    "type": "verb",
+    "base": "mitnehmen",
+    "article": null,
+    "original": "mitnehmen",
+    "translate": "брать с собой",
+    "context": [],
+    "id": "69144f04f4e687b65fb983dfed3d6613"
   },
   {
     "type": "verb",
@@ -9172,7 +9712,7 @@
     "base": "noch",
     "article": null,
     "original": "noch",
-    "translate": "(пока) ещё; по-прежнему; всё ещё",
+    "translate": "(пока) ещё; по-прежнему; всё ещё; ещё; пока ещё",
     "context": [],
     "id": "dbd35b35f88a13a62d4a32fb301c64cc"
   },
@@ -9361,6 +9901,15 @@
   },
   {
     "type": "*",
+    "base": "plus",
+    "article": null,
+    "original": "plus",
+    "translate": "плюс",
+    "context": [],
+    "id": "bbc068529af053552f45eda2c528f200"
+  },
+  {
+    "type": "*",
     "base": "praktisch",
     "article": null,
     "original": "praktisch",
@@ -9468,6 +10017,15 @@
     "translate": "сокращать",
     "context": [],
     "id": "b15a84911f1d750ced582cace7ed4804"
+  },
+  {
+    "type": "verb",
+    "base": "regnen",
+    "article": null,
+    "original": "regnen",
+    "translate": "идёт дождь",
+    "context": [],
+    "id": "11f989f7da812406ccfe2db1bb989fe5"
   },
   {
     "type": "verb",
@@ -9720,7 +10278,7 @@
     "base": "schicken",
     "article": null,
     "original": "schicken",
-    "translate": "посылать",
+    "translate": "посылать; отправлять",
     "context": [],
     "id": "7b4a044c2bc9c716f09a504ef18ae4a8"
   },
@@ -9771,6 +10329,15 @@
     "context": [],
     "irregular": true,
     "id": "6d652d4f55050176a1fd2cf454bbad24"
+  },
+  {
+    "type": "*",
+    "base": "schlecht",
+    "article": null,
+    "original": "schlecht",
+    "translate": "плохой; плохо",
+    "context": [],
+    "id": "53e5e63d293edcb64c6c2dac8f0c5dc5"
   },
   {
     "type": "verb",
@@ -9875,6 +10442,15 @@
     "translate": "резать; разрезать; стричь",
     "context": [],
     "id": "db119423ebc004b46388eabb7dc3c659"
+  },
+  {
+    "type": "verb",
+    "base": "schneien",
+    "article": null,
+    "original": "schneien",
+    "translate": "идёт снег",
+    "context": [],
+    "id": "3cd59775b21254149b16ee6d21c8fa3c"
   },
   {
     "type": "*",
@@ -10313,6 +10889,15 @@
   },
   {
     "type": "*",
+    "base": "sonnig",
+    "article": null,
+    "original": "sonnig",
+    "translate": "солнечно",
+    "context": [],
+    "id": "301f3be6dd34d074cef477560631d656"
+  },
+  {
+    "type": "*",
     "base": "sonst",
     "article": null,
     "original": "sonst",
@@ -10449,6 +11034,15 @@
     "translate": "полоскать; промывать; мыть",
     "context": [],
     "id": "7c0a4ce5560840488eee6a525ea12462"
+  },
+  {
+    "type": "*",
+    "base": "stark",
+    "article": null,
+    "original": "stark",
+    "translate": "сильно",
+    "context": [],
+    "id": "6acdcce36f329485fb97eae63e9f6836"
   },
   {
     "type": "verb",
@@ -10683,6 +11277,15 @@
     "id": "519b6fbf7897f10d735825956faae480"
   },
   {
+    "type": "*",
+    "base": "toll",
+    "article": null,
+    "original": "toll",
+    "translate": "потрясающий",
+    "context": [],
+    "id": "6a4ccbe3c51d9d05d219d385a4da83a8"
+  },
+  {
     "type": "verb",
     "base": "tragen",
     "article": null,
@@ -10705,7 +11308,7 @@
     "base": "treffen",
     "article": null,
     "original": "treffen",
-    "translate": "встречать; встретить; попасть; настигнуть",
+    "translate": "встречать; встретить; попасть; настигнуть; встречаться",
     "context": [],
     "irregular": true,
     "id": "38e43521560ff72f29b4010fe4c6e73e"
@@ -11279,7 +11882,7 @@
     "base": "wandern",
     "article": null,
     "original": "wandern",
-    "translate": "путешествовать",
+    "translate": "путешествовать; ходить в поход",
     "context": [],
     "id": "9bdd6b9d4840a211743bd888b6d3e4c5"
   },
@@ -11291,6 +11894,15 @@
     "translate": "когда",
     "context": [],
     "id": "afd1ae5567d867c8d5d3dec545dae0a7"
+  },
+  {
+    "type": "*",
+    "base": "warm",
+    "article": null,
+    "original": "warm",
+    "translate": "тепло; теплый",
+    "context": [],
+    "id": "c77cce64c8dbb106b1c17b4e0cbb5274"
   },
   {
     "type": "verb",
@@ -11480,6 +12092,15 @@
   },
   {
     "type": "*",
+    "base": "wichtig",
+    "article": null,
+    "original": "wichtig",
+    "translate": "важный",
+    "context": [],
+    "id": "96017f7745c87c5febb81d82d244e3ab"
+  },
+  {
+    "type": "*",
     "base": "wie",
     "article": null,
     "original": "wie",
@@ -11542,6 +12163,15 @@
     "context": [],
     "irregular": true,
     "id": "3cd51c7dbe75e6a6c9be84ae825c6ea0"
+  },
+  {
+    "type": "*",
+    "base": "windig",
+    "article": null,
+    "original": "windig",
+    "translate": "ветрено; ветреный",
+    "context": [],
+    "id": "5259a230bd008f162876cec46e3c564c"
   },
   {
     "type": "*",
@@ -11834,7 +12464,7 @@
     "base": "zurzeit",
     "article": null,
     "original": "zurzeit",
-    "translate": "",
+    "translate": "в настоящее время; в настоящий момент",
     "context": [
       [
         "Zurzeit habe ich sehr viel zu tun.",
@@ -11920,7 +12550,7 @@
     "base": "zwischen",
     "article": null,
     "original": "zwischen",
-    "translate": "между",
+    "translate": "между; среди",
     "context": [
       [
         "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
@@ -12041,6 +12671,15 @@
     "translate": "над",
     "context": [],
     "id": "8cd24c996dec3d3066bf75226ff18268"
+  },
+  {
+    "type": "*",
+    "base": "überall",
+    "article": null,
+    "original": "überall",
+    "translate": "везде; повсюду",
+    "context": [],
+    "id": "12a53eeadb30c1bb5850e6ed4dd291b3"
   },
   {
     "type": "verb",
