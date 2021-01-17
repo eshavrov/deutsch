@@ -207,8 +207,9 @@ const addVerb = (dictonary, data, options = {}) => {
   add(dictonary, data, { options, cb });
 };
 
-groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
 [...list, ...words200, ...verbs].forEach((data) => add(dictonary, data));
+predlogi.forEach((data) => add(dictonary, data));
+
 datumGroups.forEach((g) => g.forEach((data) => add(dictonary, data)));
 
 irregularVerbs.forEach((data) => {
@@ -223,7 +224,11 @@ irregularVerbs2.forEach((data) => {
   const c = w.split(";").map((t) => t.trim());
   addVerb(dictonary, [c[0], t], { irregular: true });
 });
+
+groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
+
 [
+  ...listA1,
   ...listA11L1,
   ...listA11L2,
   ...listA11L3,
@@ -232,11 +237,14 @@ irregularVerbs2.forEach((data) => {
   ...listA11L6,
   ...listA11L8,
   ...listA11L10,
-  ...listA1,
 ].forEach((data) => add(dictonary, data));
-predlogi.forEach((data) => add(dictonary, data));
 
-dictonary.sort((a, b) => (a.base > b.base ? 1 : -1));
+dictonary.sort((a, b) => {
+  if (a.base > b.base) return 1;
+  if (a.base < b.base) return -1;
+
+  return 0;
+});
 
 console.log("---------------- end test --------------");
 // console.log(dictonary.filter(({ type }) => type === "*"));

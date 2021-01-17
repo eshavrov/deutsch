@@ -420,15 +420,6 @@
     "id": "0d121315f95989c88a784b5998ac4600"
   },
   {
-    "type": "*",
-    "base": "Arzt",
-    "article": null,
-    "original": "Arzt",
-    "translate": "врач; доктор",
-    "context": [],
-    "id": "368e7fc1d81f0483bd0a5c7509b06ced"
-  },
-  {
     "type": "noun",
     "base": "Arzt",
     "article": "der",
@@ -441,6 +432,15 @@
       ]
     ],
     "id": "6d03ec4eb433220d0f8b6ebbd8b862ef"
+  },
+  {
+    "type": "*",
+    "base": "Arzt",
+    "article": null,
+    "original": "Arzt",
+    "translate": "врач; доктор",
+    "context": [],
+    "id": "368e7fc1d81f0483bd0a5c7509b06ced"
   },
   {
     "type": "*",
@@ -679,7 +679,7 @@
     "base": "Bad",
     "article": "das",
     "original": "das Bad",
-    "translate": "ванная комната; ванная; ванна",
+    "translate": "ванна; ванная; ванная комната",
     "context": [
       [
         "Wir haben kein großes Bad.",
@@ -869,15 +869,6 @@
     "id": "31beaa770481ffa6661c14a7fc57fa8d"
   },
   {
-    "type": "*",
-    "base": "Bekannte",
-    "article": null,
-    "original": "Bekannte",
-    "translate": "знакомый; знакомая",
-    "context": [],
-    "id": "d756cbfee1e0f7d89054f437ba64c6f0"
-  },
-  {
     "type": "noun",
     "base": "Bekannte",
     "article": "der/die",
@@ -890,6 +881,15 @@
       ]
     ],
     "id": "0984b9d82239d5b99ea0c6ad5dd2c6fb"
+  },
+  {
+    "type": "*",
+    "base": "Bekannte",
+    "article": null,
+    "original": "Bekannte",
+    "translate": "знакомый; знакомая",
+    "context": [],
+    "id": "d756cbfee1e0f7d89054f437ba64c6f0"
   },
   {
     "type": "noun",
@@ -1654,15 +1654,6 @@
     "id": "b4d09134d6a4254aa130a7d0a81ddda3"
   },
   {
-    "type": "*",
-    "base": "Eltern",
-    "article": null,
-    "original": "Eltern",
-    "translate": "родители",
-    "context": [],
-    "id": "d038fda72820e9d142c617137a638e40"
-  },
-  {
     "type": "noun",
     "base": "Eltern",
     "article": "die",
@@ -1675,6 +1666,15 @@
       ]
     ],
     "id": "dfe94c91a115ea92b3bcd512d815de6f"
+  },
+  {
+    "type": "*",
+    "base": "Eltern",
+    "article": null,
+    "original": "Eltern",
+    "translate": "родители",
+    "context": [],
+    "id": "d038fda72820e9d142c617137a638e40"
   },
   {
     "type": "noun",
@@ -1990,7 +1990,7 @@
     "base": "Fieber",
     "article": "das",
     "original": "das Fieber",
-    "translate": "температура; жар; лихорадка",
+    "translate": "жар; температура; лихорадка",
     "context": [
       [
         "Mein Mann hat noch immer Fieber.",
@@ -2120,7 +2120,7 @@
     "base": "Formular",
     "article": "das",
     "original": "das Formular, -e",
-    "translate": "бланк; формуляр; анкета",
+    "translate": "формуляр; анкета; бланк",
     "context": [
       [
         "Sie müssen dieses Formular ausfüllen.",
@@ -2902,7 +2902,7 @@
     "base": "Herr",
     "article": "der",
     "original": "der Herr",
-    "translate": "мужчина; джентельмен; господин",
+    "translate": "господин; мужчина; джентельмен",
     "context": [],
     "id": "1970d16625f89feb588df26dbebd58ce"
   },
@@ -3332,7 +3332,7 @@
     "base": "Kugelschreiber",
     "article": "der",
     "original": "der Kugelschreiber",
-    "translate": "шариковая ручка; ручка",
+    "translate": "ручка; шариковая ручка",
     "context": [],
     "id": "13340c183639a5aa72fe998099131752"
   },
@@ -3638,7 +3638,7 @@
     "base": "Miete",
     "article": "die",
     "original": "die Miete",
-    "translate": "арендная плата; аренда; квартплата",
+    "translate": "арендная плата; квартплата; аренда",
     "context": [],
     "id": "6c7e94999ed920a26190324f691a483f"
   },
@@ -3863,7 +3863,7 @@
     "base": "Name",
     "article": "der",
     "original": "der Name",
-    "translate": "фамилия; имя",
+    "translate": "имя; фамилия",
     "context": [],
     "id": "7e97f8358b5317a4e2971ad2e4c2f257"
   },
@@ -4059,7 +4059,7 @@
     "base": "Partner",
     "article": "der",
     "original": "der Partner",
-    "translate": "партнер; компаньон; напарник",
+    "translate": "партнер; напарник; компаньон",
     "context": [],
     "id": "76fe4e6d8f4ff4c2c2c373b1297e94f4"
   },
@@ -4149,7 +4149,7 @@
     "base": "Platz",
     "article": "der",
     "original": "der Platz",
-    "translate": "площадь; место",
+    "translate": "место; площадь",
     "context": [],
     "id": "94a07f15242bccd6d6f6f04b26cb2e81"
   },
@@ -4212,7 +4212,7 @@
     "base": "Praktikum",
     "article": "das",
     "original": "das Praktikum",
-    "translate": "практика; стажировка",
+    "translate": "стажировка; практика",
     "context": [],
     "id": "5807561eaf057204ba1851df3183e7a7"
   },
@@ -4221,7 +4221,7 @@
     "base": "Praxis",
     "article": "die",
     "original": "die Praxis",
-    "translate": "практика; приемная; кабинет; клиника",
+    "translate": "практика; клиника; приемная; кабинет",
     "context": [],
     "id": "675d45b061eba2a12c36ade078e509e2"
   },
@@ -4248,7 +4248,7 @@
     "base": "Prospekt",
     "article": "der",
     "original": "der Prospekt",
-    "translate": "проспект; брошюра; рекламный проспект",
+    "translate": "брошюра; рекламный проспект; проспект",
     "context": [],
     "id": "1a8debda607daf53abd966c6c887c1ab"
   },
@@ -4689,7 +4689,7 @@
     "base": "Sie",
     "article": null,
     "original": "Sie",
-    "translate": "вы",
+    "translate": "Вы",
     "context": [],
     "id": "f7ec4b166db18fe57e8cd88ba6e4fb9e"
   },
@@ -5271,15 +5271,6 @@
     "id": "8e6051e91da8e9fc000c40306630817a"
   },
   {
-    "type": "*",
-    "base": "Verkäufer",
-    "article": null,
-    "original": "Verkäufer",
-    "translate": "продавец",
-    "context": [],
-    "id": "8b2d1fb81c3ae296a04bd0427001f2de"
-  },
-  {
     "type": "noun",
     "base": "Verkäufer",
     "article": "der",
@@ -5292,6 +5283,15 @@
       ]
     ],
     "id": "73f9a73f7994e64a264b25fbc2e948c5"
+  },
+  {
+    "type": "*",
+    "base": "Verkäufer",
+    "article": null,
+    "original": "Verkäufer",
+    "translate": "продавец",
+    "context": [],
+    "id": "8b2d1fb81c3ae296a04bd0427001f2de"
   },
   {
     "type": "noun",
@@ -5535,15 +5535,6 @@
     "id": "762b5025afba90a16f8d49757dff16fa"
   },
   {
-    "type": "*",
-    "base": "Woche",
-    "article": null,
-    "original": "Woche",
-    "translate": "Неделя",
-    "context": [],
-    "id": "23f2ffd9dfef27e90d87c2bc02d158bf"
-  },
-  {
     "type": "noun",
     "base": "Woche",
     "article": "die",
@@ -5551,6 +5542,15 @@
     "translate": "месяц; неделя",
     "context": [],
     "id": "a36fd838c83efaa49214b9fa7418f68a"
+  },
+  {
+    "type": "*",
+    "base": "Woche",
+    "article": null,
+    "original": "Woche",
+    "translate": "Неделя",
+    "context": [],
+    "id": "23f2ffd9dfef27e90d87c2bc02d158bf"
   },
   {
     "type": "noun",
@@ -5951,7 +5951,7 @@
     "base": "also",
     "article": null,
     "original": "also",
-    "translate": "следовательно; итак; значит",
+    "translate": "значит; итак; следовательно",
     "context": [
       [
         "Also, es ist so: ...",
@@ -6008,7 +6008,7 @@
     "base": "an",
     "article": null,
     "original": "an",
-    "translate": "на; у; при; на вертикальной плоскости",
+    "translate": "на; на вертикальной плоскости; у; при",
     "context": [
       [
         "Fahren Sie an der nächsten Straße nach rechts.",
@@ -6094,7 +6094,7 @@
     "base": "anfangen",
     "article": null,
     "original": "anfangen",
-    "translate": "начинать; начать; приступать; начинаться",
+    "translate": "начинать; начинаться; приступать; начать",
     "context": [
       [
         "Hier fängt die Bahnhofstraße an.",
@@ -6130,7 +6130,7 @@
     "base": "angreifen",
     "article": null,
     "original": "angreifen",
-    "translate": "нападать; брать; хватать",
+    "translate": "брать; хватать; нападать",
     "context": [],
     "id": "ec0d93a2d86409318b339488360d5cb1"
   },
@@ -6138,8 +6138,8 @@
     "type": "verb",
     "base": "anhaben",
     "article": null,
-    "original": "tragen; anhaben",
-    "translate": "носить; носить одежду; быть одетым",
+    "original": "anhaben",
+    "translate": "носить одежду; быть одетым; носить",
     "context": [],
     "id": "d15b26e6f58db3a61dcfc227e18df848"
   },
@@ -6176,7 +6176,7 @@
     "base": "ankreuzen",
     "article": null,
     "original": "ankreuzen",
-    "translate": "отметить крестиком; поставить крестик; отмечать крестиком",
+    "translate": "отмечать крестиком; отметить крестиком; поставить крестик",
     "context": [
       [
         "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
@@ -6227,7 +6227,7 @@
     "base": "anrufen",
     "article": null,
     "original": "anrufen",
-    "translate": "звонить (по телефону); окликать; звать; звонить; звонить по телефону",
+    "translate": "звонить (по телефону); звонить по телефону; окликать; звать; звонить",
     "context": [
       [
         "Kann man Sie anrufen?",
@@ -6285,8 +6285,8 @@
     "type": "verb",
     "base": "anziehen",
     "article": null,
-    "original": "anziehen",
-    "translate": "надевать; надевать (одежду)",
+    "original": "(sich) anziehen",
+    "translate": "надевать (одежду); надевать",
     "context": [
       [
         "Ich muss mich noch anziehen.",
@@ -6360,7 +6360,7 @@
     "base": "auf",
     "article": null,
     "original": "auf",
-    "translate": "на (горизонтальной поверхности); на; в; по; на горизонтальной поверхности",
+    "translate": "на (горизонтальной поверхности); на; на горизонтальной поверхности; в; по",
     "context": [
       [
         "Die Kinder spielen auf der Straße.",
@@ -6442,12 +6442,7 @@
     "article": null,
     "original": "öffnen; aufmachen",
     "translate": "открывать",
-    "context": [
-      [
-        "Ich öffne die Tür.",
-        ""
-      ]
-    ],
+    "context": [],
     "id": "50d7be78613110d5360d40ceb036942e"
   },
   {
@@ -6830,7 +6825,7 @@
     "base": "beginnen",
     "article": null,
     "original": "beginnen",
-    "translate": "начинать; начинаться; затевать; предпринимать; делать",
+    "translate": "затевать; начинать; предпринимать; делать; начинаться",
     "context": [
       [
         "Das Spiel beginnt um 15.30 Uhr.",
@@ -6853,7 +6848,7 @@
     "base": "behalten",
     "article": null,
     "original": "behalten",
-    "translate": "хранить; удерживать; держать; сохранять",
+    "translate": "держать; удерживать; сохранять; хранить",
     "context": [],
     "id": "c0e9ddd0d4e8fe8bd0fb25356ab7971b"
   },
@@ -6978,7 +6973,7 @@
     "base": "beleidigen",
     "article": null,
     "original": "beleidigen",
-    "translate": "оскорблять; обижать",
+    "translate": "обижать; оскорблять",
     "context": [],
     "id": "766159284d90c0a528628659573fd83e"
   },
@@ -7218,8 +7213,8 @@
     "type": "verb",
     "base": "bewegen",
     "article": null,
-    "original": "(sich) bewegen",
-    "translate": "двигать(ся); двигать; передвигать; склонять; побуждать",
+    "original": "bewegen",
+    "translate": "двигать; передвигать; склонять; побуждать; двигать(ся)",
     "context": [],
     "id": "f0985f24156111046817f3967729ce43"
   },
@@ -7296,7 +7291,7 @@
     "base": "billig",
     "article": null,
     "original": "billig",
-    "translate": "дешевый; дешево",
+    "translate": "дешево; дешевый",
     "context": [
       [
         "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
@@ -7569,7 +7564,7 @@
     "base": "buchstabieren",
     "article": null,
     "original": "buchstabieren",
-    "translate": "произносить по буквам; диктовать по буквам; говорить по буквам",
+    "translate": "диктовать по буквам; говорить по буквам; произносить по буквам",
     "context": [
       [
         "Bitte buchstabieren Sie Ihren Namen.",
@@ -7921,7 +7916,7 @@
     "base": "dort",
     "article": null,
     "original": "dort",
-    "translate": "там; вон там; туда",
+    "translate": "там; туда; вон там",
     "context": [],
     "id": "d5aefad4a8cc6efeffc4d8c5708f9a0a"
   },
@@ -8268,7 +8263,7 @@
     "base": "einkaufen",
     "article": null,
     "original": "einkaufen",
-    "translate": "делать покупки; закупать; покупать; закупаться",
+    "translate": "покупать; закупаться; делать покупки; закупать",
     "context": [
       [
         "Ich muss noch für morgen einkaufen.",
@@ -8352,7 +8347,7 @@
     "base": "empfehlen",
     "article": null,
     "original": "empfehlen",
-    "translate": "советовать; рекомендовать",
+    "translate": "рекомендовать; советовать",
     "context": [
       [
         "Welchen Wein können Sie mir empfehlen?",
@@ -8660,8 +8655,9 @@
     "base": "erschrecken",
     "article": null,
     "original": "erschrecken",
-    "translate": "пугать; пугаться; испугать",
+    "translate": "пугаться; пугать; испугать",
     "context": [],
+    "irregular": true,
     "id": "20e1d036ad8f1ed11c521b2e5bb6dd92"
   },
   {
@@ -8687,7 +8683,7 @@
     "base": "erzählen",
     "article": null,
     "original": "erzählen",
-    "translate": "рассказывать; сообщать; рассказать",
+    "translate": "рассказывать; рассказать; сообщать",
     "context": [
       [
         "Wir müssen euch etwas erzählen!",
@@ -8701,7 +8697,7 @@
     "base": "es",
     "article": null,
     "original": "es",
-    "translate": "это; оно",
+    "translate": "оно; это",
     "context": [
       [
         "Es regnet.",
@@ -9281,7 +9277,7 @@
     "base": "gefallen",
     "article": null,
     "original": "gefallen",
-    "translate": "нравиться; нравится; быть по вкусу",
+    "translate": "нравится; нравиться; быть по вкусу",
     "context": [],
     "id": "1994c96c97f7d53478e55ad0c79b218e"
   },
@@ -9363,9 +9359,10 @@
     "type": "verb",
     "base": "genesen",
     "article": null,
-    "original": "genesen; gesund werden",
+    "original": "genesen",
     "translate": "выздоравливать",
     "context": [],
+    "irregular": true,
     "id": "51eb15bfae121ef24a9b52a4064e7190"
   },
   {
@@ -9375,6 +9372,7 @@
     "original": "genießen",
     "translate": "наслаждаться",
     "context": [],
+    "irregular": true,
     "id": "458f35c59f211b92356d4a343c46ee48"
   },
   {
@@ -9501,8 +9499,9 @@
     "base": "gewinnen",
     "article": null,
     "original": "gewinnen",
-    "translate": "выиграть; выигрывать; добывать; получать; побеждать",
+    "translate": "выигрывать; добывать; получать; выиграть; побеждать",
     "context": [],
+    "irregular": true,
     "id": "6149001adcdfb6620ce2c7afb5f54fea"
   },
   {
@@ -9533,7 +9532,7 @@
     "base": "gießen",
     "article": null,
     "original": "gießen",
-    "translate": "лить; поливать; наливать; обливать",
+    "translate": "поливать; лить; наливать; обливать",
     "context": [],
     "id": "8b02035b7d140a9c05fb6b4881fd04cc"
   },
@@ -9746,7 +9745,7 @@
     "base": "halten",
     "article": null,
     "original": "halten",
-    "translate": "останавливать(ся); держать; останавливаться; содержать; соблюдать",
+    "translate": "держать; останавливаться; содержать; соблюдать; останавливать(ся)",
     "context": [],
     "id": "f52c4199a3fb661784f10725eaa48844"
   },
@@ -9776,6 +9775,7 @@
     "original": "heben",
     "translate": "поднимать; повышать",
     "context": [],
+    "irregular": true,
     "id": "23bf4c8505983b034a1cc79111300277"
   },
   {
@@ -9963,7 +9963,7 @@
     "base": "hören",
     "article": null,
     "original": "hören",
-    "translate": "слышать; слушать",
+    "translate": "слушать; слышать",
     "context": [],
     "id": "1ed4515c1c59b99dee495829cd0c67ee"
   },
@@ -10276,7 +10276,7 @@
     "base": "kaufen",
     "article": null,
     "original": "kaufen",
-    "translate": "покупать; купить",
+    "translate": "купить; покупать",
     "context": [],
     "id": "2e19d458a477eaa9b0bf39aaf96b3ca7"
   },
@@ -10285,7 +10285,7 @@
     "base": "kein",
     "article": null,
     "original": "kein",
-    "translate": "никакой; не; отрицание; ни один; никто",
+    "translate": "никакой; не; ни один; никто; отрицание",
     "context": [],
     "id": "872f9c6105c4c01ec8501d131eb3a91f"
   },
@@ -10367,8 +10367,8 @@
     "type": "verb",
     "base": "kochen",
     "article": null,
-    "original": "sieden; kochen",
-    "translate": "кипятить; кипеть; варить; готовить (пищу); стряпать; готовить",
+    "original": "kochen",
+    "translate": "варить; готовить (пищу); стряпать; кипятить; кипеть; готовить",
     "context": [],
     "id": "3c433836613d4ab6ce38d89d5d067695"
   },
@@ -10395,7 +10395,7 @@
     "base": "krank",
     "article": null,
     "original": "krank",
-    "translate": "больной; нездоровый",
+    "translate": "нездоровый; больной",
     "context": [],
     "id": "7bc6d0783dca9ca359a59635e9bdfd5a"
   },
@@ -10568,7 +10568,7 @@
     "base": "laufen",
     "article": null,
     "original": "laufen",
-    "translate": "бежать; бегать; убегать",
+    "translate": "бегать; бежать; убегать",
     "context": [],
     "id": "036a486f46fbc4792750ba8ba9b54b38"
   },
@@ -10642,6 +10642,7 @@
     "original": "leiden",
     "translate": "страдать; терпеть",
     "context": [],
+    "irregular": true,
     "id": "ecd814069a749ce9b7cb42463c662ead"
   },
   {
@@ -10649,7 +10650,7 @@
     "base": "leider",
     "article": null,
     "original": "leider",
-    "translate": "к сожалению; увы; жаль",
+    "translate": "к сожалению; жаль; увы",
     "context": [],
     "id": "528a8eccf56cc7789b99c64bca27dcc8"
   },
@@ -10658,8 +10659,9 @@
     "base": "leihen",
     "article": null,
     "original": "leihen",
-    "translate": "брать взаймы; одалживать; занимать",
+    "translate": "одалживать; занимать; брать взаймы",
     "context": [],
+    "irregular": true,
     "id": "aa2364db9046e33935699aa55d6361f9"
   },
   {
@@ -10721,7 +10723,7 @@
     "base": "liegen",
     "article": null,
     "original": "liegen",
-    "translate": "лежать; находиться; быть расположенным; располагаться",
+    "translate": "лежать; быть расположенным; располагаться; находиться",
     "context": [],
     "id": "610961ffe4c2828d291548701455777d"
   },
@@ -10748,7 +10750,7 @@
     "base": "lustig",
     "article": null,
     "original": "lustig",
-    "translate": "весёлый; забавный; веселый; радостный; смешной",
+    "translate": "весёлый; забавный; веселый; смешной; радостный",
     "context": [],
     "id": "4e7041099f81cd06eee3fade090f3cb2"
   },
@@ -11269,7 +11271,7 @@
     "base": "noch",
     "article": null,
     "original": "noch",
-    "translate": "(пока) ещё; по-прежнему; всё ещё; ещё; пока ещё",
+    "translate": "(пока) ещё; по-прежнему; всё ещё; пока ещё; ещё",
     "context": [],
     "id": "dbd35b35f88a13a62d4a32fb301c64cc"
   },
@@ -11580,7 +11582,7 @@
     "base": "rechnen",
     "article": null,
     "original": "rechnen",
-    "translate": "вычислять; решать",
+    "translate": "решать; вычислять",
     "context": [],
     "id": "7f8c3d0c4324abfd7043e562895c7f93"
   },
@@ -11616,7 +11618,7 @@
     "base": "regnen",
     "article": null,
     "original": "regnen",
-    "translate": "идёт дождь; идет дождь; дождить",
+    "translate": "идет дождь; дождить; идёт дождь",
     "context": [],
     "id": "11f989f7da812406ccfe2db1bb989fe5"
   },
@@ -11644,8 +11646,9 @@
     "base": "reiten",
     "article": null,
     "original": "reiten",
-    "translate": "скакать; ездить верхом",
+    "translate": "ездить верхом; скакать",
     "context": [],
+    "irregular": true,
     "id": "d7124c480858e92464d231d43586d8b6"
   },
   {
@@ -11665,6 +11668,7 @@
     "original": "rennen",
     "translate": "бежать; быстро бежать; мчаться",
     "context": [],
+    "irregular": true,
     "id": "78b2349279b620d00c4d3e941af491ce"
   },
   {
@@ -11690,7 +11694,7 @@
     "base": "richtig",
     "article": null,
     "original": "richtig",
-    "translate": "правильно; верно; правильный; верный",
+    "translate": "правильно; правильный; верно; верный",
     "context": [],
     "id": "509a561290b3df096806e61764fd99dd"
   },
@@ -11977,6 +11981,7 @@
     "original": "schließen",
     "translate": "закрывать; запирать; завершать; заключать; закрыть; завершить",
     "context": [],
+    "irregular": true,
     "id": "247595f6d4648d3ab866ccca95f24455"
   },
   {
@@ -12003,7 +12008,7 @@
     "base": "schmecken",
     "article": null,
     "original": "schmecken",
-    "translate": "пробовать на вкус; пробовать",
+    "translate": "пробовать; пробовать на вкус",
     "context": [],
     "id": "97e53fb74b77205b9116a28a0965bd4b"
   },
@@ -12012,8 +12017,9 @@
     "base": "schmeißen",
     "article": null,
     "original": "schmeißen",
-    "translate": "бросать; кидать; швырять",
+    "translate": "кидать; бросать; швырять",
     "context": [],
+    "irregular": true,
     "id": "68c78f6d713f4ab52a8489c7bcd801d5"
   },
   {
@@ -12052,6 +12058,7 @@
     "original": "schneiden",
     "translate": "резать; разрезать; стричь",
     "context": [],
+    "irregular": true,
     "id": "db119423ebc004b46388eabb7dc3c659"
   },
   {
@@ -12220,7 +12227,7 @@
     "base": "schützen",
     "article": null,
     "original": "schützen",
-    "translate": "защищать; охранять",
+    "translate": "охранять; защищать",
     "context": [],
     "id": "cd4e3ad1b7424823409dc7ec0f023221"
   },
@@ -12229,7 +12236,7 @@
     "base": "sehen",
     "article": null,
     "original": "sehen",
-    "translate": "видеть; смотреть; глядеть",
+    "translate": "смотреть; глядеть; видеть",
     "context": [],
     "id": "72aa6b45173767438a8a84e84a4e6d18"
   },
@@ -12252,6 +12259,15 @@
     "id": "66f134b42226f8d48e87368ff7e457cf"
   },
   {
+    "type": "*",
+    "base": "sein",
+    "article": null,
+    "original": "sein",
+    "translate": "быть; находиться; являться",
+    "context": [],
+    "id": "8b7150a10fb688e19fc9fe263f8886e0"
+  },
+  {
     "type": "verb",
     "base": "sein",
     "article": null,
@@ -12260,15 +12276,6 @@
     "context": [],
     "irregular": true,
     "id": "a017eb265503b12768802b679df03a5b"
-  },
-  {
-    "type": "*",
-    "base": "sein",
-    "article": null,
-    "original": "sein",
-    "translate": "быть; находиться; являться",
-    "context": [],
-    "id": "8b7150a10fb688e19fc9fe263f8886e0"
   },
   {
     "type": "*",
@@ -12482,9 +12489,10 @@
     "type": "verb",
     "base": "sieden",
     "article": null,
-    "original": "sieden; kochen",
+    "original": "sieden",
     "translate": "кипятить; кипеть",
     "context": [],
+    "irregular": true,
     "id": "654eb240162d3e302771dcfe6c35a738"
   },
   {
@@ -12668,7 +12676,7 @@
     "base": "sprechen",
     "article": null,
     "original": "sprechen",
-    "translate": "говорить; разговаривать",
+    "translate": "разговаривать; говорить",
     "context": [],
     "id": "1c58006cbbbdd86eae5da72ff8f88b94"
   },
@@ -12696,7 +12704,7 @@
     "base": "spät",
     "article": null,
     "original": "spät",
-    "translate": "поздний; запоздалый; поздно",
+    "translate": "поздний; поздно; запоздалый",
     "context": [],
     "id": "55c959be175288e90be6c37f7ddfe26e"
   },
@@ -12782,6 +12790,7 @@
     "original": "steigen",
     "translate": "подниматься; взбираться",
     "context": [],
+    "irregular": true,
     "id": "bb473a7e7072aa609ed6eb99d1cb5317"
   },
   {
@@ -12838,6 +12847,7 @@
     "original": "stoßen",
     "translate": "толкать",
     "context": [],
+    "irregular": true,
     "id": "2e59f227e316ace3445e00f776b6e898"
   },
   {
@@ -12990,7 +13000,7 @@
     "type": "verb",
     "base": "tragen",
     "article": null,
-    "original": "tragen; anhaben",
+    "original": "tragen",
     "translate": "носить; нести",
     "context": [],
     "id": "b0647b46e4c990800cda12f23f34bcba"
@@ -13301,6 +13311,7 @@
     "original": "verderben",
     "translate": "портить",
     "context": [],
+    "irregular": true,
     "id": "32436c81f90438797c8b7712c49886be"
   },
   {
@@ -13396,8 +13407,9 @@
     "base": "verlieren",
     "article": null,
     "original": "verlieren",
-    "translate": "проигрывать; терять",
+    "translate": "терять; проигрывать",
     "context": [],
+    "irregular": true,
     "id": "be822fb632415a1268b8a2f5c3c9fb8e"
   },
   {
@@ -13405,7 +13417,7 @@
     "base": "vermieten",
     "article": null,
     "original": "vermieten",
-    "translate": "сдавать в аренду; сдавать; сдавать в найм",
+    "translate": "сдавать; сдавать в найм; сдавать в аренду",
     "context": [
       [
         "Die Wohnung ist schon vermietet.",
@@ -13507,6 +13519,7 @@
     "original": "verzeihen",
     "translate": "прощать",
     "context": [],
+    "irregular": true,
     "id": "557916c9a90f351d0ad76c2fe37276bd"
   },
   {
@@ -13587,7 +13600,7 @@
     "base": "vor",
     "article": null,
     "original": "vor",
-    "translate": "раньше; прежде; перед; до",
+    "translate": "перед; раньше; прежде; до",
     "context": [
       [
         "Der Termin war vor einer Stunde.",
@@ -13614,7 +13627,7 @@
     "base": "vorbereiten",
     "article": null,
     "original": "vorbereiten",
-    "translate": "готовить; готовиться",
+    "translate": "готовиться; готовить",
     "context": [],
     "id": "d821a2884ce3ccbaffb5e4bb0a2a02cc"
   },
@@ -13622,7 +13635,7 @@
     "type": "verb",
     "base": "vorstellen",
     "article": null,
-    "original": "vorstellen",
+    "original": "(sich) vorstellen",
     "translate": "представлять; знакомить",
     "context": [
       [
@@ -14201,8 +14214,9 @@
     "base": "ziehen",
     "article": null,
     "original": "ziehen",
-    "translate": "тянуть; тащить",
+    "translate": "тащить; тянуть",
     "context": [],
+    "irregular": true,
     "id": "7b84938f6020b7d2daec28f390c69e47"
   },
   {
@@ -14467,7 +14481,7 @@
     "base": "Öl",
     "article": "das",
     "original": "das Öl",
-    "translate": "масло (растительное); масло; растительное масло; нефть",
+    "translate": "масло (растительное); масло; нефть; растительное масло",
     "context": [
       [
         "Den Salat machen wir ohne Öl.",
@@ -14525,7 +14539,7 @@
     "type": "verb",
     "base": "öffnen",
     "article": null,
-    "original": "öffnen; aufmachen",
+    "original": "öffnen",
     "translate": "открывать; открыть",
     "context": [
       [
