@@ -42,6 +42,15 @@
   },
   {
     "type": "noun",
+    "base": "Abfall",
+    "article": "der",
+    "original": "der Abfall",
+    "translate": "мусор; отходы",
+    "context": [],
+    "id": "495b42fb275d68fd96226c7eff8dae81"
+  },
+  {
+    "type": "noun",
     "base": "Abflug",
     "article": "der",
     "original": "der Abflug",
@@ -93,6 +102,15 @@
   },
   {
     "type": "noun",
+    "base": "Adler",
+    "article": "der",
+    "original": "der Adler",
+    "translate": "орел",
+    "context": [],
+    "id": "cf53c1a6c9f869c3a9fe12844febfb64"
+  },
+  {
+    "type": "noun",
     "base": "Adresse",
     "article": "die",
     "original": "die Adresse,-en",
@@ -107,6 +125,33 @@
   },
   {
     "type": "noun",
+    "base": "Adventskranz",
+    "article": "der",
+    "original": "der Adventskranz",
+    "translate": "рождественский венок",
+    "context": [],
+    "id": "ae2d31b21dff4deb9e3b7127af400df0"
+  },
+  {
+    "type": "noun",
+    "base": "Affe",
+    "article": "der",
+    "original": "der Affe",
+    "translate": "обезьяна",
+    "context": [],
+    "id": "5dd8bc7c2c4f65cd41b3cd97fef92e7c"
+  },
+  {
+    "type": "noun",
+    "base": "Alm",
+    "article": "die",
+    "original": "die Alm",
+    "translate": "альпийский луг",
+    "context": [],
+    "id": "f9956c7d005872b43f40fd509a80af02"
+  },
+  {
+    "type": "noun",
     "base": "Alter",
     "article": "das",
     "original": "das Alter",
@@ -118,6 +163,42 @@
       ]
     ],
     "id": "aeedbb0ebd6ef21e73841487a4ae92a6"
+  },
+  {
+    "type": "noun",
+    "base": "Ameise",
+    "article": "die",
+    "original": "die Ameise",
+    "translate": "муравей",
+    "context": [],
+    "id": "d14111fb498e9f254eb85c5d1558963f"
+  },
+  {
+    "type": "noun",
+    "base": "Ampel",
+    "article": "der",
+    "original": "der Ampel",
+    "translate": "светофор",
+    "context": [],
+    "id": "bd3af3f4035fbb757402ff8d64acf4b2"
+  },
+  {
+    "type": "noun",
+    "base": "Amsel",
+    "article": "die",
+    "original": "die Amsel",
+    "translate": "черный дрозд",
+    "context": [],
+    "id": "81b68b585c92acbc330ee6a524899a71"
+  },
+  {
+    "type": "noun",
+    "base": "Ananas",
+    "article": "die",
+    "original": "die Ananas",
+    "translate": "ананас",
+    "context": [],
+    "id": "5463fc133c828a76a5c7a05334a7ee37"
   },
   {
     "type": "noun",
@@ -139,6 +220,15 @@
   },
   {
     "type": "noun",
+    "base": "Anfangslesen",
+    "article": "das",
+    "original": "das Anfangslesen",
+    "translate": "чтение для начинающих",
+    "context": [],
+    "id": "38eaa046e7905aa8357352df31110b82"
+  },
+  {
+    "type": "noun",
     "base": "Angebot",
     "article": "das",
     "original": "das Angebot, -e",
@@ -150,6 +240,33 @@
       ]
     ],
     "id": "bb98c4916a86105b5b62d296676df4cf"
+  },
+  {
+    "type": "noun",
+    "base": "Angel",
+    "article": "der",
+    "original": "der Angel",
+    "translate": "удочка",
+    "context": [],
+    "id": "171577fe8c7c8dae8f746f18a262d7df"
+  },
+  {
+    "type": "noun",
+    "base": "Angel",
+    "article": "die",
+    "original": "die Angel",
+    "translate": "удочка",
+    "context": [],
+    "id": "72f0efd65050144f19f50b5217665cd0"
+  },
+  {
+    "type": "noun",
+    "base": "Angst",
+    "article": "die",
+    "original": "die Angst",
+    "translate": "страх; тревога",
+    "context": [],
+    "id": "dcc896c1c832a6704510c1cb78495ada"
   },
   {
     "type": "noun",
@@ -343,6 +460,15 @@
   },
   {
     "type": "noun",
+    "base": "Aquarium",
+    "article": "das",
+    "original": "das Aquarium",
+    "translate": "аквариум",
+    "context": [],
+    "id": "69be873f800a9febd5b0d8d0826cf88f"
+  },
+  {
+    "type": "noun",
     "base": "Arbeit",
     "article": "die",
     "original": "die Arbeit, -en",
@@ -443,6 +569,15 @@
     "id": "368e7fc1d81f0483bd0a5c7509b06ced"
   },
   {
+    "type": "noun",
+    "base": "Astronaut",
+    "article": "der",
+    "original": "der Astronaut",
+    "translate": "астронавт",
+    "context": [],
+    "id": "76095c9843159de54a4346ff8b649b5f"
+  },
+  {
     "type": "*",
     "base": "Auf Wiederhören",
     "article": null,
@@ -473,6 +608,15 @@
       ]
     ],
     "id": "da39a061b45816b86ac0a4704a4c87cf"
+  },
+  {
+    "type": "noun",
+    "base": "Aufregung",
+    "article": "die",
+    "original": "die Aufregung",
+    "translate": "волнение; беспокойство",
+    "context": [],
+    "id": "423a7f0b81e7867000c3e8db129cb9ab"
   },
   {
     "type": "noun",
@@ -592,6 +736,15 @@
   },
   {
     "type": "noun",
+    "base": "Ausplünderung",
+    "article": "die",
+    "original": "die Ausplünderung",
+    "translate": "ограбление",
+    "context": [],
+    "id": "b387ab7dcc5e98f580130a036d94d2c3"
+  },
+  {
+    "type": "noun",
     "base": "Aussage",
     "article": "die",
     "original": "die Aussage, -n",
@@ -673,6 +826,15 @@
       ]
     ],
     "id": "aa69e26717d198e5df87fb27069afff8"
+  },
+  {
+    "type": "noun",
+    "base": "Bach",
+    "article": "der",
+    "original": "der Bach",
+    "translate": "ручей; поток",
+    "context": [],
+    "id": "6177252e5b509e06704cdf9578c6f0e8"
   },
   {
     "type": "noun",
@@ -759,6 +921,24 @@
   },
   {
     "type": "noun",
+    "base": "Ball",
+    "article": "der",
+    "original": "der Ball",
+    "translate": "мяч",
+    "context": [],
+    "id": "1d9d71ebb49ec13aaacbd60e7ddab7f3"
+  },
+  {
+    "type": "noun",
+    "base": "Ballon",
+    "article": "der",
+    "original": "der Ballon",
+    "translate": "воздушный шар",
+    "context": [],
+    "id": "cb609318f892da9be901f99cc053a445"
+  },
+  {
+    "type": "noun",
     "base": "Banane",
     "article": "die",
     "original": "die Banane, -n",
@@ -842,6 +1022,15 @@
   },
   {
     "type": "noun",
+    "base": "Beil",
+    "article": "das",
+    "original": "das Beil",
+    "translate": "топор",
+    "context": [],
+    "id": "a29cb0812bb3c830fa3e332eee5ae676"
+  },
+  {
+    "type": "noun",
     "base": "Bein",
     "article": "das",
     "original": "das Bein, -e",
@@ -853,6 +1042,15 @@
       ]
     ],
     "id": "6b4d6c26aead40436deaae9c02ebdf05"
+  },
+  {
+    "type": "noun",
+    "base": "Bein",
+    "article": "der",
+    "original": "der Bein",
+    "translate": "нога",
+    "context": [],
+    "id": "d2cfa3ba5ffd9eb3bb9ee34e27e4beb7"
   },
   {
     "type": "noun",
@@ -902,6 +1100,15 @@
   },
   {
     "type": "noun",
+    "base": "Berg",
+    "article": "der",
+    "original": "der Berg",
+    "translate": "гора",
+    "context": [],
+    "id": "afb02a70f1f3ba024f3c99cdb09201d7"
+  },
+  {
+    "type": "noun",
     "base": "Beruf",
     "article": "der",
     "original": "der Beruf, -e",
@@ -920,6 +1127,15 @@
   },
   {
     "type": "noun",
+    "base": "Besen",
+    "article": "der",
+    "original": "der Besen",
+    "translate": "метла; веник",
+    "context": [],
+    "id": "2e70d7c8c34c00c50b3da6d46e59aad9"
+  },
+  {
+    "type": "noun",
     "base": "Bett",
     "article": "das",
     "original": "das Bett, -en",
@@ -931,6 +1147,24 @@
       ]
     ],
     "id": "b652d489b5b0423db65cff2c1038f0a1"
+  },
+  {
+    "type": "noun",
+    "base": "Beule",
+    "article": "die",
+    "original": "die Beule",
+    "translate": "шишка; вмятина",
+    "context": [],
+    "id": "fa22324634665304e85c0a438bc4d7d9"
+  },
+  {
+    "type": "noun",
+    "base": "Biene",
+    "article": "die",
+    "original": "die Biene",
+    "translate": "пчела",
+    "context": [],
+    "id": "7756837711412c44c8559438d2d707b4"
   },
   {
     "type": "noun",
@@ -990,10 +1224,19 @@
   },
   {
     "type": "noun",
+    "base": "Blatt",
+    "article": "das",
+    "original": "das Blatt",
+    "translate": "листок",
+    "context": [],
+    "id": "0a3565da6ec3d5dd755410c40f36598e"
+  },
+  {
+    "type": "noun",
     "base": "Bleistift",
     "article": "der",
     "original": "der Bleistift, -e",
-    "translate": "карандаш",
+    "translate": "карандаш; простой карандаш",
     "context": [
       [
         "Hast du einen Bleistift?",
@@ -1018,6 +1261,24 @@
   },
   {
     "type": "noun",
+    "base": "Blitz",
+    "article": "der",
+    "original": "der Blitz",
+    "translate": "молния; вспышка",
+    "context": [],
+    "id": "bb8fef644df0bb911113bbd9cb8658c3"
+  },
+  {
+    "type": "noun",
+    "base": "Block",
+    "article": "der",
+    "original": "der Block",
+    "translate": "блокнот",
+    "context": [],
+    "id": "8073db2fff43f8622b56b3a21e4dab1c"
+  },
+  {
+    "type": "noun",
     "base": "Blume",
     "article": "die",
     "original": "die Blume, -n",
@@ -1032,6 +1293,15 @@
   },
   {
     "type": "noun",
+    "base": "Blätter",
+    "article": "die",
+    "original": "die Blätter",
+    "translate": "листья",
+    "context": [],
+    "id": "43ceca5dfef8823a997e2109f5ccb302"
+  },
+  {
+    "type": "noun",
     "base": "Bogen",
     "article": "der",
     "original": "der Bogen",
@@ -1043,6 +1313,33 @@
       ]
     ],
     "id": "66b3ca019c8428b745e76554896ccca6"
+  },
+  {
+    "type": "noun",
+    "base": "Bonbon",
+    "article": "das",
+    "original": "das Bonbon",
+    "translate": "конфета",
+    "context": [],
+    "id": "92a9a21a33d8a12f82c03b63ccbbde60"
+  },
+  {
+    "type": "noun",
+    "base": "Bremse",
+    "article": "die",
+    "original": "die Bremse",
+    "translate": "тормоз",
+    "context": [],
+    "id": "501b8f65bebe327b308752591ad10188"
+  },
+  {
+    "type": "noun",
+    "base": "Brett",
+    "article": "das",
+    "original": "das Brett",
+    "translate": "доска",
+    "context": [],
+    "id": "a1544b48a15e81808639e4db502af602"
   },
   {
     "type": "noun",
@@ -1101,6 +1398,15 @@
   },
   {
     "type": "noun",
+    "base": "Brotdose",
+    "article": "die",
+    "original": "die Brotdose",
+    "translate": "ланчбокс",
+    "context": [],
+    "id": "9965d52db85518697db29572f9f37db8"
+  },
+  {
+    "type": "noun",
     "base": "Bruder",
     "article": "der",
     "original": "der Bruder, -ü",
@@ -1126,6 +1432,15 @@
       ]
     ],
     "id": "10a668d69f82a213af3362e527b01208"
+  },
+  {
+    "type": "noun",
+    "base": "Brücke",
+    "article": "die",
+    "original": "die Brücke",
+    "translate": "мост",
+    "context": [],
+    "id": "bafd4d9eb9a78c1a320ea5afc02a6c38"
   },
   {
     "type": "noun",
@@ -1161,6 +1476,42 @@
   },
   {
     "type": "noun",
+    "base": "Bude",
+    "article": "die",
+    "original": "die Bude",
+    "translate": "будка; ларек",
+    "context": [],
+    "id": "a04a0ffbfed81ab8481795d590c4f7fd"
+  },
+  {
+    "type": "noun",
+    "base": "Buntestifte",
+    "article": "die",
+    "original": "die Buntestifte",
+    "translate": "цветные карандаши",
+    "context": [],
+    "id": "8699b57656cfb4fd188ab6794b67c2cb"
+  },
+  {
+    "type": "noun",
+    "base": "Burg",
+    "article": "die",
+    "original": "die Burg",
+    "translate": "замок; крепость",
+    "context": [],
+    "id": "c6ada8525a7a74c52069b6a7de6d6b26"
+  },
+  {
+    "type": "noun",
+    "base": "Burger",
+    "article": "der",
+    "original": "der Burger",
+    "translate": "житель; гражданин",
+    "context": [],
+    "id": "ad40ac0bd8270bb4e563b8b156d1c229"
+  },
+  {
+    "type": "noun",
     "base": "Bus",
     "article": "der",
     "original": "der Bus, -se",
@@ -1172,6 +1523,24 @@
       ]
     ],
     "id": "cc3e962194b5099e86ec6be7303bf31a"
+  },
+  {
+    "type": "noun",
+    "base": "Bus",
+    "article": "das",
+    "original": "das Bus",
+    "translate": "автобус",
+    "context": [],
+    "id": "c7a51873e0f37afc7a2edaf745d0a949"
+  },
+  {
+    "type": "noun",
+    "base": "Busch",
+    "article": "der",
+    "original": "der Busch",
+    "translate": "куст",
+    "context": [],
+    "id": "73fc23308c054d090e40448c72ffda8e"
   },
   {
     "type": "noun",
@@ -1203,6 +1572,51 @@
   },
   {
     "type": "noun",
+    "base": "Bälle",
+    "article": "die",
+    "original": "die Bälle",
+    "translate": "мячи",
+    "context": [],
+    "id": "5f315d5bcc6f99ae430606762e17c34e"
+  },
+  {
+    "type": "noun",
+    "base": "Bär",
+    "article": "der",
+    "original": "der Bär",
+    "translate": "медведь",
+    "context": [],
+    "id": "dcb67915b01932eb4c1b149d7f6e6205"
+  },
+  {
+    "type": "noun",
+    "base": "Bügel",
+    "article": "der",
+    "original": "der Bügel",
+    "translate": "вешалка (плечики)",
+    "context": [],
+    "id": "08884f95323058244277119bdc777d71"
+  },
+  {
+    "type": "noun",
+    "base": "Bürste",
+    "article": "die",
+    "original": "die Bürste",
+    "translate": "щётка",
+    "context": [],
+    "id": "a3a4bb86242449d42e9282fe81912b0d"
+  },
+  {
+    "type": "noun",
+    "base": "Büsche",
+    "article": "die",
+    "original": "die Büsche",
+    "translate": "кусты",
+    "context": [],
+    "id": "50192eafd09d799783718f88db6ba818"
+  },
+  {
+    "type": "noun",
     "base": "CD",
     "article": "die",
     "original": "die CD, -s",
@@ -1214,6 +1628,15 @@
       ]
     ],
     "id": "77f4fcede2dad405fb8abe067f368d9d"
+  },
+  {
+    "type": "noun",
+    "base": "CD",
+    "article": "das",
+    "original": "das CD",
+    "translate": "СД-диск",
+    "context": [],
+    "id": "eac61aa49ef8ed002e79be7518ddec6b"
   },
   {
     "type": "noun",
@@ -1231,10 +1654,19 @@
   },
   {
     "type": "noun",
+    "base": "Camping",
+    "article": "das",
+    "original": "das Camping",
+    "translate": "кэмпинг; лагерь",
+    "context": [],
+    "id": "daf4496a6a369ae664ed0643668b3bc2"
+  },
+  {
+    "type": "noun",
     "base": "Cent",
     "article": "der",
     "original": "der Cent",
-    "translate": "цент",
+    "translate": "цент; копейка",
     "context": [],
     "id": "3d8f4fcfeb73cc07bb112aaba6f7f5a9"
   },
@@ -1254,12 +1686,30 @@
   },
   {
     "type": "noun",
+    "base": "Clown",
+    "article": "der",
+    "original": "der Clown",
+    "translate": "клоун",
+    "context": [],
+    "id": "1be9ecf983116e7dbb2966f5911a7f84"
+  },
+  {
+    "type": "noun",
     "base": "Cola",
     "article": "die",
     "original": "die Cola",
     "translate": "кола",
     "context": [],
     "id": "5c40dcf395afe74bbc67de4ee6859dee"
+  },
+  {
+    "type": "noun",
+    "base": "Collie",
+    "article": "der",
+    "original": "der Collie",
+    "translate": "колли",
+    "context": [],
+    "id": "e96e9b7683df5c749664bf4723586b0c"
   },
   {
     "type": "noun",
@@ -1283,6 +1733,51 @@
     "translate": "компьютерная игра",
     "context": [],
     "id": "fc152d5c118c6dcb48a29cfe86bb0e37"
+  },
+  {
+    "type": "noun",
+    "base": "Container",
+    "article": "der",
+    "original": "der Container",
+    "translate": "контейнер",
+    "context": [],
+    "id": "b9973d75df4778bf3fbeeff15a57af03"
+  },
+  {
+    "type": "noun",
+    "base": "Cowboy",
+    "article": "der",
+    "original": "der Cowboy",
+    "translate": "ковбой",
+    "context": [],
+    "id": "05964da34fb6b164ff23ed921d8b2af5"
+  },
+  {
+    "type": "noun",
+    "base": "Creme",
+    "article": "die",
+    "original": "die Creme",
+    "translate": "крем",
+    "context": [],
+    "id": "cab6c71e8abebbd33760780ccb6e40a3"
+  },
+  {
+    "type": "noun",
+    "base": "Dach",
+    "article": "das",
+    "original": "das Dach",
+    "translate": "крыша",
+    "context": [],
+    "id": "b02b413f02e2536dd8ee9fcf22e4665b"
+  },
+  {
+    "type": "noun",
+    "base": "Dackel",
+    "article": "der",
+    "original": "der Dackel",
+    "translate": "такса",
+    "context": [],
+    "id": "67f27d078e77bda847a562cbba708d50"
   },
   {
     "type": "noun",
@@ -1335,6 +1830,33 @@
     "id": "27b30f61f887253939f7f475b070ce14"
   },
   {
+    "type": "noun",
+    "base": "Daumen",
+    "article": "der",
+    "original": "der Daumen",
+    "translate": "большой палец",
+    "context": [],
+    "id": "fe704d98b483d13a1d6955ccb969c8db"
+  },
+  {
+    "type": "noun",
+    "base": "Decke",
+    "article": "die",
+    "original": "die Decke",
+    "translate": "потолок; одеяло",
+    "context": [],
+    "id": "6594c7fac6ef6019cd77660bb804d7c3"
+  },
+  {
+    "type": "noun",
+    "base": "Delfin",
+    "article": "der",
+    "original": "der Delfin",
+    "translate": "дельфин",
+    "context": [],
+    "id": "cd4acd7784760f04a27eeb083090ac5f"
+  },
+  {
     "type": "*",
     "base": "Deutsch",
     "article": null,
@@ -1342,6 +1864,15 @@
     "translate": "немецкий",
     "context": [],
     "id": "7f1dd5d4b56a17e0e4b67a8a21cada97"
+  },
+  {
+    "type": "*",
+    "base": "Deutschland",
+    "article": null,
+    "original": "Deutschland",
+    "translate": "Германия",
+    "context": [],
+    "id": "b5085a66f6f3d35778c30a574fd6f681"
   },
   {
     "type": "noun",
@@ -1360,6 +1891,24 @@
     "translate": "вторник",
     "context": [],
     "id": "86e2030826b3f40649d42ad18b7e3945"
+  },
+  {
+    "type": "noun",
+    "base": "Ding",
+    "article": "das",
+    "original": "das Ding",
+    "translate": "вещь; предмет",
+    "context": [],
+    "id": "a16140cb7746d3978e8f5691b4a423ff"
+  },
+  {
+    "type": "noun",
+    "base": "Dinosaurier",
+    "article": "der",
+    "original": "der Dinosaurier",
+    "translate": "динозавр",
+    "context": [],
+    "id": "d0ba415544fb4c4e1fe2e80f2e40bfdf"
   },
   {
     "type": "noun",
@@ -1400,6 +1949,15 @@
   },
   {
     "type": "noun",
+    "base": "Domino",
+    "article": "das",
+    "original": "das Domino",
+    "translate": "домино",
+    "context": [],
+    "id": "173c1d382378d3be6f69613bc2074537"
+  },
+  {
+    "type": "noun",
     "base": "Donnerstag",
     "article": "der",
     "original": "der Donnerstag",
@@ -1437,12 +1995,39 @@
   },
   {
     "type": "noun",
+    "base": "Dornröschen",
+    "article": "das",
+    "original": "das Dornröschen",
+    "translate": "Спящая красавица",
+    "context": [],
+    "id": "ec37418525a6826e4bb72e4b46814630"
+  },
+  {
+    "type": "noun",
     "base": "Dose",
     "article": "die",
     "original": "die Dose",
     "translate": "консервная банка; банка",
     "context": [],
     "id": "f5a6db5d6feffa7484af26cd40f007bf"
+  },
+  {
+    "type": "noun",
+    "base": "Drache",
+    "article": "der",
+    "original": "der Drache",
+    "translate": "дракон",
+    "context": [],
+    "id": "f616394ee612d521d04b4aeb33a85c27"
+  },
+  {
+    "type": "noun",
+    "base": "Dreieck",
+    "article": "das",
+    "original": "das Dreieck",
+    "translate": "треугольник",
+    "context": [],
+    "id": "b4cd1137f2044266ea2f8be0766d1320"
   },
   {
     "type": "noun",
@@ -1499,6 +2084,24 @@
       ]
     ],
     "id": "525cd65f48c937be94052bd13c832ffa"
+  },
+  {
+    "type": "noun",
+    "base": "Dynamo",
+    "article": "der",
+    "original": "der Dynamo",
+    "translate": "генератор",
+    "context": [],
+    "id": "1f602a1839d8705171967a56d06ca9f0"
+  },
+  {
+    "type": "noun",
+    "base": "Dächer",
+    "article": "die",
+    "original": "die Dächer",
+    "translate": "крыши",
+    "context": [],
+    "id": "0ef73a65ac09eb3e6d545ffe22baf978"
   },
   {
     "type": "noun",
@@ -1581,6 +2184,24 @@
   },
   {
     "type": "noun",
+    "base": "Eichhörnchen",
+    "article": "das",
+    "original": "das Eichhörnchen",
+    "translate": "белка",
+    "context": [],
+    "id": "a693bed5df0fb603079d17b4fd21b3c1"
+  },
+  {
+    "type": "noun",
+    "base": "Eimer",
+    "article": "der",
+    "original": "der Eimer",
+    "translate": "ведро",
+    "context": [],
+    "id": "755ae5b2935b948e6dd5fb8d3baf357f"
+  },
+  {
+    "type": "noun",
     "base": "Eingang",
     "article": "der",
     "original": "der Eingang",
@@ -1618,6 +2239,24 @@
   },
   {
     "type": "noun",
+    "base": "Eins",
+    "article": "die",
+    "original": "die Eins",
+    "translate": "единица",
+    "context": [],
+    "id": "ebb30d39e24094e1b6a7beb0fc341940"
+  },
+  {
+    "type": "noun",
+    "base": "Einschulung",
+    "article": "die",
+    "original": "die Einschulung",
+    "translate": "обучение; первый день в школе",
+    "context": [],
+    "id": "e76b6f9dae5fb1d29398d95ec623a32a"
+  },
+  {
+    "type": "noun",
     "base": "Eintritt",
     "article": "der",
     "original": "der Eintritt",
@@ -1652,6 +2291,24 @@
     "translate": "лёд; мороженое",
     "context": [],
     "id": "b4d09134d6a4254aa130a7d0a81ddda3"
+  },
+  {
+    "type": "noun",
+    "base": "Eisbär",
+    "article": "der",
+    "original": "der Eisbär",
+    "translate": "белый медведь",
+    "context": [],
+    "id": "0a6d45fc31b8c54b41e4d03b6058bafc"
+  },
+  {
+    "type": "noun",
+    "base": "Elefant",
+    "article": "der",
+    "original": "der Elefant",
+    "translate": "слон",
+    "context": [],
+    "id": "b9a9a186fe107f97c3b89f7771bde12f"
   },
   {
     "type": "noun",
@@ -1710,6 +2367,33 @@
   },
   {
     "type": "noun",
+    "base": "Engel",
+    "article": "der",
+    "original": "der Engel",
+    "translate": "ангел",
+    "context": [],
+    "id": "07fb3ab3bad1f3eb6526504762a7018e"
+  },
+  {
+    "type": "noun",
+    "base": "Ente",
+    "article": "die",
+    "original": "die Ente",
+    "translate": "утка",
+    "context": [],
+    "id": "01df5a696b56279d4b36b3c1d6145991"
+  },
+  {
+    "type": "noun",
+    "base": "Enten",
+    "article": "die",
+    "original": "die Enten",
+    "translate": "утки",
+    "context": [],
+    "id": "ea17a7439f79e7446fd56cac85812c41"
+  },
+  {
+    "type": "noun",
     "base": "Entschuldigung",
     "article": "die",
     "original": "die Entschuldigung",
@@ -1733,6 +2417,24 @@
   },
   {
     "type": "noun",
+    "base": "Erde",
+    "article": "die",
+    "original": "die Erde",
+    "translate": "Земля",
+    "context": [],
+    "id": "64b49e7307614b32569f298186486723"
+  },
+  {
+    "type": "noun",
+    "base": "Erdnuss",
+    "article": "die",
+    "original": "die Erdnuss",
+    "translate": "арахис",
+    "context": [],
+    "id": "761ad7dda54a6526d502e42a412f2d13"
+  },
+  {
+    "type": "noun",
     "base": "Ergebnis",
     "article": "das",
     "original": "das Ergebnis, -se",
@@ -1744,6 +2446,24 @@
       ]
     ],
     "id": "e3b52a43e9468a52875a1358a8b231f9"
+  },
+  {
+    "type": "noun",
+    "base": "Erklärung",
+    "article": "die",
+    "original": "die Erklärung",
+    "translate": "расшифровка; пояснение",
+    "context": [],
+    "id": "03c9cdb067fa1b80d1dff41db2e684ea"
+  },
+  {
+    "type": "noun",
+    "base": "Erlebnisse",
+    "article": "das",
+    "original": "das Erlebnisse",
+    "translate": "переживания",
+    "context": [],
+    "id": "0ae8eacf1e5d8bd6113cbf10f872ec72"
   },
   {
     "type": "noun",
@@ -1761,6 +2481,15 @@
   },
   {
     "type": "noun",
+    "base": "Esel",
+    "article": "der",
+    "original": "der Esel",
+    "translate": "осёл",
+    "context": [],
+    "id": "39adcc0d068d181393cb66bbaa7e73dc"
+  },
+  {
+    "type": "noun",
     "base": "Essen",
     "article": "das",
     "original": "das Essen",
@@ -1775,12 +2504,48 @@
   },
   {
     "type": "noun",
+    "base": "Eule",
+    "article": "die",
+    "original": "die Eule",
+    "translate": "сова",
+    "context": [],
+    "id": "5e46d85055cce0e37e3765c24b0bb46f"
+  },
+  {
+    "type": "noun",
+    "base": "Eulenfeder",
+    "article": "der",
+    "original": "der Eulenfeder",
+    "translate": "перо совы",
+    "context": [],
+    "id": "773d9bb8ea46af7fa561634a61cdb37c"
+  },
+  {
+    "type": "noun",
     "base": "Euro",
     "article": "der",
     "original": "der Euro",
-    "translate": "евро",
+    "translate": "евро; евро (валюта)",
     "context": [],
     "id": "1488a9e8d682af40016905e1a7594944"
+  },
+  {
+    "type": "noun",
+    "base": "Euter",
+    "article": "das",
+    "original": "das Euter",
+    "translate": "вымя",
+    "context": [],
+    "id": "122152c9b2540d979438d0ea3d957dc4"
+  },
+  {
+    "type": "noun",
+    "base": "Faden",
+    "article": "der",
+    "original": "der Faden",
+    "translate": "нить",
+    "context": [],
+    "id": "5838f5137e570772d1589f3197cefb26"
   },
   {
     "type": "noun",
@@ -1891,6 +2656,15 @@
   },
   {
     "type": "noun",
+    "base": "Farben",
+    "article": "die",
+    "original": "die Farben",
+    "translate": "краски",
+    "context": [],
+    "id": "b685c9484fca93fa846ed6055ad6340f"
+  },
+  {
+    "type": "noun",
     "base": "Farrad",
     "article": "das",
     "original": "das Farrad",
@@ -1920,6 +2694,15 @@
     "translate": "Февраль",
     "context": [],
     "id": "2702fb9d9aa25ed0a3da00d1655cbc30"
+  },
+  {
+    "type": "noun",
+    "base": "Feder",
+    "article": "der",
+    "original": "der Feder",
+    "translate": "перо",
+    "context": [],
+    "id": "4528f282c5c27b8cab0637d6d7f93dfb"
   },
   {
     "type": "noun",
@@ -1955,6 +2738,33 @@
   },
   {
     "type": "noun",
+    "base": "Fell",
+    "article": "der",
+    "original": "der Fell",
+    "translate": "мех; шерсть",
+    "context": [],
+    "id": "bf529daf9c588f9aaa880860144c79bb"
+  },
+  {
+    "type": "noun",
+    "base": "Fenster",
+    "article": "das",
+    "original": "das Fenster",
+    "translate": "окно",
+    "context": [],
+    "id": "ee335e6ce78d383d6315b88f6069f397"
+  },
+  {
+    "type": "noun",
+    "base": "Ferien",
+    "article": "die",
+    "original": "die Ferien",
+    "translate": "каникулы; отпуск",
+    "context": [],
+    "id": "50187073e564e1ca40b8da64dca42db3"
+  },
+  {
+    "type": "noun",
     "base": "Ferienwohnung",
     "article": "die",
     "original": "die Ferienwohnung",
@@ -1987,10 +2797,19 @@
   },
   {
     "type": "noun",
+    "base": "Feuerzeug",
+    "article": "das",
+    "original": "das Feuerzeug",
+    "translate": "зажигалка",
+    "context": [],
+    "id": "6a23a3e94b94b8b4f142dab9018384e8"
+  },
+  {
+    "type": "noun",
     "base": "Fieber",
     "article": "das",
     "original": "das Fieber",
-    "translate": "жар; температура; лихорадка",
+    "translate": "жар; температура; лихорадка; высокая температура",
     "context": [
       [
         "Mein Mann hat noch immer Fieber.",
@@ -2004,7 +2823,7 @@
     "base": "Film",
     "article": "der",
     "original": "der Film, -e",
-    "translate": "фильм",
+    "translate": "фильм; плёнка",
     "context": [
       [
         "Ich möchte gern diesen Film sehen.",
@@ -2052,6 +2871,33 @@
   },
   {
     "type": "noun",
+    "base": "Fischer",
+    "article": "der",
+    "original": "der Fischer",
+    "translate": "рыбак",
+    "context": [],
+    "id": "5bdaf114c3627fa46e614d6f30754299"
+  },
+  {
+    "type": "noun",
+    "base": "Flamme",
+    "article": "die",
+    "original": "die Flamme",
+    "translate": "пламя; огонь",
+    "context": [],
+    "id": "001624b5181f02727eb49722720f2197"
+  },
+  {
+    "type": "noun",
+    "base": "Flamme ist aus.",
+    "article": "die",
+    "original": "Die Flamme ist aus.",
+    "translate": "Пламя погасло.",
+    "context": [],
+    "id": "c71b7b7fa109d3ac7f840a99c2b4b17b"
+  },
+  {
+    "type": "noun",
     "base": "Flasche",
     "article": "die",
     "original": "die Flasche, -n",
@@ -2066,6 +2912,24 @@
   },
   {
     "type": "noun",
+    "base": "Flashe",
+    "article": "die",
+    "original": "die Flashe",
+    "translate": "бутылка",
+    "context": [],
+    "id": "19ed1ae717d1ad47c4a563aa25f44806"
+  },
+  {
+    "type": "noun",
+    "base": "Fledermaus",
+    "article": "die",
+    "original": "die Fledermaus",
+    "translate": "летучая мышь",
+    "context": [],
+    "id": "1b61286742ff92ca28ffa4272562ab99"
+  },
+  {
+    "type": "noun",
     "base": "Fleisch",
     "article": "das",
     "original": "das Fleisch",
@@ -2077,6 +2941,33 @@
       ]
     ],
     "id": "2458a0f84823650efd08d5146d75f175"
+  },
+  {
+    "type": "noun",
+    "base": "Fliege",
+    "article": "die",
+    "original": "die Fliege",
+    "translate": "муха",
+    "context": [],
+    "id": "b3a389d0c7c9a0aafc073aef2565bc35"
+  },
+  {
+    "type": "noun",
+    "base": "Flosse",
+    "article": "die",
+    "original": "die Flosse",
+    "translate": "плавник",
+    "context": [],
+    "id": "c758c876c47dd25c5f5fbd14924ed20a"
+  },
+  {
+    "type": "noun",
+    "base": "Floß",
+    "article": "das",
+    "original": "das Floß",
+    "translate": "плот; поплавок",
+    "context": [],
+    "id": "e79562878c32f1438cb585c23ecb0d04"
   },
   {
     "type": "noun",
@@ -2114,6 +3005,24 @@
     "translate": "коридор; прихожая",
     "context": [],
     "id": "22322e1c13789011bdfdbb1bb4f2e8f8"
+  },
+  {
+    "type": "noun",
+    "base": "Flöte",
+    "article": "die",
+    "original": "die Flöte",
+    "translate": "флейта",
+    "context": [],
+    "id": "f1c6821c636b2507a6e84f4a5c855861"
+  },
+  {
+    "type": "noun",
+    "base": "Flügel",
+    "article": "die",
+    "original": "die Flügel",
+    "translate": "крылья",
+    "context": [],
+    "id": "1310de8f26794be707982da871ee7f7c"
   },
   {
     "type": "noun",
@@ -2156,6 +3065,24 @@
       ]
     ],
     "id": "89314913ab7a0e15f9c19a0ea0374c66"
+  },
+  {
+    "type": "*",
+    "base": "Frankreich",
+    "article": null,
+    "original": "Frankreich",
+    "translate": "Франция",
+    "context": [],
+    "id": "ed5f181069929b772b113f935aafaff3"
+  },
+  {
+    "type": "noun",
+    "base": "Fratze",
+    "article": "die",
+    "original": "die Fratze",
+    "translate": "гримаса",
+    "context": [],
+    "id": "9eed9fab36190550306c9763c43ebb7f"
   },
   {
     "type": "noun",
@@ -2258,6 +3185,24 @@
   },
   {
     "type": "noun",
+    "base": "Frosch",
+    "article": "der",
+    "original": "der Frosch",
+    "translate": "лягушка",
+    "context": [],
+    "id": "393b9deb818c2b87417843a9b166675f"
+  },
+  {
+    "type": "noun",
+    "base": "Früchte",
+    "article": "die",
+    "original": "die Früchte",
+    "translate": "фрукты",
+    "context": [],
+    "id": "7f3aebaba819960f235c0a736572cc7b"
+  },
+  {
+    "type": "noun",
     "base": "Frühjahr",
     "article": "das",
     "original": "der Frühling; das Frühjahr",
@@ -2336,6 +3281,15 @@
   },
   {
     "type": "noun",
+    "base": "Fön",
+    "article": "der",
+    "original": "der Fön",
+    "translate": "фен",
+    "context": [],
+    "id": "718b13a71f638dce1cef6eb8e761dc76"
+  },
+  {
+    "type": "noun",
     "base": "Führung",
     "article": "die",
     "original": "die Führung",
@@ -2347,6 +3301,15 @@
       ]
     ],
     "id": "46cf7c8f6ed718f3b2485e59667844ee"
+  },
+  {
+    "type": "noun",
+    "base": "Füße",
+    "article": "die",
+    "original": "die Füße",
+    "translate": "ступни",
+    "context": [],
+    "id": "e4c53e02b831dddf8fa285ec01682686"
   },
   {
     "type": "noun",
@@ -2365,6 +3328,15 @@
     "translate": "сад; парк",
     "context": [],
     "id": "63211e8979478711d77ad2fb89ac06ea"
+  },
+  {
+    "type": "noun",
+    "base": "Gartenschlauch",
+    "article": "das",
+    "original": "das Gartenschlauch",
+    "translate": "садовый шланг",
+    "context": [],
+    "id": "04e86ae3f9fa2dc2898457b397a39f55"
   },
   {
     "type": "noun",
@@ -2401,6 +3373,24 @@
     "translate": "день рождения; дата рождения",
     "context": [],
     "id": "50dd0bf038a5e6b086982ec01080676c"
+  },
+  {
+    "type": "noun",
+    "base": "Geige",
+    "article": "die",
+    "original": "die Geige",
+    "translate": "скрипка",
+    "context": [],
+    "id": "b63122a61107c6a2216dbef1050762ca"
+  },
+  {
+    "type": "noun",
+    "base": "Geist",
+    "article": "der",
+    "original": "der Geist",
+    "translate": "дух; привидение",
+    "context": [],
+    "id": "9cc44cacf67abc2db259354955ce1ff2"
   },
   {
     "type": "noun",
@@ -2503,6 +3493,15 @@
   },
   {
     "type": "noun",
+    "base": "Gesicht",
+    "article": "das",
+    "original": "das Gesicht",
+    "translate": "лицо; облик",
+    "context": [],
+    "id": "6c3fec98538addb446d5cd518b32ad7b"
+  },
+  {
+    "type": "noun",
     "base": "Gespräch",
     "article": "das",
     "original": "das Gespräch, -e",
@@ -2548,6 +3547,42 @@
   },
   {
     "type": "noun",
+    "base": "Gießkanne",
+    "article": "die",
+    "original": "die Gießkanne",
+    "translate": "лейка",
+    "context": [],
+    "id": "39479c79b84cc3bfbf256815487ff22f"
+  },
+  {
+    "type": "noun",
+    "base": "Gift",
+    "article": "das",
+    "original": "das Gift",
+    "translate": "яд; отрава",
+    "context": [],
+    "id": "4c19c9db5d4ea3ed7e0252e215a6916f"
+  },
+  {
+    "type": "noun",
+    "base": "Giraffe",
+    "article": "die",
+    "original": "die Giraffe",
+    "translate": "жираф",
+    "context": [],
+    "id": "944be3b8edaf0acce3156b9fc05bbfce"
+  },
+  {
+    "type": "noun",
+    "base": "Gitarre",
+    "article": "die",
+    "original": "die Gitarre",
+    "translate": "гитара",
+    "context": [],
+    "id": "b58a7bdf6b931b25863701b1cb137576"
+  },
+  {
+    "type": "noun",
     "base": "Glas",
     "article": "das",
     "original": "das Glas *{die Gläser}",
@@ -2557,12 +3592,30 @@
   },
   {
     "type": "noun",
+    "base": "Glatze",
+    "article": "die",
+    "original": "die Glatze",
+    "translate": "лысина",
+    "context": [],
+    "id": "c19bb490e6fb9ea1269aa32fdd34f0e4"
+  },
+  {
+    "type": "noun",
     "base": "Gleis",
     "article": "das",
     "original": "das Gleis",
     "translate": "путь; железнодорожный путь",
     "context": [],
     "id": "8305e51a8548f7b3c5bd90cd50c9f8bb"
+  },
+  {
+    "type": "noun",
+    "base": "Gläser",
+    "article": "die",
+    "original": "die Gläser",
+    "translate": "стаканы",
+    "context": [],
+    "id": "467efed123026797b9e28535f20392cd"
   },
   {
     "type": "noun",
@@ -2581,6 +3634,15 @@
     "translate": "поздравление; пожелание",
     "context": [],
     "id": "96869e43b7a2754670626e9043fa0ac3"
+  },
+  {
+    "type": "noun",
+    "base": "Gold",
+    "article": "das",
+    "original": "das Gold",
+    "translate": "золото",
+    "context": [],
+    "id": "c675dee88bdc8acd40c2bdb13736d419"
   },
   {
     "type": "noun",
@@ -2608,6 +3670,15 @@
     "translate": "грамм",
     "context": [],
     "id": "331790a578b0cfce2d1206175a29c9d4"
+  },
+  {
+    "type": "noun",
+    "base": "Gras",
+    "article": "das",
+    "original": "das Gras",
+    "translate": "трава",
+    "context": [],
+    "id": "65e3c68479934dcfd51044d1041ba510"
   },
   {
     "type": "noun",
@@ -2673,6 +3744,33 @@
     "id": "f2e00e413d5af2cab3def2ee59bb1522"
   },
   {
+    "type": "noun",
+    "base": "Gummi",
+    "article": "das",
+    "original": "das Gummi",
+    "translate": "резина",
+    "context": [],
+    "id": "4006935c24d843b9ae56c7d611be1de7"
+  },
+  {
+    "type": "noun",
+    "base": "Gummibär",
+    "article": "der",
+    "original": "der Gummibär",
+    "translate": "желейный мишка",
+    "context": [],
+    "id": "afbe18669ca264095dd658171c0dad0f"
+  },
+  {
+    "type": "noun",
+    "base": "Gurke",
+    "article": "die",
+    "original": "die Gurke",
+    "translate": "огурец",
+    "context": [],
+    "id": "4ee946446a198a8a8afa5be197e3ee8e"
+  },
+  {
     "type": "*",
     "base": "Gute Nacht",
     "article": null,
@@ -2710,12 +3808,48 @@
   },
   {
     "type": "noun",
+    "base": "Gürtel",
+    "article": "der",
+    "original": "der Gürtel",
+    "translate": "пояс; ремень",
+    "context": [],
+    "id": "15492e3e49888ed13810129ea5879c6c"
+  },
+  {
+    "type": "noun",
     "base": "Haar",
     "article": "das",
     "original": "das Haar",
     "translate": "волос; волосы",
     "context": [],
     "id": "b79598ca9784677d17e88b98876fa5e2"
+  },
+  {
+    "type": "noun",
+    "base": "Haare",
+    "article": "die",
+    "original": "die Haare",
+    "translate": "волосы",
+    "context": [],
+    "id": "3ffa306c9d8c662e9be9c2cfcaa2dc94"
+  },
+  {
+    "type": "noun",
+    "base": "Hahn",
+    "article": "der",
+    "original": "der Hahn",
+    "translate": "петух",
+    "context": [],
+    "id": "609529500df4af8626630c98918adf59"
+  },
+  {
+    "type": "noun",
+    "base": "Haken",
+    "article": "der",
+    "original": "der Haken",
+    "translate": "крюк; крючок",
+    "context": [],
+    "id": "3e4ae73a0db4ee8484a0f7ffb505d1f3"
   },
   {
     "type": "noun",
@@ -2764,12 +3898,30 @@
   },
   {
     "type": "noun",
+    "base": "Hammer",
+    "article": "der",
+    "original": "der Hammer",
+    "translate": "молоток",
+    "context": [],
+    "id": "0e6e8e32b9466dff99a2855ef7865708"
+  },
+  {
+    "type": "noun",
     "base": "Hand",
     "article": "die",
     "original": "die Hand",
-    "translate": "рука; кисть; ладонь",
+    "translate": "рука; кисть; ладонь; кисть руки",
     "context": [],
     "id": "b4d346ac2eb60ee3162d1965a1bf7552"
+  },
+  {
+    "type": "noun",
+    "base": "Handschuhe",
+    "article": "die",
+    "original": "die Handschuhe",
+    "translate": "рукавицы",
+    "context": [],
+    "id": "b17af92a75d6849ac42e0d4b2d6b5a19"
   },
   {
     "type": "noun",
@@ -2779,6 +3931,15 @@
     "translate": "мобильный телефон; телефон; мобильник",
     "context": [],
     "id": "e7a2348f95a0d7dbe825a7b54e44baf6"
+  },
+  {
+    "type": "noun",
+    "base": "Hase",
+    "article": "der",
+    "original": "der Hase",
+    "translate": "заяц",
+    "context": [],
+    "id": "c20cf972e503099c188e548a1f6ae917"
   },
   {
     "type": "noun",
@@ -2863,6 +4024,33 @@
   },
   {
     "type": "noun",
+    "base": "Haut",
+    "article": "die",
+    "original": "die Haut",
+    "translate": "кожа",
+    "context": [],
+    "id": "04300f01a5f9b9c8c1f61787dbd94a16"
+  },
+  {
+    "type": "noun",
+    "base": "Hecke",
+    "article": "die",
+    "original": "die Hecke",
+    "translate": "живая изгородь",
+    "context": [],
+    "id": "062c7b0917cb42d3cb37dff8451b9953"
+  },
+  {
+    "type": "noun",
+    "base": "Heft",
+    "article": "das",
+    "original": "das Heft",
+    "translate": "тетрадь",
+    "context": [],
+    "id": "6fa0c3ad85267b83ee09be773faac8a8"
+  },
+  {
+    "type": "noun",
     "base": "Heimat",
     "article": "die",
     "original": "die Heimat",
@@ -2878,6 +4066,24 @@
     "translate": "родина",
     "context": [],
     "id": "a74afe78b469453771018b4da23d94ae"
+  },
+  {
+    "type": "noun",
+    "base": "Heizung",
+    "article": "die",
+    "original": "die Heizung",
+    "translate": "батарея; отопление",
+    "context": [],
+    "id": "5c5884cd682c588eed9104be0ec3f812"
+  },
+  {
+    "type": "noun",
+    "base": "Helm",
+    "article": "der",
+    "original": "der Helm",
+    "translate": "шлем; каска",
+    "context": [],
+    "id": "373a356c8a432d28ca1262d2c359453f"
   },
   {
     "type": "noun",
@@ -2907,6 +4113,15 @@
     "id": "1970d16625f89feb588df26dbebd58ce"
   },
   {
+    "type": "noun",
+    "base": "Herz",
+    "article": "das",
+    "original": "das Herz",
+    "translate": "сердце",
+    "context": [],
+    "id": "94a6b3d13dc1b44b9787b534b431bde5"
+  },
+  {
     "type": "*",
     "base": "Herzlich willkommen",
     "article": null,
@@ -2917,12 +4132,39 @@
   },
   {
     "type": "noun",
+    "base": "Heu",
+    "article": "das",
+    "original": "das Heu",
+    "translate": "сено",
+    "context": [],
+    "id": "8d2ecba8d556f5201d52d54e8917ac6d"
+  },
+  {
+    "type": "noun",
+    "base": "Hexe",
+    "article": "die",
+    "original": "die Hexe",
+    "translate": "ведьма; колдунья",
+    "context": [],
+    "id": "fc76139d073682f4a9cf6b8e52a3be8e"
+  },
+  {
+    "type": "noun",
     "base": "Hilfe",
     "article": "die",
     "original": "die Hilfe",
     "translate": "помощь; поддержка",
     "context": [],
     "id": "fcc86379c05f9303c8a7812caed9f880"
+  },
+  {
+    "type": "noun",
+    "base": "Himmel",
+    "article": "der",
+    "original": "der Himmel",
+    "translate": "небо",
+    "context": [],
+    "id": "861794f53ccf587dd2b0ecf0eb7bc075"
   },
   {
     "type": "noun",
@@ -2944,12 +4186,39 @@
   },
   {
     "type": "noun",
+    "base": "Holz",
+    "article": "das",
+    "original": "das Holz",
+    "translate": "древесина",
+    "context": [],
+    "id": "595ffc51f341847e508934625bf99bc5"
+  },
+  {
+    "type": "noun",
+    "base": "Hose",
+    "article": "die",
+    "original": "die Hose",
+    "translate": "штаны",
+    "context": [],
+    "id": "4b4240f5667b064b623f4e5479eed63e"
+  },
+  {
+    "type": "noun",
     "base": "Hotel",
     "article": "das",
     "original": "das Hotel",
     "translate": "гостиница; отель",
     "context": [],
     "id": "ace7757478fbc216bae0070a3fc01387"
+  },
+  {
+    "type": "noun",
+    "base": "Huhn",
+    "article": "das",
+    "original": "das Huhn",
+    "translate": "курица",
+    "context": [],
+    "id": "2d69ab60dde777ffd77fc8f9f6b50d10"
   },
   {
     "type": "noun",
@@ -2971,6 +4240,24 @@
   },
   {
     "type": "noun",
+    "base": "Hupe",
+    "article": "die",
+    "original": "die Hupe",
+    "translate": "сигнал; клаксон",
+    "context": [],
+    "id": "85975398a057f3a4c3c1a185992a58d5"
+  },
+  {
+    "type": "noun",
+    "base": "Hut",
+    "article": "der",
+    "original": "der Hut",
+    "translate": "шляпа",
+    "context": [],
+    "id": "b07783ddccd8a30daa983072b5975832"
+  },
+  {
+    "type": "noun",
     "base": "Hähnchen",
     "article": "das",
     "original": "das Hähnchen",
@@ -2980,12 +4267,75 @@
   },
   {
     "type": "noun",
+    "base": "Hände",
+    "article": "die",
+    "original": "die Hände",
+    "translate": "руки",
+    "context": [],
+    "id": "ddf90376c85f29a6b46ce15539edc67b"
+  },
+  {
+    "type": "noun",
+    "base": "Hörner",
+    "article": "die",
+    "original": "die Hörner",
+    "translate": "рога",
+    "context": [],
+    "id": "7ba26b05edaa2274d55279631475722a"
+  },
+  {
+    "type": "noun",
+    "base": "Hügel",
+    "article": "der",
+    "original": "der Hügel",
+    "translate": "холм; бугор",
+    "context": [],
+    "id": "10ce7ee6043b69454c345d06a38af77a"
+  },
+  {
+    "type": "noun",
+    "base": "Hütte",
+    "article": "die",
+    "original": "die Hütte",
+    "translate": "избушка; хижина",
+    "context": [],
+    "id": "7999ea0fa9c3a7ce74ecb248a3c6db09"
+  },
+  {
+    "type": "noun",
     "base": "Idee",
     "article": "die",
     "original": "die Idee, -n",
     "translate": "идея; мысль",
     "context": [],
     "id": "03eef5c8edff75dc44f7858d59324b0c"
+  },
+  {
+    "type": "noun",
+    "base": "Igel",
+    "article": "der",
+    "original": "der Igel",
+    "translate": "ёж",
+    "context": [],
+    "id": "b644d36d26c8541036292706fbdd608f"
+  },
+  {
+    "type": "noun",
+    "base": "Iglu",
+    "article": "der",
+    "original": "der Iglu",
+    "translate": "иглу",
+    "context": [],
+    "id": "d015d93edcafef5f6007378f3cce4601"
+  },
+  {
+    "type": "noun",
+    "base": "Indianer",
+    "article": "der",
+    "original": "der Indianer",
+    "translate": "индеец",
+    "context": [],
+    "id": "f8ee48b90f2b542040f02a9dbe260205"
   },
   {
     "type": "noun",
@@ -3007,6 +4357,15 @@
   },
   {
     "type": "noun",
+    "base": "Insel",
+    "article": "die",
+    "original": "die Insel",
+    "translate": "остров",
+    "context": [],
+    "id": "a22a6e760aeffc0b2bed394ac7c09eb4"
+  },
+  {
+    "type": "noun",
     "base": "Internet",
     "article": "das",
     "original": "das Internet",
@@ -3018,6 +4377,15 @@
       ]
     ],
     "id": "071d03f1dcbde726f54b2bfe7e0fd739"
+  },
+  {
+    "type": "*",
+    "base": "Italien",
+    "article": null,
+    "original": "Italien",
+    "translate": "Италия",
+    "context": [],
+    "id": "dc38d58356b8f16264382f105a195bb6"
   },
   {
     "type": "noun",
@@ -3032,6 +4400,15 @@
       ]
     ],
     "id": "67492c54991339141b92b1804c51d323"
+  },
+  {
+    "type": "noun",
+    "base": "Jaguar",
+    "article": "der",
+    "original": "der Jaguar",
+    "translate": "ягуар",
+    "context": [],
+    "id": "2540edc4c7869a19e29a4d9cbb545ef8"
   },
   {
     "type": "noun",
@@ -3053,12 +4430,39 @@
   },
   {
     "type": "noun",
+    "base": "Jahrmarkt",
+    "article": "der",
+    "original": "der Jahrmarkt",
+    "translate": "ярмарка",
+    "context": [],
+    "id": "98b7526f44d401f051210df7cab81a67"
+  },
+  {
+    "type": "noun",
     "base": "Januar",
     "article": "der",
     "original": "der Januar",
     "translate": "Январь",
     "context": [],
     "id": "04ad578d451f31db46b4d3838235f803"
+  },
+  {
+    "type": "*",
+    "base": "Japan",
+    "article": null,
+    "original": "Japan",
+    "translate": "Япония",
+    "context": [],
+    "id": "5b1c172fda4870b04d0f04d05b01d2af"
+  },
+  {
+    "type": "noun",
+    "base": "Jo-Jo",
+    "article": "das",
+    "original": "das Jo-Jo",
+    "translate": "йо-йо",
+    "context": [],
+    "id": "2547c32e2d077ac3af9df16cb7711223"
   },
   {
     "type": "noun",
@@ -3073,6 +4477,15 @@
       ]
     ],
     "id": "a86b4c10465483a4182ce269afcb003c"
+  },
+  {
+    "type": "noun",
+    "base": "Joghurt",
+    "article": "das",
+    "original": "das Joghurt",
+    "translate": "йогурт",
+    "context": [],
+    "id": "48f04205fa9897a5bb5e7a98477f0ca8"
   },
   {
     "type": "*",
@@ -3131,6 +4544,15 @@
   },
   {
     "type": "noun",
+    "base": "Jäger",
+    "article": "der",
+    "original": "der Jäger",
+    "translate": "охотник; егерь",
+    "context": [],
+    "id": "9548c04a8bf533714091190809680cac"
+  },
+  {
+    "type": "noun",
     "base": "Kaffee",
     "article": "der",
     "original": "der Kaffee",
@@ -3140,10 +4562,73 @@
   },
   {
     "type": "noun",
+    "base": "Kakao",
+    "article": "der",
+    "original": "der Kakao",
+    "translate": "какао",
+    "context": [],
+    "id": "39125049a8c95056cc3aabb0912dbd13"
+  },
+  {
+    "type": "noun",
+    "base": "Kaktus",
+    "article": "der",
+    "original": "der Kaktus",
+    "translate": "кактус",
+    "context": [],
+    "id": "3f3b9a5a70e961f46a2530ddfc59f16a"
+  },
+  {
+    "type": "noun",
+    "base": "Kamel",
+    "article": "das",
+    "original": "das Kamel",
+    "translate": "верблюд",
+    "context": [],
+    "id": "6d6e317cf3ba358fc29263dff581022f"
+  },
+  {
+    "type": "noun",
+    "base": "Kamel",
+    "article": "der",
+    "original": "der Kamel",
+    "translate": "верблюд",
+    "context": [],
+    "id": "e8e4a791c51a72fe0813b1f251bed704"
+  },
+  {
+    "type": "noun",
+    "base": "Kamm",
+    "article": "der",
+    "original": "der Kamm",
+    "translate": "гребень; расческа",
+    "context": [],
+    "id": "fb8cbde12f9a906b3d48d26b2536be8c"
+  },
+  {
+    "type": "noun",
+    "base": "Kanne",
+    "article": "die",
+    "original": "die Kanne",
+    "translate": "чайник; кувшин",
+    "context": [],
+    "id": "5a12e7b0dc4453a616c5dcd7a13e6f90"
+  },
+  {
+    "type": "noun",
+    "base": "Kapitel",
+    "article": "das",
+    "original": "das Kapitel",
+    "translate": "глава книги",
+    "context": [],
+    "id": "ea7fcccb3bba1cfc10ac08c1382c0c23"
+  },
+  {
+    "type": "noun",
     "base": "Karte",
     "article": "die",
     "original": "die Karte",
-    "translate": "карта; билет",
+    "translate": "карта; билет; открытка",
     "context": [],
     "id": "c64d1f1b30b9c10f131bb29aa337106b"
   },
@@ -3158,12 +4643,39 @@
   },
   {
     "type": "noun",
+    "base": "Karussell",
+    "article": "das",
+    "original": "das Karussell",
+    "translate": "карусель",
+    "context": [],
+    "id": "2062344a036b85515819609b49bed918"
+  },
+  {
+    "type": "*",
+    "base": "Kasachstan",
+    "article": null,
+    "original": "Kasachstan",
+    "translate": "Казахстан",
+    "context": [],
+    "id": "9a461b5c925ea80d0dd67a4444c6f950"
+  },
+  {
+    "type": "noun",
     "base": "Kasse",
     "article": "die",
     "original": "die Kasse",
     "translate": "касса",
     "context": [],
     "id": "60f965f51ca62d674474e3a35092a3c2"
+  },
+  {
+    "type": "noun",
+    "base": "Katze",
+    "article": "die",
+    "original": "die Katze",
+    "translate": "кот",
+    "context": [],
+    "id": "bd7ac7cfdfbb2519620f066b38b1a43e"
   },
   {
     "type": "*",
@@ -3175,6 +4687,15 @@
     "id": "9fb9227f2876f3dcf8ce0b301d1fb89c"
   },
   {
+    "type": "noun",
+    "base": "Keks",
+    "article": "der",
+    "original": "der Keks",
+    "translate": "печенье",
+    "context": [],
+    "id": "7488c82b8169b7d64db48bf29cb6525c"
+  },
+  {
     "type": "*",
     "base": "Kenntnisse",
     "article": null,
@@ -3182,6 +4703,24 @@
     "translate": "знания",
     "context": [],
     "id": "4214cbe7705f5bfbf08795c204782dc9"
+  },
+  {
+    "type": "noun",
+    "base": "Kerze",
+    "article": "die",
+    "original": "die Kerze",
+    "translate": "свеча",
+    "context": [],
+    "id": "c6ebebcd45169a9b0f45ed6283b1115f"
+  },
+  {
+    "type": "noun",
+    "base": "Kette",
+    "article": "die",
+    "original": "die Kette",
+    "translate": "цепочка; ожерелье",
+    "context": [],
+    "id": "4022c8098f72f849b711662b10a9ce21"
   },
   {
     "type": "noun",
@@ -3200,6 +4739,15 @@
     "translate": "ребёнок; ребенок",
     "context": [],
     "id": "2baf1d523c9f66f06faa537a28c50c47"
+  },
+  {
+    "type": "noun",
+    "base": "Kinder",
+    "article": "die",
+    "original": "die Kinder",
+    "translate": "дети",
+    "context": [],
+    "id": "818a5345144b762cfad49004fb47fa23"
   },
   {
     "type": "*",
@@ -3248,6 +4796,78 @@
   },
   {
     "type": "noun",
+    "base": "Kirche",
+    "article": "die",
+    "original": "die Kirche",
+    "translate": "церковь",
+    "context": [],
+    "id": "ea83c244c916e27a29d0f39980586c5f"
+  },
+  {
+    "type": "noun",
+    "base": "Kirsche",
+    "article": "die",
+    "original": "die Kirsche",
+    "translate": "черешня; вишня",
+    "context": [],
+    "id": "026b183625e0d45c57bea4d6f86f8015"
+  },
+  {
+    "type": "noun",
+    "base": "Kissen",
+    "article": "das",
+    "original": "das Kissen",
+    "translate": "подушка",
+    "context": [],
+    "id": "0c7df50999421ae46539c532060b631f"
+  },
+  {
+    "type": "noun",
+    "base": "Kiste",
+    "article": "die",
+    "original": "die Kiste",
+    "translate": "ящик",
+    "context": [],
+    "id": "9835fc26db70add294dac750ac1c6cf5"
+  },
+  {
+    "type": "noun",
+    "base": "Kiwi",
+    "article": "die",
+    "original": "die Kiwi",
+    "translate": "киви",
+    "context": [],
+    "id": "d1dd757bf2bec5787d398033ce553bb1"
+  },
+  {
+    "type": "noun",
+    "base": "Kiwi",
+    "article": "der",
+    "original": "der Kiwi",
+    "translate": "киви",
+    "context": [],
+    "id": "22e37b166875492b7a2392ca912c303a"
+  },
+  {
+    "type": "noun",
+    "base": "Klammer",
+    "article": "der",
+    "original": "der Klammer",
+    "translate": "скобка; прищепка",
+    "context": [],
+    "id": "c5c66a2a465522db6c331b4dfd8e046c"
+  },
+  {
+    "type": "noun",
+    "base": "Klang",
+    "article": "der",
+    "original": "der Klang",
+    "translate": "звук; звонок",
+    "context": [],
+    "id": "eafb5572d8167dd38242a20a8c99fef8"
+  },
+  {
+    "type": "noun",
     "base": "Klasse",
     "article": "die",
     "original": "die Klasse",
@@ -3257,12 +4877,75 @@
   },
   {
     "type": "noun",
+    "base": "Klavier",
+    "article": "der",
+    "original": "der Klavier",
+    "translate": "пианино",
+    "context": [],
+    "id": "fb5242f4c6fd7fff2a1f5269b6245a1d"
+  },
+  {
+    "type": "noun",
+    "base": "Kleber",
+    "article": "der",
+    "original": "der Kleber",
+    "translate": "клей",
+    "context": [],
+    "id": "dd45082af8fea24c8874c9daf98e617d"
+  },
+  {
+    "type": "noun",
+    "base": "Kleberstift",
+    "article": "der",
+    "original": "der Kleberstift",
+    "translate": "клей-карандаш",
+    "context": [],
+    "id": "e8f90ee6abb68dcdcf13051d021d4f49"
+  },
+  {
+    "type": "noun",
     "base": "Kleidung",
     "article": "die",
     "original": "die Kleidung",
     "translate": "одежда",
     "context": [],
     "id": "d85eb09b27b9facf9b320830b1ad1d2f"
+  },
+  {
+    "type": "noun",
+    "base": "Klöße",
+    "article": "die",
+    "original": "die Klöße",
+    "translate": "клёцки",
+    "context": [],
+    "id": "a65331d6191ff33c753dd24e306d73fc"
+  },
+  {
+    "type": "noun",
+    "base": "Knochen",
+    "article": "der",
+    "original": "der Knochen",
+    "translate": "кость",
+    "context": [],
+    "id": "da8ce3deb2ab4b3497d43a0419eab26e"
+  },
+  {
+    "type": "noun",
+    "base": "Knopf",
+    "article": "der",
+    "original": "der Knopf",
+    "translate": "пуговица; кнопка",
+    "context": [],
+    "id": "7da570aa472c157bfe85863517028886"
+  },
+  {
+    "type": "noun",
+    "base": "Koch",
+    "article": "der",
+    "original": "der Koch",
+    "translate": "повар",
+    "context": [],
+    "id": "4868863534aa229dbf252e663d1e60be"
   },
   {
     "type": "noun",
@@ -3311,12 +4994,120 @@
   },
   {
     "type": "noun",
+    "base": "Kopfhörer",
+    "article": "der",
+    "original": "der Kopfhörer",
+    "translate": "наушники",
+    "context": [],
+    "id": "202e0e3d17432e5d84603b79ba847205"
+  },
+  {
+    "type": "noun",
+    "base": "Korb",
+    "article": "der",
+    "original": "der Korb",
+    "translate": "корзина",
+    "context": [],
+    "id": "7446d9148672dd3345a89a74bf7d1e36"
+  },
+  {
+    "type": "noun",
+    "base": "Krach",
+    "article": "der",
+    "original": "der Krach",
+    "translate": "шум; скандал",
+    "context": [],
+    "id": "50f0eae43e9a8fda0ffe4ba29d7bea86"
+  },
+  {
+    "type": "noun",
+    "base": "Kragen",
+    "article": "der",
+    "original": "der Kragen",
+    "translate": "воротник",
+    "context": [],
+    "id": "6f5fa52cc5d45a865040600f617360d6"
+  },
+  {
+    "type": "noun",
+    "base": "Krake",
+    "article": "der",
+    "original": "der Krake",
+    "translate": "осьминог",
+    "context": [],
+    "id": "ef1ff860e39d58b62ff5166458ba7c93"
+  },
+  {
+    "type": "noun",
+    "base": "Kran",
+    "article": "der",
+    "original": "der Kran",
+    "translate": "кран",
+    "context": [],
+    "id": "f87f991addee2d5d2db4005176872825"
+  },
+  {
+    "type": "noun",
     "base": "Krankheit",
     "article": "die",
     "original": "die Krankheit",
     "translate": "болезнь",
     "context": [],
     "id": "23b6a85f73b7da9ff45e4e27d9464958"
+  },
+  {
+    "type": "noun",
+    "base": "Krayon",
+    "article": "der",
+    "original": "der Krayon",
+    "translate": "восковой карандаш",
+    "context": [],
+    "id": "fcdce1d75366ab152df58c1e4583b5a0"
+  },
+  {
+    "type": "noun",
+    "base": "Kreide",
+    "article": "die",
+    "original": "die Kreide",
+    "translate": "мел",
+    "context": [],
+    "id": "8959a15192f9b948c8793a609859ff6c"
+  },
+  {
+    "type": "noun",
+    "base": "Kreis",
+    "article": "der",
+    "original": "der Kreis",
+    "translate": "круг; окружность",
+    "context": [],
+    "id": "7245ba4014cb2d44eda9dd1b2e9cc507"
+  },
+  {
+    "type": "noun",
+    "base": "Kreuzung",
+    "article": "die",
+    "original": "die Kreuzung",
+    "translate": "перекресток",
+    "context": [],
+    "id": "7c0b9c032dfae1215cdf8cd1b09e217d"
+  },
+  {
+    "type": "noun",
+    "base": "Krokodil",
+    "article": "der",
+    "original": "der Krokodil",
+    "translate": "крокодил",
+    "context": [],
+    "id": "db6f4b1110bbcceb7032e021a4eca374"
+  },
+  {
+    "type": "noun",
+    "base": "Krone",
+    "article": "die",
+    "original": "die Krone",
+    "translate": "корона",
+    "context": [],
+    "id": "fe39127f75a15c06d1a3b3fd73f86c7f"
   },
   {
     "type": "noun",
@@ -3329,12 +5120,30 @@
   },
   {
     "type": "noun",
+    "base": "Kugel",
+    "article": "die",
+    "original": "die Kugel",
+    "translate": "шар",
+    "context": [],
+    "id": "b246f65ea7ebbe7f3a786d7f0f4ded67"
+  },
+  {
+    "type": "noun",
     "base": "Kugelschreiber",
     "article": "der",
     "original": "der Kugelschreiber",
     "translate": "ручка; шариковая ручка",
     "context": [],
     "id": "13340c183639a5aa72fe998099131752"
+  },
+  {
+    "type": "noun",
+    "base": "Kuh",
+    "article": "die",
+    "original": "die Kuh",
+    "translate": "корова",
+    "context": [],
+    "id": "56ce6c90ea3bdfa5085939bd28755792"
   },
   {
     "type": "noun",
@@ -3356,12 +5165,57 @@
   },
   {
     "type": "noun",
+    "base": "Käfer",
+    "article": "der",
+    "original": "der Käfer",
+    "translate": "жук",
+    "context": [],
+    "id": "d0a13eef2f4738aaf84e9f094d3a9379"
+  },
+  {
+    "type": "noun",
+    "base": "Käfig",
+    "article": "der",
+    "original": "der Käfig",
+    "translate": "клетка",
+    "context": [],
+    "id": "87ed76365bd8a2f57260119fa3e0d14b"
+  },
+  {
+    "type": "noun",
     "base": "Käse",
     "article": "der",
     "original": "der Käse",
     "translate": "сыр; творог",
     "context": [],
     "id": "6e4e884f170af1a0b016fa553dd3e76c"
+  },
+  {
+    "type": "noun",
+    "base": "König",
+    "article": "der",
+    "original": "der König",
+    "translate": "король",
+    "context": [],
+    "id": "28960e81819bec9fcda7f4e28d509402"
+  },
+  {
+    "type": "*",
+    "base": "Könige (Vokale) markieren",
+    "article": null,
+    "original": "Könige (Vokale) markieren",
+    "translate": "отметить гласные",
+    "context": [],
+    "id": "bd4615a4d9b6f2888c1c6425356bf353"
+  },
+  {
+    "type": "noun",
+    "base": "Königin",
+    "article": "die",
+    "original": "die Königin",
+    "translate": "королева",
+    "context": [],
+    "id": "ee08057a2a9c3db878aa4807c173af8a"
   },
   {
     "type": "noun",
@@ -3374,6 +5228,15 @@
   },
   {
     "type": "noun",
+    "base": "Kühe",
+    "article": "die",
+    "original": "die Kühe",
+    "translate": "коровы",
+    "context": [],
+    "id": "fc467053f4afad64133ab9cae75ccb67"
+  },
+  {
+    "type": "noun",
     "base": "Kühlschrank",
     "article": "der",
     "original": "der Kühlschrank",
@@ -3383,12 +5246,48 @@
   },
   {
     "type": "noun",
+    "base": "Labyrinth",
+    "article": "das",
+    "original": "das Labyrinth",
+    "translate": "лабиринт",
+    "context": [],
+    "id": "27373c41755d932281b650d1a8a536f7"
+  },
+  {
+    "type": "noun",
     "base": "Laden",
     "article": "der",
     "original": "der Laden",
     "translate": "магазин; лавка",
     "context": [],
     "id": "89f118c2b35859a116a010ffb123ed59"
+  },
+  {
+    "type": "noun",
+    "base": "Lagerfeuer",
+    "article": "der",
+    "original": "der Lagerfeuer",
+    "translate": "костёр",
+    "context": [],
+    "id": "3b34a975bb302b1083c4f9f99d47678d"
+  },
+  {
+    "type": "noun",
+    "base": "Lama",
+    "article": "der",
+    "original": "der Lama",
+    "translate": "лама",
+    "context": [],
+    "id": "0b1b17da154c8a5a49dff497757c563e"
+  },
+  {
+    "type": "noun",
+    "base": "Lamm",
+    "article": "das",
+    "original": "das Lamm",
+    "translate": "ягненок",
+    "context": [],
+    "id": "69e75f4f67aca39fcbc72f8a794965df"
   },
   {
     "type": "noun",
@@ -3407,6 +5306,51 @@
     "translate": "страна; край; земля",
     "context": [],
     "id": "24b70a4354993cf70409e8552b84065f"
+  },
+  {
+    "type": "noun",
+    "base": "Lasso",
+    "article": "das",
+    "original": "das Lasso",
+    "translate": "лассо",
+    "context": [],
+    "id": "a0ab89faa4f6937d58bf06a6495175ca"
+  },
+  {
+    "type": "noun",
+    "base": "Laterne",
+    "article": "die",
+    "original": "die Laterne",
+    "translate": "фонарь",
+    "context": [],
+    "id": "0c6a43e6d37d70e5ae826ca245f6e0d9"
+  },
+  {
+    "type": "noun",
+    "base": "Laub",
+    "article": "das",
+    "original": "das Laub",
+    "translate": "листва",
+    "context": [],
+    "id": "a69dffc021a3c3219e43aceebd6c4c95"
+  },
+  {
+    "type": "noun",
+    "base": "Laus",
+    "article": "die",
+    "original": "die Laus",
+    "translate": "вошь",
+    "context": [],
+    "id": "fabd2221654b18ec5bec998de45282b3"
+  },
+  {
+    "type": "noun",
+    "base": "Laut",
+    "article": "der",
+    "original": "der Laut",
+    "translate": "звук",
+    "context": [],
+    "id": "2c812ca99280dd2366633ba54f521344"
   },
   {
     "type": "noun",
@@ -3437,12 +5381,66 @@
   },
   {
     "type": "noun",
+    "base": "Leine",
+    "article": "die",
+    "original": "die Leine",
+    "translate": "веревка",
+    "context": [],
+    "id": "4aee792dacc7aa805900fc8d71f5067d"
+  },
+  {
+    "type": "noun",
+    "base": "Leiter",
+    "article": "der",
+    "original": "der Leiter",
+    "translate": "руководитель; лестница",
+    "context": [],
+    "id": "91bd1bdf62d8bd0b2f8ff47cbaa5a747"
+  },
+  {
+    "type": "noun",
     "base": "Lektion",
     "article": "die",
     "original": "die Lektion",
     "translate": "лекция",
     "context": [],
     "id": "d3b8425b2df0400a4ca98ea3e6361d7b"
+  },
+  {
+    "type": "noun",
+    "base": "Lenkdrachen",
+    "article": "das",
+    "original": "das Lenkdrachen",
+    "translate": "воздушный змей",
+    "context": [],
+    "id": "3f9434bd9118a101d19d8e7c6e7c3666"
+  },
+  {
+    "type": "noun",
+    "base": "Lernwörter",
+    "article": "die",
+    "original": "die Lernwörter",
+    "translate": "изучаемые слова",
+    "context": [],
+    "id": "b375e03fd6b6e2eb3b4936874753bfc3"
+  },
+  {
+    "type": "noun",
+    "base": "Lesezeichen",
+    "article": "das",
+    "original": "das Lesezeichen",
+    "translate": "закладка",
+    "context": [],
+    "id": "6d19a630b8b255ee0123eb7c7856e445"
+  },
+  {
+    "type": "noun",
+    "base": "Leuchtfeuer",
+    "article": "das",
+    "original": "das Leuchtfeuer",
+    "translate": "маяк",
+    "context": [],
+    "id": "1d63ce438af0cf4872a504bf17b4d807"
   },
   {
     "type": "noun",
@@ -3518,6 +5516,33 @@
   },
   {
     "type": "noun",
+    "base": "Limo",
+    "article": "die",
+    "original": "die Limo",
+    "translate": "лимонад",
+    "context": [],
+    "id": "3a2d47aafaf03d28a913c0b00fa43cc1"
+  },
+  {
+    "type": "noun",
+    "base": "Lineal",
+    "article": "das",
+    "original": "das Lineal",
+    "translate": "линейка",
+    "context": [],
+    "id": "f55b6f60380d56096d0b4abe4e2da38c"
+  },
+  {
+    "type": "noun",
+    "base": "Linie",
+    "article": "die",
+    "original": "die Linie",
+    "translate": "линия; маршрут",
+    "context": [],
+    "id": "f6047e5e850efa97fca6951f48a8b76c"
+  },
+  {
+    "type": "noun",
     "base": "Liter",
     "article": "der",
     "original": "der Liter",
@@ -3536,12 +5561,66 @@
   },
   {
     "type": "noun",
+    "base": "Locher",
+    "article": "der",
+    "original": "der Locher",
+    "translate": "дырокол",
+    "context": [],
+    "id": "49035962a339d1d4d992ad2c450e77d3"
+  },
+  {
+    "type": "noun",
+    "base": "Locke",
+    "article": "die",
+    "original": "die Locke",
+    "translate": "локон; завиток",
+    "context": [],
+    "id": "76b4b0674fb4c47e4f55ae20d4a8b27f"
+  },
+  {
+    "type": "noun",
+    "base": "Lok",
+    "article": "die",
+    "original": "die Lok",
+    "translate": "локомотив",
+    "context": [],
+    "id": "988f866bc29f24bc43a596084f1f9553"
+  },
+  {
+    "type": "noun",
     "base": "Lokal",
     "article": "das",
     "original": "das Lokal",
     "translate": "кафе; ресторан; пивная; закусочная; бар",
     "context": [],
     "id": "d56e86722e09a9b620f88abd77e10ad0"
+  },
+  {
+    "type": "noun",
+    "base": "Luft",
+    "article": "die",
+    "original": "die Luft",
+    "translate": "воздух; атмосфера",
+    "context": [],
+    "id": "32dadac99d9bb94f98ec86501276ef05"
+  },
+  {
+    "type": "noun",
+    "base": "Lupe",
+    "article": "die",
+    "original": "die Lupe",
+    "translate": "лупа",
+    "context": [],
+    "id": "c4e19a605bc823cfe0c15629c64510f9"
+  },
+  {
+    "type": "noun",
+    "base": "Lutscher",
+    "article": "der",
+    "original": "der Lutscher",
+    "translate": "леденец на палочке",
+    "context": [],
+    "id": "ad3c2916d3e92c58ed9b2aa56953d01e"
   },
   {
     "type": "noun",
@@ -3563,6 +5642,33 @@
   },
   {
     "type": "noun",
+    "base": "Löwe",
+    "article": "der",
+    "original": "der Löwe",
+    "translate": "лев",
+    "context": [],
+    "id": "314aeb1d9b82a98ecb0b61c6220f7d99"
+  },
+  {
+    "type": "noun",
+    "base": "Löwenbaby",
+    "article": "das",
+    "original": "das Löwenbaby",
+    "translate": "львёнок",
+    "context": [],
+    "id": "735f33e76343c1bf07e9673ddb9cb083"
+  },
+  {
+    "type": "noun",
+    "base": "Löwenzahn",
+    "article": "der",
+    "original": "der Löwenzahn",
+    "translate": "одуванчик",
+    "context": [],
+    "id": "9d2b75df4fc1787ebbf9a440458024f8"
+  },
+  {
+    "type": "noun",
     "base": "Mai",
     "article": "der",
     "original": "der Mai",
@@ -3572,12 +5678,30 @@
   },
   {
     "type": "noun",
+    "base": "Maler",
+    "article": "der",
+    "original": "der Maler",
+    "translate": "художник",
+    "context": [],
+    "id": "13bec63e8e7b19a6e59e55f5ad45e030"
+  },
+  {
+    "type": "noun",
     "base": "Mann",
     "article": "der",
     "original": "der Mann *{die Männer}",
     "translate": "мужчина; супруг; муж",
     "context": [],
     "id": "30472ada7702521fd4e8a8457de50e92"
+  },
+  {
+    "type": "noun",
+    "base": "Mantel",
+    "article": "der",
+    "original": "der Mantel",
+    "translate": "пальто",
+    "context": [],
+    "id": "92abe00dddfdfe6b51bddebc53c3cc96"
   },
   {
     "type": "noun",
@@ -3599,6 +5723,51 @@
   },
   {
     "type": "noun",
+    "base": "Mauer",
+    "article": "die",
+    "original": "die Mauer",
+    "translate": "стена",
+    "context": [],
+    "id": "8c3bddf260c024ee3da8215cdc7a4323"
+  },
+  {
+    "type": "noun",
+    "base": "Maul",
+    "article": "das",
+    "original": "das Maul",
+    "translate": "морда; пасть",
+    "context": [],
+    "id": "f17c0061f71cd12a0b88047070d5e35a"
+  },
+  {
+    "type": "noun",
+    "base": "Maulwurf",
+    "article": "der",
+    "original": "der Maulwurf",
+    "translate": "крот",
+    "context": [],
+    "id": "90749c0718d9b50d30ad47122fc23547"
+  },
+  {
+    "type": "noun",
+    "base": "Maus",
+    "article": "die",
+    "original": "die Maus",
+    "translate": "мышь",
+    "context": [],
+    "id": "a0aeb1b085d8d53a9a92567c6e22efd0"
+  },
+  {
+    "type": "noun",
+    "base": "Mayonnaise",
+    "article": "die",
+    "original": "die Mayonnaise",
+    "translate": "майонез",
+    "context": [],
+    "id": "ec911a3fcd1e048b9e8cc63d3e440085"
+  },
+  {
+    "type": "noun",
     "base": "Medizin",
     "article": "die",
     "original": "die Medizin",
@@ -3614,6 +5783,42 @@
     "translate": "море; океан",
     "context": [],
     "id": "45856f1ad77c517cf3e0cef52ec598b2"
+  },
+  {
+    "type": "noun",
+    "base": "Meerschweinchen",
+    "article": "das",
+    "original": "das Meerschweinchen",
+    "translate": "морская свинка",
+    "context": [],
+    "id": "59fdc1fde19c6088bed0bb16f21df5a5"
+  },
+  {
+    "type": "noun",
+    "base": "Mehl",
+    "article": "das",
+    "original": "das Mehl",
+    "translate": "мука; порошок",
+    "context": [],
+    "id": "16115ddd2f4d44687c95e266f6f80808"
+  },
+  {
+    "type": "noun",
+    "base": "Meise",
+    "article": "die",
+    "original": "die Meise",
+    "translate": "синица",
+    "context": [],
+    "id": "b49203016158113139038dd8871c9764"
+  },
+  {
+    "type": "noun",
+    "base": "Melone",
+    "article": "die",
+    "original": "die Melone",
+    "translate": "арбуз/дыня",
+    "context": [],
+    "id": "cf9c9f501408ed681cd0096f563eb5b0"
   },
   {
     "type": "noun",
@@ -3635,6 +5840,15 @@
   },
   {
     "type": "noun",
+    "base": "Messer",
+    "article": "der",
+    "original": "der Messer",
+    "translate": "нож",
+    "context": [],
+    "id": "3d6b065d8b0760d7883f1357949fd652"
+  },
+  {
+    "type": "noun",
     "base": "Miete",
     "article": "die",
     "original": "die Miete",
@@ -3650,6 +5864,15 @@
     "translate": "молоко",
     "context": [],
     "id": "6907a5320ec1d0863545223688d4353f"
+  },
+  {
+    "type": "noun",
+    "base": "Milch",
+    "article": "das",
+    "original": "das Milch",
+    "translate": "молоко",
+    "context": [],
+    "id": "9977de4b6b3719e091328abdc2f51e06"
   },
   {
     "type": "noun",
@@ -3707,6 +5930,15 @@
   },
   {
     "type": "noun",
+    "base": "Mixer",
+    "article": "der",
+    "original": "der Mixer",
+    "translate": "миксер",
+    "context": [],
+    "id": "1c0652e190d7b1d8c206c9648f8448c9"
+  },
+  {
+    "type": "noun",
     "base": "Moment",
     "article": "der",
     "original": "der Moment",
@@ -3731,6 +5963,15 @@
     "translate": "месяц",
     "context": [],
     "id": "a2575ec76fe036fc72d016134038028e"
+  },
+  {
+    "type": "noun",
+    "base": "Mond",
+    "article": "der",
+    "original": "der Mond",
+    "translate": "луна; месяц",
+    "context": [],
+    "id": "c64916356ef70ce87d28bf6a26fe8c0e"
   },
   {
     "type": "noun",
@@ -3761,6 +6002,24 @@
   },
   {
     "type": "noun",
+    "base": "Murmel",
+    "article": "die",
+    "original": "die Murmel",
+    "translate": "стеклянный шарик",
+    "context": [],
+    "id": "e1b7fc6d6b4ae029289ad2de53305016"
+  },
+  {
+    "type": "noun",
+    "base": "Muschel",
+    "article": "die",
+    "original": "die Muschel",
+    "translate": "ракушка",
+    "context": [],
+    "id": "1f99624ab18894c416a3919eb1ca72db"
+  },
+  {
+    "type": "noun",
     "base": "Musik",
     "article": "die",
     "original": "die Musik",
@@ -3788,12 +6047,30 @@
   },
   {
     "type": "noun",
+    "base": "Märchen",
+    "article": "das",
+    "original": "das Märchen",
+    "translate": "сказка; выдумка",
+    "context": [],
+    "id": "b121e17e8708e393b304aafde56a352b"
+  },
+  {
+    "type": "noun",
     "base": "März",
     "article": "der",
     "original": "der März",
     "translate": "Март",
     "context": [],
     "id": "451f80216bb8f8aaee3c0df7aa59e0e9"
+  },
+  {
+    "type": "noun",
+    "base": "Mäuse",
+    "article": "die",
+    "original": "die Mäuse",
+    "translate": "мыши",
+    "context": [],
+    "id": "9b0b1b6a64e1c97704449b7ab601e90f"
   },
   {
     "type": "noun",
@@ -3812,6 +6089,51 @@
     "translate": "мебель",
     "context": [],
     "id": "fc4057424cdd7849e8b318d4a6abb079"
+  },
+  {
+    "type": "noun",
+    "base": "Mücke",
+    "article": "die",
+    "original": "die Mücke",
+    "translate": "комар",
+    "context": [],
+    "id": "6de267a73688d4a4eedd0d85e1c5146a"
+  },
+  {
+    "type": "noun",
+    "base": "Müll",
+    "article": "der",
+    "original": "der Müll",
+    "translate": "мусор",
+    "context": [],
+    "id": "e696297eda1fde85bb6fa81a6d8ce0e6"
+  },
+  {
+    "type": "noun",
+    "base": "Mülltonne",
+    "article": "die",
+    "original": "die Mülltonne",
+    "translate": "мусорный бак",
+    "context": [],
+    "id": "b144c3984cd081a41b022e4602eba680"
+  },
+  {
+    "type": "noun",
+    "base": "Mütze",
+    "article": "die",
+    "original": "die Mütze",
+    "translate": "кепка",
+    "context": [],
+    "id": "e32f828a22074299bc233e23ffd48f47"
+  },
+  {
+    "type": "noun",
+    "base": "Nabel",
+    "article": "der",
+    "original": "der Nabel",
+    "translate": "пупок",
+    "context": [],
+    "id": "3c90b828bd6e84b9801501eb40fa18df"
   },
   {
     "type": "noun",
@@ -3860,12 +6182,39 @@
   },
   {
     "type": "noun",
+    "base": "Nadel",
+    "article": "die",
+    "original": "die Nadel",
+    "translate": "игла",
+    "context": [],
+    "id": "f39b70afd96ccc4782c9b734310cfdbe"
+  },
+  {
+    "type": "noun",
+    "base": "Nagel",
+    "article": "der",
+    "original": "der Nagel",
+    "translate": "гвоздь; ноготь",
+    "context": [],
+    "id": "868e8e46e7c1216a705d9cb806106fdf"
+  },
+  {
+    "type": "noun",
     "base": "Name",
     "article": "der",
     "original": "der Name",
-    "translate": "имя; фамилия",
+    "translate": "имя; фамилия; название",
     "context": [],
     "id": "7e97f8358b5317a4e2971ad2e4c2f257"
+  },
+  {
+    "type": "noun",
+    "base": "Napf",
+    "article": "der",
+    "original": "der Napf",
+    "translate": "миска",
+    "context": [],
+    "id": "fc1245989013384c36bdd1968eeae587"
   },
   {
     "type": "noun",
@@ -3878,12 +6227,57 @@
   },
   {
     "type": "noun",
+    "base": "Nashorn",
+    "article": "das",
+    "original": "das Nashorn",
+    "translate": "носорог",
+    "context": [],
+    "id": "d9dda098c381d8a102e96f7b792b9d37"
+  },
+  {
+    "type": "noun",
     "base": "Natur",
     "article": "die",
     "original": "die Natur",
     "translate": "природа; натура; характер",
     "context": [],
     "id": "48a25aee077f8cb3feb6596b49c90f0c"
+  },
+  {
+    "type": "noun",
+    "base": "Nebel",
+    "article": "der",
+    "original": "der Nebel",
+    "translate": "туман",
+    "context": [],
+    "id": "e9dac7be84c35fd7ac027105e846c32d"
+  },
+  {
+    "type": "noun",
+    "base": "Nest",
+    "article": "das",
+    "original": "das Nest",
+    "translate": "гнездо",
+    "context": [],
+    "id": "78dcc490aa48664cc3f8fe6b5b57dacf"
+  },
+  {
+    "type": "noun",
+    "base": "Nistkasten",
+    "article": "der",
+    "original": "der Nistkasten",
+    "translate": "скворечник",
+    "context": [],
+    "id": "05a020a7489191b3d09bdaaf23865994"
+  },
+  {
+    "type": "noun",
+    "base": "Nixe",
+    "article": "die",
+    "original": "die Nixe",
+    "translate": "русалка",
+    "context": [],
+    "id": "77f223484ac1c975f9eedec7955127e9"
   },
   {
     "type": "noun",
@@ -3896,6 +6290,15 @@
   },
   {
     "type": "noun",
+    "base": "Note",
+    "article": "die",
+    "original": "die Note",
+    "translate": "оценка; нота",
+    "context": [],
+    "id": "fec841233c83a6ad6c0223a63a23cc7c"
+  },
+  {
+    "type": "noun",
     "base": "November",
     "article": "der",
     "original": "der November",
@@ -3905,12 +6308,30 @@
   },
   {
     "type": "noun",
+    "base": "Nudel",
+    "article": "die",
+    "original": "die Nudel",
+    "translate": "лапша; вермишель",
+    "context": [],
+    "id": "87b3fac651308d81b68378468a2073d7"
+  },
+  {
+    "type": "noun",
     "base": "Nummer",
     "article": "die",
     "original": "die Nummer",
     "translate": "номер",
     "context": [],
     "id": "38e59228a3af0ba770bc6c125fd86a9c"
+  },
+  {
+    "type": "noun",
+    "base": "Nuss",
+    "article": "die",
+    "original": "die Nuss",
+    "translate": "орех",
+    "context": [],
+    "id": "f0d4574ab1af210f7255e80bd8547a85"
   },
   {
     "type": "noun",
@@ -3925,6 +6346,15 @@
       ]
     ],
     "id": "ca9da68acb651174d184d10eae599569"
+  },
+  {
+    "type": "noun",
+    "base": "Ofen",
+    "article": "der",
+    "original": "der Ofen",
+    "translate": "печь",
+    "context": [],
+    "id": "6ea47b44e497766b2d9b1a6b2f946f1c"
   },
   {
     "type": "noun",
@@ -3943,6 +6373,15 @@
     "translate": "Октябрь",
     "context": [],
     "id": "1d9d17463e77c7307d954e90769da439"
+  },
+  {
+    "type": "noun",
+    "base": "Olympiade",
+    "article": "die",
+    "original": "die Olympiade",
+    "translate": "Олимпиада",
+    "context": [],
+    "id": "8270c216473882152998fdaf35973fc9"
   },
   {
     "type": "noun",
@@ -3983,6 +6422,15 @@
   },
   {
     "type": "noun",
+    "base": "Ordner",
+    "article": "der",
+    "original": "der Ordner",
+    "translate": "папка; скоросшиватель",
+    "context": [],
+    "id": "5049e347208f9c23b192ccfb7d430715"
+  },
+  {
+    "type": "noun",
     "base": "Ordnung",
     "article": "die",
     "original": "die Ordnung",
@@ -3994,6 +6442,15 @@
       ]
     ],
     "id": "fae5b5d4761d8bdbd7e04da99fe6c340"
+  },
+  {
+    "type": "noun",
+    "base": "Orkan",
+    "article": "der",
+    "original": "der Orkan",
+    "translate": "ураган",
+    "context": [],
+    "id": "9ff5145c8d7efc446e55324edcbeb698"
   },
   {
     "type": "noun",
@@ -4020,12 +6477,66 @@
   },
   {
     "type": "noun",
+    "base": "Ostereier",
+    "article": "die",
+    "original": "die Ostereier",
+    "translate": "пасхальные яйца",
+    "context": [],
+    "id": "4157fb339db88da85097e2033285ce26"
+  },
+  {
+    "type": "*",
+    "base": "Osterreich",
+    "article": null,
+    "original": "Osterreich",
+    "translate": "Австрия",
+    "context": [],
+    "id": "1292b2ba5c02b73b49aa5114ffc17dc1"
+  },
+  {
+    "type": "noun",
     "base": "Packung",
     "article": "die",
     "original": "die Packung",
     "translate": "упаковка; пачка",
     "context": [],
     "id": "48a229b74764f28dcec79ba3d1092ee7"
+  },
+  {
+    "type": "noun",
+    "base": "Paket",
+    "article": "das",
+    "original": "das Paket",
+    "translate": "пакет; посылка",
+    "context": [],
+    "id": "719e9069ffa067fd61dddd2168e26585"
+  },
+  {
+    "type": "noun",
+    "base": "Palme",
+    "article": "die",
+    "original": "die Palme",
+    "translate": "пальма",
+    "context": [],
+    "id": "7e98e61b703b9c8beac8c4f69fe201d5"
+  },
+  {
+    "type": "noun",
+    "base": "Panda",
+    "article": "der",
+    "original": "der Panda",
+    "translate": "панда",
+    "context": [],
+    "id": "c356e32a6d19623c9b8747b07fe9919d"
+  },
+  {
+    "type": "noun",
+    "base": "Papagei",
+    "article": "der",
+    "original": "der Papagei",
+    "translate": "попугай",
+    "context": [],
+    "id": "51d03a510e55250c6befe76c840db558"
   },
   {
     "type": "noun",
@@ -4047,6 +6558,15 @@
   },
   {
     "type": "noun",
+    "base": "Paprika",
+    "article": "die",
+    "original": "die Paprika",
+    "translate": "перец (сладкий)",
+    "context": [],
+    "id": "683c06b20a70b7d2ad5c45cd2fb8e186"
+  },
+  {
+    "type": "noun",
     "base": "Park",
     "article": "der",
     "original": "der Park",
@@ -4062,6 +6582,15 @@
     "translate": "партнер; напарник; компаньон",
     "context": [],
     "id": "76fe4e6d8f4ff4c2c2c373b1297e94f4"
+  },
+  {
+    "type": "noun",
+    "base": "Partnerarbeit",
+    "article": "die",
+    "original": "die Partnerarbeit",
+    "translate": "работа в паре",
+    "context": [],
+    "id": "1527260cf49e1129e73298a72ac2dc22"
   },
   {
     "type": "noun",
@@ -4101,12 +6630,39 @@
   },
   {
     "type": "noun",
+    "base": "Pelikan",
+    "article": "der",
+    "original": "der Pelikan",
+    "translate": "пеликан",
+    "context": [],
+    "id": "4b83d47a80e50d48148caff1dd4d1070"
+  },
+  {
+    "type": "noun",
     "base": "Person",
     "article": "die",
     "original": "die Person",
     "translate": "лицо; персона; человек",
     "context": [],
     "id": "1391c2368ef5a68c4d7b360bd0886fd4"
+  },
+  {
+    "type": "noun",
+    "base": "Pfanne",
+    "article": "die",
+    "original": "die Pfanne",
+    "translate": "сковорода",
+    "context": [],
+    "id": "c08c33801e635b72900ffa888dbdf8b5"
+  },
+  {
+    "type": "noun",
+    "base": "Pfau",
+    "article": "der",
+    "original": "der Pfau",
+    "translate": "павлин",
+    "context": [],
+    "id": "21118a70da688cafdea9e0c301255a6a"
   },
   {
     "type": "noun",
@@ -4119,6 +6675,69 @@
   },
   {
     "type": "noun",
+    "base": "Pfeife",
+    "article": "die",
+    "original": "die Pfeife",
+    "translate": "свисток",
+    "context": [],
+    "id": "bd9ddf3392da0163a4ea28e2bca8d8c0"
+  },
+  {
+    "type": "noun",
+    "base": "Pfeil",
+    "article": "der",
+    "original": "der Pfeil",
+    "translate": "стрела",
+    "context": [],
+    "id": "3c9685e00c82ff82f268aa7bc3ab0809"
+  },
+  {
+    "type": "noun",
+    "base": "Pferd",
+    "article": "das",
+    "original": "das Pferd",
+    "translate": "лошадь",
+    "context": [],
+    "id": "426d89e6db60a5ccb045c20ec5905f1f"
+  },
+  {
+    "type": "noun",
+    "base": "Pflaster",
+    "article": "der",
+    "original": "der Pflaster",
+    "translate": "пластырь",
+    "context": [],
+    "id": "0ea592d14bbd5e6c658b72fdfdf5c2a6"
+  },
+  {
+    "type": "noun",
+    "base": "Pflaume",
+    "article": "die",
+    "original": "die Pflaume",
+    "translate": "слива",
+    "context": [],
+    "id": "58ba3aa774195405c2026a99d681d901"
+  },
+  {
+    "type": "noun",
+    "base": "Pfosten",
+    "article": "der",
+    "original": "der Pfosten",
+    "translate": "столб; штанга",
+    "context": [],
+    "id": "f869750dab9b89d26731c13efe514242"
+  },
+  {
+    "type": "noun",
+    "base": "Pfote",
+    "article": "die",
+    "original": "die Pfote",
+    "translate": "лапа",
+    "context": [],
+    "id": "ef007ccfb44b41bb25bb25f4bed9a507"
+  },
+  {
+    "type": "noun",
     "base": "Pfund",
     "article": "das",
     "original": "das Pfund",
@@ -4128,12 +6747,66 @@
   },
   {
     "type": "noun",
+    "base": "Pfütze",
+    "article": "die",
+    "original": "die Pfütze",
+    "translate": "лужа",
+    "context": [],
+    "id": "09b7945c9f62c33bd3897b72b754dc6a"
+  },
+  {
+    "type": "noun",
     "base": "Picknick",
     "article": "das",
     "original": "das Picknick",
     "translate": "пикник",
     "context": [],
     "id": "e922cafd5e796ea02fe5e0795de99154"
+  },
+  {
+    "type": "noun",
+    "base": "Pilz",
+    "article": "der",
+    "original": "der Pilz",
+    "translate": "гриб",
+    "context": [],
+    "id": "229057607adfce9d6f85b0fd8001dd7a"
+  },
+  {
+    "type": "noun",
+    "base": "Pinguin",
+    "article": "der",
+    "original": "der Pinguin",
+    "translate": "пингвин",
+    "context": [],
+    "id": "e45d35cf2c7a6ef19f3c2f35bf58d461"
+  },
+  {
+    "type": "noun",
+    "base": "Pinsel",
+    "article": "der",
+    "original": "der Pinsel",
+    "translate": "кисточка",
+    "context": [],
+    "id": "6dea8438b63ddf484fdc16c905f9f828"
+  },
+  {
+    "type": "noun",
+    "base": "Pirat",
+    "article": "der",
+    "original": "der Pirat",
+    "translate": "пират",
+    "context": [],
+    "id": "705bd47a96104b27e5b2e7f0781b67e8"
+  },
+  {
+    "type": "noun",
+    "base": "Pizza",
+    "article": "die",
+    "original": "die Pizza",
+    "translate": "пицца",
+    "context": [],
+    "id": "4cd393b7cc3ed1159d62dbc59c7b4ed2"
   },
   {
     "type": "noun",
@@ -4163,6 +6836,24 @@
     "id": "89546c949067a741c621c52423cafc16"
   },
   {
+    "type": "noun",
+    "base": "Polizeiauto",
+    "article": "das",
+    "original": "das Polizeiauto",
+    "translate": "полицейская машина",
+    "context": [],
+    "id": "89dca226ee2b6c542ab3f58b898faed3"
+  },
+  {
+    "type": "noun",
+    "base": "Polizist",
+    "article": "der",
+    "original": "der Polizist",
+    "translate": "полицейский",
+    "context": [],
+    "id": "ae3d1656dcc4eb0a62e9dff1ddb9f5e9"
+  },
+  {
     "type": "*",
     "base": "Pommes",
     "article": null,
@@ -4182,12 +6873,39 @@
   },
   {
     "type": "noun",
+    "base": "Pony",
+    "article": "das",
+    "original": "das Pony",
+    "translate": "пони",
+    "context": [],
+    "id": "539a5b829a9ef0a70c27e3b25f058aea"
+  },
+  {
+    "type": "noun",
+    "base": "Popcorn",
+    "article": "das",
+    "original": "das Popcorn",
+    "translate": "попкорн",
+    "context": [],
+    "id": "bfce4bf06951054224c18db274693cc9"
+  },
+  {
+    "type": "noun",
     "base": "Post",
     "article": "die",
     "original": "die Post",
     "translate": "почта; почтамт",
     "context": [],
     "id": "cab5a5b994675ade07188c50a9b1101b"
+  },
+  {
+    "type": "noun",
+    "base": "Postkarte",
+    "article": "die",
+    "original": "die Postkarte",
+    "translate": "почтовая открытка",
+    "context": [],
+    "id": "b817c90ad8d81ad6e637cf6e32c6c0dd"
   },
   {
     "type": "noun",
@@ -4272,12 +6990,138 @@
   },
   {
     "type": "noun",
+    "base": "Pudel",
+    "article": "der",
+    "original": "der Pudel",
+    "translate": "пудель",
+    "context": [],
+    "id": "308c3843c6a107ce52c4f5a33383b2d0"
+  },
+  {
+    "type": "noun",
+    "base": "Pumpe",
+    "article": "die",
+    "original": "die Pumpe",
+    "translate": "насос",
+    "context": [],
+    "id": "51327699967762a3b4493e676e1be1cd"
+  },
+  {
+    "type": "noun",
+    "base": "Punkt",
+    "article": "der",
+    "original": "der Punkt",
+    "translate": "точка",
+    "context": [],
+    "id": "6f4f05806e098da70b864bcc0f871bfa"
+  },
+  {
+    "type": "noun",
+    "base": "Puppe",
+    "article": "die",
+    "original": "die Puppe",
+    "translate": "кукла",
+    "context": [],
+    "id": "b1ec252232e91bd3f515d5498080746a"
+  },
+  {
+    "type": "noun",
+    "base": "Puppenwagen",
+    "article": "der",
+    "original": "der Puppenwagen",
+    "translate": "игрушечная коляска",
+    "context": [],
+    "id": "b581ef65215f2006581652a1cae86a2d"
+  },
+  {
+    "type": "noun",
+    "base": "Pyramide",
+    "article": "die",
+    "original": "die Pyramide",
+    "translate": "пирамида",
+    "context": [],
+    "id": "66dc397a5ad05a269fa6f71c72acc19c"
+  },
+  {
+    "type": "noun",
+    "base": "Quadrat",
+    "article": "das",
+    "original": "das Quadrat",
+    "translate": "квадрат",
+    "context": [],
+    "id": "279d6e828b57f04f14ea807e02b82b90"
+  },
+  {
+    "type": "noun",
     "base": "Quadratmeter",
     "article": "der",
     "original": "der Quadratmeter",
     "translate": "квадратный метр",
     "context": [],
     "id": "55da3fb075ae852ff37510af6024cf52"
+  },
+  {
+    "type": "noun",
+    "base": "Qualle",
+    "article": "die",
+    "original": "die Qualle",
+    "translate": "медуза",
+    "context": [],
+    "id": "054c464e2860c454b414fe494d653fa0"
+  },
+  {
+    "type": "noun",
+    "base": "Quark",
+    "article": "der",
+    "original": "der Quark",
+    "translate": "творог",
+    "context": [],
+    "id": "dbca90dccd597fb2c68fb404072a7ba3"
+  },
+  {
+    "type": "noun",
+    "base": "Quartett",
+    "article": "das",
+    "original": "das Quartett",
+    "translate": "квартет",
+    "context": [],
+    "id": "6b5fd93983209d9a4e3758d4fd98d063"
+  },
+  {
+    "type": "noun",
+    "base": "Quelle",
+    "article": "die",
+    "original": "die Quelle",
+    "translate": "родник; источник",
+    "context": [],
+    "id": "ad3f1eff50f542e0fc3097a0ca92b1dd"
+  },
+  {
+    "type": "noun",
+    "base": "Querflöte",
+    "article": "die",
+    "original": "die Querflöte",
+    "translate": "поперечная флейта",
+    "context": [],
+    "id": "b88f0224595e172d922b719886177bfc"
+  },
+  {
+    "type": "noun",
+    "base": "Rabe",
+    "article": "der",
+    "original": "der Rabe",
+    "translate": "ворон",
+    "context": [],
+    "id": "fb504feba4fe71fa9aa18b31ea943c46"
+  },
+  {
+    "type": "noun",
+    "base": "Rad",
+    "article": "das",
+    "original": "das Rad",
+    "translate": "колесо",
+    "context": [],
+    "id": "e2ce8f9b1fc576e1823d48d57c3f2554"
   },
   {
     "type": "*",
@@ -4299,12 +7143,66 @@
   },
   {
     "type": "noun",
+    "base": "Rakete",
+    "article": "die",
+    "original": "die Rakete",
+    "translate": "ракета",
+    "context": [],
+    "id": "177df9e82e6a2d22d2d46b3562aacc57"
+  },
+  {
+    "type": "noun",
+    "base": "Ratte",
+    "article": "die",
+    "original": "die Ratte",
+    "translate": "крыса",
+    "context": [],
+    "id": "e89975dd2fdc0a322f4b0c66de186138"
+  },
+  {
+    "type": "noun",
+    "base": "Rauchzeichen",
+    "article": "das",
+    "original": "das Rauchzeichen",
+    "translate": "дымовые знаки",
+    "context": [],
+    "id": "686a16bd7f0381a99705f246e1ada78a"
+  },
+  {
+    "type": "noun",
     "base": "Raum",
     "article": "der",
     "original": "der Raum",
     "translate": "помещение; пространство; комната",
     "context": [],
     "id": "5b61bb33d0d0841fce994c146c4e57b6"
+  },
+  {
+    "type": "noun",
+    "base": "Raumschiff",
+    "article": "das",
+    "original": "das Raumschiff",
+    "translate": "космический корабль",
+    "context": [],
+    "id": "004578f63ca9538333e02657cdd97c82"
+  },
+  {
+    "type": "noun",
+    "base": "Raumschiff düst los.",
+    "article": "das",
+    "original": "Das Raumschiff düst los.",
+    "translate": "Космический корабль оставляет след.",
+    "context": [],
+    "id": "b6b41dc042b27b481466c9a8d9c6095e"
+  },
+  {
+    "type": "noun",
+    "base": "Raupe",
+    "article": "die",
+    "original": "die Raupe",
+    "translate": "гусеница",
+    "context": [],
+    "id": "25893d79a09f3aef22f2496b07fff290"
   },
   {
     "type": "noun",
@@ -4326,12 +7224,48 @@
   },
   {
     "type": "noun",
+    "base": "Regel",
+    "article": "die",
+    "original": "die Regel",
+    "translate": "правило",
+    "context": [],
+    "id": "f71a7b9f1a6725ad11d3008866e08b58"
+  },
+  {
+    "type": "noun",
     "base": "Regen",
     "article": "der",
     "original": "der Regen",
     "translate": "дождь",
     "context": [],
     "id": "6bd6b507be8446a55b7404d631d255a0"
+  },
+  {
+    "type": "noun",
+    "base": "Regenbogen",
+    "article": "der",
+    "original": "der Regenbogen",
+    "translate": "радуга",
+    "context": [],
+    "id": "5f3f19ff7b314d5f4d0b33f7434158d1"
+  },
+  {
+    "type": "noun",
+    "base": "Reh",
+    "article": "das",
+    "original": "das Reh",
+    "translate": "олень",
+    "context": [],
+    "id": "ed060b8b516942dd8bb0d994e903c86b"
+  },
+  {
+    "type": "noun",
+    "base": "Reime",
+    "article": "die",
+    "original": "die Reime",
+    "translate": "стих; рифма",
+    "context": [],
+    "id": "f71cd2459d8cbe11f4559773c8d2650e"
   },
   {
     "type": "noun",
@@ -4389,12 +7323,129 @@
   },
   {
     "type": "noun",
+    "base": "Rettich",
+    "article": "der",
+    "original": "der Rettich",
+    "translate": "редька; редис",
+    "context": [],
+    "id": "beb4e5de4be06c843e282dfd1d383564"
+  },
+  {
+    "type": "noun",
     "base": "Rezeption",
     "article": "die",
     "original": "die Rezeption",
     "translate": "ресепшн; стойка администратора",
     "context": [],
     "id": "307cc532bb976b5c2a21b03b28657051"
+  },
+  {
+    "type": "noun",
+    "base": "Riese",
+    "article": "der",
+    "original": "der Riese",
+    "translate": "великан",
+    "context": [],
+    "id": "f808d99f6a23ebb94a46ec1264c1b03f"
+  },
+  {
+    "type": "noun",
+    "base": "Ring",
+    "article": "der",
+    "original": "der Ring",
+    "translate": "кольцо",
+    "context": [],
+    "id": "b31464be6933feb8ff9bf26e210a5e1b"
+  },
+  {
+    "type": "noun",
+    "base": "Ritter",
+    "article": "der",
+    "original": "der Ritter",
+    "translate": "рыцарь",
+    "context": [],
+    "id": "390c692308a783af1e8ab25bccfc7077"
+  },
+  {
+    "type": "noun",
+    "base": "Roboter",
+    "article": "der",
+    "original": "der Roboter",
+    "translate": "робот",
+    "context": [],
+    "id": "56c7531331dcf862786c7f612933218c"
+  },
+  {
+    "type": "noun",
+    "base": "Rock",
+    "article": "der",
+    "original": "der Rock",
+    "translate": "юбка",
+    "context": [],
+    "id": "eb4ab939271f6619c1865322f025f916"
+  },
+  {
+    "type": "noun",
+    "base": "Roller",
+    "article": "der",
+    "original": "der Roller",
+    "translate": "самокат",
+    "context": [],
+    "id": "ff767d80d7305cb3c1e5811c478376d1"
+  },
+  {
+    "type": "noun",
+    "base": "Rose",
+    "article": "die",
+    "original": "die Rose",
+    "translate": "роза",
+    "context": [],
+    "id": "c3d8bba258ab353967e1ab11cb9d0133"
+  },
+  {
+    "type": "noun",
+    "base": "Ruder",
+    "article": "das",
+    "original": "das Ruder",
+    "translate": "весло",
+    "context": [],
+    "id": "4ae27c8fce764eff8b3018978507d472"
+  },
+  {
+    "type": "*",
+    "base": "Russland",
+    "article": null,
+    "original": "Russland",
+    "translate": "Россия",
+    "context": [],
+    "id": "8d90fcb830d820ee239757ab073c1811"
+  },
+  {
+    "type": "noun",
+    "base": "Rutsche",
+    "article": "die",
+    "original": "die Rutsche",
+    "translate": "горка",
+    "context": [],
+    "id": "c1f8568587d283b279bcc0b3d26cd25c"
+  },
+  {
+    "type": "noun",
+    "base": "Räder",
+    "article": "die",
+    "original": "die Räder",
+    "translate": "колёса",
+    "context": [],
+    "id": "1f27026dc8e95aef10e9f56e2abbfadd"
+  },
+  {
+    "type": "noun",
+    "base": "Räuber",
+    "article": "der",
+    "original": "der Räuber",
+    "translate": "грабитель",
+    "context": [],
+    "id": "4451f17cb8b016c6ce61a1e65feda5a0"
   },
   {
     "type": "noun",
@@ -4407,12 +7458,30 @@
   },
   {
     "type": "noun",
+    "base": "Rüssel",
+    "article": "der",
+    "original": "der Rüssel",
+    "translate": "хобот",
+    "context": [],
+    "id": "93aae8335beb86747b1c56927ae0f80e"
+  },
+  {
+    "type": "noun",
     "base": "S-Bahn",
     "article": "die",
     "original": "die S-Bahn",
     "translate": "городская электричка; городская железная дорога; электричка",
     "context": [],
     "id": "c931e3a5d777f506822b2c11c6925db0"
+  },
+  {
+    "type": "noun",
+    "base": "Sache",
+    "article": "die",
+    "original": "die Sache",
+    "translate": "вещь; дело",
+    "context": [],
+    "id": "5124cf79237c30f744de813f492bd320"
   },
   {
     "type": "noun",
@@ -4488,12 +7557,120 @@
   },
   {
     "type": "noun",
+    "base": "Schaf",
+    "article": "das",
+    "original": "das Schaf",
+    "translate": "овца",
+    "context": [],
+    "id": "3a2fa4b08522da22d18cf3e6395e4a56"
+  },
+  {
+    "type": "noun",
+    "base": "Schal",
+    "article": "der",
+    "original": "der Schal",
+    "translate": "шарф",
+    "context": [],
+    "id": "081ea2c37bd5b6b223bf546919e5ced9"
+  },
+  {
+    "type": "noun",
+    "base": "Schale",
+    "article": "die",
+    "original": "die Schale",
+    "translate": "кожура; чаша",
+    "context": [],
+    "id": "25762bd45825659021006972db60eb64"
+  },
+  {
+    "type": "noun",
     "base": "Schalter",
     "article": "der",
     "original": "der Schalter",
     "translate": "окно; касса; выключатель",
     "context": [],
     "id": "749d2db25c3ac84bfa962dee352d3949"
+  },
+  {
+    "type": "noun",
+    "base": "Schatz",
+    "article": "der",
+    "original": "der Schatz",
+    "translate": "сокровище; богатство",
+    "context": [],
+    "id": "81b52ba90c6c3f40ea3ea9f22ad7943f"
+  },
+  {
+    "type": "noun",
+    "base": "Schatze",
+    "article": "die",
+    "original": "die Schatze",
+    "translate": "сокровища",
+    "context": [],
+    "id": "454bc8826563fbfface69b71c4d4e517"
+  },
+  {
+    "type": "noun",
+    "base": "Schaufel",
+    "article": "die",
+    "original": "die Schaufel",
+    "translate": "совок",
+    "context": [],
+    "id": "f2bac39967a1e40831e72ea85560ea17"
+  },
+  {
+    "type": "noun",
+    "base": "Schaukel",
+    "article": "die",
+    "original": "die Schaukel",
+    "translate": "качели",
+    "context": [],
+    "id": "d87115c6fa4f101af4fbaae11d8ce1fc"
+  },
+  {
+    "type": "noun",
+    "base": "Scheibe",
+    "article": "die",
+    "original": "die Scheibe",
+    "translate": "ломтик; долька",
+    "context": [],
+    "id": "b2a978bc39f073c7b77cad3b5e27da76"
+  },
+  {
+    "type": "noun",
+    "base": "Scherbe",
+    "article": "die",
+    "original": "die Scherbe",
+    "translate": "осколок; обломок",
+    "context": [],
+    "id": "af635e119f2755fc998c531c5133fe02"
+  },
+  {
+    "type": "noun",
+    "base": "Schere",
+    "article": "die",
+    "original": "die Schere",
+    "translate": "ножницы",
+    "context": [],
+    "id": "23da5d044aae9d0953c3c0d3a50c9329"
+  },
+  {
+    "type": "noun",
+    "base": "Schiene",
+    "article": "der",
+    "original": "der Schiene",
+    "translate": "рельс",
+    "context": [],
+    "id": "4f07f2f2fd1631c976ceb04a56d1a25c"
+  },
+  {
+    "type": "noun",
+    "base": "Schiff",
+    "article": "das",
+    "original": "das Schiff",
+    "translate": "корабль",
+    "context": [],
+    "id": "83b5c77ffc5ca134e5198d2b3539dc82"
   },
   {
     "type": "noun",
@@ -4515,6 +7692,15 @@
   },
   {
     "type": "noun",
+    "base": "Schirm",
+    "article": "der",
+    "original": "der Schirm",
+    "translate": "зонт",
+    "context": [],
+    "id": "6e36c086d3ccb85be1a23ef0bd25f124"
+  },
+  {
+    "type": "noun",
     "base": "Schlafzimmer",
     "article": "das",
     "original": "das Schlafzimmer",
@@ -4524,12 +7710,30 @@
   },
   {
     "type": "noun",
+    "base": "Schlange",
+    "article": "die",
+    "original": "die Schlange",
+    "translate": "змея; очередь",
+    "context": [],
+    "id": "4ab217e49ea1de8b5bf199ad64be57ae"
+  },
+  {
+    "type": "noun",
     "base": "Schloss",
     "article": "das",
     "original": "das Schloss",
     "translate": "замок; крепость",
     "context": [],
     "id": "35f850ba49a179300aaed7d08be3b863"
+  },
+  {
+    "type": "noun",
+    "base": "Schlossturm",
+    "article": "der",
+    "original": "der Schlossturm",
+    "translate": "башня замка",
+    "context": [],
+    "id": "ce3fd6a5afd4a4d0180605d5584c5388"
   },
   {
     "type": "noun",
@@ -4560,6 +7764,60 @@
   },
   {
     "type": "noun",
+    "base": "Schmetterling",
+    "article": "der",
+    "original": "der Schmetterling",
+    "translate": "бабочка",
+    "context": [],
+    "id": "085e0ce108133298daef62e40b2c6173"
+  },
+  {
+    "type": "noun",
+    "base": "Schnecke",
+    "article": "die",
+    "original": "die Schnecke",
+    "translate": "улитка",
+    "context": [],
+    "id": "5fddd3caa3c837d1fc15c71ecfec2d7d"
+  },
+  {
+    "type": "noun",
+    "base": "Schnee",
+    "article": "der",
+    "original": "der Schnee",
+    "translate": "снег",
+    "context": [],
+    "id": "f60084536eb070070880217b073164d8"
+  },
+  {
+    "type": "noun",
+    "base": "Schneehaufen",
+    "article": "der",
+    "original": "der Schneehaufen",
+    "translate": "сугроб",
+    "context": [],
+    "id": "bb64be2a5d0bebc4b410bd80b7c73e78"
+  },
+  {
+    "type": "noun",
+    "base": "Schnellheft",
+    "article": "das",
+    "original": "das Schnellheft",
+    "translate": "скоросшиватель",
+    "context": [],
+    "id": "3bf438b3f64029685ecdbe9449a8cf65"
+  },
+  {
+    "type": "noun",
+    "base": "Schokolade",
+    "article": "die",
+    "original": "die Schokolade",
+    "translate": "шоколад",
+    "context": [],
+    "id": "35da124ac9496033ad724371d3af4683"
+  },
+  {
+    "type": "noun",
     "base": "Schrank",
     "article": "der",
     "original": "der Schrank",
@@ -4587,6 +7845,69 @@
   },
   {
     "type": "noun",
+    "base": "Schulranzen",
+    "article": "der",
+    "original": "der Schulranzen",
+    "translate": "ранец",
+    "context": [],
+    "id": "ba0f16aeed9002cb8a2071075f3f4ac3"
+  },
+  {
+    "type": "noun",
+    "base": "Schultüte",
+    "article": "die",
+    "original": "die Schultüte",
+    "translate": "шультюте",
+    "context": [],
+    "id": "de39d6d23c1813cb98b09713d6043e4d"
+  },
+  {
+    "type": "noun",
+    "base": "Schwan",
+    "article": "der",
+    "original": "der Schwan",
+    "translate": "лебедь",
+    "context": [],
+    "id": "a07ae04a961b835fd4d6bfadd3a9a39a"
+  },
+  {
+    "type": "noun",
+    "base": "Schwanz",
+    "article": "der",
+    "original": "der Schwanz",
+    "translate": "хвост",
+    "context": [],
+    "id": "f0bf9488950601f0b3141d4f3d019335"
+  },
+  {
+    "type": "noun",
+    "base": "Schwein",
+    "article": "das",
+    "original": "das Schwein",
+    "translate": "свинья",
+    "context": [],
+    "id": "07540e6d48e45a5fe63c570a37a9c46d"
+  },
+  {
+    "type": "noun",
+    "base": "Schweiz",
+    "article": "die",
+    "original": "die Schweiz",
+    "translate": "Швейцария",
+    "context": [],
+    "id": "6e2c0938ae1f565d060d8e60dcf9e929"
+  },
+  {
+    "type": "noun",
+    "base": "Schwengel",
+    "article": "der",
+    "original": "der Schwengel",
+    "translate": "качалка",
+    "context": [],
+    "id": "6f7f893ac33f6fee8a0a296124700934"
+  },
+  {
+    "type": "noun",
     "base": "Schwester",
     "article": "die",
     "original": "die Schwester",
@@ -4602,6 +7923,24 @@
     "translate": "бассейн; плавательный бассейн",
     "context": [],
     "id": "59a60f406a9599ad9370990eae31c16a"
+  },
+  {
+    "type": "noun",
+    "base": "Schwimmer",
+    "article": "der",
+    "original": "der Schwimmer",
+    "translate": "пловец; поплавок",
+    "context": [],
+    "id": "e9a3f91d52a59ad4d3a7149968444ebf"
+  },
+  {
+    "type": "noun",
+    "base": "Schwäne",
+    "article": "die",
+    "original": "die Schwäne",
+    "translate": "лебеди",
+    "context": [],
+    "id": "a3b59ac08ebe88cfe01b1e8cb4f6b22d"
   },
   {
     "type": "noun",
@@ -4623,6 +7962,15 @@
   },
   {
     "type": "noun",
+    "base": "Schüssel",
+    "article": "die",
+    "original": "die Schüssel",
+    "translate": "миска; блюдце",
+    "context": [],
+    "id": "f7039b32140d4006ed848898b824400f"
+  },
+  {
+    "type": "noun",
     "base": "See",
     "article": "der",
     "original": "der See",
@@ -4632,12 +7980,57 @@
   },
   {
     "type": "noun",
+    "base": "Seestern",
+    "article": "der",
+    "original": "der Seestern",
+    "translate": "морская звезда",
+    "context": [],
+    "id": "5e9a2f58fa575f7d8d28f6dc5260e9da"
+  },
+  {
+    "type": "noun",
+    "base": "Segel",
+    "article": "das",
+    "original": "das Segel",
+    "translate": "парусник",
+    "context": [],
+    "id": "e84fb2102ecbeee810c608afab2866f8"
+  },
+  {
+    "type": "noun",
     "base": "Sehenswürdigkeit",
     "article": "die",
     "original": "die Sehenswürdigkeit",
     "translate": "достопримечательность",
     "context": [],
     "id": "56866054930a88b7e36d1a512c633222"
+  },
+  {
+    "type": "noun",
+    "base": "Seife",
+    "article": "die",
+    "original": "die Seife",
+    "translate": "мыло",
+    "context": [],
+    "id": "9da7b12d315176aa8938ddc2e0bf540b"
+  },
+  {
+    "type": "noun",
+    "base": "Seifenblase",
+    "article": "die",
+    "original": "die Seifenblase",
+    "translate": "мыльный пузырь",
+    "context": [],
+    "id": "84840fce5eefa382a5be5c4652563841"
+  },
+  {
+    "type": "noun",
+    "base": "Seil",
+    "article": "das",
+    "original": "das Seil",
+    "translate": "канат; трос",
+    "context": [],
+    "id": "19982205039157d0feac843396f3b2c9"
   },
   {
     "type": "*",
@@ -4653,7 +8046,7 @@
     "base": "Seite",
     "article": "die",
     "original": "die Seite, -n",
-    "translate": "сторонаж страница; страница",
+    "translate": "сторонаж страница; страница; сторона",
     "context": [],
     "id": "c723f31dea81e9bb6906eb9ce0563a31"
   },
@@ -4694,6 +8087,60 @@
     "id": "f7ec4b166db18fe57e8cd88ba6e4fb9e"
   },
   {
+    "type": "noun",
+    "base": "Sieb",
+    "article": "das",
+    "original": "das Sieb",
+    "translate": "сито; решето",
+    "context": [],
+    "id": "a18a41e2fcf8a4ce87e98dab51e7d8aa"
+  },
+  {
+    "type": "noun",
+    "base": "Silbe",
+    "article": "die",
+    "original": "die Silbe",
+    "translate": "слог",
+    "context": [],
+    "id": "5b1803489233a01fa613fb023eb92ae0"
+  },
+  {
+    "type": "*",
+    "base": "Silbenbögen zeichnen",
+    "article": null,
+    "original": "Silbenbögen zeichnen",
+    "translate": "отметить слоги",
+    "context": [],
+    "id": "cc011f4c0ea879f88af614455e990f14"
+  },
+  {
+    "type": "noun",
+    "base": "Singer",
+    "article": "der",
+    "original": "der Singer",
+    "translate": "певец",
+    "context": [],
+    "id": "3459c2ac51e7dc33b03486ab4556d7c7"
+  },
+  {
+    "type": "noun",
+    "base": "Sitz",
+    "article": "der",
+    "original": "der Sitz",
+    "translate": "сиденье",
+    "context": [],
+    "id": "8f5e6640784b8492d765f68f5e4c5c37"
+  },
+  {
+    "type": "noun",
+    "base": "Sitze",
+    "article": "die",
+    "original": "die Sitze",
+    "translate": "места; сиденья",
+    "context": [],
+    "id": "8a52a87d193a76b1762ac28af6c396c3"
+  },
+  {
     "type": "*",
     "base": "Ski fahren",
     "article": null,
@@ -4701,6 +8148,15 @@
     "translate": "кататься на лыжах",
     "context": [],
     "id": "839fa0f9512aa20339a5de564de349fb"
+  },
+  {
+    "type": "noun",
+    "base": "Socken",
+    "article": "die",
+    "original": "die Socken",
+    "translate": "носки",
+    "context": [],
+    "id": "c759d0c3c48af6fab57f043df304889b"
   },
   {
     "type": "noun",
@@ -4776,6 +8232,51 @@
   },
   {
     "type": "noun",
+    "base": "Spagat",
+    "article": "der",
+    "original": "der Spagat",
+    "translate": "шпагат; верёвка; дистанция",
+    "context": [],
+    "id": "6fbd12000d8e00d85e88421e5556f66c"
+  },
+  {
+    "type": "*",
+    "base": "Spanien",
+    "article": null,
+    "original": "Spanien",
+    "translate": "Испания",
+    "context": [],
+    "id": "020b7f9002db803e7098345996aab734"
+  },
+  {
+    "type": "noun",
+    "base": "Spaten",
+    "article": "der",
+    "original": "der Spaten",
+    "translate": "лопата",
+    "context": [],
+    "id": "e23721f436b7a327aa62f28e0228272d"
+  },
+  {
+    "type": "noun",
+    "base": "Spatz",
+    "article": "der",
+    "original": "der Spatz",
+    "translate": "воробей",
+    "context": [],
+    "id": "1a19f41f276a92ea02f184669b47e768"
+  },
+  {
+    "type": "noun",
+    "base": "Spaß",
+    "article": "der",
+    "original": "der Spaß",
+    "translate": "удовольствие; шутка; забава",
+    "context": [],
+    "id": "5427d32b8229475ba3460619f4023d78"
+  },
+  {
+    "type": "noun",
     "base": "Speise",
     "article": "die",
     "original": "die Speise",
@@ -4794,12 +8295,57 @@
   },
   {
     "type": "noun",
+    "base": "Spiegel",
+    "article": "der",
+    "original": "der Spiegel",
+    "translate": "зеркало",
+    "context": [],
+    "id": "763554e63ddd572c3669fc47f9649a67"
+  },
+  {
+    "type": "noun",
     "base": "Spiel",
     "article": "das",
     "original": "das Spiel",
     "translate": "игра",
     "context": [],
     "id": "7e031b0349266635d5eb183a38b260a2"
+  },
+  {
+    "type": "noun",
+    "base": "Spinat",
+    "article": "der",
+    "original": "der Spinat",
+    "translate": "шпинат",
+    "context": [],
+    "id": "804574540c6c583b4689acba740d6ce8"
+  },
+  {
+    "type": "noun",
+    "base": "Spinne",
+    "article": "die",
+    "original": "die Spinne",
+    "translate": "паук",
+    "context": [],
+    "id": "459ad60cf97ac7d9bf5483ccba008c29"
+  },
+  {
+    "type": "noun",
+    "base": "Spitze",
+    "article": "die",
+    "original": "die Spitze",
+    "translate": "остриё; верхушка",
+    "context": [],
+    "id": "54cea7740b64e9f44c293a661b40b7e4"
+  },
+  {
+    "type": "noun",
+    "base": "Spitzer",
+    "article": "der",
+    "original": "der Spitzer",
+    "translate": "точилка",
+    "context": [],
+    "id": "376ba8a6c72156eb254aebbe6f7d34e0"
   },
   {
     "type": "noun",
@@ -4821,6 +8367,15 @@
   },
   {
     "type": "noun",
+    "base": "Sportler",
+    "article": "der",
+    "original": "der Sportler",
+    "translate": "атлет",
+    "context": [],
+    "id": "6f032ef089bbb77035e85453e332f7b6"
+  },
+  {
+    "type": "noun",
     "base": "Sprache",
     "article": "die",
     "original": "die Sprache",
@@ -4839,6 +8394,42 @@
   },
   {
     "type": "noun",
+    "base": "Springseil",
+    "article": "das",
+    "original": "das Springseil",
+    "translate": "скакалка",
+    "context": [],
+    "id": "9b26aab71b028d1f23fab5f99ae22e68"
+  },
+  {
+    "type": "noun",
+    "base": "Spritze",
+    "article": "die",
+    "original": "die Spritze",
+    "translate": "укол; шприц",
+    "context": [],
+    "id": "1b7a77747a54cbbdcaa27102239291b4"
+  },
+  {
+    "type": "noun",
+    "base": "Stachel",
+    "article": "der",
+    "original": "der Stachel",
+    "translate": "жало; шип; колючка",
+    "context": [],
+    "id": "17a91884af5d4d643e75eb0315770aa9"
+  },
+  {
+    "type": "noun",
+    "base": "Stachelschwein",
+    "article": "das",
+    "original": "das Stachelschwein",
+    "translate": "дикобраз",
+    "context": [],
+    "id": "6a6382581591d902b1b02a1241c26ead"
+  },
+  {
+    "type": "noun",
     "base": "Stadt",
     "article": "die",
     "original": "die Stadt",
@@ -4848,12 +8439,129 @@
   },
   {
     "type": "noun",
+    "base": "Stall",
+    "article": "der",
+    "original": "der Stall",
+    "translate": "хлев; конюшня",
+    "context": [],
+    "id": "6042ad3edfc43bcd414245ed7798197f"
+  },
+  {
+    "type": "noun",
+    "base": "Stamm",
+    "article": "der",
+    "original": "der Stamm",
+    "translate": "ствол",
+    "context": [],
+    "id": "e5249ae9dc3e9700c6e068b91efbacdb"
+  },
+  {
+    "type": "noun",
+    "base": "Stand",
+    "article": "der",
+    "original": "der Stand",
+    "translate": "положение",
+    "context": [],
+    "id": "ec50346cfc1423e4f4543b96c528448a"
+  },
+  {
+    "type": "noun",
+    "base": "Start",
+    "article": "der",
+    "original": "der Start",
+    "translate": "старт",
+    "context": [],
+    "id": "609b881ffee4276fe57278d535527dc5"
+  },
+  {
+    "type": "noun",
+    "base": "Stein",
+    "article": "der",
+    "original": "der Stein",
+    "translate": "камень",
+    "context": [],
+    "id": "0b84635a659989d0b8d86f24069ab7e5"
+  },
+  {
+    "type": "noun",
     "base": "Stelle",
     "article": "die",
     "original": "die Stelle",
     "translate": "место; должность",
     "context": [],
     "id": "7048b1e509a0c0c1a400963bd6937631"
+  },
+  {
+    "type": "noun",
+    "base": "Stempel",
+    "article": "der",
+    "original": "der Stempel",
+    "translate": "штамп; печать",
+    "context": [],
+    "id": "da9609a67aa0d4be3a56441ead2c96a6"
+  },
+  {
+    "type": "noun",
+    "base": "Stempelkissen",
+    "article": "das",
+    "original": "das Stempelkissen",
+    "translate": "чернильная подушечка",
+    "context": [],
+    "id": "0fe208c1b2130b9095bdec7a6ee85bcf"
+  },
+  {
+    "type": "noun",
+    "base": "Stern",
+    "article": "der",
+    "original": "der Stern",
+    "translate": "звезда",
+    "context": [],
+    "id": "7ae8dbcad6e32689a7c279dec0020966"
+  },
+  {
+    "type": "noun",
+    "base": "Sternenhimmel",
+    "article": "der",
+    "original": "der Sternenhimmel",
+    "translate": "звездное небо",
+    "context": [],
+    "id": "429d4940d9a304618cb73519c882cfd5"
+  },
+  {
+    "type": "noun",
+    "base": "Stiefel",
+    "article": "der",
+    "original": "der Stiefel",
+    "translate": "сапог",
+    "context": [],
+    "id": "30ecbe78a444f57603ea45af767280c5"
+  },
+  {
+    "type": "noun",
+    "base": "Stiel",
+    "article": "der",
+    "original": "der Stiel",
+    "translate": "стебель; рукоятка",
+    "context": [],
+    "id": "44b29a74f204fa145d7936e2367d2a68"
+  },
+  {
+    "type": "noun",
+    "base": "Stift",
+    "article": "der",
+    "original": "der Stift",
+    "translate": "карандаш; ручка",
+    "context": [],
+    "id": "8b3e3ba757c7450ea859979ab57bd36f"
+  },
+  {
+    "type": "noun",
+    "base": "Stirn",
+    "article": "die",
+    "original": "die Stirn",
+    "translate": "лоб",
+    "context": [],
+    "id": "b40026fefc6b4112a5ad2c5acd1ecd73"
   },
   {
     "type": "noun",
@@ -4872,6 +8580,24 @@
     "translate": "этажи",
     "context": [],
     "id": "c58d31ca44a87ae5924b9f149446ee92"
+  },
+  {
+    "type": "noun",
+    "base": "Stofftier",
+    "article": "der",
+    "original": "der Stofftier",
+    "translate": "плюшевый зверь",
+    "context": [],
+    "id": "99175f7bd30ff0aa4cd5dc6b3948d960"
+  },
+  {
+    "type": "noun",
+    "base": "Strauß",
+    "article": "der",
+    "original": "der Strauß",
+    "translate": "страус; букет",
+    "context": [],
+    "id": "848c4eccb0a05a9547e89ba163a556d1"
   },
   {
     "type": "noun",
@@ -4911,6 +8637,15 @@
   },
   {
     "type": "noun",
+    "base": "Stufe",
+    "article": "die",
+    "original": "die Stufe",
+    "translate": "ступень",
+    "context": [],
+    "id": "b6aa2406f3bc01b6c789d08d6f9e4e46"
+  },
+  {
+    "type": "noun",
     "base": "Stuhl",
     "article": "der",
     "original": "der Stuhl *{die Stühle}",
@@ -4923,9 +8658,27 @@
     "base": "Stunde",
     "article": "die",
     "original": "die Stunde, -n",
-    "translate": "час",
+    "translate": "час; урок",
     "context": [],
     "id": "d4a27436136476f05058f2e3d5bc1ada"
+  },
+  {
+    "type": "noun",
+    "base": "Sturm",
+    "article": "der",
+    "original": "der Sturm",
+    "translate": "шторм; буря",
+    "context": [],
+    "id": "06b0a3c49f688f009f1330c993e9cad1"
+  },
+  {
+    "type": "noun",
+    "base": "Stück",
+    "article": "das",
+    "original": "das Stück",
+    "translate": "кусок; часть",
+    "context": [],
+    "id": "3b976ad9e435777c23b09fe73bc1df10"
   },
   {
     "type": "noun",
@@ -4947,6 +8700,15 @@
   },
   {
     "type": "noun",
+    "base": "Säge",
+    "article": "die",
+    "original": "die Säge",
+    "translate": "пила",
+    "context": [],
+    "id": "d241112901d8c35bb6da57d524f5b803"
+  },
+  {
+    "type": "noun",
     "base": "Süden",
     "article": "der",
     "original": "der Süden",
@@ -4956,12 +8718,39 @@
   },
   {
     "type": "noun",
+    "base": "T-Shirt",
+    "article": "das",
+    "original": "das T-Shirt",
+    "translate": "футболка",
+    "context": [],
+    "id": "488bcff8aad5712ceb62ce33d9406a24"
+  },
+  {
+    "type": "noun",
+    "base": "Tablett",
+    "article": "das",
+    "original": "das Tablett",
+    "translate": "поднос",
+    "context": [],
+    "id": "0901815340df32e93f5f886db05d6c3a"
+  },
+  {
+    "type": "noun",
     "base": "Tablette",
     "article": "die",
     "original": "die Tablette",
     "translate": "таблетка",
     "context": [],
     "id": "25c6e1ae2151e55fb812237fdecf74f3"
+  },
+  {
+    "type": "noun",
+    "base": "Tafel",
+    "article": "die",
+    "original": "die Tafel",
+    "translate": "доска",
+    "context": [],
+    "id": "adf76816a91c3c1ff41d7c3af3563e26"
   },
   {
     "type": "noun",
@@ -4983,6 +8772,15 @@
   },
   {
     "type": "noun",
+    "base": "Tanne",
+    "article": "die",
+    "original": "die Tanne",
+    "translate": "ёлка",
+    "context": [],
+    "id": "4c14a188661aef1d8aadd6566385a255"
+  },
+  {
+    "type": "noun",
     "base": "Tasche",
     "article": "die",
     "original": "die Tasche",
@@ -4995,9 +8793,36 @@
     "base": "Tasse",
     "article": "die",
     "original": "die Tasse, -n",
-    "translate": "чашка (чайная)",
+    "translate": "чашка (чайная); чашка",
     "context": [],
     "id": "79f58879a82c73f464f227bd7a55e14f"
+  },
+  {
+    "type": "noun",
+    "base": "Tatze",
+    "article": "die",
+    "original": "die Tatze",
+    "translate": "лапа",
+    "context": [],
+    "id": "37061b3a0d53c7c546883985c7ba025c"
+  },
+  {
+    "type": "noun",
+    "base": "Taube",
+    "article": "die",
+    "original": "die Taube",
+    "translate": "голубь",
+    "context": [],
+    "id": "c1c776f6e24b931ce1679d306885d633"
+  },
+  {
+    "type": "noun",
+    "base": "Taucher",
+    "article": "der",
+    "original": "der Taucher",
+    "translate": "водолаз",
+    "context": [],
+    "id": "752fc01f08c3180f3b74d035f9d2e2d0"
   },
   {
     "type": "noun",
@@ -5010,12 +8835,30 @@
   },
   {
     "type": "noun",
+    "base": "Teddybär",
+    "article": "das",
+    "original": "das Teddybär",
+    "translate": "плюшевый мишка",
+    "context": [],
+    "id": "729c0dabc1657a9e6b9b29c7022af461"
+  },
+  {
+    "type": "noun",
     "base": "Tee",
     "article": "der",
     "original": "der Tee",
     "translate": "чай",
     "context": [],
     "id": "ab9e9b1804da71e9b1f5006a74cf233f"
+  },
+  {
+    "type": "noun",
+    "base": "Teig",
+    "article": "der",
+    "original": "der Teig",
+    "translate": "тесто",
+    "context": [],
+    "id": "d4ae865f02efce3373a0c0dab9a9d91a"
   },
   {
     "type": "noun",
@@ -5052,6 +8895,15 @@
     "translate": "температура",
     "context": [],
     "id": "7bb651c292beb000f080898b9e556d5d"
+  },
+  {
+    "type": "noun",
+    "base": "Teppich",
+    "article": "der",
+    "original": "der Teppich",
+    "translate": "ковер",
+    "context": [],
+    "id": "08f89f1fd537651e460d687fd0f54d98"
   },
   {
     "type": "noun",
@@ -5118,6 +8970,42 @@
   },
   {
     "type": "noun",
+    "base": "Tier",
+    "article": "das",
+    "original": "das Tier",
+    "translate": "животное",
+    "context": [],
+    "id": "96aba619183581df24747690c8ed926b"
+  },
+  {
+    "type": "noun",
+    "base": "Tiger",
+    "article": "der",
+    "original": "der Tiger",
+    "translate": "тигр",
+    "context": [],
+    "id": "248ea380a45ef5444beede8af13a0a5e"
+  },
+  {
+    "type": "noun",
+    "base": "Tinte",
+    "article": "die",
+    "original": "die Tinte",
+    "translate": "чернила",
+    "context": [],
+    "id": "013166b1223ae64d15557f99eaca87e5"
+  },
+  {
+    "type": "noun",
+    "base": "Tipi",
+    "article": "das",
+    "original": "das Tipi",
+    "translate": "вигвам",
+    "context": [],
+    "id": "a268e119a2d96fd0317440f8738851c8"
+  },
+  {
+    "type": "noun",
     "base": "Tisch",
     "article": "der",
     "original": "der Tisch, -e",
@@ -5154,12 +9042,39 @@
   },
   {
     "type": "noun",
+    "base": "Tonne",
+    "article": "die",
+    "original": "die Tonne",
+    "translate": "бочка; тонна",
+    "context": [],
+    "id": "2adeddbfc3d5df766d5dfaa2a0cc14e2"
+  },
+  {
+    "type": "noun",
     "base": "Topf",
     "article": "der",
     "original": "der Topf *{die Töpfe}",
     "translate": "горшок; кастрюля",
     "context": [],
     "id": "296e44561c8adf3d613e7162661c70b2"
+  },
+  {
+    "type": "noun",
+    "base": "Tor",
+    "article": "das",
+    "original": "das Tor",
+    "translate": "ворота; гол",
+    "context": [],
+    "id": "a195b2556928b23cda28659b62cc9b6d"
+  },
+  {
+    "type": "noun",
+    "base": "Torte",
+    "article": "die",
+    "original": "die Torte",
+    "translate": "торт; пирожное",
+    "context": [],
+    "id": "e2d57e630684b986564f75cdf0fce5f6"
   },
   {
     "type": "noun",
@@ -5172,10 +9087,19 @@
   },
   {
     "type": "noun",
+    "base": "Traktor",
+    "article": "der",
+    "original": "der Traktor",
+    "translate": "трактор",
+    "context": [],
+    "id": "6d62a57353afeb3f365f766c1e3e1b35"
+  },
+  {
+    "type": "noun",
     "base": "Traube",
     "article": "die",
     "original": "die Traube",
-    "translate": "гроздь винограда; кисть винограда",
+    "translate": "гроздь винограда; кисть винограда; виноград",
     "context": [],
     "id": "c009d4f8ef00833d686bd6cc1477fc66"
   },
@@ -5189,6 +9113,24 @@
     "id": "47bebe92702490c1b8bbc74b69be4302"
   },
   {
+    "type": "noun",
+    "base": "Tropfen",
+    "article": "der",
+    "original": "der Tropfen",
+    "translate": "капля",
+    "context": [],
+    "id": "5752eab7051151a5cdc7a0ba45a4dcc8"
+  },
+  {
+    "type": "noun",
+    "base": "Träne",
+    "article": "die",
+    "original": "die Träne",
+    "translate": "слеза",
+    "context": [],
+    "id": "92c0fdda83959302525969c18d519b41"
+  },
+  {
     "type": "*",
     "base": "Tschüss",
     "article": null,
@@ -5196,6 +9138,87 @@
     "translate": "Пока",
     "context": [],
     "id": "eb946b0d4748c7f089679dca55a7bedd"
+  },
+  {
+    "type": "noun",
+    "base": "Tube",
+    "article": "die",
+    "original": "die Tube",
+    "translate": "тюбик",
+    "context": [],
+    "id": "e73e002f8c961ce3b6205ee112d07a0b"
+  },
+  {
+    "type": "noun",
+    "base": "Tuch",
+    "article": "das",
+    "original": "das Tuch",
+    "translate": "платок; полотенце",
+    "context": [],
+    "id": "1235912fb28d0b2aae35bfa587759bd8"
+  },
+  {
+    "type": "noun",
+    "base": "Turm",
+    "article": "der",
+    "original": "der Turm",
+    "translate": "башня",
+    "context": [],
+    "id": "de61c52873db28b72678e7bf747fb933"
+  },
+  {
+    "type": "noun",
+    "base": "Turnbeutel",
+    "article": "der",
+    "original": "der Turnbeutel",
+    "translate": "спортивная сумка",
+    "context": [],
+    "id": "208ae3ec709a115105d94f1d6d79af45"
+  },
+  {
+    "type": "noun",
+    "base": "Tür",
+    "article": "die",
+    "original": "die Tür",
+    "translate": "дверь",
+    "context": [],
+    "id": "35fda6e7903d3fd4c6bb8de7aaa972c7"
+  },
+  {
+    "type": "*",
+    "base": "Türkei",
+    "article": null,
+    "original": "Türkei",
+    "translate": "Турция",
+    "context": [],
+    "id": "eb2418e8c25f0f128e5a2994f02a3cc4"
+  },
+  {
+    "type": "noun",
+    "base": "Tüte",
+    "article": "die",
+    "original": "die Tüte",
+    "translate": "пакет; кулёк",
+    "context": [],
+    "id": "7e4efde09351eb76c9232edc745dc2d2"
+  },
+  {
+    "type": "noun",
+    "base": "USA",
+    "article": "die",
+    "original": "die USA",
+    "translate": "США",
+    "context": [],
+    "id": "78fca25d615c2d4d0b222435ebd56921"
+  },
+  {
+    "type": "noun",
+    "base": "Ufo",
+    "article": "das",
+    "original": "das Ufo",
+    "translate": "НЛО",
+    "context": [],
+    "id": "052682e5e05a4f2e911817524f0e14fa"
   },
   {
     "type": "noun",
@@ -5214,6 +9237,60 @@
     "translate": "время; время на часах",
     "context": [],
     "id": "b06ddf76c0d5b8ff928f0f77145389a7"
+  },
+  {
+    "type": "noun",
+    "base": "Ukraine",
+    "article": "die",
+    "original": "die Ukraine",
+    "translate": "Украина",
+    "context": [],
+    "id": "b832bbd94adf9aedffbffb00869bb541"
+  },
+  {
+    "type": "noun",
+    "base": "Umfall",
+    "article": "der",
+    "original": "der Umfall",
+    "translate": "несчастный случай",
+    "context": [],
+    "id": "371c3937ac81e3da3720d1e370285731"
+  },
+  {
+    "type": "*",
+    "base": "Ungarn",
+    "article": null,
+    "original": "Ungarn",
+    "translate": "Венгрия",
+    "context": [],
+    "id": "fae3838445c15a324b68403d035fed42"
+  },
+  {
+    "type": "noun",
+    "base": "Unsinn",
+    "article": "der",
+    "original": "der Unsinn",
+    "translate": "бессмыслица; вздор",
+    "context": [],
+    "id": "4e91218064c27e3a44ba6a992cf87919"
+  },
+  {
+    "type": "noun",
+    "base": "Unterhemd",
+    "article": "das",
+    "original": "das Unterhemd",
+    "translate": "майка",
+    "context": [],
+    "id": "bfcdf36c3689d02ac6f8e58d72918087"
+  },
+  {
+    "type": "noun",
+    "base": "Unterhose",
+    "article": "die",
+    "original": "die Unterhose",
+    "translate": "трусы",
+    "context": [],
+    "id": "eda3b65a56732e453a7d4c79af36b8ba"
   },
   {
     "type": "noun",
@@ -5244,6 +9321,33 @@
   },
   {
     "type": "noun",
+    "base": "Uroma",
+    "article": "die",
+    "original": "die Uroma",
+    "translate": "прабабушка",
+    "context": [],
+    "id": "fd230f87deff84983ca3fe42122102b3"
+  },
+  {
+    "type": "noun",
+    "base": "Vampir",
+    "article": "der",
+    "original": "der Vampir",
+    "translate": "вампир",
+    "context": [],
+    "id": "a71d06c2098001d26fec37c550e3565e"
+  },
+  {
+    "type": "noun",
+    "base": "Vase",
+    "article": "die",
+    "original": "die Vase",
+    "translate": "ваза",
+    "context": [],
+    "id": "97a881bb238f605a6d4d588450b83b58"
+  },
+  {
+    "type": "noun",
     "base": "Vater",
     "article": "der",
     "original": "der Vater, -ä",
@@ -5255,6 +9359,15 @@
       ]
     ],
     "id": "7211c7045a3e4239c04271161fb9ea6b"
+  },
+  {
+    "type": "noun",
+    "base": "Ventilator",
+    "article": "der",
+    "original": "der Ventilator",
+    "translate": "вентилятор",
+    "context": [],
+    "id": "343a87029181f824bcd885ea84e02c27"
   },
   {
     "type": "noun",
@@ -5322,6 +9435,15 @@
     "id": "0a8b1c0c03820faa6f1b7b69a5736288"
   },
   {
+    "type": "noun",
+    "base": "Vieleck",
+    "article": "das",
+    "original": "das Vieleck",
+    "translate": "многоугольник",
+    "context": [],
+    "id": "6bdd58ebac6a1cc06405aa529e179d24"
+  },
+  {
     "type": "*",
     "base": "Vielen Dank",
     "article": null,
@@ -5332,12 +9454,30 @@
   },
   {
     "type": "noun",
+    "base": "Viereck",
+    "article": "das",
+    "original": "das Viereck",
+    "translate": "четырёхугольник",
+    "context": [],
+    "id": "bf95e7dc8aa1c7c3ef526f3c37cd03f6"
+  },
+  {
+    "type": "noun",
     "base": "Viertel",
     "article": "das",
     "original": "das Viertel",
     "translate": "четверть",
     "context": [],
     "id": "6654dc56128aad6c2c02313505b754e9"
+  },
+  {
+    "type": "noun",
+    "base": "Vogel",
+    "article": "der",
+    "original": "der Vogel",
+    "translate": "птица",
+    "context": [],
+    "id": "e646e70a9cd223187c86fcff0b737ee4"
   },
   {
     "type": "noun",
@@ -5401,6 +9541,60 @@
   },
   {
     "type": "noun",
+    "base": "Vulkan",
+    "article": "der",
+    "original": "der Vulkan",
+    "translate": "вулкан",
+    "context": [],
+    "id": "06296e2c189587be1f80f6c67bda6ff6"
+  },
+  {
+    "type": "noun",
+    "base": "Waffel",
+    "article": "die",
+    "original": "die Waffel",
+    "translate": "вафля",
+    "context": [],
+    "id": "31083b175a59a7efefe4a61d2ce4725c"
+  },
+  {
+    "type": "noun",
+    "base": "Wagen",
+    "article": "der",
+    "original": "der Wagen",
+    "translate": "машина; вагон",
+    "context": [],
+    "id": "5991552e33a392c9b7cadb5b3b9ecb38"
+  },
+  {
+    "type": "noun",
+    "base": "Wal",
+    "article": "der",
+    "original": "der Wal",
+    "translate": "кит",
+    "context": [],
+    "id": "b7f92354ac24f7948acb7fd1f8a9880b"
+  },
+  {
+    "type": "noun",
+    "base": "Wald",
+    "article": "der",
+    "original": "der Wald",
+    "translate": "лес",
+    "context": [],
+    "id": "7d0843c36af52acc187795e0f205dbec"
+  },
+  {
+    "type": "noun",
+    "base": "Wanderstock",
+    "article": "der",
+    "original": "der Wanderstock",
+    "translate": "трость",
+    "context": [],
+    "id": "a128d3003e0c05cb74e68a10cc62f1de"
+  },
+  {
+    "type": "noun",
     "base": "Waschmaschine",
     "article": "die",
     "original": "die Waschmaschine",
@@ -5419,6 +9613,24 @@
   },
   {
     "type": "noun",
+    "base": "Wecker",
+    "article": "der",
+    "original": "der Wecker",
+    "translate": "будильник",
+    "context": [],
+    "id": "89f924d2cc1b2f00258b05abd695f14a"
+  },
+  {
+    "type": "noun",
+    "base": "Weile",
+    "article": "die",
+    "original": "die Weile",
+    "translate": "некоторое время; немного",
+    "context": [],
+    "id": "ab5f5a50cd82897cc1736c39d9213bd6"
+  },
+  {
+    "type": "noun",
     "base": "Wein",
     "article": "der",
     "original": "der Wein",
@@ -5428,10 +9640,19 @@
   },
   {
     "type": "noun",
+    "base": "Welle",
+    "article": "die",
+    "original": "die Welle",
+    "translate": "волна",
+    "context": [],
+    "id": "1ab2d5326fa91a9e320e91a9fde0c887"
+  },
+  {
+    "type": "noun",
     "base": "Welt",
     "article": "die",
     "original": "die Welt, -en",
-    "translate": "мир",
+    "translate": "мир; вселенная; земной шар",
     "context": [],
     "id": "dcf894cbdc7f4243630f00d7a4d8d2c5"
   },
@@ -5446,12 +9667,30 @@
   },
   {
     "type": "noun",
+    "base": "Wette",
+    "article": "die",
+    "original": "die Wette",
+    "translate": "спор",
+    "context": [],
+    "id": "c63921a9a94eafb6fa67d64f47b0bd0b"
+  },
+  {
+    "type": "noun",
     "base": "Wetter",
     "article": "das",
     "original": "das Wetter",
     "translate": "погода",
     "context": [],
     "id": "9c72a96d6df9b5864d950f81ca2068b1"
+  },
+  {
+    "type": "noun",
+    "base": "Wettrennen",
+    "article": "das",
+    "original": "das Wettrennen",
+    "translate": "гонки",
+    "context": [],
+    "id": "35ea2826db6a38d6ec4b8d66e6ddde79"
   },
   {
     "type": "*",
@@ -5518,6 +9757,33 @@
   },
   {
     "type": "noun",
+    "base": "Wiege",
+    "article": "die",
+    "original": "die Wiege",
+    "translate": "колыбельная",
+    "context": [],
+    "id": "9e350f7ad7b0a1307b6ffd2bb5947fa7"
+  },
+  {
+    "type": "noun",
+    "base": "Wiese",
+    "article": "die",
+    "original": "die Wiese",
+    "translate": "луг",
+    "context": [],
+    "id": "bcf75bbbe3cf6d04884a3f08366c52b0"
+  },
+  {
+    "type": "noun",
+    "base": "Wiesel",
+    "article": "das",
+    "original": "das Wiesel",
+    "translate": "ласка (животное)",
+    "context": [],
+    "id": "4d19f1f65dce1cb9c965359ebd6dfe14"
+  },
+  {
+    "type": "noun",
     "base": "Wind",
     "article": "der",
     "original": "der Wind",
@@ -5533,6 +9799,15 @@
     "translate": "зима",
     "context": [],
     "id": "762b5025afba90a16f8d49757dff16fa"
+  },
+  {
+    "type": "noun",
+    "base": "Witz",
+    "article": "der",
+    "original": "der Witz",
+    "translate": "шутка; анекдот",
+    "context": [],
+    "id": "0bccc8ca21aae99410de9db54117ba85"
   },
   {
     "type": "noun",
@@ -5608,12 +9883,48 @@
   },
   {
     "type": "noun",
+    "base": "Wolf",
+    "article": "der",
+    "original": "der Wolf",
+    "translate": "волк",
+    "context": [],
+    "id": "33c4614818a58332557da336df8a5bf7"
+  },
+  {
+    "type": "noun",
+    "base": "Wolke",
+    "article": "die",
+    "original": "die Wolke",
+    "translate": "облако; туча",
+    "context": [],
+    "id": "c3fcbdcefd8d33c09446e806970e037c"
+  },
+  {
+    "type": "noun",
+    "base": "Wolle",
+    "article": "die",
+    "original": "die Wolle",
+    "translate": "шерсть",
+    "context": [],
+    "id": "c30f6f5ce957a876309a85c4f5c353be"
+  },
+  {
+    "type": "noun",
     "base": "Wort",
     "article": "das",
     "original": "das Wort",
     "translate": "слово",
     "context": [],
     "id": "eeeb3dd3362d7789a3d2ea0630b14adb"
+  },
+  {
+    "type": "noun",
+    "base": "Wurm",
+    "article": "der",
+    "original": "der Wurm",
+    "translate": "червяк",
+    "context": [],
+    "id": "75d1b0265236f68ce66000d026e32be6"
   },
   {
     "type": "noun",
@@ -5635,6 +9946,42 @@
   },
   {
     "type": "noun",
+    "base": "Würfel",
+    "article": "der",
+    "original": "der Würfel",
+    "translate": "игральный кубик",
+    "context": [],
+    "id": "b2907dda1ded8548d19ebac4b3e5e31d"
+  },
+  {
+    "type": "noun",
+    "base": "Xylophon",
+    "article": "das",
+    "original": "das Xylophon",
+    "translate": "ксилофон",
+    "context": [],
+    "id": "3644072977f47e6a597d92d4952131f0"
+  },
+  {
+    "type": "noun",
+    "base": "Yak",
+    "article": "der",
+    "original": "der Yak",
+    "translate": "як",
+    "context": [],
+    "id": "395343096a25c1a397876dd0a594777b"
+  },
+  {
+    "type": "noun",
+    "base": "Yoga",
+    "article": "das",
+    "original": "das Yoga",
+    "translate": "йога",
+    "context": [],
+    "id": "b4b89d61cf3ea177b23310928a036028"
+  },
+  {
+    "type": "noun",
     "base": "Zahl",
     "article": "die",
     "original": "die Zahl, -en",
@@ -5650,6 +9997,60 @@
     "translate": "зуб",
     "context": [],
     "id": "2968039074c72e6956e4315ed3a6d4f4"
+  },
+  {
+    "type": "noun",
+    "base": "Zange",
+    "article": "die",
+    "original": "die Zange",
+    "translate": "щипцы",
+    "context": [],
+    "id": "4d531588545d24efb854eee6b010dc94"
+  },
+  {
+    "type": "noun",
+    "base": "Zauberer",
+    "article": "der",
+    "original": "der Zauberer",
+    "translate": "волшебник",
+    "context": [],
+    "id": "2ac8b1c90334858e86132be3db9f1366"
+  },
+  {
+    "type": "noun",
+    "base": "Zauberhut",
+    "article": "der",
+    "original": "der Zauberhut",
+    "translate": "волшебная шляпа",
+    "context": [],
+    "id": "8dd0bbd11c1fa3dcc4656925aef3ff7e"
+  },
+  {
+    "type": "noun",
+    "base": "Zaun",
+    "article": "der",
+    "original": "der Zaun",
+    "translate": "забор",
+    "context": [],
+    "id": "00e8473ab816b62af99f36268fa67add"
+  },
+  {
+    "type": "noun",
+    "base": "Zebra",
+    "article": "das",
+    "original": "das Zebra",
+    "translate": "зебра",
+    "context": [],
+    "id": "c0cb415fe09f4ceb7a30b1eb8f2f7e87"
+  },
+  {
+    "type": "noun",
+    "base": "Zeh",
+    "article": "der",
+    "original": "der Zeh",
+    "translate": "палец ноги",
+    "context": [],
+    "id": "f7ff5382b37a27c3e83b24f016505c0a"
   },
   {
     "type": "noun",
@@ -5687,6 +10088,15 @@
       ]
     ],
     "id": "89361b57aa1ac76e309b8535ff4c0c18"
+  },
+  {
+    "type": "noun",
+    "base": "Ziel",
+    "article": "das",
+    "original": "das Ziel",
+    "translate": "цель",
+    "context": [],
+    "id": "89df197030b2f1e865f05c0eef7e7532"
   },
   {
     "type": "noun",
@@ -5730,12 +10140,57 @@
   },
   {
     "type": "noun",
+    "base": "Zitrone",
+    "article": "die",
+    "original": "die Zitrone",
+    "translate": "лимон",
+    "context": [],
+    "id": "c826aa199a459ebd33b873421b618fbc"
+  },
+  {
+    "type": "noun",
     "base": "Zoll",
     "article": "der",
     "original": "der Zoll",
     "translate": "таможня; пошлина",
     "context": [],
     "id": "4669b42f40008e834c9dc6cf6f465be4"
+  },
+  {
+    "type": "noun",
+    "base": "Zoo",
+    "article": "der",
+    "original": "der Zoo",
+    "translate": "зоопарк",
+    "context": [],
+    "id": "c3c111e6d464a9b5bd11fdc478c7939e"
+  },
+  {
+    "type": "noun",
+    "base": "Zopf",
+    "article": "der",
+    "original": "der Zopf",
+    "translate": "коса",
+    "context": [],
+    "id": "6ab6bdfd146bd4e2f8880209fb215861"
+  },
+  {
+    "type": "noun",
+    "base": "Zucker",
+    "article": "der",
+    "original": "der Zucker",
+    "translate": "сахар",
+    "context": [],
+    "id": "f5f3a001cbaa3f42f353d2c9ee1ec2b4"
+  },
+  {
+    "type": "noun",
+    "base": "Zuckerwatte",
+    "article": "das",
+    "original": "das Zuckerwatte",
+    "translate": "сладкая вата",
+    "context": [],
+    "id": "eea0d883b2afc4d5aea17bc838038728"
   },
   {
     "type": "noun",
@@ -5750,6 +10205,51 @@
       ]
     ],
     "id": "b2be2fc029776466a19ee3beca7ad493"
+  },
+  {
+    "type": "noun",
+    "base": "Zunge",
+    "article": "die",
+    "original": "die Zunge",
+    "translate": "язык",
+    "context": [],
+    "id": "646bb4d2f7fa3859aa15626ff5fb3b32"
+  },
+  {
+    "type": "noun",
+    "base": "Zwerg",
+    "article": "der",
+    "original": "der Zwerg",
+    "translate": "гном; карлик",
+    "context": [],
+    "id": "3cbc572273b3c6d68d55f3f8b4b3ce39"
+  },
+  {
+    "type": "noun",
+    "base": "Zwiebel",
+    "article": "die",
+    "original": "die Zwiebel",
+    "translate": "лук",
+    "context": [],
+    "id": "3d8e840bd689592b32a05d87075e52ef"
+  },
+  {
+    "type": "noun",
+    "base": "Zähne",
+    "article": "die",
+    "original": "die Zähne",
+    "translate": "зубы",
+    "context": [],
+    "id": "303feec0385f911dbc4c861c4c367a96"
+  },
+  {
+    "type": "noun",
+    "base": "Zöpfe",
+    "article": "die",
+    "original": "die Zöpfe",
+    "translate": "косички",
+    "context": [],
+    "id": "8d580ff914fdbc254f54e21edaf7ff80"
   },
   {
     "type": "*",
@@ -5892,6 +10392,15 @@
     "translate": "прибавлять",
     "context": [],
     "id": "df828f3b6ec5ea9a873f126dbfe60f05"
+  },
+  {
+    "type": "*",
+    "base": "alle",
+    "article": null,
+    "original": "alle",
+    "translate": "всё; каждый",
+    "context": [],
+    "id": "9b18bd6d0e8202491c5d9ccae931af3c"
   },
   {
     "type": "*",
@@ -6073,6 +10582,15 @@
   },
   {
     "type": "*",
+    "base": "andere",
+    "article": null,
+    "original": "andere",
+    "translate": "другой",
+    "context": [],
+    "id": "d14759b7db765d2581736e3414140ce2"
+  },
+  {
+    "type": "*",
     "base": "anders",
     "article": null,
     "original": "anders",
@@ -6108,11 +10626,20 @@
     "id": "e6733652a39c789fd2c35a60eb6ba41f"
   },
   {
+    "type": "verb",
+    "base": "angeboten",
+    "article": null,
+    "original": "angeboten",
+    "translate": "предлагать",
+    "context": [],
+    "id": "63d677576759373bec959c8ba258f51a"
+  },
+  {
     "type": "*",
     "base": "angeln",
     "article": null,
     "original": "angeln",
-    "translate": "удить; вылавливать",
+    "translate": "удить; вылавливать; ловить рыбу",
     "context": [],
     "id": "5620b67bca52bad04ac665fdf00d41f4"
   },
@@ -6176,7 +10703,7 @@
     "base": "ankreuzen",
     "article": null,
     "original": "ankreuzen",
-    "translate": "отмечать крестиком; отметить крестиком; поставить крестик",
+    "translate": "отмечать крестиком; отметить крестиком; поставить крестик; зачеркнуть",
     "context": [
       [
         "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
@@ -6198,6 +10725,15 @@
       ]
     ],
     "id": "5b0921740e6dff81b593b1d85953836f"
+  },
+  {
+    "type": "verb",
+    "base": "anmalen",
+    "article": null,
+    "original": "anmalen",
+    "translate": "разукрашивать",
+    "context": [],
+    "id": "5c56227f3f01603096ff61a164b3ac8b"
   },
   {
     "type": "verb",
@@ -6428,6 +10964,15 @@
     "id": "12a41d7fbd98e0477bf99302118b648e"
   },
   {
+    "type": "*",
+    "base": "aufgeregt",
+    "article": null,
+    "original": "aufgeregt",
+    "translate": "взволнованный; возбужденный",
+    "context": [],
+    "id": "18c592a4e617a518c06463e8b6160e8c"
+  },
+  {
     "type": "verb",
     "base": "aufhören",
     "article": null,
@@ -6645,6 +11190,15 @@
     "translate": "выставлять; экспонировать",
     "context": [],
     "id": "bd2b1f83729046d80998d9f383d8deab"
+  },
+  {
+    "type": "verb",
+    "base": "aussuchen",
+    "article": null,
+    "original": "aussuchen",
+    "translate": "выбирать",
+    "context": [],
+    "id": "c9d1d09e3f7fdc35077cdf1dd4aabe0e"
   },
   {
     "type": "verb",
@@ -7260,6 +11814,15 @@
     "id": "c17a9f3924b78515a55630d58a7006ee"
   },
   {
+    "type": "*",
+    "base": "bibbern",
+    "article": null,
+    "original": "bibbern",
+    "translate": "дрожать; трястись",
+    "context": [],
+    "id": "f2efff9f48da7c6e41f32faf2f636764"
+  },
+  {
     "type": "verb",
     "base": "biegen",
     "article": null,
@@ -7570,6 +12133,15 @@
   },
   {
     "type": "verb",
+    "base": "brüten",
+    "article": null,
+    "original": "brüten",
+    "translate": "высиживать птенцов",
+    "context": [],
+    "id": "49af9e891003643610aa1e32b4664574"
+  },
+  {
+    "type": "verb",
     "base": "buchstabieren",
     "article": null,
     "original": "buchstabieren",
@@ -7581,6 +12153,15 @@
       ]
     ],
     "id": "9241a1fb9e29add2bd97d99ef7523a67"
+  },
+  {
+    "type": "*",
+    "base": "bunt",
+    "article": null,
+    "original": "bunt",
+    "translate": "пестрый; разноцветный",
+    "context": [],
+    "id": "2159f2667cb9ce1209dc19842efde1d1"
   },
   {
     "type": "*",
@@ -7613,6 +12194,15 @@
     "translate": "гладить",
     "context": [],
     "id": "b822e51ee5e15b0087bb6d6134e211df"
+  },
+  {
+    "type": "verb",
+    "base": "bürsten",
+    "article": null,
+    "original": "bürsten",
+    "translate": "чистить; чесать щеткой",
+    "context": [],
+    "id": "02f96b411d477088834179174055b0ca"
   },
   {
     "type": "*",
@@ -7972,6 +12562,15 @@
     "id": "0e2d85fea7106003e46afc2c24d15147"
   },
   {
+    "type": "*",
+    "base": "drin",
+    "article": null,
+    "original": "drin",
+    "translate": "внутри",
+    "context": [],
+    "id": "009b1e3f6a469709a6bd1c04d7212cb2"
+  },
+  {
     "type": "verb",
     "base": "dringen",
     "article": null,
@@ -8156,6 +12755,15 @@
     "id": "2c295c8543a9061aeb19edebb2aaf9aa"
   },
   {
+    "type": "*",
+    "base": "dünn",
+    "article": null,
+    "original": "dünn",
+    "translate": "тонкий; худой",
+    "context": [],
+    "id": "ce0c7e4bcf338d51be421e0466c4057a"
+  },
+  {
     "type": "verb",
     "base": "dürfen",
     "article": null,
@@ -8283,6 +12891,15 @@
   },
   {
     "type": "verb",
+    "base": "einkreisen",
+    "article": null,
+    "original": "einkreisen",
+    "translate": "обвести",
+    "context": [],
+    "id": "afd3e77c919836c7e5c8a3d1c4dfe8d8"
+  },
+  {
+    "type": "verb",
     "base": "einladen",
     "article": null,
     "original": "einladen",
@@ -8340,6 +12957,15 @@
     "translate": "входить",
     "context": [],
     "id": "344dc8315afc5f889f955eb04c7ce938"
+  },
+  {
+    "type": "*",
+    "base": "elf",
+    "article": null,
+    "original": "elf",
+    "translate": "одиннадцать",
+    "context": [],
+    "id": "ec7cc20daaf5803827b0c6197e236f70"
   },
   {
     "type": "verb",
@@ -8702,6 +13328,15 @@
     "id": "42b4701318c2a68bf7ef8e04120044f3"
   },
   {
+    "type": "verb",
+    "base": "erzälen",
+    "article": null,
+    "original": "erzälen",
+    "translate": "рассказывать",
+    "context": [],
+    "id": "53c6ab7a63410fc4fa97e70bd1912ba3"
+  },
+  {
     "type": "*",
     "base": "es",
     "article": null,
@@ -8793,7 +13428,7 @@
     "base": "fahren",
     "article": null,
     "original": "fahren",
-    "translate": "ехать; ездить; кататься; везти",
+    "translate": "ехать; ездить; кататься; везти; катать",
     "context": [
       [
         "Ich fahre mit dem Auto zur Arbeit.",
@@ -8816,7 +13451,7 @@
     "base": "falsch",
     "article": null,
     "original": "falsch",
-    "translate": "неправильно; неверно",
+    "translate": "неправильно; неверно; неправильный",
     "context": [
       [
         "Das ist falsch.",
@@ -8888,6 +13523,15 @@
   },
   {
     "type": "*",
+    "base": "fein",
+    "article": null,
+    "original": "fein",
+    "translate": "тонкий; изящный",
+    "context": [],
+    "id": "102da8281ce6a9808f7bce40197bd389"
+  },
+  {
+    "type": "*",
     "base": "fern sehen",
     "article": null,
     "original": "fern sehen",
@@ -8952,6 +13596,15 @@
   },
   {
     "type": "verb",
+    "base": "fischen",
+    "article": null,
+    "original": "fischen",
+    "translate": "рыбачить",
+    "context": [],
+    "id": "ec2d9c170ff4c46ae66edca3a5cf2f49"
+  },
+  {
+    "type": "verb",
     "base": "flechten",
     "article": null,
     "original": "flechten",
@@ -9013,6 +13666,15 @@
     "id": "cc9dc044dad163b4c3692e2cca7a7302"
   },
   {
+    "type": "*",
+    "base": "fort",
+    "article": null,
+    "original": "fort",
+    "translate": "прочь; вон",
+    "context": [],
+    "id": "6b4e00faba00e7465fd83b97ad5e3f4c"
+  },
+  {
     "type": "verb",
     "base": "fortsetzen",
     "article": null,
@@ -9034,6 +13696,15 @@
       ]
     ],
     "id": "7f4e57692b3a80600ce09afd35095511"
+  },
+  {
+    "type": "*",
+    "base": "frech",
+    "article": null,
+    "original": "frech",
+    "translate": "дерзкий; наглый",
+    "context": [],
+    "id": "19ccc90ab6c2d5f654826a3bfae88895"
   },
   {
     "type": "*",
@@ -9124,6 +13795,15 @@
   },
   {
     "type": "*",
+    "base": "fröhlich",
+    "article": null,
+    "original": "fröhlich",
+    "translate": "весело",
+    "context": [],
+    "id": "fecbfe00748d718f1cdce7aa9f168621"
+  },
+  {
+    "type": "*",
     "base": "früh",
     "article": null,
     "original": "früh",
@@ -9206,6 +13886,15 @@
   },
   {
     "type": "*",
+    "base": "fünf",
+    "article": null,
+    "original": "fünf",
+    "translate": "пять",
+    "context": [],
+    "id": "f7580282cd81b79e63ad3dba711a5675"
+  },
+  {
+    "type": "*",
     "base": "für",
     "article": null,
     "original": "für",
@@ -9240,7 +13929,7 @@
     "base": "füttern",
     "article": null,
     "original": "füttern",
-    "translate": "кормить",
+    "translate": "кормить; кормить животных",
     "context": [],
     "id": "efcb8324db36e8da9f218aba5a266125"
   },
@@ -9252,6 +13941,15 @@
     "translate": "весь; целый",
     "context": [],
     "id": "eda395604fc21a093c794ab0aaaf69f7"
+  },
+  {
+    "type": "verb",
+    "base": "gebacken",
+    "article": null,
+    "original": "gebacken",
+    "translate": "запеченный",
+    "context": [],
+    "id": "dee10ee37a46baca866e10dbd67e3d05"
   },
   {
     "type": "verb",
@@ -9565,6 +14263,15 @@
   },
   {
     "type": "*",
+    "base": "geübt",
+    "article": null,
+    "original": "geübt",
+    "translate": "умелый; опытный",
+    "context": [],
+    "id": "4de6aa2a9c4a509f1a963874935952de"
+  },
+  {
+    "type": "*",
     "base": "gibt es",
     "article": null,
     "original": "gibt es",
@@ -9662,7 +14369,7 @@
     "base": "grau",
     "article": null,
     "original": "grau",
-    "translate": "серый",
+    "translate": "серый; седой",
     "context": [],
     "id": "450b797a09cb440045db31ff33ab8477"
   },
@@ -9699,7 +14406,7 @@
     "base": "grün",
     "article": null,
     "original": "grün",
-    "translate": "зеленый",
+    "translate": "зеленый; зелёные",
     "context": [],
     "id": "d7c2c2306aceacbdc162182a1209f475"
   },
@@ -9735,7 +14442,7 @@
     "base": "gut",
     "article": null,
     "original": "gut",
-    "translate": "хорошо; хороший",
+    "translate": "хорошо; хороший; добрый",
     "context": [],
     "id": "aab8de2cfefb2048d5a3d7fb34d8ad94"
   },
@@ -9879,12 +14586,30 @@
   },
   {
     "type": "*",
+    "base": "herum",
+    "article": null,
+    "original": "herum",
+    "translate": "вокруг; около",
+    "context": [],
+    "id": "3544a61b9a1ed153b60c68e674a9310b"
+  },
+  {
+    "type": "*",
     "base": "herzlich",
     "article": null,
     "original": "herzlich",
     "translate": "сердечно; сердечный",
     "context": [],
     "id": "1c2002bc31fa35d31cd238cf74d00ff0"
+  },
+  {
+    "type": "verb",
+    "base": "hetzen",
+    "article": null,
+    "original": "hetzen",
+    "translate": "травить; науськивать; спешить",
+    "context": [],
+    "id": "252ebd085ff4cbf324fc5691addefc80"
   },
   {
     "type": "*",
@@ -9950,6 +14675,15 @@
     "id": "d00a4568d08263b6694b10fc14264741"
   },
   {
+    "type": "*",
+    "base": "hohe",
+    "article": null,
+    "original": "hohe",
+    "translate": "высокий",
+    "context": [],
+    "id": "edce9b821cb73c6807f80c7d9747c9cc"
+  },
+  {
     "type": "verb",
     "base": "holen",
     "article": null,
@@ -10013,6 +14747,15 @@
     "id": "529ff93c42a79af0b86414be552055b5"
   },
   {
+    "type": "*",
+    "base": "höheres Anforderungsniveau",
+    "article": null,
+    "original": "höheres Anforderungsniveau",
+    "translate": "повышенный уровень",
+    "context": [],
+    "id": "9befa8831623650ce1f6183aef3fc253"
+  },
+  {
     "type": "verb",
     "base": "hören",
     "article": null,
@@ -10029,6 +14772,15 @@
     "translate": "красивый; симпатичный; милый",
     "context": [],
     "id": "7509359b62404b2e123ec1bf51513579"
+  },
+  {
+    "type": "verb",
+    "base": "hüpfen",
+    "article": null,
+    "original": "hüpfen",
+    "translate": "прыгать; скакать",
+    "context": [],
+    "id": "af081e9e1a1bff8c8f9f80f8075b5f42"
   },
   {
     "type": "*",
@@ -10248,6 +15000,24 @@
     "id": "569129b8b57d73913391a3dac4db0b6c"
   },
   {
+    "type": "verb",
+    "base": "jagen",
+    "article": null,
+    "original": "jagen",
+    "translate": "охотиться; преследовать",
+    "context": [],
+    "id": "1818da7603de2505be0635f0686f5470"
+  },
+  {
+    "type": "*",
+    "base": "jammern",
+    "article": null,
+    "original": "jammern",
+    "translate": "причитать; вопить; горевать",
+    "context": [],
+    "id": "e08a640aae957bf2ce1ac697f42e7acb"
+  },
+  {
     "type": "*",
     "base": "jed-",
     "article": null,
@@ -10263,12 +15033,30 @@
   },
   {
     "type": "*",
+    "base": "jede",
+    "article": null,
+    "original": "jede",
+    "translate": "каждая",
+    "context": [],
+    "id": "1788df2a4022bdce66c7a940f51e05f9"
+  },
+  {
+    "type": "*",
     "base": "jeden Tag",
     "article": null,
     "original": "jeden Tag",
     "translate": "каждый день",
     "context": [],
     "id": "36be70d0e5abbe12125fb7defcb2903e"
+  },
+  {
+    "type": "*",
+    "base": "jeder",
+    "article": null,
+    "original": "jeder",
+    "translate": "каждый",
+    "context": [],
+    "id": "77a6864356cd4dc544814d44a8ce308d"
   },
   {
     "type": "*",
@@ -10295,6 +15083,15 @@
   },
   {
     "type": "*",
+    "base": "jubeln",
+    "article": null,
+    "original": "jubeln",
+    "translate": "ликовать; радоваться",
+    "context": [],
+    "id": "f7e30c369badcc9894573ae8794ce2a5"
+  },
+  {
+    "type": "*",
     "base": "jung",
     "article": null,
     "original": "jung",
@@ -10312,7 +15109,7 @@
     "base": "kalt",
     "article": null,
     "original": "kalt",
-    "translate": "холодно",
+    "translate": "холодно; холодный",
     "context": [],
     "id": "e662e44ff4513751c30f9acc77fc8784"
   },
@@ -10360,6 +15157,15 @@
     "translate": "знакомиться; познакомиться",
     "context": [],
     "id": "e661e130b24db5e8894601b5ecd18842"
+  },
+  {
+    "type": "*",
+    "base": "kichern",
+    "article": null,
+    "original": "kichern",
+    "translate": "хихикать",
+    "context": [],
+    "id": "87910e307aa9e889917b4edba1e23ac8"
   },
   {
     "type": "*",
@@ -10443,6 +15249,15 @@
     "translate": "стоить; пробовать",
     "context": [],
     "id": "19c24e30d2877bf643c1ee1879b316fa"
+  },
+  {
+    "type": "*",
+    "base": "krakeln",
+    "article": null,
+    "original": "krakeln",
+    "translate": "писать каракулями",
+    "context": [],
+    "id": "8477dd8aed637858797f954c403d6ec1"
   },
   {
     "type": "*",
@@ -10573,6 +15388,15 @@
     "id": "7b6e34aee4b0f686aa8322474b34d84b"
   },
   {
+    "type": "verb",
+    "base": "landen",
+    "article": null,
+    "original": "landen",
+    "translate": "приземляться; высаживаться",
+    "context": [],
+    "id": "c9cfd99d2169890f10de9664de6e7524"
+  },
+  {
     "type": "*",
     "base": "lang",
     "article": null,
@@ -10586,7 +15410,7 @@
     "base": "lange",
     "article": null,
     "original": "lange",
-    "translate": "долго; давно",
+    "translate": "долго; давно; длинный",
     "context": [],
     "id": "7fecd0247d0d728161fbfde176024072"
   },
@@ -10631,7 +15455,7 @@
     "base": "laut",
     "article": null,
     "original": "laut",
-    "translate": "громко; громкий",
+    "translate": "громко; громкий; вслух",
     "context": [],
     "id": "1ccbaf2784264b4209d761554a95f2ff"
   },
@@ -10792,6 +15616,15 @@
   },
   {
     "type": "*",
+    "base": "lila",
+    "article": null,
+    "original": "lila",
+    "translate": "лиловый; сиреневый",
+    "context": [],
+    "id": "1c8e7fcb751f1b467b0a17b35621e726"
+  },
+  {
+    "type": "*",
     "base": "links",
     "article": null,
     "original": "links",
@@ -10883,6 +15716,15 @@
     "id": "d749508eeccb48b33f13737ad7ed8765"
   },
   {
+    "type": "noun",
+    "base": "macht Spaß.",
+    "article": "das",
+    "original": "Das macht Spaß.",
+    "translate": "Это приносит удовольствие.",
+    "context": [],
+    "id": "6bb7d4b66ce02a8cf4dcf5a29c4abb43"
+  },
+  {
     "type": "verb",
     "base": "mahlen",
     "article": null,
@@ -10897,7 +15739,7 @@
     "base": "malen",
     "article": null,
     "original": "malen",
-    "translate": "рисовать",
+    "translate": "рисовать; рисовать красками",
     "context": [],
     "id": "6bdb135fc2aa7103659e65af10a18eff"
   },
@@ -11096,6 +15938,15 @@
   },
   {
     "type": "verb",
+    "base": "mixen",
+    "article": null,
+    "original": "mixen",
+    "translate": "смешивать",
+    "context": [],
+    "id": "94531fbc3243302775dcd3770b36bb96"
+  },
+  {
+    "type": "verb",
     "base": "mißlingen",
     "article": null,
     "original": "mißlingen",
@@ -11139,6 +15990,15 @@
     "translate": "умножать",
     "context": [],
     "id": "e42494d91b8aa96d89ba50131974ea2c"
+  },
+  {
+    "type": "verb",
+    "base": "mussen",
+    "article": null,
+    "original": "mussen",
+    "translate": "должен",
+    "context": [],
+    "id": "b632482068d05ca2ba2800b0dfed29ff"
   },
   {
     "type": "*",
@@ -11304,6 +16164,15 @@
   },
   {
     "type": "*",
+    "base": "neun",
+    "article": null,
+    "original": "neun",
+    "translate": "девять",
+    "context": [],
+    "id": "8725840ec3413e2d6fa8eb224d6d6b9f"
+  },
+  {
+    "type": "*",
     "base": "nicht",
     "article": null,
     "original": "nicht",
@@ -11343,7 +16212,7 @@
     "base": "noch",
     "article": null,
     "original": "noch",
-    "translate": "(пока) ещё; по-прежнему; всё ещё; пока ещё; ещё",
+    "translate": "(пока) ещё; по-прежнему; всё ещё; пока ещё; ещё; еще",
     "context": [],
     "id": "dbd35b35f88a13a62d4a32fb301c64cc"
   },
@@ -11373,6 +16242,15 @@
     "translate": "отмечать; замечать; записывать",
     "context": [],
     "id": "42822153f2474dbab6f621c806d2a1b8"
+  },
+  {
+    "type": "*",
+    "base": "nun",
+    "article": null,
+    "original": "nun",
+    "translate": "теперь",
+    "context": [],
+    "id": "19559f3b58db6772705e1dbb1b613563"
   },
   {
     "type": "*",
@@ -11439,6 +16317,15 @@
     "id": "465d1798b982dfefe3933d590c54f94b"
   },
   {
+    "type": "verb",
+    "base": "offen",
+    "article": null,
+    "original": "offen",
+    "translate": "открытый",
+    "context": [],
+    "id": "d529318f0f8bf40e3887d7e9eb7004eb"
+  },
+  {
     "type": "*",
     "base": "offiziell",
     "article": null,
@@ -11495,12 +16382,30 @@
   },
   {
     "type": "verb",
+    "base": "packen",
+    "article": null,
+    "original": "packen",
+    "translate": "укладывать; паковать",
+    "context": [],
+    "id": "24bdb3d3136638e1256af8702e137e1b"
+  },
+  {
+    "type": "verb",
     "base": "passen",
     "article": null,
     "original": "passen",
     "translate": "подходить",
     "context": [],
     "id": "c82de62011d3bea24c4aea5195dbc4d9"
+  },
+  {
+    "type": "*",
+    "base": "passende",
+    "article": null,
+    "original": "passende",
+    "translate": "подходящий",
+    "context": [],
+    "id": "a8b5fcb17c83508dd193d4492a589ce3"
   },
   {
     "type": "verb",
@@ -11510,6 +16415,15 @@
     "translate": "происходить; случаться",
     "context": [],
     "id": "34f059c4f90121196d2f76f1637a1adf"
+  },
+  {
+    "type": "verb",
+    "base": "petzen",
+    "article": null,
+    "original": "petzen",
+    "translate": "ябедничать; доносить",
+    "context": [],
+    "id": "100467704e4d46b10984037cb7fc7481"
   },
   {
     "type": "verb",
@@ -11547,6 +16461,15 @@
     "translate": "рвать",
     "context": [],
     "id": "298235c442a77d57eed9738e77fd320e"
+  },
+  {
+    "type": "verb",
+    "base": "piepen",
+    "article": null,
+    "original": "piepen",
+    "translate": "чирикать; пищать",
+    "context": [],
+    "id": "83f93e3b0f6f56d4063893b0cf424a04"
   },
   {
     "type": "*",
@@ -11596,10 +16519,19 @@
   },
   {
     "type": "verb",
+    "base": "pusten",
+    "article": null,
+    "original": "pusten",
+    "translate": "дуть; тяжело дышать",
+    "context": [],
+    "id": "eba4b1a3140f13e3d038bc432f4fc0d1"
+  },
+  {
+    "type": "verb",
     "base": "putzen",
     "article": null,
     "original": "putzen",
-    "translate": "чистить",
+    "translate": "чистить; убирать",
     "context": [],
     "id": "4c5c24ac9796f0ebb48a99f282864a41"
   },
@@ -11614,6 +16546,15 @@
   },
   {
     "type": "verb",
+    "base": "quaken",
+    "article": null,
+    "original": "quaken",
+    "translate": "квакать",
+    "context": [],
+    "id": "cd20d06bc113f473bbb7e19bb7842724"
+  },
+  {
+    "type": "verb",
     "base": "quellen",
     "article": null,
     "original": "quellen",
@@ -11621,6 +16562,33 @@
     "context": [],
     "irregular": true,
     "id": "15f364b025f1f173dad08ed19f1ff440"
+  },
+  {
+    "type": "*",
+    "base": "quengeln",
+    "article": null,
+    "original": "quengeln",
+    "translate": "ныть",
+    "context": [],
+    "id": "12ea8a43ac4ceed2cb41e2f61a62c19d"
+  },
+  {
+    "type": "verb",
+    "base": "quieken",
+    "article": null,
+    "original": "quieken",
+    "translate": "пищать; визжать",
+    "context": [],
+    "id": "d74508c0967c0d05b65bfedf3cb39fc4"
+  },
+  {
+    "type": "verb",
+    "base": "quietschen",
+    "article": null,
+    "original": "quietschen",
+    "translate": "пищать; скрипеть",
+    "context": [],
+    "id": "48929bbb295c1c591f4f9b4a092d3770"
   },
   {
     "type": "verb",
@@ -11639,6 +16607,15 @@
     "translate": "курить",
     "context": [],
     "id": "bd2d114dffa44805180af3501660a3ff"
+  },
+  {
+    "type": "*",
+    "base": "raue Haut",
+    "article": null,
+    "original": "raue Haut",
+    "translate": "грубая кожа",
+    "context": [],
+    "id": "55f67998f44e2e7dc3a7b4b4b08842b5"
   },
   {
     "type": "*",
@@ -11712,6 +16689,15 @@
     "translate": "богатый",
     "context": [],
     "id": "c4a21aa4dbab00abb5143fb59f112eff"
+  },
+  {
+    "type": "verb",
+    "base": "reichen",
+    "article": null,
+    "original": "reichen",
+    "translate": "достигать; хватать",
+    "context": [],
+    "id": "e5d049f352cb386a3fb1a5db8d9f1445"
   },
   {
     "type": "verb",
@@ -11794,7 +16780,7 @@
     "base": "ringen",
     "article": null,
     "original": "ringen",
-    "translate": "бороться; добиваться",
+    "translate": "бороться; добиваться; стараться",
     "context": [],
     "irregular": true,
     "id": "eb4a136e34de083df44cc77fb0340929"
@@ -11817,6 +16803,24 @@
     "translate": "кататься на санках",
     "context": [],
     "id": "b5b6470f78eb7088a04b92547712fc69"
+  },
+  {
+    "type": "verb",
+    "base": "rollen",
+    "article": null,
+    "original": "rollen",
+    "translate": "катиться",
+    "context": [],
+    "id": "874ad91ce935ec417fd4f9797a5fde87"
+  },
+  {
+    "type": "*",
+    "base": "rosa",
+    "article": null,
+    "original": "rosa",
+    "translate": "розовый",
+    "context": [],
+    "id": "4baf29182ab9fbb697fa3fe6a27ff356"
   },
   {
     "type": "*",
@@ -11844,6 +16848,24 @@
     "translate": "спокойный; тихий",
     "context": [],
     "id": "310554cab3772d84abbd625ecdc89aa2"
+  },
+  {
+    "type": "*",
+    "base": "rätseln",
+    "article": null,
+    "original": "rätseln",
+    "translate": "гадать",
+    "context": [],
+    "id": "9c1439f37b23d8671ff52a985c9c29e7"
+  },
+  {
+    "type": "verb",
+    "base": "rühren",
+    "article": null,
+    "original": "rühren",
+    "translate": "перемешивать",
+    "context": [],
+    "id": "ee4ea5168c911ec60902aac9e210eeab"
   },
   {
     "type": "verb",
@@ -11903,6 +16925,15 @@
     "id": "be725809bea6c0581db05d7c7b80290a"
   },
   {
+    "type": "*",
+    "base": "saure",
+    "article": null,
+    "original": "saure",
+    "translate": "кислый",
+    "context": [],
+    "id": "f58d2e1629b4015cc9cf8a41c029ffa2"
+  },
+  {
     "type": "verb",
     "base": "schaffen",
     "article": null,
@@ -11920,6 +16951,15 @@
     "context": [],
     "irregular": true,
     "id": "4c0a0e429b37f909ad569fb0ffebd690"
+  },
+  {
+    "type": "*",
+    "base": "scharf",
+    "article": null,
+    "original": "scharf",
+    "translate": "острый",
+    "context": [],
+    "id": "5acd39604b01e3e8d741426d8094ae23"
   },
   {
     "type": "verb",
@@ -12028,6 +17068,15 @@
   },
   {
     "type": "*",
+    "base": "schlau",
+    "article": null,
+    "original": "schlau",
+    "translate": "хитрый",
+    "context": [],
+    "id": "8cf50580a61b02d5b201a0763b7313fa"
+  },
+  {
+    "type": "*",
     "base": "schlecht",
     "article": null,
     "original": "schlecht",
@@ -12077,6 +17126,15 @@
   },
   {
     "type": "*",
+    "base": "schlummern",
+    "article": null,
+    "original": "schlummern",
+    "translate": "дремать",
+    "context": [],
+    "id": "2aa692f2a76b31a655bc41eff25e2505"
+  },
+  {
+    "type": "*",
     "base": "schmal",
     "article": null,
     "original": "schmal",
@@ -12086,10 +17144,19 @@
   },
   {
     "type": "verb",
+    "base": "schmausen",
+    "article": null,
+    "original": "schmausen",
+    "translate": "пировать",
+    "context": [],
+    "id": "099409ca90d9d0571c8e46cd326e63c5"
+  },
+  {
+    "type": "verb",
     "base": "schmecken",
     "article": null,
     "original": "schmecken",
-    "translate": "пробовать; пробовать на вкус",
+    "translate": "пробовать; пробовать на вкус; иметь вкус",
     "context": [],
     "id": "97e53fb74b77205b9116a28a0965bd4b"
   },
@@ -12130,6 +17197,15 @@
     "translate": "украшать",
     "context": [],
     "id": "1c66b3e3c89b3f4614d7735e593c13e8"
+  },
+  {
+    "type": "verb",
+    "base": "schnarchen",
+    "article": null,
+    "original": "schnarchen",
+    "translate": "храпеть",
+    "context": [],
+    "id": "429d8944ee57ba5eb59f6df944be9fb1"
   },
   {
     "type": "verb",
@@ -12187,6 +17263,15 @@
     "context": [],
     "irregular": true,
     "id": "24667b0f2257706f485497e7f27a709a"
+  },
+  {
+    "type": "*",
+    "base": "schrecklich",
+    "article": null,
+    "original": "schrecklich",
+    "translate": "ужасный",
+    "context": [],
+    "id": "2add754769b2e36120e7f0eacc0c5fbe"
   },
   {
     "type": "verb",
@@ -12571,7 +17656,7 @@
     "base": "sie",
     "article": null,
     "original": "sie",
-    "translate": "она; они",
+    "translate": "она; они; она/они",
     "context": [],
     "id": "23454eb0e5a14a73d7e503bf76a1afbb"
   },
@@ -12710,7 +17795,7 @@
     "base": "sparen",
     "article": null,
     "original": "sparen",
-    "translate": "экономить",
+    "translate": "экономить; копить",
     "context": [],
     "id": "fe0d341ad41d7d729b664f355dbdc97c"
   },
@@ -12762,6 +17847,24 @@
     "id": "1fa8b6cf4d7e23030638cafc1a8c8c63"
   },
   {
+    "type": "*",
+    "base": "spitz",
+    "article": null,
+    "original": "spitz",
+    "translate": "острый; остроконечный",
+    "context": [],
+    "id": "b1a39784a5d5c6116de87349630e657c"
+  },
+  {
+    "type": "verb",
+    "base": "spitzen",
+    "article": null,
+    "original": "spitzen",
+    "translate": "заострять; чинить (карандаш)",
+    "context": [],
+    "id": "e3f46656a6ca6ddd9b571b33c269e085"
+  },
+  {
     "type": "verb",
     "base": "sprechen",
     "article": null,
@@ -12788,6 +17891,24 @@
     "translate": "прыгать; скакать",
     "context": [],
     "id": "1c11c8c57f1281826f4b192d4606518a"
+  },
+  {
+    "type": "verb",
+    "base": "spucken",
+    "article": null,
+    "original": "spucken",
+    "translate": "плевать",
+    "context": [],
+    "id": "33b4c25ae9b550f5d166868d928cbd53"
+  },
+  {
+    "type": "verb",
+    "base": "spuren",
+    "article": null,
+    "original": "spuren",
+    "translate": "оставлять следы",
+    "context": [],
+    "id": "ea1ecc8d790fe500abf2406fba69c738"
   },
   {
     "type": "*",
@@ -12912,6 +18033,15 @@
     "id": "480f0dec7fae24f098074a7a700d8b03"
   },
   {
+    "type": "*",
+    "base": "still",
+    "article": null,
+    "original": "still",
+    "translate": "тихо",
+    "context": [],
+    "id": "0aad9d866ebb47d597046d166272193c"
+  },
+  {
     "type": "verb",
     "base": "stimmen",
     "article": null,
@@ -13025,6 +18155,15 @@
   },
   {
     "type": "*",
+    "base": "süß",
+    "article": null,
+    "original": "süß",
+    "translate": "сладкий; милый",
+    "context": [],
+    "id": "6b9937fbd5b794bcc69a85c3883952f6"
+  },
+  {
+    "type": "*",
     "base": "tadeln",
     "article": null,
     "original": "tadeln",
@@ -13082,7 +18221,7 @@
     "base": "toll",
     "article": null,
     "original": "toll",
-    "translate": "потрясающий",
+    "translate": "потрясающий; классный",
     "context": [],
     "id": "6a4ccbe3c51d9d05d219d385a4da83a8"
   },
@@ -13180,6 +18319,15 @@
     "id": "d6f16dfcde8ad3f46222ba8ff30290d8"
   },
   {
+    "type": "*",
+    "base": "treu",
+    "article": null,
+    "original": "treu",
+    "translate": "верный",
+    "context": [],
+    "id": "f1bd73a0a36f4e5022e3f9ee4480f427"
+  },
+  {
     "type": "verb",
     "base": "triefen",
     "article": null,
@@ -13206,6 +18354,15 @@
     "translate": "сушить",
     "context": [],
     "id": "306a394923639c092123ce2a60b9da79"
+  },
+  {
+    "type": "verb",
+    "base": "tropfen",
+    "article": null,
+    "original": "tropfen",
+    "translate": "капать",
+    "context": [],
+    "id": "ba47acfcc98091a8d13d60eb9a9e62c8"
   },
   {
     "type": "verb",
@@ -13310,6 +18467,15 @@
   },
   {
     "type": "verb",
+    "base": "umwerfen",
+    "article": null,
+    "original": "umwerfen",
+    "translate": "опрокидывать",
+    "context": [],
+    "id": "49e4172704d82e79f29d1cd0f760d9b9"
+  },
+  {
+    "type": "verb",
     "base": "umziehen",
     "article": null,
     "original": "umziehen",
@@ -13349,7 +18515,7 @@
     "base": "unter",
     "article": null,
     "original": "unter",
-    "translate": "под; ниже; младший",
+    "translate": "под; ниже; младший; внизу",
     "context": [],
     "id": "4789c44c8b9d61690f53662d85d20fee"
   },
@@ -13388,6 +18554,15 @@
     "translate": "запрещать",
     "context": [],
     "id": "303df3e945b432a5989e3088bbcf80b0"
+  },
+  {
+    "type": "verb",
+    "base": "verbinden",
+    "article": null,
+    "original": "verbinden",
+    "translate": "соединить",
+    "context": [],
+    "id": "482713711508d43cdd90a38e5167d503"
   },
   {
     "type": "verb",
@@ -13535,6 +18710,15 @@
     "id": "5ad2f3240298874f4a389501ef26e469"
   },
   {
+    "type": "*",
+    "base": "verschidene",
+    "article": null,
+    "original": "verschidene",
+    "translate": "различные",
+    "context": [],
+    "id": "d69148296ea54bdc821373681a08b4fd"
+  },
+  {
     "type": "verb",
     "base": "verschieben",
     "article": null,
@@ -13583,6 +18767,15 @@
       ]
     ],
     "id": "404ed6ba65103fb1ce1d4acbf41dc0ae"
+  },
+  {
+    "type": "verb",
+    "base": "versuchen",
+    "article": null,
+    "original": "versuchen",
+    "translate": "пробовать; пытаться",
+    "context": [],
+    "id": "75766d684b4fb10695c25250a82e6063"
   },
   {
     "type": "verb",
@@ -13666,6 +18859,15 @@
       ]
     ],
     "id": "c2f1ded72d4712cf4f4d06f257f62c8d"
+  },
+  {
+    "type": "*",
+    "base": "vier",
+    "article": null,
+    "original": "vier",
+    "translate": "четыре",
+    "context": [],
+    "id": "b64da47e9e0cb2e9f8c538c4f06a3063"
   },
   {
     "type": "*",
@@ -13761,6 +18963,15 @@
     "translate": "предпочитать",
     "context": [],
     "id": "9b197e80d13153034e0ae20c19252444"
+  },
+  {
+    "type": "verb",
+    "base": "wachen",
+    "article": null,
+    "original": "wachen",
+    "translate": "бодрствовать; не спать",
+    "context": [],
+    "id": "6b828572ed5ba50974306be49cf4782f"
   },
   {
     "type": "verb",
@@ -14140,6 +19351,24 @@
     "id": "5259a230bd008f162876cec46e3c564c"
   },
   {
+    "type": "verb",
+    "base": "winken",
+    "article": null,
+    "original": "winken",
+    "translate": "махать",
+    "context": [],
+    "id": "305ead742601d7bd3dff63fd7298946d"
+  },
+  {
+    "type": "*",
+    "base": "winzig",
+    "article": null,
+    "original": "winzig",
+    "translate": "крошечный",
+    "context": [],
+    "id": "8a76dc9d4af2ebd9feed5faeb99aaf77"
+  },
+  {
     "type": "*",
     "base": "wir",
     "article": null,
@@ -14156,6 +19385,15 @@
     "translate": "действительно; в самом деле",
     "context": [],
     "id": "e9fd3ab77020c3334ba0208a0f1e8c9a"
+  },
+  {
+    "type": "verb",
+    "base": "wischen",
+    "article": null,
+    "original": "wischen",
+    "translate": "тереть; вытирать",
+    "context": [],
+    "id": "129a1cc4b027be65dceeb73905af576c"
   },
   {
     "type": "verb",
@@ -14192,6 +19430,15 @@
     "translate": "куда",
     "context": [],
     "id": "2f01daa3f96d65254444e4a2883f0690"
+  },
+  {
+    "type": "*",
+    "base": "wohl",
+    "article": null,
+    "original": "wohl",
+    "translate": "хорошо; здоровый; может быть",
+    "context": [],
+    "id": "ee361053b822d63dc52956b1de4578a9"
   },
   {
     "type": "verb",
@@ -14253,7 +19500,7 @@
     "base": "wünschen",
     "article": null,
     "original": "wünschen",
-    "translate": "желать",
+    "translate": "желать; хотеть",
     "context": [],
     "id": "ad37873494bbfa02630a040a8c0c66b6"
   },
@@ -14375,6 +19622,15 @@
     "translate": "быть; быть закрытым; быть запертым",
     "context": [],
     "id": "7951379b01b28d616d9f13b1e846104e"
+  },
+  {
+    "type": "*",
+    "base": "zuerst",
+    "article": null,
+    "original": "zuerst",
+    "translate": "сначала",
+    "context": [],
+    "id": "6f32c4ccf9ded4b0ae2344bbe8900cfe"
   },
   {
     "type": "verb",
@@ -14530,6 +19786,24 @@
     "id": "e32b437bea889942df8fcc40923ab0d0"
   },
   {
+    "type": "verb",
+    "base": "zuschauen",
+    "article": null,
+    "original": "zuschauen",
+    "translate": "смотреть; наблюдать",
+    "context": [],
+    "id": "fb5197d4fbc79ca1a1e1d7c6eaddbae9"
+  },
+  {
+    "type": "*",
+    "base": "zwei",
+    "article": null,
+    "original": "zwei",
+    "translate": "два",
+    "context": [],
+    "id": "d196b0adfc5edc73d5c5ee33d8a9ff0b"
+  },
+  {
     "type": "*",
     "base": "zweifeln",
     "article": null,
@@ -14567,6 +19841,15 @@
     "id": "8c3b6943fee02e960223352a7a363204"
   },
   {
+    "type": "*",
+    "base": "zwölf",
+    "article": null,
+    "original": "zwölf",
+    "translate": "двенадцать",
+    "context": [],
+    "id": "5e83b99cd9b872262fe482c95ef11965"
+  },
+  {
     "type": "verb",
     "base": "zählen",
     "article": null,
@@ -14574,6 +19857,24 @@
     "translate": "считать",
     "context": [],
     "id": "cfb1acf7eda43aef039fdb864d4580e6"
+  },
+  {
+    "type": "noun",
+    "base": "Äste",
+    "article": "die",
+    "original": "die Äste",
+    "translate": "ветки",
+    "context": [],
+    "id": "9304c4397e6443fac276a60c4e06e715"
+  },
+  {
+    "type": "noun",
+    "base": "Öffner",
+    "article": "der",
+    "original": "der Öffner",
+    "translate": "открывалка",
+    "context": [],
+    "id": "f54ccfc2762e4890281457af2a4ba21a"
   },
   {
     "type": "noun",
@@ -14597,6 +19898,33 @@
       ]
     ],
     "id": "bdafd31016f61d7d9df0ebe9cbf8c7b2"
+  },
+  {
+    "type": "noun",
+    "base": "Überholmanöver",
+    "article": "das",
+    "original": "das Überholmanöver",
+    "translate": "обгон",
+    "context": [],
+    "id": "dbe23f29c3da160fc5123fe91d179192"
+  },
+  {
+    "type": "noun",
+    "base": "Überholung",
+    "article": "die",
+    "original": "die Überholung",
+    "translate": "обгон",
+    "context": [],
+    "id": "c4d1166e410cac66367d1d69cc594cea"
+  },
+  {
+    "type": "noun",
+    "base": "Übung",
+    "article": "die",
+    "original": "die Übung",
+    "translate": "упражнение; тренировка",
+    "context": [],
+    "id": "72764cd9372748f5043edf5dfc483564"
   },
   {
     "type": "*",
@@ -14671,7 +19999,7 @@
     "base": "über",
     "article": null,
     "original": "über",
-    "translate": "над",
+    "translate": "над; о; об",
     "context": [],
     "id": "8cd24c996dec3d3066bf75226ff18268"
   },

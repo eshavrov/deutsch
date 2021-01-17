@@ -21,6 +21,7 @@ const listA11L8 = require("./in_data/other/a1/case1/a1.1-l8.json");
 const listA11L10 = require("./in_data/other/a1/case1/a1.1-l10.json");
 const listA1 = require("./in_data/other/a1/case1/a1.json");
 const listdasAdjektiv01 = require("./in_data/other/a1/case1/das-adjektiv-01.json");
+const listKlassePiriBayern = require("./in_data/other/a1/case1/klasse-piri-bayern.json");
 
 const getId = (uni) => {
   return createHash("md5").update(uni).digest("hex");
@@ -239,6 +240,7 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
   ...listA11L8,
   ...listA11L10,
   ...listdasAdjektiv01,
+  ...listKlassePiriBayern,
 ].forEach((data) => add(dictonary, data));
 
 dictonary.sort((a, b) => {
