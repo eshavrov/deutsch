@@ -1,9 +1,9 @@
 const groups = [
-  // Группа 1. Глаголы стадии
+  //  Группа 1. Глаголы стадии
   {
     title: "Глаголы стадии",
     verbs: [
-      ["beginnen", "начинать, начинаться"],
+      ["beginnen", "начинать; начинаться"],
       ["anfangen", "начинать"],
       ["erscheinen", "появляться"],
       ["sich verspäten", "опаздывать"],
@@ -21,7 +21,7 @@ const groups = [
     ],
   },
 
-  // Группа 2. Глаголы движения
+  //  Группа 2. Глаголы движения
   {
     title: "Глаголы движения",
     verbs: [
@@ -51,8 +51,8 @@ const groups = [
       ["reiten", "скакать"],
     ],
     list: [
-      ["BewegungsartenBewegung aufwärts/ abwärts", "Виды движений"],
-      ["Geschwindigkeit", "Движение вверх/ вниз"],
+      ["BewegungsartenBewegung aufwärts; abwärts", "Виды движений"],
+      ["Geschwindigkeit", "Движение вверх; вниз"],
       ["Verfolgung", "Скорость"],
       ["Bewegung vom Ausgang bis", "Преследование"],
       ["zum Eingang", "Цикл движений от начальной до конечной точки движения"],
@@ -60,9 +60,9 @@ const groups = [
     ],
   },
 
-  // Группа 3. Глаголы наличия/ количества
+  //  Группа 3. Глаголы наличия; количества
   {
-    title: "Глаголы наличия / количества",
+    title: "Глаголы наличия ; количества",
     verbs: [
       ["sein", "быть"],
       ["haben", "иметь"],
@@ -78,26 +78,26 @@ const groups = [
       ["zufügen", "добавлять"],
       ["füllen", "наполнять"],
       ["voll sein", "быть полным"],
-      ["reduzieren/ kürzen", "сокращать"],
+      ["reduzieren; kürzen", "сокращать"],
       ["ausschließen", "исключать"],
       ["ausgeben", "тратить"],
       ["verderben", "портить"],
       ["übrigbleiben", "оставаться"],
-      ["behalten", "хранить, удерживать"],
+      ["behalten", "хранить; удерживать"],
       ["besitzen", "владеть"],
       ["gehören", "принадлежать"],
       ["enthalten ", "содержать"],
     ],
     list: [
-      ["Vorhandensein und Zugehörigkeit", "Наличие/принадлежность"],
-      ["Mangel/ Abwesenheit", "Нехватка"],
-      ["Zugeben/ Überfluss", "Добавление, избыток"],
+      ["Vorhandensein und Zugehörigkeit", "Наличие;принадлежность"],
+      ["Mangel; Abwesenheit", "Нехватка"],
+      ["Zugeben; Überfluss", "Добавление, избыток"],
       ["Kürzung", "Сокращение"],
-      ["Erhaltung/ Aufbewahrung", "Сохранение"],
+      ["Erhaltung; Aufbewahrung", "Сохранение"],
     ],
   },
 
-  // Группа 4. Глаголы положения
+  //  Группа 4. Глаголы положения
   {
     title: "Глаголы положения",
     verbs: [
@@ -107,14 +107,14 @@ const groups = [
       ["sich setzen", "садиться"],
       ["stehen", "стоять"],
       ["stellen", "ставить"],
-      ["hängen", "висеть, вешать"],
+      ["hängen", "висеть; вешать"],
       ["sein", "находиться"],
       ["liegen", "находиться"],
     ],
-    list: [["Lage/ Position ", "Положение"]],
+    list: [["Lage; Position ", "Положение"]],
   },
 
-  // Группа 5. Бытовые глаголы
+  //  Группа 5. Бытовые глаголы
   {
     title: "Бытовые глаголы",
     verbs: [
@@ -126,8 +126,8 @@ const groups = [
       ["trinken", "пить"],
       ["backen", "печь"],
       ["braten", "жарить"],
-      ["sieden/ kochen", "кипятить/ кипеть"],
-      ["tragen/ anhaben", "носить"],
+      ["sieden; kochen", "кипятить; кипеть"],
+      ["tragen; anhaben", "носить"],
       ["anziehen", "надевать"],
       ["waschen (Wäsche)", "стирать"],
       ["bügeln", "гладить"],
@@ -138,19 +138,19 @@ const groups = [
       ["aufstehen", "вставать"],
       ["krank sein", "болеть"],
       ["ärztlich behandeln", "лечить"],
-      ["genesen/ gesund werden", "выздоравливать"],
+      ["genesen; gesund werden", "выздоравливать"],
     ],
     list: [
       ["Leben", "Жить"],
       ["Arbeiten", "Работать"],
-      ["Essen/ trinken", "Есть/ пить"],
+      ["Essen; trinken", "Есть; пить"],
       ["Sich kleiden", "Одеваться"],
-      ["Schlafen/ Morgentoilette", "Спать/ приводить себя в порядок"],
+      ["Schlafen; Morgentoilette", "Спать; приводить себя в порядок"],
       ["Krank sein", "Болеть"],
     ],
   },
 
-  // Группа 6. Глаголы чувства
+  //  Группа 6. Глаголы чувства
   {
     title: "Глаголы чувства",
     verbs: [
@@ -170,10 +170,10 @@ const groups = [
       ["lächeln", "улыбаться"],
       ["lachen", "смеяться"],
       ["genießen", "наслаждаться"],
-      ["sich freuen", "радоваться, веселиться"],
+      ["sich freuen", "радоваться; веселиться"],
       ["sicher sein", "быть уверенным"],
       ["zweifeln", "сомневаться"],
-      ["müde sein", "уставать, быть уставшим"],
+      ["müde sein", "уставать; быть уставшим"],
       ["beunruhigen", "волновать"],
       ["erschrecken", "пугать"],
       ["wundern", "удивлять"],
@@ -185,15 +185,15 @@ const groups = [
     list: [
       ["Gutes Verhalten", "Хорошее отношение"],
       ["Schlechtes Verhalten", "Плохое отношение"],
-      ["Kummer/ Freude", "Горе/ радость"],
-      ["Stolz/ Bescheidenheit", "Гордость/ скромность"],
-      ["Zuversicht/ Zweifel", "Уверенность/ сомнение"],
-      ["Fleiß/ Faulheit", "Старание/ лень"],
+      ["Kummer; Freude", "Горе; радость"],
+      ["Stolz; Bescheidenheit", "Гордость; скромность"],
+      ["Zuversicht; Zweifel", "Уверенность; сомнение"],
+      ["Fleiß; Faulheit", "Старание; лень"],
       ["Andere Gefühle ", "Оттенки эмоции"],
     ],
   },
 
-  // Группа 7. Глаголы восприятия и мышления
+  //  Группа 7. Глаголы восприятия и мышления
   {
     title: "Глаголы восприятия и мышления",
     verbs: [
@@ -201,7 +201,7 @@ const groups = [
       ["gucken", "смотреть"],
       ["zuhören", "слушать"],
       ["hören", "слышать"],
-      ["fühlen/ empfinden", "чувствовать"],
+      ["fühlen; empfinden", "чувствовать"],
       ["sich erinnern (an A)", "помнить"],
       ["vergessen", "забывать"],
       ["erkennen", "узнавать"],
@@ -210,29 +210,29 @@ const groups = [
       ["schreiben", "писать"],
       ["zählen", "считать"],
       ["rechnen", "вычислять"],
-      ["addieren/ zufügen", "прибавлять"],
+      ["addieren; zufügen", "прибавлять"],
       ["abziehen", "вычитать"],
       ["multiplizieren", "умножать"],
       ["dividieren", "делить"],
       ["denken", "думать"],
-      ["entscheiden/ beschließen ", "решать"],
+      ["entscheiden; beschließen ", "решать"],
       ["sich (D) etwas anders überlegen ", "передумать"],
     ],
     list: [
       ["Empfindung der Welt", "Восприятие мира"],
-      ["Schulung/ Lernprozess", "Обучение"],
+      ["Schulung; Lernprozess", "Обучение"],
       ["Einzelne Lernoperationen", "Учебные операции"],
-      ["Logische Operationen/ Denken", "Логические операции"],
+      ["Logische Operationen; Denken", "Логические операции"],
     ],
   },
 
-  // Группа 8. Рабочие операции
+  //  Группа 8. Рабочие операции
   {
     title: "Рабочие операции",
     verbs: [
       ["tun", "делать"],
       ["machen", "делать"],
-      ["ausführen/ erfüllen", "выполнять"],
+      ["ausführen; erfüllen", "выполнять"],
       ["vorbereiten", "готовить"],
       ["verstecken", "прятать"],
       ["suchen", "искать"],
@@ -242,28 +242,28 @@ const groups = [
       ["stoßen", "толкать"],
       ["ziehen", "тянуть"],
       ["schmeißen", "бросать"],
-      ["öffnen/ aufmachen", "открывать"],
+      ["öffnen; aufmachen", "открывать"],
       ["schließen", "закрывать"],
       ["anschließen", "присоединять"],
       ["trennen", "отсоединять"],
-      ["lösen/ loslösen", "развязать"],
+      ["lösen; loslösen", "развязать"],
       ["schneiden", "резать"],
       ["gießen", "лить"],
-      ["verschütten", "проливать/ просыпать"],
+      ["verschütten", "проливать; просыпать"],
       ["trocknen ", "сушить"],
     ],
     list: [
-      ["Arbeiten/ machen", "Работать/делать"],
-      ["Vorbereiten/ prüfen", "Готовить/ проверять"],
+      ["Arbeiten; machen", "Работать/делать"],
+      ["Vorbereiten; prüfen", "Готовить; проверять"],
       ["Operationen mit der Hand", "Брать (и другие операции рукой)"],
-      ["Verbinden/ befestigen", "Соединять/ закреплять"],
-      ["Aufmachen/ zumachen", "Закрывать/ открывать"],
-      ["Zerstören/ teilen", "Разрушать/ делить на части"],
+      ["Verbinden; befestigen", "Соединять; закреплять"],
+      ["Aufmachen; zumachen", "Закрывать; открывать"],
+      ["Zerstören; teilen", "Разрушать; делить на части"],
       ["Operationen mit Wasser", "Операции с водой"],
     ],
   },
 
-  // Группа 9. Глаголы общения
+  //  Группа 9. Глаголы общения
   {
     title: "Глаголы общения",
     verbs: [
@@ -294,7 +294,7 @@ const groups = [
       ["schenken", "дарить"],
       ["kennenlernen", "знакомиться"],
       ["bekannt sein", "быть знакомым"],
-      ["stören", "мешать/ беспокоить"],
+      ["stören", "мешать; беспокоить"],
       ["belästigen", "беспокоить"],
       ["entschuldigen", "извинять"],
       ["verzeihen", "прощать"],
@@ -307,8 +307,8 @@ const groups = [
       ["Antworten", "Отвечать"],
       ["Nehmen", "Брать"],
       ["Geben", "Давать"],
-      ["Besuch/ Etikette", "Визит/ этикет"],
-      ["Verletzung der Etikette", "Нарушение этикета/ наказание"],
+      ["Besuch; Etikette", "Визит; этикет"],
+      ["Verletzung der Etikette", "Нарушение этикета; наказание"],
     ],
   },
 
@@ -325,7 +325,7 @@ const groups = [
       ["gewinnen", "выиграть"],
       ["verlieren", "проигрывать"],
       ["schießen", "стрелять"],
-      ["töten/ umbringen", "убить"],
+      ["töten; umbringen", "убить"],
       ["verwunden", "ранить"],
       ["eine Niederlage beibringen", "нанести поражение"],
       ["eine Niederlage zerschlagen", "нанести поражение"],

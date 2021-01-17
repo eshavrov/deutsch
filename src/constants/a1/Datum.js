@@ -42,7 +42,7 @@ const groups = [
     ["der Mittwoch", "среда"],
     ["der Donnerstag", "четверг"],
     ["der Freitag", "пятница"],
-    ["der Samstag/Sonnabend", "суббота"],
+    ["der Samstag; der Sonnabend", "суббота"],
 
     ["der Wochentag, -e", "день недели"],
     ["das Wochenende", "выходные"],
@@ -56,16 +56,16 @@ const groups = [
     ["der Tag", "день"],
     [
       "der Nachmittag,-e",
-      "после полудня, послеобеденное время, время после полудня",
+      "после полудня; послеобеденное время; время после полудня",
     ],
     ["der Morgen", "Утро"],
     ["der Abend,-e", "вечер"],
     [
       "der Vormittag,-e",
-      "первая половина дня, утро, предобеденное время, время до полудня",
+      "первая половина дня; утро; предобеденное время; время до полудня",
     ],
     ["die Nacht,¨-e", "ночь"],
-    ["der Mittag", "полдень, обед"],
+    ["der Mittag", "полдень; обед"],
   ],
 
   // Monat/Monatsnamen
@@ -87,7 +87,7 @@ const groups = [
   // Jahr/Jahreszeiten
   [
     ["Jahreszeiten", "сезоны", "время года", "времена года"],
-    ["der Frühling/das Frühjahr", "весна"],
+    ["der Frühling; das Frühjahr", "весна"],
     ["der Sommer", "лето"],
     ["der Herbst", "осень"],
     ["der Winter", "зима"],
