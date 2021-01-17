@@ -7,6 +7,8 @@ const listA11L3 = require("./in_data/other/a1/case1/a1.1-l3.json");
 const words200 = require("./in_data/de-online_ru/200words.json");
 const verbs = require("./in_data/other/verbs.json");
 const irregularVerbs = require("./in_data/de-online_ru/irregularVerbs.json");
+const irregularVerbs2 = require("./in_data/other/verbs_i.json");
+
 
 const { list } = require("./in_data/other/a1/all");
 const { groups } = require("./in_data/other/verbsGroups");
@@ -195,7 +197,7 @@ const addVerb = (dictonary, data, options = {}) => {
   const cb = (entry) => {
     return { ...entry, type: "verb" };
   };
-  add(dictonary, data, { ...options, cb });
+  add(dictonary, data, { options, cb });
 };
 
 groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
@@ -212,7 +214,14 @@ datumGroups.forEach((g) => g.forEach((data) => add(dictonary, data)));
 irregularVerbs.forEach((data) => {
   const w = data[0] || "";
   const t = data.length > 1 ? data[data.length - 1] : "";
-  addVerb(dictonary, [w, t]);
+  addVerb(dictonary, [w, t], { irregular: true });
+});
+
+irregularVerbs2.forEach((data) => {
+  const w = data[0] || "";
+  const t = data.length > 1 ? data[data.length - 1] : "";
+  const c = w.split(";").map(t=>t.trim());
+  addVerb(dictonary, [c[0], t], { irregular: true });
 });
 
 dictonary.sort((a, b) => (a.base > b.base ? 1 : -1));

@@ -4821,7 +4821,7 @@
     "base": "backen",
     "article": null,
     "original": "backen",
-    "translate": "печь",
+    "translate": "печь; выпекать; запекать",
     "context": [],
     "id": "2e64a1d38bffef40a18675ab642a2f52"
   },
@@ -4931,7 +4931,7 @@
     "base": "befehlen",
     "article": null,
     "original": "befehlen",
-    "translate": "командовать; приказывать",
+    "translate": "командовать; приказывать; предписывать; велеть",
     "context": [],
     "id": "7568073afd41e97321b32224691d522b"
   },
@@ -4967,7 +4967,7 @@
     "base": "beginnen",
     "article": null,
     "original": "beginnen",
-    "translate": "начинать; начинаться; затевать",
+    "translate": "начинать; начинаться; затевать; предпринимать; делать",
     "context": [
       [
         "Das Spiel beginnt um 15.30 Uhr.",
@@ -5052,7 +5052,7 @@
     "base": "beißen",
     "article": null,
     "original": "beißen",
-    "translate": "кусать",
+    "translate": "кусать; укусить",
     "context": [],
     "id": "b774c642a86f9c0ab43ce60e872fe1ad"
   },
@@ -5165,7 +5165,7 @@
     "base": "bergen",
     "article": null,
     "original": "bergen",
-    "translate": "спасать; укрывать",
+    "translate": "спасать; укрывать; прятать",
     "context": [],
     "id": "3a282d31e0e261064c34d5ccb95c8645"
   },
@@ -5183,7 +5183,7 @@
     "base": "bersten",
     "article": null,
     "original": "bersten",
-    "translate": "трескаться; разрываться; лопнуть",
+    "translate": "трескаться; разрываться; лопнуть; лопаться",
     "context": [],
     "id": "0120399dc342478fcbb2ed9156aebd2f"
   },
@@ -5338,7 +5338,7 @@
     "base": "bewegen",
     "article": null,
     "original": "(sich) bewegen",
-    "translate": "двигать(ся); двигать; передвигать",
+    "translate": "двигать(ся); двигать; передвигать; склонять; побуждать",
     "context": [],
     "id": "f0985f24156111046817f3967729ce43"
   },
@@ -5370,7 +5370,7 @@
     "base": "biegen",
     "article": null,
     "original": "biegen",
-    "translate": "гнуть; сгибать",
+    "translate": "гнуть; сгибать; изгибать",
     "context": [],
     "id": "b706bbcc2b93630854d394bfcab526eb"
   },
@@ -5388,7 +5388,7 @@
     "base": "bieten",
     "article": null,
     "original": "bieten",
-    "translate": "предлагать",
+    "translate": "предлагать; давать; предоставлять возможность",
     "context": [],
     "id": "747f930f0a80e04ff481ae95258145f0"
   },
@@ -5420,7 +5420,7 @@
     "base": "binden",
     "article": null,
     "original": "binden",
-    "translate": "связывать",
+    "translate": "связывать; завязывать",
     "context": [],
     "id": "2051c95af9867acf1b38c9a18bb56058"
   },
@@ -5479,7 +5479,7 @@
     "base": "bitten",
     "article": null,
     "original": "bitten",
-    "translate": "просить; ходатайствовать",
+    "translate": "просить; ходатайствовать; выражать просьбу",
     "context": [
       [
         "Darf ich Sie um etwas bitten?",
@@ -5507,7 +5507,7 @@
     "base": "blasen",
     "article": null,
     "original": "blasen",
-    "translate": "дуть",
+    "translate": "дуть; выдувать",
     "context": [],
     "id": "c2115013f9ae2f5d1cdfaa945bf18de2"
   },
@@ -5570,7 +5570,7 @@
     "base": "braten",
     "article": null,
     "original": "braten",
-    "translate": "жарить; обжигать",
+    "translate": "жарить; обжигать; жариться",
     "context": [],
     "id": "03b449a502886636ca9de450a82f2782"
   },
@@ -5611,7 +5611,7 @@
     "base": "brechen",
     "article": null,
     "original": "brechen",
-    "translate": "ломать",
+    "translate": "ломать; разбивать; нарушать; преодолевать",
     "context": [],
     "id": "7f507f09b14c74cebbfe80a4ca7974b6"
   },
@@ -5634,7 +5634,7 @@
     "base": "brennen",
     "article": null,
     "original": "brennen",
-    "translate": "гореть",
+    "translate": "гореть; жечь; сжигать; пылать",
     "context": [],
     "id": "808542a87f27beb4d6155c0859905d30"
   },
@@ -5643,7 +5643,7 @@
     "base": "bringen",
     "article": null,
     "original": "bringen",
-    "translate": "приносить",
+    "translate": "приносить; приводить",
     "context": [
       [
         "Bringen Sie mir bitte noch einen Kaffee!",
@@ -5862,7 +5862,7 @@
     "base": "denken",
     "article": null,
     "original": "denken",
-    "translate": "думать",
+    "translate": "думать; размышлять; мыслить; полагать",
     "context": [],
     "id": "429dc9d5a0b8521695eac7edc5d5cab8"
   },
@@ -5929,6 +5929,16 @@
       ]
     ],
     "id": "a1aef98e4786257b491f2186a7a5d794"
+  },
+  {
+    "type": "verb",
+    "base": "dingen",
+    "article": null,
+    "original": "dingen",
+    "translate": "нанимать",
+    "context": [],
+    "irregular": true,
+    "id": "4c796658a69888af6a76ec32f589cbcc"
   },
   {
     "type": "*",
@@ -6001,6 +6011,7 @@
     "original": "dreschen",
     "translate": "молотить",
     "context": [],
+    "irregular": true,
     "id": "0e2d85fea7106003e46afc2c24d15147"
   },
   {
@@ -6008,8 +6019,9 @@
     "base": "dringen",
     "article": null,
     "original": "dringen",
-    "translate": "проникать",
+    "translate": "проникать; настаивать; требовать; просить",
     "context": [],
+    "irregular": true,
     "id": "77a0f98282e9fcbcdf0eb5014e7cb803"
   },
   {
@@ -6106,10 +6118,20 @@
   },
   {
     "type": "verb",
+    "base": "dünken",
+    "article": null,
+    "original": "dünken",
+    "translate": "воображать",
+    "context": [],
+    "irregular": true,
+    "id": "2c295c8543a9061aeb19edebb2aaf9aa"
+  },
+  {
+    "type": "verb",
     "base": "dürfen",
     "article": null,
     "original": "dürfen",
-    "translate": "мочь; мочь (иметь разрешение)",
+    "translate": "мочь; мочь (иметь разрешение); быть вправе; сметь",
     "context": [
       [
         "Sie dürfen hier nicht rauchen.",
@@ -6297,6 +6319,7 @@
     "original": "empfangen",
     "translate": "принимать",
     "context": [],
+    "irregular": true,
     "id": "cc28b7fee8532bb769cc49d2902c3663"
   },
   {
@@ -6425,6 +6448,16 @@
   },
   {
     "type": "verb",
+    "base": "erbleichen",
+    "article": null,
+    "original": "erbleichen",
+    "translate": "бледнеть",
+    "context": [],
+    "irregular": true,
+    "id": "e608291cbe8f701c5405e4dc3b595638"
+  },
+  {
+    "type": "verb",
     "base": "erfahren",
     "article": null,
     "original": "erfahren",
@@ -6488,6 +6521,16 @@
   },
   {
     "type": "verb",
+    "base": "erkiesen",
+    "article": null,
+    "original": "erkiesen",
+    "translate": "избирать",
+    "context": [],
+    "irregular": true,
+    "id": "7992ccae9f4c2ff9163d11a8acdb1fee"
+  },
+  {
+    "type": "verb",
     "base": "erklären",
     "article": null,
     "original": "erklären",
@@ -6519,8 +6562,9 @@
     "base": "erlöschen",
     "article": null,
     "original": "erlöschen",
-    "translate": "потухать; прекращаться",
+    "translate": "потухать; прекращаться; погаснуть; угасать; ослабевать",
     "context": [],
+    "irregular": true,
     "id": "b6bf7e6303174390ac35e56402a0fc38"
   },
   {
@@ -6546,7 +6590,7 @@
     "base": "erschrecken",
     "article": null,
     "original": "erschrecken",
-    "translate": "пугать; пугаться",
+    "translate": "пугать; пугаться; испугать",
     "context": [],
     "id": "20e1d036ad8f1ed11c521b2e5bb6dd92"
   },
@@ -6665,7 +6709,7 @@
     "base": "fahren",
     "article": null,
     "original": "fahren",
-    "translate": "ехать; ездить",
+    "translate": "ехать; ездить; кататься; везти",
     "context": [
       [
         "Ich fahre mit dem Auto zur Arbeit.",
@@ -6702,8 +6746,9 @@
     "base": "fangen",
     "article": null,
     "original": "fangen",
-    "translate": "ловить",
+    "translate": "ловить; поймать",
     "context": [],
+    "irregular": true,
     "id": "fd8023b8c71e00cc010d9ebdb36d82d6"
   },
   {
@@ -6713,6 +6758,7 @@
     "original": "fechten",
     "translate": "фехтовать",
     "context": [],
+    "irregular": true,
     "id": "b6eb9f79f12eb5c6f1ee7915971ee5fc"
   },
   {
@@ -6802,7 +6848,7 @@
     "base": "finden",
     "article": null,
     "original": "finden",
-    "translate": "находить",
+    "translate": "находить; отыскать",
     "context": [
       [
         "Wir müssen den Schlüssel finden.",
@@ -6816,8 +6862,9 @@
     "base": "flechten",
     "article": null,
     "original": "flechten",
-    "translate": "плести",
+    "translate": "плести; заплетать",
     "context": [],
+    "irregular": true,
     "id": "2e04ea56b95d67f192de0e9b517a67c1"
   },
   {
@@ -6825,7 +6872,7 @@
     "base": "fliegen",
     "article": null,
     "original": "fliegen",
-    "translate": "летать",
+    "translate": "летать; лететь",
     "context": [
       [
         "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
@@ -6839,8 +6886,9 @@
     "base": "fliehen",
     "article": null,
     "original": "fliehen",
-    "translate": "убегать; удирать",
+    "translate": "убегать; удирать; бежать; спасаться бегством",
     "context": [],
+    "irregular": true,
     "id": "6031a0d220546d9ee0b65ad7384d76e8"
   },
   {
@@ -6848,8 +6896,9 @@
     "base": "fließen",
     "article": null,
     "original": "fließen",
-    "translate": "течь; литься",
+    "translate": "течь; литься; струиться",
     "context": [],
+    "irregular": true,
     "id": "8bb4e0c5b624ff9c5a975c0566a43c26"
   },
   {
@@ -6917,7 +6966,7 @@
     "base": "fressen",
     "article": null,
     "original": "fressen",
-    "translate": "пожирать; жрать; лопать",
+    "translate": "пожирать; жрать; лопать; есть",
     "context": [],
     "id": "aac8e66ab0345586eebdc995c0c7a3d9"
   },
@@ -6949,7 +6998,7 @@
     "base": "frieren",
     "article": null,
     "original": "frieren",
-    "translate": "мёрзнуть; замерзать",
+    "translate": "мёрзнуть; замерзать; зябнуть",
     "context": [],
     "id": "df69000459df06955b513afb7747125a"
   },
@@ -7062,7 +7111,7 @@
     "base": "geben",
     "article": null,
     "original": "geben",
-    "translate": "давать",
+    "translate": "давать; подавать",
     "context": [],
     "id": "c9279fbe5b9e8250ef769eec8d73e45b"
   },
@@ -7089,7 +7138,7 @@
     "base": "gebären",
     "article": null,
     "original": "gebären",
-    "translate": "рождаться; родить",
+    "translate": "рождаться; родить; рожать",
     "context": [],
     "id": "db0a3b9538ecfc01b09279339bfc35a8"
   },
@@ -7098,8 +7147,9 @@
     "base": "gedeihen",
     "article": null,
     "original": "gedeihen",
-    "translate": "расти; преуспевать",
+    "translate": "расти; преуспевать; развиваться; процветать",
     "context": [],
+    "irregular": true,
     "id": "aa685a57b5fa36eefa7fad21a54af573"
   },
   {
@@ -7154,6 +7204,7 @@
     "original": "gelingen",
     "translate": "удаваться",
     "context": [],
+    "irregular": true,
     "id": "0f2cd1d3640f7117918eecff0432941a"
   },
   {
@@ -7161,8 +7212,9 @@
     "base": "gelten",
     "article": null,
     "original": "gelten",
-    "translate": "стоить; цениться",
+    "translate": "стоить; цениться; годиться; быть действительным",
     "context": [],
+    "irregular": true,
     "id": "bb1794ab7d152fd9265a48a87f14d46a"
   },
   {
@@ -7202,6 +7254,16 @@
     "id": "5eed1e987cd97cb54d13ed91eef9cabe"
   },
   {
+    "type": "verb",
+    "base": "geraten",
+    "article": null,
+    "original": "geraten",
+    "translate": "попасть",
+    "context": [],
+    "irregular": true,
+    "id": "d863bc41272a45af53b55f2f9d346f16"
+  },
+  {
     "type": "*",
     "base": "gern",
     "article": null,
@@ -7226,6 +7288,7 @@
     "original": "geschehen",
     "translate": "происходить",
     "context": [],
+    "irregular": true,
     "id": "bc4d5c12efa62b04e429efed5650155d"
   },
   {
@@ -7251,7 +7314,7 @@
     "base": "gewinnen",
     "article": null,
     "original": "gewinnen",
-    "translate": "выиграть; выигрывать",
+    "translate": "выиграть; выигрывать; добывать; получать",
     "context": [],
     "id": "6149001adcdfb6620ce2c7afb5f54fea"
   },
@@ -7283,7 +7346,7 @@
     "base": "gießen",
     "article": null,
     "original": "gießen",
-    "translate": "лить; поливать; наливать",
+    "translate": "лить; поливать; наливать; обливать",
     "context": [],
     "id": "8b02035b7d140a9c05fb6b4881fd04cc"
   },
@@ -7301,8 +7364,9 @@
     "base": "gleichen",
     "article": null,
     "original": "gleichen",
-    "translate": "выравнивать",
+    "translate": "выравнивать; походить; быть похожим",
     "context": [],
+    "irregular": true,
     "id": "9d1a3174ddd7283798cdbdd107ed991a"
   },
   {
@@ -7310,17 +7374,29 @@
     "base": "gleiten",
     "article": null,
     "original": "gleiten",
-    "translate": "скользить",
+    "translate": "скользить; соскальзывать",
     "context": [],
+    "irregular": true,
     "id": "4953e5ae8016253aa69c3212cda7c15d"
+  },
+  {
+    "type": "verb",
+    "base": "glimmen",
+    "article": null,
+    "original": "glimmen",
+    "translate": "тлеть",
+    "context": [],
+    "irregular": true,
+    "id": "8c1d586811b7e3ce6713604e84e489c7"
   },
   {
     "type": "verb",
     "base": "graben",
     "article": null,
     "original": "graben",
-    "translate": "копать",
+    "translate": "копать; рыть",
     "context": [],
+    "irregular": true,
     "id": "c28c5a96f6d71e06e2518cd6198ad035"
   },
   {
@@ -7337,8 +7413,9 @@
     "base": "greifen",
     "article": null,
     "original": "greifen",
-    "translate": "браться (за что-л.)",
+    "translate": "браться (за что-л.); хватать; схватить; брать",
     "context": [],
+    "irregular": true,
     "id": "e626840e67a10993dd3cbcc3cd055e36"
   },
   {
@@ -7391,8 +7468,9 @@
     "base": "gären",
     "article": null,
     "original": "gären",
-    "translate": "бродить",
+    "translate": "бродить; (о вине)",
     "context": [],
+    "irregular": true,
     "id": "e4a2529fde7497d0f200d7ebe10e9580"
   },
   {
@@ -7400,7 +7478,7 @@
     "base": "haben",
     "article": null,
     "original": "haben",
-    "translate": "иметь; владеть",
+    "translate": "иметь; владеть; обладать",
     "context": [],
     "id": "730f9569c2990f4a784eb03812d9bc24"
   },
@@ -7409,7 +7487,7 @@
     "base": "halten",
     "article": null,
     "original": "halten",
-    "translate": "останавливать(ся); держать; останавливаться",
+    "translate": "останавливать(ся); держать; останавливаться; содержать; соблюдать",
     "context": [],
     "id": "f52c4199a3fb661784f10725eaa48844"
   },
@@ -7427,8 +7505,9 @@
     "base": "hauen",
     "article": null,
     "original": "hauen",
-    "translate": "рубить",
+    "translate": "рубить; колотить; дубасить",
     "context": [],
+    "irregular": true,
     "id": "2fafc9f13c531a1258b3dae39158eccd"
   },
   {
@@ -7436,7 +7515,7 @@
     "base": "heben",
     "article": null,
     "original": "heben",
-    "translate": "поднимать",
+    "translate": "поднимать; повышать",
     "context": [],
     "id": "23bf4c8505983b034a1cc79111300277"
   },
@@ -7454,7 +7533,7 @@
     "base": "heißen",
     "article": null,
     "original": "heißen",
-    "translate": "называть; зваться; называться",
+    "translate": "называть; зваться; называться; означать",
     "context": [],
     "id": "1ac5235261cab9e150a55e8f18d7af70"
   },
@@ -7740,7 +7819,7 @@
     "base": "kennen",
     "article": null,
     "original": "kennen",
-    "translate": "знать",
+    "translate": "знать; быть знакомым",
     "context": [],
     "id": "5bf0831da72fa2faa06fde8ec0ba2b9c"
   },
@@ -7785,8 +7864,9 @@
     "base": "klingen",
     "article": null,
     "original": "klingen",
-    "translate": "звенеть",
+    "translate": "звенеть; звонить; звучать; раздаваться",
     "context": [],
+    "irregular": true,
     "id": "9f7ea9e2b46b4cf8ccc49f0b79317cf2"
   },
   {
@@ -7796,6 +7876,7 @@
     "original": "kneifen",
     "translate": "щипать",
     "context": [],
+    "irregular": true,
     "id": "c1bd109e7229c20f58bb901c11791503"
   },
   {
@@ -7839,8 +7920,9 @@
     "base": "kriechen",
     "article": null,
     "original": "kriechen",
-    "translate": "ползать",
+    "translate": "ползать; лезть",
     "context": [],
+    "irregular": true,
     "id": "b83a965b123cf119ba10da7b36e16345"
   },
   {
@@ -7875,7 +7957,7 @@
     "base": "können",
     "article": null,
     "original": "können",
-    "translate": "мочь; уметь",
+    "translate": "мочь; уметь; быть в состоянии",
     "context": [],
     "id": "0c68e1b3ec0ee646a2146e38513852cf"
   },
@@ -7913,6 +7995,7 @@
     "original": "laden",
     "translate": "грузить; приглашать",
     "context": [],
+    "irregular": true,
     "id": "7b6e34aee4b0f686aa8322474b34d84b"
   },
   {
@@ -7938,7 +8021,7 @@
     "base": "lassen",
     "article": null,
     "original": "lassen",
-    "translate": "оставлять; позволять; велеть",
+    "translate": "оставлять; позволять; велеть; пускать",
     "context": [],
     "id": "611aea9af6cfd8b43c4ca768a155330a"
   },
@@ -7947,7 +8030,7 @@
     "base": "laufen",
     "article": null,
     "original": "laufen",
-    "translate": "бежать; бегать",
+    "translate": "бежать; бегать; убегать",
     "context": [],
     "id": "036a486f46fbc4792750ba8ba9b54b38"
   },
@@ -8019,7 +8102,7 @@
     "base": "leihen",
     "article": null,
     "original": "leihen",
-    "translate": "брать взаймы; одалживать",
+    "translate": "брать взаймы; одалживать; занимать",
     "context": [],
     "id": "aa2364db9046e33935699aa55d6361f9"
   },
@@ -8055,7 +8138,7 @@
     "base": "liegen",
     "article": null,
     "original": "liegen",
-    "translate": "лежать; находиться; быть расположенным",
+    "translate": "лежать; находиться; быть расположенным; располагаться",
     "context": [],
     "id": "610961ffe4c2828d291548701455777d"
   },
@@ -8091,8 +8174,9 @@
     "base": "löschen",
     "article": null,
     "original": "löschen",
-    "translate": "тушить; стирать",
+    "translate": "тушить; стирать; гасить; удалять",
     "context": [],
+    "irregular": true,
     "id": "e89979b70068d3776e7d0c7a6cd456a4"
   },
   {
@@ -8118,8 +8202,9 @@
     "base": "lügen",
     "article": null,
     "original": "lügen",
-    "translate": "лгать",
+    "translate": "лгать; врать",
     "context": [],
+    "irregular": true,
     "id": "5b905db368cfe9d28c985bff7bffc954"
   },
   {
@@ -8147,6 +8232,7 @@
     "original": "mahlen",
     "translate": "молоть",
     "context": [],
+    "irregular": true,
     "id": "f5bd2d5ed5ad61f5be614606eaca7d35"
   },
   {
@@ -8181,8 +8267,9 @@
     "base": "meiden",
     "article": null,
     "original": "meiden",
-    "translate": "избегать",
+    "translate": "избегать; сторониться; уклоняться",
     "context": [],
+    "irregular": true,
     "id": "29c570ee890cd1d07675a322abdfb00e"
   },
   {
@@ -8210,6 +8297,7 @@
     "original": "melken",
     "translate": "доить",
     "context": [],
+    "irregular": true,
     "id": "d28029ff8b29fa3bcaefb97ea890a1ef"
   },
   {
@@ -8217,9 +8305,20 @@
     "base": "messen",
     "article": null,
     "original": "messen",
-    "translate": "измерять",
+    "translate": "измерять; мерить",
     "context": [],
+    "irregular": true,
     "id": "e97252b78c597dacd4709a9d5f6a89ae"
+  },
+  {
+    "type": "verb",
+    "base": "misslingen",
+    "article": null,
+    "original": "misslingen",
+    "translate": "не удаваться",
+    "context": [],
+    "irregular": true,
+    "id": "99174713cc2c39587fe64dc707d06fea"
   },
   {
     "type": "*",
@@ -8237,6 +8336,7 @@
     "original": "mißlingen",
     "translate": "не удаваться",
     "context": [],
+    "irregular": true,
     "id": "e41f2b0aa02ef67867f085184660d582"
   },
   {
@@ -8262,7 +8362,7 @@
     "base": "mögen",
     "article": null,
     "original": "mögen",
-    "translate": "любить; чувствовать расположение; нравиться; хотеть",
+    "translate": "любить; чувствовать расположение; нравиться; хотеть; желать",
     "context": [],
     "id": "a36b92d67290b11c9ec831233f31a447"
   },
@@ -8289,7 +8389,7 @@
     "base": "müssen",
     "article": null,
     "original": "müssen",
-    "translate": "быть должным; быть вынужденным; долженствовать",
+    "translate": "быть должным; быть вынужденным; долженствовать; быть необходимым",
     "context": [],
     "id": "4700a8a42bb33486622a607be7cd2d16"
   },
@@ -8325,7 +8425,7 @@
     "base": "nehmen",
     "article": null,
     "original": "nehmen",
-    "translate": "брать",
+    "translate": "брать; взять; принимать",
     "context": [],
     "id": "49920922fde40a7728df67aa251c971f"
   },
@@ -8343,7 +8443,7 @@
     "base": "nennen",
     "article": null,
     "original": "nennen",
-    "translate": "называть; давать имя",
+    "translate": "называть; давать имя; звать",
     "context": [],
     "id": "8fd8dd731896ee30249db703ca9dc8dd"
   },
@@ -8516,8 +8616,9 @@
     "base": "pfeifen",
     "article": null,
     "original": "pfeifen",
-    "translate": "свистеть",
+    "translate": "свистеть; насвистывать",
     "context": [],
+    "irregular": true,
     "id": "104cec64c69bffd15c5708e2559e9a38"
   },
   {
@@ -8534,7 +8635,7 @@
     "base": "pflegen",
     "article": null,
     "original": "pflegen",
-    "translate": "ухаживать",
+    "translate": "ухаживать; заботиться",
     "context": [],
     "id": "fafc25a06c4dd1be371fb35c5d1ec8f0"
   },
@@ -8552,8 +8653,9 @@
     "base": "preisen",
     "article": null,
     "original": "preisen",
-    "translate": "хвалить",
+    "translate": "хвалить; восхвалять; превозносить",
     "context": [],
+    "irregular": true,
     "id": "03791ebbd188d8f4bb095ae5071bd3a7"
   },
   {
@@ -8572,6 +8674,7 @@
     "original": "quellen",
     "translate": "бить ключом",
     "context": [],
+    "irregular": true,
     "id": "15f364b025f1f173dad08ed19f1ff440"
   },
   {
@@ -8579,7 +8682,7 @@
     "base": "raten",
     "article": null,
     "original": "raten",
-    "translate": "советовать; угадывать",
+    "translate": "советовать; угадывать; гадать; отгадывать",
     "context": [],
     "id": "45bb4edd089a8561ef99ae39352eff1b"
   },
@@ -8633,8 +8736,9 @@
     "base": "reiben",
     "article": null,
     "original": "reiben",
-    "translate": "тереть",
+    "translate": "тереть; натирать",
     "context": [],
+    "irregular": true,
     "id": "9fdb8f7ae068020008b0823cb9b29ce4"
   },
   {
@@ -8660,8 +8764,9 @@
     "base": "reißen",
     "article": null,
     "original": "reißen",
-    "translate": "рвать",
+    "translate": "рвать; разрывать",
     "context": [],
+    "irregular": true,
     "id": "e6fe67501242188b30d309e97ccb338e"
   },
   {
@@ -8669,7 +8774,7 @@
     "base": "rennen",
     "article": null,
     "original": "rennen",
-    "translate": "бежать",
+    "translate": "бежать; быстро бежать; мчаться",
     "context": [],
     "id": "78b2349279b620d00c4d3e941af491ce"
   },
@@ -8696,8 +8801,9 @@
     "base": "riechen",
     "article": null,
     "original": "riechen",
-    "translate": "нюхать",
+    "translate": "нюхать; пахнуть",
     "context": [],
+    "irregular": true,
     "id": "6a3cc76496bade78e57285cb08f7c465"
   },
   {
@@ -8707,6 +8813,7 @@
     "original": "ringen",
     "translate": "бороться; добиваться",
     "context": [],
+    "irregular": true,
     "id": "eb4a136e34de083df44cc77fb0340929"
   },
   {
@@ -8714,8 +8821,9 @@
     "base": "rinnen",
     "article": null,
     "original": "rinnen",
-    "translate": "течь",
+    "translate": "течь; струиться",
     "context": [],
+    "irregular": true,
     "id": "fb59308e6612ba403bd6a884f35458bd"
   },
   {
@@ -8732,7 +8840,7 @@
     "base": "rufen",
     "article": null,
     "original": "rufen",
-    "translate": "кричать; звать",
+    "translate": "кричать; звать; вызывать",
     "context": [],
     "id": "eecd7288204d2ff7c846f30f8f8d3d9b"
   },
@@ -8752,6 +8860,7 @@
     "original": "salzen",
     "translate": "солить",
     "context": [],
+    "irregular": true,
     "id": "fa7b11a71a5f8f59d00ad26c56cdfc32"
   },
   {
@@ -8770,6 +8879,7 @@
     "original": "saufen",
     "translate": "пить; пьянствовать",
     "context": [],
+    "irregular": true,
     "id": "dd77d65dca15d3a38578b3d743c2917a"
   },
   {
@@ -8777,8 +8887,9 @@
     "base": "saugen",
     "article": null,
     "original": "saugen",
-    "translate": "сосать",
+    "translate": "сосать; высасывать; пылесосить",
     "context": [],
+    "irregular": true,
     "id": "be725809bea6c0581db05d7c7b80290a"
   },
   {
@@ -8786,17 +8897,28 @@
     "base": "schaffen",
     "article": null,
     "original": "schaffen",
-    "translate": "создавать; творить",
+    "translate": "создавать; творить; делать",
     "context": [],
     "id": "e13ea74727995e488e8329ec1044adaa"
+  },
+  {
+    "type": "verb",
+    "base": "schallen",
+    "article": null,
+    "original": "schallen",
+    "translate": "звучать",
+    "context": [],
+    "irregular": true,
+    "id": "4c0a0e429b37f909ad569fb0ffebd690"
   },
   {
     "type": "verb",
     "base": "scheiden",
     "article": null,
     "original": "scheiden",
-    "translate": "разделять",
+    "translate": "разделять; расторгать брак",
     "context": [],
+    "irregular": true,
     "id": "904d0bec07002978c9f9e1fcf6719530"
   },
   {
@@ -8804,7 +8926,7 @@
     "base": "scheinen",
     "article": null,
     "original": "scheinen",
-    "translate": "светить; сиять",
+    "translate": "светить; сиять; казаться",
     "context": [],
     "id": "af2bd2b5f59b36368695b494db5628b1"
   },
@@ -8815,6 +8937,7 @@
     "original": "schelten",
     "translate": "бранить",
     "context": [],
+    "irregular": true,
     "id": "81eef48266d5cebb612dfea1af464011"
   },
   {
@@ -8831,8 +8954,9 @@
     "base": "scheren",
     "article": null,
     "original": "scheren",
-    "translate": "стричь",
+    "translate": "стричь; подстригать",
     "context": [],
+    "irregular": true,
     "id": "8c017b77ad6ae5dc9740566af2d4f790"
   },
   {
@@ -8851,6 +8975,7 @@
     "original": "schieben",
     "translate": "двигать; толкать",
     "context": [],
+    "irregular": true,
     "id": "b036457ff81bb2a0febfe6d68ff7cc8f"
   },
   {
@@ -8858,16 +8983,26 @@
     "base": "schießen",
     "article": null,
     "original": "schießen",
-    "translate": "стрелять",
+    "translate": "стрелять; бить; ударять",
     "context": [],
     "id": "c0e7f911b255a5cc6d48096289557975"
+  },
+  {
+    "type": "verb",
+    "base": "schinden",
+    "article": null,
+    "original": "schinden",
+    "translate": "сдирать шкуру; обдирать",
+    "context": [],
+    "irregular": true,
+    "id": "b508be152b53ae3fbee2d9f17e1432c4"
   },
   {
     "type": "verb",
     "base": "schlafen",
     "article": null,
     "original": "schlafen",
-    "translate": "спать",
+    "translate": "спать; ночевать",
     "context": [],
     "id": "20231fe72a6661d965dfd33a07c81791"
   },
@@ -8876,8 +9011,9 @@
     "base": "schlagen",
     "article": null,
     "original": "schlagen",
-    "translate": "бить",
+    "translate": "бить; ударить; стучать",
     "context": [],
+    "irregular": true,
     "id": "6d652d4f55050176a1fd2cf454bbad24"
   },
   {
@@ -8885,8 +9021,9 @@
     "base": "schleichen",
     "article": null,
     "original": "schleichen",
-    "translate": "красться",
+    "translate": "красться; подкрадываться",
     "context": [],
+    "irregular": true,
     "id": "56fdffba96e883d013c5363795779c8d"
   },
   {
@@ -8894,8 +9031,9 @@
     "base": "schleifen",
     "article": null,
     "original": "schleifen",
-    "translate": "точить",
+    "translate": "точить; шлифовать",
     "context": [],
+    "irregular": true,
     "id": "a02add9d91e0e54eaf46f07aaeebb6c7"
   },
   {
@@ -8903,7 +9041,7 @@
     "base": "schließen",
     "article": null,
     "original": "schließen",
-    "translate": "закрывать",
+    "translate": "закрывать; запирать; завершать; заключать",
     "context": [],
     "id": "247595f6d4648d3ab866ccca95f24455"
   },
@@ -8912,8 +9050,9 @@
     "base": "schlingen",
     "article": null,
     "original": "schlingen",
-    "translate": "обвивать",
+    "translate": "обвивать; обхватывать",
     "context": [],
+    "irregular": true,
     "id": "aab300b4219e84065ac3f5e8f3914ae4"
   },
   {
@@ -8930,7 +9069,7 @@
     "base": "schmeißen",
     "article": null,
     "original": "schmeißen",
-    "translate": "бросать; кидать",
+    "translate": "бросать; кидать; швырять",
     "context": [],
     "id": "68c78f6d713f4ab52a8489c7bcd801d5"
   },
@@ -8939,8 +9078,9 @@
     "base": "schmelzen",
     "article": null,
     "original": "schmelzen",
-    "translate": "таять",
+    "translate": "таять; топить; плавить",
     "context": [],
+    "irregular": true,
     "id": "e72b67c35bc86d19adce4df61514971f"
   },
   {
@@ -8954,10 +9094,20 @@
   },
   {
     "type": "verb",
+    "base": "schnauben",
+    "article": null,
+    "original": "schnauben",
+    "translate": "сопеть",
+    "context": [],
+    "irregular": true,
+    "id": "7329f03a6a04a2b693df43fd19900319"
+  },
+  {
+    "type": "verb",
     "base": "schneiden",
     "article": null,
     "original": "schneiden",
-    "translate": "резать",
+    "translate": "резать; разрезать; стричь",
     "context": [],
     "id": "db119423ebc004b46388eabb7dc3c659"
   },
@@ -8981,10 +9131,20 @@
   },
   {
     "type": "verb",
+    "base": "schrecken",
+    "article": null,
+    "original": "schrecken",
+    "translate": "пугать",
+    "context": [],
+    "irregular": true,
+    "id": "24667b0f2257706f485497e7f27a709a"
+  },
+  {
+    "type": "verb",
     "base": "schreiben",
     "article": null,
     "original": "schreiben",
-    "translate": "писать",
+    "translate": "писать; записывать",
     "context": [],
     "id": "bbf02e9b67727ef1366d219abce63fb6"
   },
@@ -8993,8 +9153,9 @@
     "base": "schreien",
     "article": null,
     "original": "schreien",
-    "translate": "кричать",
+    "translate": "кричать; орать",
     "context": [],
+    "irregular": true,
     "id": "1f6699cd79ee34a7f0a3903b46860eb0"
   },
   {
@@ -9002,8 +9163,9 @@
     "base": "schreiten",
     "article": null,
     "original": "schreiten",
-    "translate": "шагать",
+    "translate": "шагать; шествовать; идти",
     "context": [],
+    "irregular": true,
     "id": "e7d794464f4953e57f48a2278f00adc0"
   },
   {
@@ -9013,6 +9175,7 @@
     "original": "schweigen",
     "translate": "молчать",
     "context": [],
+    "irregular": true,
     "id": "1f70df2f3ef92725832a546ab20da016"
   },
   {
@@ -9020,8 +9183,9 @@
     "base": "schwellen",
     "article": null,
     "original": "schwellen",
-    "translate": "пухнуть",
+    "translate": "пухнуть; вздуваться; отекать",
     "context": [],
+    "irregular": true,
     "id": "72bd233cf06e5e83c4854682b8020b29"
   },
   {
@@ -9029,7 +9193,7 @@
     "base": "schwimmen",
     "article": null,
     "original": "schwimmen",
-    "translate": "плавать",
+    "translate": "плавать; плыть",
     "context": [],
     "id": "078216e621231f4c8e5e43760f4eb934"
   },
@@ -9040,6 +9204,7 @@
     "original": "schwinden",
     "translate": "убывать; исчезать",
     "context": [],
+    "irregular": true,
     "id": "ebfc3e7ea2d180d475215599500bc530"
   },
   {
@@ -9047,8 +9212,9 @@
     "base": "schwingen",
     "article": null,
     "original": "schwingen",
-    "translate": "махать; размахивать",
+    "translate": "махать; размахивать; качаться; колебаться",
     "context": [],
+    "irregular": true,
     "id": "c1cb2b582c87fe45123793656f541fc1"
   },
   {
@@ -9056,8 +9222,9 @@
     "base": "schwören",
     "article": null,
     "original": "schwören",
-    "translate": "клясться",
+    "translate": "клясться; обещать",
     "context": [],
+    "irregular": true,
     "id": "f6eb88eb029b8380a5d08083d8bdf6a5"
   },
   {
@@ -9119,8 +9286,9 @@
     "base": "sein",
     "article": null,
     "original": "sein",
-    "translate": "быть",
+    "translate": "быть; являться; находиться",
     "context": [],
+    "irregular": true,
     "id": "a017eb265503b12768802b679df03a5b"
   },
   {
@@ -9146,8 +9314,9 @@
     "base": "senden",
     "article": null,
     "original": "senden",
-    "translate": "посылать; отправлять",
+    "translate": "посылать; отправлять; слать; передавать",
     "context": [],
+    "irregular": true,
     "id": "bdb7642679a3c2e2edb75182f653e10a"
   },
   {
@@ -9317,8 +9486,9 @@
     "base": "sinken",
     "article": null,
     "original": "sinken",
-    "translate": "опускаться; погружаться",
+    "translate": "опускаться; погружаться; падать; тонуть",
     "context": [],
+    "irregular": true,
     "id": "314444e85c7ee8ba7d5a1cc618ba1afe"
   },
   {
@@ -9326,8 +9496,9 @@
     "base": "sinnen",
     "article": null,
     "original": "sinnen",
-    "translate": "думать; размышлять",
+    "translate": "думать; размышлять; замышлять",
     "context": [],
+    "irregular": true,
     "id": "18bbc81606e9df182c3fbaea93821879"
   },
   {
@@ -9377,6 +9548,16 @@
   },
   {
     "type": "verb",
+    "base": "spalten",
+    "article": null,
+    "original": "spalten",
+    "translate": "колоть; раскалывать",
+    "context": [],
+    "irregular": true,
+    "id": "06c131fd2284aa7c44823d98a78e14e6"
+  },
+  {
+    "type": "verb",
     "base": "sparen",
     "article": null,
     "original": "sparen",
@@ -9398,8 +9579,9 @@
     "base": "speien",
     "article": null,
     "original": "speien",
-    "translate": "выплёвывать",
+    "translate": "выплёвывать; плевать",
     "context": [],
+    "irregular": true,
     "id": "80523780357a516f44d1a9c4b7d5af9f"
   },
   {
@@ -9416,8 +9598,9 @@
     "base": "spinnen",
     "article": null,
     "original": "spinnen",
-    "translate": "прясть",
+    "translate": "прясть; прясти",
     "context": [],
+    "irregular": true,
     "id": "1fa8b6cf4d7e23030638cafc1a8c8c63"
   },
   {
@@ -9434,8 +9617,9 @@
     "base": "sprießen",
     "article": null,
     "original": "sprießen",
-    "translate": "пускать ростки; почки",
+    "translate": "пускать ростки; почки; расти; прорастать",
     "context": [],
+    "irregular": true,
     "id": "d9c1d663407c5cb4d85b26c1f4cc472e"
   },
   {
@@ -9472,7 +9656,18 @@
     "original": "stechen",
     "translate": "колоть",
     "context": [],
+    "irregular": true,
     "id": "754cfdd69cf43d24cdb1812686837bbf"
+  },
+  {
+    "type": "verb",
+    "base": "stecken",
+    "article": null,
+    "original": "stecken",
+    "translate": "торчать; совать",
+    "context": [],
+    "irregular": true,
+    "id": "e0e49ffcbbcf3aa3bdcce2e44a434964"
   },
   {
     "type": "verb",
@@ -9497,8 +9692,9 @@
     "base": "stehlen",
     "article": null,
     "original": "stehlen",
-    "translate": "воровать",
+    "translate": "воровать; красть",
     "context": [],
+    "irregular": true,
     "id": "b26a8af8431acf320815e15666182a27"
   },
   {
@@ -9506,7 +9702,7 @@
     "base": "steigen",
     "article": null,
     "original": "steigen",
-    "translate": "подниматься",
+    "translate": "подниматься; взбираться",
     "context": [],
     "id": "bb473a7e7072aa609ed6eb99d1cb5317"
   },
@@ -9530,6 +9726,16 @@
   },
   {
     "type": "verb",
+    "base": "stieben",
+    "article": null,
+    "original": "stieben",
+    "translate": "рассеиваться; разлетаться",
+    "context": [],
+    "irregular": true,
+    "id": "480f0dec7fae24f098074a7a700d8b03"
+  },
+  {
+    "type": "verb",
     "base": "stimmen",
     "article": null,
     "original": "stimmen",
@@ -9544,6 +9750,7 @@
     "original": "stinken",
     "translate": "вонять",
     "context": [],
+    "irregular": true,
     "id": "2f0d6bbe0cd1a44d98e77500c1f41b88"
   },
   {
@@ -9560,8 +9767,9 @@
     "base": "streichen",
     "article": null,
     "original": "streichen",
-    "translate": "гладить",
+    "translate": "гладить; красить; вычёркивать",
     "context": [],
+    "irregular": true,
     "id": "8c577b5bbbddb71ba2f3dff9b5959870"
   },
   {
@@ -9569,8 +9777,9 @@
     "base": "streiten",
     "article": null,
     "original": "streiten",
-    "translate": "спорить",
+    "translate": "спорить; ссориться",
     "context": [],
+    "irregular": true,
     "id": "e6780d7d2d765b5ac64d2d7197ac2686"
   },
   {
@@ -9659,7 +9868,7 @@
     "base": "tragen",
     "article": null,
     "original": "tragen; anhaben",
-    "translate": "носить",
+    "translate": "носить; нести",
     "context": [],
     "id": "b0647b46e4c990800cda12f23f34bcba"
   },
@@ -9677,8 +9886,9 @@
     "base": "treffen",
     "article": null,
     "original": "treffen",
-    "translate": "встречать",
+    "translate": "встречать; встретить; попасть; настигнуть",
     "context": [],
+    "irregular": true,
     "id": "38e43521560ff72f29b4010fe4c6e73e"
   },
   {
@@ -9695,8 +9905,9 @@
     "base": "treiben",
     "article": null,
     "original": "treiben",
-    "translate": "гнать",
+    "translate": "гнать; приводить в движение",
     "context": [],
+    "irregular": true,
     "id": "018d1e7c70b31204744d93617aa6e98d"
   },
   {
@@ -9724,7 +9935,18 @@
     "original": "treten",
     "translate": "ступать",
     "context": [],
+    "irregular": true,
     "id": "d6f16dfcde8ad3f46222ba8ff30290d8"
+  },
+  {
+    "type": "verb",
+    "base": "triefen",
+    "article": null,
+    "original": "triefen",
+    "translate": "капать",
+    "context": [],
+    "irregular": true,
+    "id": "271b3aec21d2a6e8ddd70d80cba40b23"
   },
   {
     "type": "verb",
@@ -9769,6 +9991,7 @@
     "original": "trügen",
     "translate": "обманывать",
     "context": [],
+    "irregular": true,
     "id": "62ef4cbf1c3ca2efe1a140fefaf58ac1"
   },
   {
@@ -9776,8 +9999,9 @@
     "base": "tun",
     "article": null,
     "original": "tun",
-    "translate": "делать",
+    "translate": "делать; сделать; поступить",
     "context": [],
+    "irregular": true,
     "id": "269133b08bdf27f82b758bdfc2009564"
   },
   {
@@ -9912,8 +10136,9 @@
     "base": "verdrießen",
     "article": null,
     "original": "verdrießen",
-    "translate": "сердить; досаждать",
+    "translate": "сердить; досаждать; раздражать",
     "context": [],
+    "irregular": true,
     "id": "311e3d19e1853908d5d77363fd2ba277"
   },
   {
@@ -10258,6 +10483,16 @@
     "id": "0d2904e24a081b470fb450fa029bc84e"
   },
   {
+    "type": "verb",
+    "base": "weben",
+    "article": null,
+    "original": "weben",
+    "translate": "ткать",
+    "context": [],
+    "irregular": true,
+    "id": "c338577e9d507ba1f51e5d1fe8b5ab27"
+  },
+  {
     "type": "*",
     "base": "wechseln",
     "article": null,
@@ -10280,8 +10515,9 @@
     "base": "weichen",
     "article": null,
     "original": "weichen",
-    "translate": "уклоняться; уворачиваться",
+    "translate": "уклоняться; уворачиваться; уступать",
     "context": [],
+    "irregular": true,
     "id": "e0903c871504efd3732decb69ddf102f"
   },
   {
@@ -10298,8 +10534,9 @@
     "base": "weisen",
     "article": null,
     "original": "weisen",
-    "translate": "указывать",
+    "translate": "указывать; показывать",
     "context": [],
+    "irregular": true,
     "id": "1a3e3b2791ad7f240bda09fbdbdb4953"
   },
   {
@@ -10327,6 +10564,7 @@
     "original": "wenden",
     "translate": "поворачивать",
     "context": [],
+    "irregular": true,
     "id": "7095b03e91b1ae34c0886c94a295ae4e"
   },
   {
@@ -10343,8 +10581,9 @@
     "base": "werben",
     "article": null,
     "original": "werben",
-    "translate": "рекламировать",
+    "translate": "рекламировать; нанимать; вербовать рекламировать",
     "context": [],
+    "irregular": true,
     "id": "49da153f73d9ab10087e8412f00c5e02"
   },
   {
@@ -10361,8 +10600,9 @@
     "base": "werfen",
     "article": null,
     "original": "werfen",
-    "translate": "кидать",
+    "translate": "кидать; бросать; метать",
     "context": [],
+    "irregular": true,
     "id": "d5d318ebbb4db6b889a52de23384f1d1"
   },
   {
@@ -10397,8 +10637,9 @@
     "base": "wiegen",
     "article": null,
     "original": "wiegen",
-    "translate": "качать; весить",
+    "translate": "качать; весить; взвешивать",
     "context": [],
+    "irregular": true,
     "id": "64d2573a73339c5bac59521fbf64cf20"
   },
   {
@@ -10424,8 +10665,9 @@
     "base": "winden",
     "article": null,
     "original": "winden",
-    "translate": "мотать",
+    "translate": "мотать; вить; наматывать",
     "context": [],
+    "irregular": true,
     "id": "3cd51c7dbe75e6a6c9be84ae825c6ea0"
   },
   {
@@ -10498,6 +10740,7 @@
     "original": "wägen",
     "translate": "взвешивать",
     "context": [],
+    "irregular": true,
     "id": "43df7eaa740b64f72309b09df78d284d"
   },
   {
@@ -10549,6 +10792,16 @@
     "translate": "показывать",
     "context": [],
     "id": "b299a5c8e389a03e90e93eb8d6701f62"
+  },
+  {
+    "type": "verb",
+    "base": "zeihen",
+    "article": null,
+    "original": "zeihen",
+    "translate": "уличать",
+    "context": [],
+    "irregular": true,
+    "id": "890ca3104e2d586a3c992f14b4207ca0"
   },
   {
     "type": "verb",
@@ -10766,8 +11019,9 @@
     "base": "zwingen",
     "article": null,
     "original": "zwingen",
-    "translate": "принуждать",
+    "translate": "принуждать; заставлять",
     "context": [],
+    "irregular": true,
     "id": "b80d58b23fe2ed001be4148c28556a85"
   },
   {
