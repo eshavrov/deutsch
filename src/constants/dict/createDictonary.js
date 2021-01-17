@@ -73,12 +73,16 @@ const REGEXP_DIE = /^die\s+/i;
 const REGEXP_DAS = /^das\s+/i;
 const REGEXP_DIE_DER = /^(die\s*\/\s*der\s*|der\s*\/\s*die)\s+/i;
 const REGEXP_VERB = /en$/i;
-
+// , ä-er
 const REGEXP_END = /\,\s*[äöü¨]*-(|e|er|s)$/i;
+// , ä, er
+const REGEXP_END_2 = /\,\s*[äöü¨]*(|,\s*e|,\s*er|,\s*s)$/i;
 
 const removeAdv = (text) => {
   return text
     .replace(REGEXP_END, "")
+    .trim()
+    .replace(REGEXP_END_2, "")
     .trim()
     .replace(/\,\s*pl$/i, "")
     .replace(/[?!.,]$/i, "")
@@ -282,7 +286,7 @@ console.log("---------------- end test --------------");
 );
 
 // dictonary
-//   .filter(({ type }) => type === "verb")
+//   .filter(({ translate }) => translate === "")
 //   .forEach(({ id, base, translate }) => console.log(base, translate));
 
 // dictonary

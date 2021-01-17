@@ -1839,6 +1839,15 @@
   },
   {
     "type": "noun",
+    "base": "Biergarten",
+    "article": "der",
+    "original": "der Biergarten, ä",
+    "translate": "пивная на открытом воздухе",
+    "context": [],
+    "id": "49325ae243c69fbd97a9d316d93645cc"
+  },
+  {
+    "type": "noun",
     "base": "Bild",
     "article": "das",
     "original": "das Bild, -er",
@@ -1992,6 +2001,15 @@
     "translate": "листья",
     "context": [],
     "id": "43ceca5dfef8823a997e2109f5ccb302"
+  },
+  {
+    "type": "noun",
+    "base": "Boden",
+    "article": "der",
+    "original": "der Boden, ö",
+    "translate": "почва; земля; пол",
+    "context": [],
+    "id": "db93453b45b4ff48650a7d518bd5a950"
   },
   {
     "type": "noun",
@@ -3364,9 +3382,14 @@
     "type": "noun",
     "base": "Ehemann",
     "article": "der",
-    "original": "der Ehemann",
+    "original": "die Ehefrau, -en ; der Ehemann, ä, er",
     "translate": "муж; супруг",
-    "context": [],
+    "context": [
+      [
+        "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.",
+        ""
+      ]
+    ],
     "id": "806cfed0afb1cd3e6b71dea17a0a10e1"
   },
   {
@@ -6134,6 +6157,15 @@
   },
   {
     "type": "noun",
+    "base": "Hafen",
+    "article": "der",
+    "original": "der Hafen, ä",
+    "translate": "порт; гавань; пристань",
+    "context": [],
+    "id": "f0468a2d4297707ace7d88cb06d4a886"
+  },
+  {
+    "type": "noun",
     "base": "Hahn",
     "article": "der",
     "original": "der Hahn",
@@ -6200,7 +6232,7 @@
     "base": "Hammer",
     "article": "der",
     "original": "der Hammer",
-    "translate": "молоток",
+    "translate": "молоток; молот; кувалда",
     "context": [],
     "id": "0e6e8e32b9466dff99a2855ef7865708"
   },
@@ -7374,6 +7406,15 @@
   },
   {
     "type": "noun",
+    "base": "Kasten",
+    "article": "der",
+    "original": "der Kasten, ä",
+    "translate": "коробка; ящик; короб; выдвижной ящик",
+    "context": [],
+    "id": "a9a23f9d24956be56138661c1dc32088"
+  },
+  {
+    "type": "noun",
     "base": "Katalog",
     "article": "der",
     "original": "der Katalog, -e",
@@ -8292,6 +8333,15 @@
   },
   {
     "type": "noun",
+    "base": "Kunst",
+    "article": "die",
+    "original": "die Kunst, ü",
+    "translate": "искусство; художество",
+    "context": [],
+    "id": "36a1855ed6d212f031b0f02020e7862b"
+  },
+  {
+    "type": "noun",
     "base": "Kunststoff",
     "article": "der",
     "original": "der Kunststoff, -e",
@@ -8475,7 +8525,7 @@
     "base": "Laden",
     "article": "der",
     "original": "der Laden",
-    "translate": "магазин; лавка",
+    "translate": "магазин; лавка; загрузка",
     "context": [],
     "id": "89f118c2b35859a116a010ffb123ed59"
   },
@@ -9102,6 +9152,15 @@
   },
   {
     "type": "noun",
+    "base": "Magen",
+    "article": "der",
+    "original": "der Magen, ä",
+    "translate": "желудок; утроба",
+    "context": [],
+    "id": "c340748bbc10c6c5faf06afb6c833002"
+  },
+  {
+    "type": "noun",
     "base": "Mahlzeit",
     "article": "die",
     "original": "die Mahlzeit, -en",
@@ -9150,7 +9209,7 @@
     "base": "Mantel",
     "article": "der",
     "original": "der Mantel",
-    "translate": "пальто",
+    "translate": "пальто; плащ; манто",
     "context": [],
     "id": "92abe00dddfdfe6b51bddebc53c3cc96"
   },
@@ -10020,6 +10079,15 @@
   },
   {
     "type": "noun",
+    "base": "Nagel",
+    "article": "die",
+    "original": "die Nagel, ä",
+    "translate": "ноготь; гвоздь; шпилька; шип; заклепка",
+    "context": [],
+    "id": "c5d57eb6b5c599110a1f4d4dee1d1b53"
+  },
+  {
+    "type": "noun",
     "base": "Nahrungsmittel",
     "article": "das",
     "original": "das Nahrungsmittel",
@@ -10298,7 +10366,7 @@
     "base": "Ofen",
     "article": "der",
     "original": "der Ofen",
-    "translate": "печь",
+    "translate": "печь; печка; горн",
     "context": [],
     "id": "6ea47b44e497766b2d9b1a6b2f946f1c"
   },
@@ -12628,6 +12696,15 @@
   },
   {
     "type": "noun",
+    "base": "Schwager",
+    "article": "der",
+    "original": "der Schwager, ä",
+    "translate": "шурин; зять",
+    "context": [],
+    "id": "6d197fb06841ea9be2baf93c28091e7f"
+  },
+  {
+    "type": "noun",
     "base": "Schwan",
     "article": "der",
     "original": "der Schwan",
@@ -12688,6 +12765,24 @@
     "translate": "родители жены; мужа",
     "context": [],
     "id": "0ff2f3384cd91c1f2dcd93522270b92f"
+  },
+  {
+    "type": "noun",
+    "base": "Schwiegermutter",
+    "article": "die",
+    "original": "die Schwiegermutter, ü",
+    "translate": "свекровь; теща",
+    "context": [],
+    "id": "398e2e55d0217d0e6af4a2a2c67f61dd"
+  },
+  {
+    "type": "noun",
+    "base": "Schwiegervater",
+    "article": "der",
+    "original": "der Schwiegervater, ä",
+    "translate": "тесть; свекор",
+    "context": [],
+    "id": "22999291ac3da6f7e27e82c688a19a49"
   },
   {
     "type": "noun",
@@ -20398,152 +20493,12 @@
   },
   {
     "type": "*",
-    "base": "der Biergarten, ä",
-    "article": null,
-    "original": "der Biergarten, ä",
-    "translate": "пивная на открытом воздухе",
-    "context": [],
-    "id": "66ec97f6a5ad1fdce39148147818a43d"
-  },
-  {
-    "type": "*",
-    "base": "der Boden, ö",
-    "article": null,
-    "original": "der Boden, ö",
-    "translate": "почва; земля; пол",
-    "context": [],
-    "id": "7b97658c64aba51fba293a7a265691a2"
-  },
-  {
-    "type": "*",
-    "base": "der Ehemann, ä, er",
-    "article": null,
-    "original": "die Ehefrau, -en ; der Ehemann, ä, er",
-    "translate": "",
-    "context": [
-      [
-        "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.",
-        ""
-      ]
-    ],
-    "id": "d615e5b4335f6a561b36fd40c2930d15"
-  },
-  {
-    "type": "*",
-    "base": "der Flughafen, ä",
-    "article": null,
-    "original": "der Flughafen, ä",
-    "translate": "аэропорт; аэродром",
-    "context": [],
-    "id": "9fb09a6b83ac1cb0d097b2e2fc787264"
-  },
-  {
-    "type": "*",
-    "base": "der Hafen, ä",
-    "article": null,
-    "original": "der Hafen, ä",
-    "translate": "порт; гавань; пристань",
-    "context": [],
-    "id": "ee811ace27d0cd1207414e01acb5a576"
-  },
-  {
-    "type": "*",
-    "base": "der Hammer, ä",
-    "article": null,
-    "original": "der Hammer, ä",
-    "translate": "молоток; молот; кувалда",
-    "context": [],
-    "id": "e9e989980e16e1a05521bb73c37e9178"
-  },
-  {
-    "type": "*",
-    "base": "der Kasten, ä",
-    "article": null,
-    "original": "der Kasten, ä",
-    "translate": "коробка; ящик; короб; выдвижной ящик",
-    "context": [],
-    "id": "0a4660d53ccf7d508a24535bb0e014f1"
-  },
-  {
-    "type": "*",
-    "base": "der Kindergarten, ä",
-    "article": null,
-    "original": "der Kindergarten, ä",
-    "translate": "детский сад; детсад",
-    "context": [],
-    "id": "839366ce985081361fb3ec1d237a3d07"
-  },
-  {
-    "type": "*",
-    "base": "der Laden, ä",
-    "article": null,
-    "original": "der Laden, ä",
-    "translate": "магазин; лавка; загрузка",
-    "context": [],
-    "id": "0170fc693dbec0cf202303887a189b6d"
-  },
-  {
-    "type": "*",
-    "base": "der Magen, ä",
-    "article": null,
-    "original": "der Magen, ä",
-    "translate": "желудок; утроба",
-    "context": [],
-    "id": "2c698428ccfdd6ae2a12d6131244d8bc"
-  },
-  {
-    "type": "*",
-    "base": "der Mantel, ä",
-    "article": null,
-    "original": "der Mantel, ä",
-    "translate": "пальто; плащ; манто",
-    "context": [],
-    "id": "adf125611aa185eacbf060b00ee04760"
-  },
-  {
-    "type": "*",
-    "base": "der Ofen, ö",
-    "article": null,
-    "original": "der Ofen, ö",
-    "translate": "печь; печка; горн",
-    "context": [],
-    "id": "f49f9e5d1a5b4c15aa82ef8686453834"
-  },
-  {
-    "type": "*",
     "base": "der Saft, die Säfte",
     "article": null,
     "original": "der Saft, die Säfte",
     "translate": "сок",
     "context": [],
     "id": "858fd0e73f5ac240e9f62715f653cede"
-  },
-  {
-    "type": "*",
-    "base": "der Schwager, ä",
-    "article": null,
-    "original": "der Schwager, ä",
-    "translate": "шурин; зять",
-    "context": [],
-    "id": "31f48d15ff1b23bb433e000247d5197b"
-  },
-  {
-    "type": "*",
-    "base": "der Schwiegervater, ä",
-    "article": null,
-    "original": "der Schwiegervater, ä",
-    "translate": "тесть; свекор",
-    "context": [],
-    "id": "c7aa86e3baa60562de521ed57d27c87c"
-  },
-  {
-    "type": "*",
-    "base": "der Vogel, ö",
-    "article": null,
-    "original": "der Vogel, ö",
-    "translate": "птица",
-    "context": [],
-    "id": "1a279d0a750ee3a6d06b192b3bc78ed5"
   },
   {
     "type": "*",
@@ -20646,24 +20601,6 @@
   },
   {
     "type": "*",
-    "base": "die Kunst, ü",
-    "article": null,
-    "original": "die Kunst, ü",
-    "translate": "искусство; художество",
-    "context": [],
-    "id": "02fa0a0b5ad9cae964aebf2f2591252b"
-  },
-  {
-    "type": "*",
-    "base": "die Nagel, ä",
-    "article": null,
-    "original": "die Nagel, ä",
-    "translate": "ноготь; гвоздь; шпилька; шип; заклепка",
-    "context": [],
-    "id": "db40b3efda5bc99ef055e354ba656593"
-  },
-  {
-    "type": "*",
     "base": "die Pommes frites",
     "article": null,
     "original": "die Pommes frites",
@@ -20679,15 +20616,6 @@
     "translate": "кабинет врача",
     "context": [],
     "id": "5a176e2c0bbcf5cd608df7faea565474"
-  },
-  {
-    "type": "*",
-    "base": "die Schwiegermutter, ü",
-    "article": null,
-    "original": "die Schwiegermutter, ü",
-    "translate": "свекровь; теща",
-    "context": [],
-    "id": "a461a633c518a3840cc8d3671e5d4c1f"
   },
   {
     "type": "*",
