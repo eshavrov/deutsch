@@ -37,7 +37,7 @@ const translateNormalize = (text) => {
   const list = [];
 
   chunks.forEach((phrase) => {
-    const id = getId(phrase);
+    const id = getId(phrase.toUpperCase());
     if (!tmp[id]) {
       list.push(phrase);
     }
