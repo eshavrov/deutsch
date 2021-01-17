@@ -217,7 +217,7 @@
     "base": "Ansage",
     "article": "die",
     "original": "die Ansage, -n",
-    "translate": "",
+    "translate": "объявление; оповещение; извещение",
     "context": [
       [
         "Hören Sie die Ansagen.",
@@ -666,7 +666,7 @@
     "base": "Bahnhof",
     "article": "der",
     "original": "der Bahnhof",
-    "translate": "",
+    "translate": "вокзал; станция",
     "context": [
       [
         "Komme ich hier zum Bahnhof?",
@@ -2154,6 +2154,15 @@
     "id": "8b58a759400cdfdca08bf1ba6935712a"
   },
   {
+    "type": "*",
+    "base": "Frühstück machen",
+    "article": null,
+    "original": "Frühstück machen",
+    "translate": "готовить завтрак",
+    "context": [],
+    "id": "53f7b2b17320442f5ca5078cb3323564"
+  },
+  {
     "type": "noun",
     "base": "Fuß",
     "article": "der",
@@ -2172,7 +2181,7 @@
     "base": "Fußball",
     "article": "der",
     "original": "der Fußball",
-    "translate": "",
+    "translate": "футбол",
     "context": [
       [
         "Spielt ihr gerne Fußball?",
@@ -2180,6 +2189,15 @@
       ]
     ],
     "id": "d078bc8f73536237eb6e34d5cc5057bf"
+  },
+  {
+    "type": "*",
+    "base": "Fußball spielen",
+    "article": null,
+    "original": "Fußball spielen",
+    "translate": "играть в футбол",
+    "context": [],
+    "id": "426e104963fa16540d1b395cbadf5e37"
   },
   {
     "type": "noun",
@@ -2221,6 +2239,15 @@
     "translate": "место рождения",
     "context": [],
     "id": "15338d9594ff2bf784672442d5ab2445"
+  },
+  {
+    "type": "noun",
+    "base": "Geburtstag",
+    "article": "der",
+    "original": "der Geburtstag",
+    "translate": "день рождения; дата рождения",
+    "context": [],
+    "id": "50dd0bf038a5e6b086982ec01080676c"
   },
   {
     "type": "noun",
@@ -2275,6 +2302,15 @@
     "translate": "дело; занятие; сделка; магазин",
     "context": [],
     "id": "d0afd2a73f401316e7c699133ef20f41"
+  },
+  {
+    "type": "noun",
+    "base": "Geschäftszeit",
+    "article": "die",
+    "original": "die Geschäftszeit",
+    "translate": "время работы; часы работы",
+    "context": [],
+    "id": "a890a6a6d3f89f21cc6a471d6af02952"
   },
   {
     "type": "noun",
@@ -2419,6 +2455,24 @@
     "translate": "дом; здание; строение",
     "context": [],
     "id": "120b1f9abd313d385dbc81d9b90f2847"
+  },
+  {
+    "type": "noun",
+    "base": "Hausaufgabe",
+    "article": "die",
+    "original": "die Hausaufgabe",
+    "translate": "домашнее задание",
+    "context": [],
+    "id": "a08f04cbb43b9477e5cb031b3f2d84cb"
+  },
+  {
+    "type": "*",
+    "base": "Hausaufgaben machen",
+    "article": null,
+    "original": "Hausaufgaben machen",
+    "translate": "делать домашнее задание",
+    "context": [],
+    "id": "18f8bf6cda90bb98afa4f264dfc3baa7"
   },
   {
     "type": "noun",
@@ -2699,6 +2753,15 @@
   },
   {
     "type": "noun",
+    "base": "Kino",
+    "article": "das",
+    "original": "das Kino",
+    "translate": "кино; кинотеатр",
+    "context": [],
+    "id": "47936f9d93701c21a294a25aa67dbb6b"
+  },
+  {
+    "type": "noun",
     "base": "Kollegin",
     "article": "die",
     "original": "die Kollegin",
@@ -2933,12 +2996,30 @@
   },
   {
     "type": "noun",
+    "base": "Mittagessen",
+    "article": "das",
+    "original": "das Mittagessen",
+    "translate": "обед",
+    "context": [],
+    "id": "da14063880a970523a30c7b4e1863a0d"
+  },
+  {
+    "type": "noun",
     "base": "Mittwoch",
     "article": "der",
     "original": "der Mittwoch",
     "translate": "среда",
     "context": [],
     "id": "3d56e9e4ee33c01975d479161fd96b07"
+  },
+  {
+    "type": "noun",
+    "base": "Moment",
+    "article": "der",
+    "original": "der Moment",
+    "translate": "момент; миг; мгновение",
+    "context": [],
+    "id": "6b7508d9f8445d403e84dbc009303d4e"
   },
   {
     "type": "noun",
@@ -2954,7 +3035,7 @@
     "base": "Montag",
     "article": "der",
     "original": "der Montag",
-    "translate": "понеделььник",
+    "translate": "понеделььник; понедельник",
     "context": [],
     "id": "8f61d817594bf43a6842c7b1ded53a0e"
   },
@@ -2963,7 +3044,7 @@
     "base": "Morgen",
     "article": "der",
     "original": "der Morgen",
-    "translate": "Утро",
+    "translate": "Утро; утро",
     "context": [],
     "id": "09fcd8022614ddb213e7faf2bfa697c3"
   },
@@ -3008,9 +3089,27 @@
     "base": "Nachmittag",
     "article": "der",
     "original": "der Nachmittag,-e",
-    "translate": "после полудня; послеобеденное время; время после полудня",
+    "translate": "после полудня; послеобеденное время; время после полудня; вторая половина дня; после обеда",
     "context": [],
     "id": "c090539de0026ec95acfc2635784deb7"
+  },
+  {
+    "type": "noun",
+    "base": "Nachrichten",
+    "article": "die",
+    "original": "die Nachrichten",
+    "translate": "сообщения; известия; новости",
+    "context": [],
+    "id": "732b95174ffef75d9bb272c1b3f30cc4"
+  },
+  {
+    "type": "noun",
+    "base": "Nacht",
+    "article": "die",
+    "original": "die Nacht",
+    "translate": "ночь",
+    "context": [],
+    "id": "a410cdd2996184c809d5b4b127f19ccf"
   },
   {
     "type": "noun",
@@ -3255,6 +3354,15 @@
   },
   {
     "type": "noun",
+    "base": "Praxis",
+    "article": "die",
+    "original": "die Praxis",
+    "translate": "практика",
+    "context": [],
+    "id": "675d45b061eba2a12c36ade078e509e2"
+  },
+  {
+    "type": "noun",
     "base": "Preis",
     "article": "der",
     "original": "der Preis, -e",
@@ -3387,6 +3495,15 @@
     "translate": "предложение",
     "context": [],
     "id": "6bb81cbc29e6360352f4a342a4ec009a"
+  },
+  {
+    "type": "noun",
+    "base": "Schild",
+    "article": "das",
+    "original": "das Schild",
+    "translate": "вывеска; табличка; знак",
+    "context": [],
+    "id": "4b8a7cb36ccbd71cefa52f104e62c37e"
   },
   {
     "type": "noun",
@@ -3552,6 +3669,15 @@
   },
   {
     "type": "noun",
+    "base": "Sprechstunde",
+    "article": "die",
+    "original": "die Sprechstunde",
+    "translate": "приемные часы; часы приема; время приема",
+    "context": [],
+    "id": "a15b3e84014ff5c8f86c3dde3e60f5f6"
+  },
+  {
+    "type": "noun",
     "base": "Stadt",
     "article": "die",
     "original": "die Stadt",
@@ -3678,6 +3804,15 @@
   },
   {
     "type": "noun",
+    "base": "Terminkalender",
+    "article": "der",
+    "original": "der Terminkalender",
+    "translate": "ежедневник",
+    "context": [],
+    "id": "92c842964bb9e170a28e373637794431"
+  },
+  {
+    "type": "noun",
     "base": "Terrasse",
     "article": "die",
     "original": "die Terrasse",
@@ -3741,6 +3876,15 @@
   },
   {
     "type": "noun",
+    "base": "Touristeninformation",
+    "article": "die",
+    "original": "die Touristeninformation",
+    "translate": "информация для туристов",
+    "context": [],
+    "id": "70cadbdcc66ba15c841ceea739843073"
+  },
+  {
+    "type": "noun",
     "base": "Traube",
     "article": "die",
     "original": "die Traube",
@@ -3762,9 +3906,18 @@
     "base": "Uhr",
     "article": "die",
     "original": "die Uhr, -en",
-    "translate": "часы",
+    "translate": "часы; час",
     "context": [],
     "id": "9c36f48b344ba3c8e3ce02e31cdeb95f"
+  },
+  {
+    "type": "noun",
+    "base": "Uhrzeit",
+    "article": "die",
+    "original": "die Uhrzeit",
+    "translate": "время; время на часах",
+    "context": [],
+    "id": "b06ddf76c0d5b8ff928f0f77145389a7"
   },
   {
     "type": "noun",
@@ -3856,10 +4009,19 @@
   },
   {
     "type": "noun",
+    "base": "Viertel",
+    "article": "das",
+    "original": "das Viertel",
+    "translate": "четверть",
+    "context": [],
+    "id": "6654dc56128aad6c2c02313505b754e9"
+  },
+  {
+    "type": "noun",
     "base": "Vormittag",
     "article": "der",
     "original": "der Vormittag,-e",
-    "translate": "первая половина дня; утро; предобеденное время; время до полудня",
+    "translate": "первая половина дня; утро; предобеденное время; время до полудня; до обеда",
     "context": [],
     "id": "2f14729acec4b3566ab2123901ba464a"
   },
@@ -4009,7 +4171,7 @@
     "base": "Woche",
     "article": "die",
     "original": "die Woche, -e",
-    "translate": "месяц",
+    "translate": "месяц; неделя",
     "context": [],
     "id": "a36fd838c83efaa49214b9fa7418f68a"
   },
@@ -4528,7 +4690,7 @@
     "base": "anfangen",
     "article": null,
     "original": "anfangen",
-    "translate": "начинать",
+    "translate": "начинать; начать; приступать",
     "context": [
       [
         "Hier fängt die Bahnhofstraße an.",
@@ -4652,7 +4814,7 @@
     "base": "anrufen",
     "article": null,
     "original": "anrufen",
-    "translate": "звонить (по телефону)",
+    "translate": "звонить (по телефону); окликать; звать; звонить",
     "context": [
       [
         "Kann man Sie anrufen?",
@@ -4725,7 +4887,7 @@
     "base": "arbeiten",
     "article": null,
     "original": "arbeiten",
-    "translate": "работать",
+    "translate": "работать; трудиться",
     "context": [
       [
         "Wo arbeiten Sie?",
@@ -4868,10 +5030,19 @@
   },
   {
     "type": "verb",
+    "base": "aufräumen",
+    "article": null,
+    "original": "aufräumen",
+    "translate": "убирать; заниматься уборкой; наводить порядок",
+    "context": [],
+    "id": "57eb3ea3987f5e2299d3f6937ff6b194"
+  },
+  {
+    "type": "verb",
     "base": "aufstehen",
     "article": null,
     "original": "aufstehen",
-    "translate": "вставать",
+    "translate": "вставать; подниматься",
     "context": [
       [
         "Ich muss immer um vier Uhr aufstehen.",
@@ -6387,6 +6558,15 @@
   },
   {
     "type": "*",
+    "base": "dumm",
+    "article": null,
+    "original": "dumm",
+    "translate": "глупый",
+    "context": [],
+    "id": "bc4f691875b5be07d1be1b6428063eb8"
+  },
+  {
+    "type": "*",
     "base": "dunkel",
     "article": null,
     "original": "dunkel",
@@ -6558,7 +6738,7 @@
     "base": "einkaufen",
     "article": null,
     "original": "einkaufen",
-    "translate": "",
+    "translate": "делать покупки; закупать; покупать",
     "context": [
       [
         "Ich muss noch für morgen einkaufen.",
@@ -6914,7 +7094,7 @@
     "base": "erst",
     "article": null,
     "original": "erst",
-    "translate": "сперва; только",
+    "translate": "сперва; только; вначале; лишь",
     "context": [],
     "id": "fa87b4e3e235bb410f854c6c4e17e3ee"
   },
@@ -6932,7 +7112,7 @@
     "base": "erzählen",
     "article": null,
     "original": "erzählen",
-    "translate": "рассказывать",
+    "translate": "рассказывать; сообщать",
     "context": [
       [
         "Wir müssen euch etwas erzählen!",
@@ -7131,7 +7311,7 @@
     "base": "fernsehen",
     "article": null,
     "original": "fernsehen",
-    "translate": "",
+    "translate": "смотреть телевизор",
     "context": [
       [
         "Wollen wir heute Abend mal fernsehen?",
@@ -7172,7 +7352,7 @@
     "base": "finden",
     "article": null,
     "original": "finden",
-    "translate": "находить; найти; отыскать",
+    "translate": "находить; отыскать; найти",
     "context": [
       [
         "Wir müssen den Schlüssel finden.",
@@ -7337,6 +7517,15 @@
   },
   {
     "type": "*",
+    "base": "früh",
+    "article": null,
+    "original": "früh",
+    "translate": "ранний; рано",
+    "context": [],
+    "id": "6f88d76e7dd0d2f19541a84ae7295407"
+  },
+  {
+    "type": "*",
     "base": "früher",
     "article": null,
     "original": "früher",
@@ -7354,7 +7543,7 @@
     "base": "frühstücken",
     "article": null,
     "original": "frühstücken",
-    "translate": "",
+    "translate": "завтракать",
     "context": [
       [
         "Am Sonntag frühstücke ich gern im Bett.",
@@ -7438,6 +7627,15 @@
     "translate": "кормить",
     "context": [],
     "id": "efcb8324db36e8da9f218aba5a266125"
+  },
+  {
+    "type": "*",
+    "base": "ganz",
+    "article": null,
+    "original": "ganz",
+    "translate": "весь; целый",
+    "context": [],
+    "id": "eda395604fc21a093c794ab0aaaf69f7"
   },
   {
     "type": "verb",
@@ -7665,7 +7863,7 @@
     "base": "geöffnet",
     "article": null,
     "original": "geöffnet",
-    "translate": "",
+    "translate": "открытый; открыто",
     "context": [
       [
         "Der Laden ist samstags bis 16.00 Uhr geöffnet.",
@@ -7838,7 +8036,7 @@
     "base": "haben",
     "article": null,
     "original": "haben",
-    "translate": "иметь; владеть; обладать",
+    "translate": "иметь; обладать; владеть",
     "context": [],
     "id": "730f9569c2990f4a784eb03812d9bc24"
   },
@@ -7998,6 +8196,15 @@
   },
   {
     "type": "*",
+    "base": "hübsch",
+    "article": null,
+    "original": "hübsch",
+    "translate": "красивый; симпатичный; милый",
+    "context": [],
+    "id": "7509359b62404b2e123ec1bf51513579"
+  },
+  {
+    "type": "*",
     "base": "ich",
     "article": null,
     "original": "ich",
@@ -8094,6 +8301,24 @@
     "translate": "занимать (время)",
     "context": [],
     "id": "ff68c6a513f0aa585c95ecb7b368028e"
+  },
+  {
+    "type": "*",
+    "base": "ins Bett gehen",
+    "article": null,
+    "original": "ins Bett gehen",
+    "translate": "идти спать; ложиться спать",
+    "context": [],
+    "id": "0fa14e1d7cbec48b43b2d05711f35bfd"
+  },
+  {
+    "type": "*",
+    "base": "ins Kino gehen",
+    "article": null,
+    "original": "ins Kino gehen",
+    "translate": "идти в кино; ходить в кино; пойти в кино",
+    "context": [],
+    "id": "a505702f57d5c3f08d0b2064d8635e46"
   },
   {
     "type": "*",
@@ -8280,7 +8505,7 @@
     "base": "kochen",
     "article": null,
     "original": "sieden; kochen",
-    "translate": "кипятить; кипеть; варить; готовить (пищу); стряпать",
+    "translate": "кипятить; кипеть; варить; готовить (пищу); стряпать; готовить",
     "context": [],
     "id": "3c433836613d4ab6ce38d89d5d067695"
   },
@@ -8411,6 +8636,15 @@
     "translate": "медленно",
     "context": [],
     "id": "8eff92708cdd83ced656aa342ed25a59"
+  },
+  {
+    "type": "*",
+    "base": "langweilig",
+    "article": null,
+    "original": "langweilig",
+    "translate": "скучный; нудный",
+    "context": [],
+    "id": "4064c476894329e6a48f385badd0307d"
   },
   {
     "type": "verb",
@@ -8552,7 +8786,7 @@
     "base": "lustig",
     "article": null,
     "original": "lustig",
-    "translate": "весёлый; забавный",
+    "translate": "весёлый; забавный; веселый; радостный",
     "context": [],
     "id": "4e7041099f81cd06eee3fade090f3cb2"
   },
@@ -8639,6 +8873,15 @@
     "translate": "рисовать",
     "context": [],
     "id": "6bdb135fc2aa7103659e65af10a18eff"
+  },
+  {
+    "type": "*",
+    "base": "manchmal",
+    "article": null,
+    "original": "manchmal",
+    "translate": "иногда; порой",
+    "context": [],
+    "id": "b466f19fe60f27d2fc2541650ac66d19"
   },
   {
     "type": "verb",
@@ -8764,6 +9007,15 @@
   },
   {
     "type": "verb",
+    "base": "morgen",
+    "article": null,
+    "original": "morgen",
+    "translate": "завтра",
+    "context": [],
+    "id": "79dda050f29dfa5405fdacb78070b179"
+  },
+  {
+    "type": "verb",
     "base": "multiplizieren",
     "article": null,
     "original": "multiplizieren",
@@ -8875,9 +9127,18 @@
     "base": "nennen",
     "article": null,
     "original": "nennen",
-    "translate": "называть; давать имя; звать",
+    "translate": "называть; звать; давать имя",
     "context": [],
     "id": "8fd8dd731896ee30249db703ca9dc8dd"
+  },
+  {
+    "type": "*",
+    "base": "nett",
+    "article": null,
+    "original": "nett",
+    "translate": "милый; приятный",
+    "context": [],
+    "id": "0b9a316900bc62d18a798f91145796a7"
   },
   {
     "type": "*",
@@ -8987,6 +9248,15 @@
       ]
     ],
     "id": "465d1798b982dfefe3933d590c54f94b"
+  },
+  {
+    "type": "*",
+    "base": "offiziell",
+    "article": null,
+    "original": "offiziell",
+    "translate": "официальный; служебный",
+    "context": [],
+    "id": "dc8304774f517be975d7ec74b9de0949"
   },
   {
     "type": "*",
@@ -9118,6 +9388,15 @@
     "id": "df87f474950080e69fd33991636ffb92"
   },
   {
+    "type": "*",
+    "base": "privat",
+    "article": null,
+    "original": "privat",
+    "translate": "частный; личный",
+    "context": [],
+    "id": "fc09c86b9171f7a5e2473af676361aa2"
+  },
+  {
     "type": "verb",
     "base": "putzen",
     "article": null,
@@ -9141,7 +9420,7 @@
     "base": "raten",
     "article": null,
     "original": "raten",
-    "translate": "советовать; угадывать; гадать; отгадывать",
+    "translate": "советовать; гадать; отгадывать; угадывать",
     "context": [],
     "id": "45bb4edd089a8561ef99ae39352eff1b"
   },
@@ -10079,6 +10358,15 @@
     "id": "f11ef06a366d604e723acff51f33640f"
   },
   {
+    "type": "*",
+    "base": "spazieren gehen",
+    "article": null,
+    "original": "spazieren gehen",
+    "translate": "гулять; прогуливаться пешком",
+    "context": [],
+    "id": "bb6f7f3aa0184a3fe164b63c0d62d742"
+  },
+  {
     "type": "verb",
     "base": "speien",
     "article": null,
@@ -10134,6 +10422,15 @@
     "translate": "прыгать; скакать",
     "context": [],
     "id": "1c11c8c57f1281826f4b192d4606518a"
+  },
+  {
+    "type": "*",
+    "base": "spät",
+    "article": null,
+    "original": "spät",
+    "translate": "поздний; запоздалый",
+    "context": [],
+    "id": "55c959be175288e90be6c37f7ddfe26e"
   },
   {
     "type": "*",
@@ -10339,6 +10636,15 @@
     "translate": "отлично; супер",
     "context": [],
     "id": "0383b49a5cd21fe0d01b2836298cdc73"
+  },
+  {
+    "type": "*",
+    "base": "sympathisch",
+    "article": null,
+    "original": "sympathisch",
+    "translate": "симпатичный",
+    "context": [],
+    "id": "a40b3edcbf538921e82e26a5dbba2ffb"
   },
   {
     "type": "*",
@@ -10976,6 +11282,15 @@
     "translate": "путешествовать",
     "context": [],
     "id": "9bdd6b9d4840a211743bd888b6d3e4c5"
+  },
+  {
+    "type": "*",
+    "base": "wann",
+    "article": null,
+    "original": "wann",
+    "translate": "когда",
+    "context": [],
+    "id": "afd1ae5567d867c8d5d3dec545dae0a7"
   },
   {
     "type": "verb",
@@ -11629,6 +11944,15 @@
   },
   {
     "type": "noun",
+    "base": "Öffnungszeit",
+    "article": "die",
+    "original": "die Öffnungszeit",
+    "translate": "время открытия",
+    "context": [],
+    "id": "5af35db562b63ae6f1bf2bad215db01f"
+  },
+  {
+    "type": "noun",
     "base": "Öl",
     "article": "das",
     "original": "das Öl",
@@ -11717,6 +12041,15 @@
     "translate": "над",
     "context": [],
     "id": "8cd24c996dec3d3066bf75226ff18268"
+  },
+  {
+    "type": "verb",
+    "base": "übermorgen",
+    "article": null,
+    "original": "übermorgen",
+    "translate": "послезавтра",
+    "context": [],
+    "id": "2cda0c128aab01aa6d846f2009300649"
   },
   {
     "type": "verb",
