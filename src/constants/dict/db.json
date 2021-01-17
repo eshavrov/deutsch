@@ -69,6 +69,15 @@
     "id": "0d23e2217f403bbfa8c68e876051a531"
   },
   {
+    "type": "noun",
+    "base": "Abteilung",
+    "article": "die",
+    "original": "die Abteilung",
+    "translate": "отдел",
+    "context": [],
+    "id": "b4f9dbb310c10a7b92f98087eb4ac9f3"
+  },
+  {
     "type": "*",
     "base": "Achtung",
     "article": null,
@@ -328,7 +337,7 @@
     "base": "April",
     "article": "der",
     "original": "der April",
-    "translate": "Апрель",
+    "translate": "Апрель; апрель",
     "context": [],
     "id": "2b910c78a78a5e7177287db2faad5d1f"
   },
@@ -345,6 +354,15 @@
       ]
     ],
     "id": "8b579bb98dd15aca124e24138d8aeac9"
+  },
+  {
+    "type": "noun",
+    "base": "Arbeiter",
+    "article": "der",
+    "original": "der Arbeiter",
+    "translate": "работник; рабочий",
+    "context": [],
+    "id": "6bae71d122d227b538e69449dd0a0da6"
   },
   {
     "type": "noun",
@@ -370,6 +388,15 @@
     "id": "3541cfd7715d38d4428e56f9ae385e04"
   },
   {
+    "type": "*",
+    "base": "Architekt",
+    "article": null,
+    "original": "Architekt",
+    "translate": "архитектор",
+    "context": [],
+    "id": "55399a15ba0a385a4d4a697e2bda4544"
+  },
+  {
     "type": "noun",
     "base": "Arm",
     "article": "der",
@@ -391,6 +418,15 @@
     "translate": "статья; заметка",
     "context": [],
     "id": "0d121315f95989c88a784b5998ac4600"
+  },
+  {
+    "type": "*",
+    "base": "Arzt",
+    "article": null,
+    "original": "Arzt",
+    "translate": "врач; доктор",
+    "context": [],
+    "id": "368e7fc1d81f0483bd0a5c7509b06ced"
   },
   {
     "type": "noun",
@@ -471,9 +507,18 @@
     "base": "August",
     "article": "der",
     "original": "der August",
-    "translate": "Август",
+    "translate": "Август; август",
     "context": [],
     "id": "e4b21157d6589cc5227b6903ca442ef4"
+  },
+  {
+    "type": "noun",
+    "base": "Ausbildung",
+    "article": "die",
+    "original": "die Ausbildung",
+    "translate": "обучение; образование",
+    "context": [],
+    "id": "206ab6b3948f456a8deb435efe3d2996"
   },
   {
     "type": "noun",
@@ -1294,7 +1339,7 @@
     "base": "Dezember",
     "article": "der",
     "original": "der Dezember",
-    "translate": "Декабрь",
+    "translate": "Декабрь; декабрь",
     "context": [],
     "id": "7d494df465d85efeaf4157d31561f438"
   },
@@ -1854,7 +1899,7 @@
     "base": "Februar",
     "article": "der",
     "original": "der Februar",
-    "translate": "Февраль",
+    "translate": "Февраль; февраль",
     "context": [],
     "id": "2702fb9d9aa25ed0a3da00d1655cbc30"
   },
@@ -2340,6 +2385,15 @@
     "id": "b0701d5e2b62693240b4eb509d502e12"
   },
   {
+    "type": "*",
+    "base": "Germanistik studieren",
+    "article": null,
+    "original": "Germanistik studieren",
+    "translate": "изучать германистику",
+    "context": [],
+    "id": "2b082b2c87e6143552967a75842ad8fb"
+  },
+  {
     "type": "noun",
     "base": "Geschichte",
     "article": "die",
@@ -2565,6 +2619,15 @@
     "id": "0c480b6e4a04202de47147e5e6c5ba56"
   },
   {
+    "type": "*",
+    "base": "Hausmann",
+    "article": null,
+    "original": "Hausmann",
+    "translate": "домохозяин",
+    "context": [],
+    "id": "1c1b8175baf1d312c0bfc317d4872dbf"
+  },
+  {
     "type": "noun",
     "base": "Hausnummer",
     "article": "die",
@@ -2732,7 +2795,7 @@
     "base": "Januar",
     "article": "der",
     "original": "der Januar",
-    "translate": "Январь",
+    "translate": "Январь; январь",
     "context": [],
     "id": "04ad578d451f31db46b4d3838235f803"
   },
@@ -2741,7 +2804,7 @@
     "base": "Job",
     "article": "der",
     "original": "der Job, -s",
-    "translate": "",
+    "translate": "работа",
     "context": [
       [
         "Jenny hat einen neuen Job bei der Post.",
@@ -2749,6 +2812,15 @@
       ]
     ],
     "id": "a86b4c10465483a4182ce269afcb003c"
+  },
+  {
+    "type": "*",
+    "base": "Journalist",
+    "article": null,
+    "original": "Journalist",
+    "translate": "журналист",
+    "context": [],
+    "id": "2b52dd6e0b72b18b072dac88de6c66f8"
   },
   {
     "type": "noun",
@@ -2769,7 +2841,7 @@
     "base": "Juli",
     "article": "der",
     "original": "der Juli",
-    "translate": "Июль",
+    "translate": "Июль; июль",
     "context": [],
     "id": "ddf868c3735ae1274e209750db020698"
   },
@@ -2792,7 +2864,7 @@
     "base": "Juni",
     "article": "der",
     "original": "der Juni",
-    "translate": "Июнь",
+    "translate": "Июнь; июнь",
     "context": [],
     "id": "c50f7aabb92010d21846d6302124326b"
   },
@@ -2822,6 +2894,24 @@
     "translate": "картофель; картошка",
     "context": [],
     "id": "0121385e0b9c4dd7393ff997b747b610"
+  },
+  {
+    "type": "*",
+    "base": "Kaufmann",
+    "article": null,
+    "original": "Kaufmann",
+    "translate": "коммерсант",
+    "context": [],
+    "id": "9fb9227f2876f3dcf8ce0b301d1fb89c"
+  },
+  {
+    "type": "*",
+    "base": "Kenntnisse",
+    "article": null,
+    "original": "Kenntnisse",
+    "translate": "знания",
+    "context": [],
+    "id": "4214cbe7705f5bfbf08795c204782dc9"
   },
   {
     "type": "noun",
@@ -2867,6 +2957,15 @@
     "translate": "кино; кинотеатр",
     "context": [],
     "id": "47936f9d93701c21a294a25aa67dbb6b"
+  },
+  {
+    "type": "noun",
+    "base": "Kollege",
+    "article": "der",
+    "original": "der Kollege",
+    "translate": "коллега; сотрудник; сослуживец",
+    "context": [],
+    "id": "890f992d913249e769df2ac751a86a79"
   },
   {
     "type": "noun",
@@ -3035,7 +3134,7 @@
     "base": "Mai",
     "article": "der",
     "original": "der Mai",
-    "translate": "Май",
+    "translate": "Май; май",
     "context": [],
     "id": "7c594d3ef48147781f752c302e25ef49"
   },
@@ -3149,6 +3248,15 @@
   },
   {
     "type": "noun",
+    "base": "Monate",
+    "article": "der",
+    "original": "der Monate",
+    "translate": "месяц",
+    "context": [],
+    "id": "a2575ec76fe036fc72d016134038028e"
+  },
+  {
+    "type": "noun",
     "base": "Montag",
     "article": "der",
     "original": "der Montag",
@@ -3188,7 +3296,7 @@
     "base": "März",
     "article": "der",
     "original": "der März",
-    "translate": "Март",
+    "translate": "Март; март",
     "context": [],
     "id": "451f80216bb8f8aaee3c0df7aa59e0e9"
   },
@@ -3278,7 +3386,7 @@
     "base": "November",
     "article": "der",
     "original": "der November",
-    "translate": "Ноябрь",
+    "translate": "Ноябрь; ноябрь",
     "context": [],
     "id": "29fca024a019c378580ff0a437ed7a39"
   },
@@ -3310,7 +3418,7 @@
     "base": "Oktober",
     "article": "der",
     "original": "der Oktober",
-    "translate": "Октябрь",
+    "translate": "Октябрь; октябрь",
     "context": [],
     "id": "1d9d17463e77c7307d954e90769da439"
   },
@@ -3495,6 +3603,15 @@
     "translate": "почтовый индекс",
     "context": [],
     "id": "a75a99430e11d566fcf55d6a4fa5cc95"
+  },
+  {
+    "type": "*",
+    "base": "Praktikant",
+    "article": null,
+    "original": "Praktikant",
+    "translate": "практикант",
+    "context": [],
+    "id": "e33f0cc9d5cd249662fb852993e43990"
   },
   {
     "type": "noun",
@@ -3750,6 +3867,33 @@
   },
   {
     "type": "noun",
+    "base": "Schüler",
+    "article": "der",
+    "original": "der Schüler",
+    "translate": "ученик; школьник",
+    "context": [],
+    "id": "12f2ccb1c820dd9bdd6b64e9d44248c3"
+  },
+  {
+    "type": "noun",
+    "base": "Schülerin",
+    "article": "die",
+    "original": "die Schülerin",
+    "translate": "ученица; школьница",
+    "context": [],
+    "id": "7f946869c64b9f1f19f1c386775fd388"
+  },
+  {
+    "type": "*",
+    "base": "Seit wann?",
+    "article": null,
+    "original": "Seit wann?",
+    "translate": "С каких пор? С какого времени?",
+    "context": [],
+    "id": "02b42d65095c109e60c24cd3060a908b"
+  },
+  {
+    "type": "noun",
     "base": "Seite",
     "article": "die",
     "original": "die Seite, -n",
@@ -3768,10 +3912,19 @@
   },
   {
     "type": "noun",
+    "base": "Semester",
+    "article": "das",
+    "original": "das Semester",
+    "translate": "семестр; полугодие",
+    "context": [],
+    "id": "7f11ebf02639eda984213eb4b82457d6"
+  },
+  {
+    "type": "noun",
     "base": "September",
     "article": "der",
     "original": "der September",
-    "translate": "Сентябрь",
+    "translate": "Сентябрь; сентябрь",
     "context": [],
     "id": "705b2d65c16ca1a81316409d50ff742e"
   },
@@ -3936,6 +4089,15 @@
     "translate": "город",
     "context": [],
     "id": "e820b916c2be12ddc6e5edce147e34f2"
+  },
+  {
+    "type": "noun",
+    "base": "Stelle",
+    "article": "die",
+    "original": "die Stelle",
+    "translate": "место; должность",
+    "context": [],
+    "id": "7048b1e509a0c0c1a400963bd6937631"
   },
   {
     "type": "noun",
@@ -4236,6 +4398,15 @@
     "id": "8e6051e91da8e9fc000c40306630817a"
   },
   {
+    "type": "*",
+    "base": "Verkäufer",
+    "article": null,
+    "original": "Verkäufer",
+    "translate": "продавец",
+    "context": [],
+    "id": "8b2d1fb81c3ae296a04bd0427001f2de"
+  },
+  {
     "type": "noun",
     "base": "Verkäufer",
     "article": "der",
@@ -4444,6 +4615,15 @@
     "translate": "Как дела?",
     "context": [],
     "id": "b4ea3b6be6356be55e90ed2c3824c2e5"
+  },
+  {
+    "type": "*",
+    "base": "Wie lange?",
+    "article": null,
+    "original": "Wie lange?",
+    "translate": "сколько времени?; как долго?",
+    "context": [],
+    "id": "4d6386549f9b64e520fde6b34ec18bf8"
   },
   {
     "type": "noun",
@@ -5019,6 +5199,15 @@
     "id": "5620b67bca52bad04ac665fdf00d41f4"
   },
   {
+    "type": "*",
+    "base": "angestellt",
+    "article": null,
+    "original": "angestellt",
+    "translate": "штатный; постоянно работающий; служащий",
+    "context": [],
+    "id": "e8ac03020ce0ac9359b7f1ecc95e8fe5"
+  },
+  {
     "type": "verb",
     "base": "angreifen",
     "article": null,
@@ -5204,10 +5393,19 @@
   },
   {
     "type": "*",
+    "base": "arbeiten als",
+    "article": null,
+    "original": "arbeiten als",
+    "translate": "работать кем-то",
+    "context": [],
+    "id": "1979d3798ed03af456a443e94835a665"
+  },
+  {
+    "type": "*",
     "base": "arbeitslos",
     "article": null,
     "original": "arbeitslos",
-    "translate": "",
+    "translate": "безработный",
     "context": [
       [
         "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
@@ -8053,6 +8251,15 @@
   },
   {
     "type": "*",
+    "base": "für eine Stunde",
+    "article": null,
+    "original": "für eine Stunde",
+    "translate": "в течение одного часа",
+    "context": [],
+    "id": "2d6f6f7ecb34442987d14647fcb681ad"
+  },
+  {
+    "type": "*",
     "base": "füttern",
     "article": null,
     "original": "füttern",
@@ -8799,6 +9006,15 @@
   },
   {
     "type": "*",
+    "base": "in letzten Frühling",
+    "article": null,
+    "original": "in letzten Frühling",
+    "translate": "прошлой весной",
+    "context": [],
+    "id": "0f6fa06749b04a473b76236fbc86534c"
+  },
+  {
+    "type": "*",
     "base": "ins Bett gehen",
     "article": null,
     "original": "ins Bett gehen",
@@ -8874,6 +9090,15 @@
       ]
     ],
     "id": "2f30f2cf4db8a58663788f32f5ee850f"
+  },
+  {
+    "type": "*",
+    "base": "jeden Tag",
+    "article": null,
+    "original": "jeden Tag",
+    "translate": "каждый день",
+    "context": [],
+    "id": "36be70d0e5abbe12125fb7defcb2903e"
   },
   {
     "type": "*",
@@ -9751,6 +9976,15 @@
     "translate": "использовать",
     "context": [],
     "id": "540c7f7e9b0edaf382b3c82da33ae1d2"
+  },
+  {
+    "type": "*",
+    "base": "nächsten Monat",
+    "article": null,
+    "original": "nächsten Monat",
+    "translate": "в следующем месяце",
+    "context": [],
+    "id": "8f6f254d06431ac8a6e421cd4ec957ff"
   },
   {
     "type": "verb",
@@ -10652,12 +10886,30 @@
   },
   {
     "type": "*",
+    "base": "seit 2 Jahren",
+    "article": null,
+    "original": "seit 2 Jahren",
+    "translate": "на два года",
+    "context": [],
+    "id": "16c65ebbd0b464e68bf0cf34ed6f866a"
+  },
+  {
+    "type": "*",
     "base": "selbst",
     "article": null,
     "original": "selbst",
     "translate": "сам",
     "context": [],
     "id": "4fb0efa085a21c2498b2834b1ac2ce13"
+  },
+  {
+    "type": "*",
+    "base": "selbstständig",
+    "article": null,
+    "original": "selbstständig",
+    "translate": "самостоятельный; независимый",
+    "context": [],
+    "id": "6d1b66176c79fa854594d57a1966bc9c"
   },
   {
     "type": "verb",
@@ -12449,6 +12701,15 @@
     "translate": "подбирать; сочетать",
     "context": [],
     "id": "ed6ee1ad966dbfe863a14e3e67dae401"
+  },
+  {
+    "type": "*",
+    "base": "zur Schule gehen",
+    "article": null,
+    "original": "zur Schule gehen",
+    "translate": "ходить в школу",
+    "context": [],
+    "id": "a7e5c1995a49d293cd03801e18c6c89a"
   },
   {
     "type": "*",
