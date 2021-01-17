@@ -26,6 +26,8 @@ const listDeutschA1Schritte = require("./in_data/other/a1/case1/deutsch-a1-schri
 const listDeutschA2Schritte = require("./in_data/other/a1/case1/deutsch-a2-schritte.json");
 const listDeutschB1Schritte = require("./in_data/other/a1/case1/deutsch-b1-schritte.json");
 
+const verbsIrregular = require("./in_data/other/verbs/irregular.json");
+
 const getId = (uni) => {
   return createHash("md5").update(uni).digest("hex");
 };
@@ -274,6 +276,13 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
   ...listDeutschA2Schritte,
   ...listDeutschB1Schritte,
 ].forEach((data) => add(dictonary, data, { spliter: "," }));
+
+verbsIrregular.forEach((data) => {
+  const [w, t, o] = data;
+  addVerb(dictonary, [w, t], { irregular: true });
+});
+
+// ------------------------------
 
 dictonary.sort((a, b) => {
   if (a.base > b.base) return 1;

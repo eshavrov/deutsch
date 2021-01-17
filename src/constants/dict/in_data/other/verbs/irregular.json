@@ -1,0 +1,332 @@
+[
+  [
+    "abnehmen",
+    "худеть",
+    {
+      "type": "e-i",
+      "du": "nimmst +[ab]",
+      "er,sie,es": "nimmt +[ab]"
+    }
+  ],
+  [
+    "ausbrechen",
+    "выламывать",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "brechen",
+    "ломать",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "erschrecken",
+    "пугать",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "essen",
+    "есть; кушать",
+    {
+      "type": "e-i",
+      "du": "isst",
+      "er,sie,es": "isst"
+    }
+  ],
+  [
+    "fressen",
+    "жрать",
+    {
+      "type": "e-i",
+      "du": "frisst",
+      "er,sie,es": "frisst"
+    }
+  ],
+  [
+    "geben",
+    "давать",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "helfen",
+    "помогать",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "messen",
+    "измерять",
+    {
+      "type": "e-i",
+      "du": "misst",
+      "er,sie,es": "misst"
+    }
+  ],
+  [
+    "gelten",
+    "цениться; быть действительным (н-р, проездной)",
+    {
+      "type": "e-i",
+      "er,sie,es": "gilt"
+    }
+  ],
+  [
+    "nehmen",
+    "брать",
+    {
+      "type": "e-i",
+      "du": "nimmst",
+      "er,sie,es": "nimmt"
+    }
+  ],
+  [
+    "quellen",
+    "бить ключом; течь; литься",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "schmelzen",
+    "растаять; расплавиться",
+    {
+      "type": "e-i",
+      "er,sie,es": "schmilzt"
+    }
+  ],
+  [
+    "sprechen",
+    "говорить",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "stechen",
+    "колоть",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "sterben",
+    "умирать",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "treffen",
+    "встречать",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "treten",
+    "наступать",
+    {
+      "type": "e-i",
+      "du": "trittst",
+      "er,sie,es": "tritt"
+    }
+  ],
+  [
+    "verderben",
+    "портить",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "vergessen",
+    "забывать",
+    {
+      "type": "e-i",
+      "du": "vergisst",
+      "er,sie,es": "vergisst"
+    }
+  ],
+  [
+    "werfen",
+    "бросать",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "zunehmen",
+    "набирать в весе",
+    {
+      "type": "e-i"
+    }
+  ],
+  [
+    "befehlen",
+    "приказывать",
+    {
+      "type": "e-ie"
+    }
+  ],
+  [
+    "empfehlen",
+    "советовать; рекомендовать",
+    {
+      "type": "e-ie"
+    }
+  ],
+  [
+    "geschehen",
+    "происходить",
+    {
+      "type": "e-ie",
+      "complex": true
+    }
+  ],
+  [
+    "lesen",
+    "читать",
+    {
+      "type": "e-ie",
+      "du": "liest",
+      "er,sie,es": "liest"
+    }
+  ],
+  [
+    "sehen",
+    "видеть",
+    {
+      "type": "e-ie"
+    }
+  ],
+  [
+    "stehlen",
+    "воровать",
+    {
+      "type": "e-ie"
+    }
+  ],
+  [
+    "backen",
+    "печь",
+    {
+      "type": "a-ä"
+    }
+  ],
+  [
+    "blasen",
+    "дуть",
+    {
+      "type": "a-ä",
+      "du": "bläst",
+      "er,sie,es": "bläst"
+    }
+  ],
+  [
+    "fahren",
+    "ехать",
+    {
+      "type": "a-ä"
+    }
+  ],
+  [
+    "fangen",
+    "ловить",
+    {
+      "type": "a-ä"
+    }
+  ],
+  [
+    "graben",
+    "копать",
+    {
+      "type": "a-ä"
+    }
+  ],
+  [
+    "halten",
+    "держать",
+    {
+      "type": "a-ä",
+      "du": "hältst",
+      "er,sie,es": "hält"
+    }
+  ],
+  [
+    "laden",
+    "приглашать; грузить",
+    {
+      "type": "a-ä",
+      "du": "lädst",
+      "er,sie,es": "lädt"
+    }
+  ],
+  [
+    "lassen",
+    "разрешать; позволять",
+    {
+      "type": "a-ä",
+      "du": "lässt",
+      "er,sie,es": "lässt"
+    }
+  ],
+  [
+    "schlafen",
+    "спать",
+    {
+      "type": "a-ä"
+    }
+  ],
+  [
+    "schlagen",
+    "бить; ударять",
+    {
+      "type": "a-ä"
+    }
+  ],
+  [
+    "tragen",
+    "нести",
+    {
+      "type": "a-ä"
+    }
+  ],
+  [
+    "wachsen",
+    "расти",
+    {
+      "type": "a-ä",
+      "du": "wächst",
+      "er,sie,es": "wächst"
+    }
+  ],
+  [
+    "waschen",
+    "мыть, стирать",
+    {
+      "type": "a-ä"
+    }
+  ],
+  [
+    "laufen",
+    "бежать",
+    {
+      "type": "au-äu"
+    }
+  ],
+  [
+    "saufen",
+    "пить; пьянствовать",
+    {
+      "type": "au-äu"
+    }
+  ]
+]

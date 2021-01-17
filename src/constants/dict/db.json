@@ -17064,6 +17064,16 @@
   },
   {
     "type": "verb",
+    "base": "abnehmen",
+    "article": null,
+    "original": "abnehmen",
+    "translate": "худеть",
+    "context": [],
+    "irregular": true,
+    "id": "80ea5e0a02630f4426c1b6af25850a37"
+  },
+  {
+    "type": "verb",
     "base": "absagen",
     "article": null,
     "original": "absagen",
@@ -18437,6 +18447,16 @@
     "translate": "выдавать; выставлять; экспонировать; участвовать в выставке",
     "context": [],
     "id": "ab5d43faa270035c2e9642089928c056"
+  },
+  {
+    "type": "verb",
+    "base": "ausbrechen",
+    "article": null,
+    "original": "ausbrechen",
+    "translate": "выламывать",
+    "context": [],
+    "irregular": true,
+    "id": "a3413dc3b6d3efda542bb284be01eac5"
   },
   {
     "type": "verb",
@@ -23327,7 +23347,7 @@
     "base": "gelten",
     "article": null,
     "original": "gelten",
-    "translate": "стоить; цениться; годиться; быть действительным",
+    "translate": "стоить; цениться; годиться; быть действительным; быть действительным (н-р, проездной)",
     "context": [],
     "irregular": true,
     "id": "bb1794ab7d152fd9265a48a87f14d46a"
@@ -25670,7 +25690,7 @@
     "base": "lassen",
     "article": null,
     "original": "lassen",
-    "translate": "оставлять; позволять; велеть; пускать",
+    "translate": "оставлять; позволять; велеть; пускать; разрешать",
     "context": [],
     "id": "611aea9af6cfd8b43c4ca768a155330a"
   },
@@ -27574,7 +27594,7 @@
     "base": "quellen",
     "article": null,
     "original": "quellen",
-    "translate": "бить ключом",
+    "translate": "бить ключом; течь; литься",
     "context": [],
     "irregular": true,
     "id": "15f364b025f1f173dad08ed19f1ff440"
@@ -28428,7 +28448,7 @@
     "base": "schlagen",
     "article": null,
     "original": "schlagen",
-    "translate": "бить; ударить; стучать",
+    "translate": "бить; ударить; стучать; ударять",
     "context": [],
     "irregular": true,
     "id": "6d652d4f55050176a1fd2cf454bbad24"
@@ -28587,7 +28607,7 @@
     "base": "schmelzen",
     "article": null,
     "original": "schmelzen",
-    "translate": "таять; топить; плавить",
+    "translate": "таять; топить; плавить; растаять; расплавиться",
     "context": [],
     "irregular": true,
     "id": "e72b67c35bc86d19adce4df61514971f"
@@ -30733,7 +30753,7 @@
     "base": "treten",
     "article": null,
     "original": "treten",
-    "translate": "ступать",
+    "translate": "ступать; наступать",
     "context": [],
     "irregular": true,
     "id": "d6f16dfcde8ad3f46222ba8ff30290d8"
@@ -32298,7 +32318,7 @@
     "base": "waschen",
     "article": null,
     "original": "waschen",
-    "translate": "мыть; стирать; промывать",
+    "translate": "мыть; стирать; промывать; мыть, стирать",
     "context": [],
     "id": "3e5bc68ee7c8a000e832617645567697"
   },
@@ -33370,6 +33390,16 @@
     "translate": "в заключение; напоследок; наконец",
     "context": [],
     "id": "071fa1cbd2261d6f67caea7ca507887e"
+  },
+  {
+    "type": "verb",
+    "base": "zunehmen",
+    "article": null,
+    "original": "zunehmen",
+    "translate": "набирать в весе",
+    "context": [],
+    "irregular": true,
+    "id": "5c56e9fc5b10b520abaa8a1b5c08b5f3"
   },
   {
     "type": "verb",
