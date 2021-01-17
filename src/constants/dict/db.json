@@ -59,7 +59,7 @@
     "base": "Absender",
     "article": "der",
     "original": "der Absender",
-    "translate": "Отправитель",
+    "translate": "Отправитель; отправитель",
     "context": [
       [
         "Da ist ein Brief für dich ohne Absender.",
@@ -401,7 +401,7 @@
     "base": "Arm",
     "article": "der",
     "original": "der Arm, -e",
-    "translate": "",
+    "translate": "рука",
     "context": [
       [
         "Mein Arm tut weh.",
@@ -493,7 +493,7 @@
     "base": "Auge",
     "article": "das",
     "original": "das Auge, -n",
-    "translate": "",
+    "translate": "глаз",
     "context": [
       [
         "Er hat blaue Augen.",
@@ -794,7 +794,7 @@
     "base": "Bauch",
     "article": "der",
     "original": "der Bauch",
-    "translate": "",
+    "translate": "живот",
     "context": [
       [
         "Seit gestern tut mir der Bauch weh.",
@@ -845,7 +845,7 @@
     "base": "Bein",
     "article": "das",
     "original": "das Bein, -e",
-    "translate": "",
+    "translate": "нога",
     "context": [
       [
         "Mein rechtes Bein tut weh.",
@@ -1316,7 +1316,7 @@
     "base": "Datum",
     "article": "das",
     "original": "das Datum",
-    "translate": "",
+    "translate": "дата",
     "context": [
       [
         "Bitte schreiben Sie noch das Datum auf das Formular.",
@@ -1380,7 +1380,7 @@
     "base": "Doktor",
     "article": "der",
     "original": "der Doktor",
-    "translate": "",
+    "translate": "врач; доктор",
     "context": [
       [
         "Meine Tochter ist krank. Wir gehen zum Doktor.",
@@ -1663,7 +1663,7 @@
     "base": "Empfänger",
     "article": "der",
     "original": "der Empfänger, –",
-    "translate": "",
+    "translate": "получатель",
     "context": [
       [
         "uf dem Brief steht dein Name, also bist du der Empfänger.",
@@ -1972,7 +1972,7 @@
     "base": "Fieber",
     "article": "das",
     "original": "das Fieber",
-    "translate": "",
+    "translate": "температура; жар",
     "context": [
       [
         "Mein Mann hat noch immer Fieber.",
@@ -1994,6 +1994,15 @@
       ]
     ],
     "id": "432ed48214b33367b3d5f5366109606e"
+  },
+  {
+    "type": "noun",
+    "base": "Finger",
+    "article": "der",
+    "original": "der Finger",
+    "translate": "палец",
+    "context": [],
+    "id": "007fa1c1af98a479391ec2b973d32402"
   },
   {
     "type": "noun",
@@ -2275,7 +2284,7 @@
     "base": "Fuß",
     "article": "der",
     "original": "der Fuß, -ü, e",
-    "translate": "",
+    "translate": "стопа; ступня",
     "context": [
       [
         "Der linke Fuß tut mir weh.",
@@ -2440,6 +2449,15 @@
   },
   {
     "type": "noun",
+    "base": "Gesundheit",
+    "article": "die",
+    "original": "die Gesundheit",
+    "translate": "здоровье",
+    "context": [],
+    "id": "5afa34ae8ec9058694669c77fc62422a"
+  },
+  {
+    "type": "noun",
     "base": "Getränk",
     "article": "das",
     "original": "das Getränk, -e",
@@ -2520,6 +2538,15 @@
     "id": "ec2008db073e1332f63b6018eb4e8990"
   },
   {
+    "type": "noun",
+    "base": "Gruß",
+    "article": "der",
+    "original": "der Gruß",
+    "translate": "привет; приветствие",
+    "context": [],
+    "id": "9a8e160dd8d3c5ba9e831f409fea772d"
+  },
+  {
     "type": "*",
     "base": "Gute Nacht",
     "article": null,
@@ -2556,6 +2583,15 @@
     "id": "40b2a4450990d0594d01b271fa2e2cb7"
   },
   {
+    "type": "noun",
+    "base": "Haar",
+    "article": "das",
+    "original": "das Haar",
+    "translate": "волос",
+    "context": [],
+    "id": "b79598ca9784677d17e88b98876fa5e2"
+  },
+  {
     "type": "*",
     "base": "Hallo",
     "article": null,
@@ -2563,6 +2599,24 @@
     "translate": "привет",
     "context": [],
     "id": "d986abcad77238b5a1b17be52a1530f0"
+  },
+  {
+    "type": "noun",
+    "base": "Hals",
+    "article": "der",
+    "original": "der Hals",
+    "translate": "шея; горло",
+    "context": [],
+    "id": "57afcfccce1352264464996b72f3c375"
+  },
+  {
+    "type": "noun",
+    "base": "Hand",
+    "article": "die",
+    "original": "die Hand",
+    "translate": "рука; кисть; ладонь",
+    "context": [],
+    "id": "b4d346ac2eb60ee3162d1965a1bf7552"
   },
   {
     "type": "noun",
@@ -2978,6 +3032,24 @@
   },
   {
     "type": "noun",
+    "base": "Kopf",
+    "article": "der",
+    "original": "der Kopf",
+    "translate": "голова",
+    "context": [],
+    "id": "cac359a48ed85bacf9ad365b7b551d60"
+  },
+  {
+    "type": "noun",
+    "base": "Krankheit",
+    "article": "die",
+    "original": "die Krankheit",
+    "translate": "болезнь",
+    "context": [],
+    "id": "23b6a85f73b7da9ff45e4e27d9464958"
+  },
+  {
+    "type": "noun",
     "base": "Kuchen",
     "article": "der",
     "original": "der Kuchen",
@@ -3158,6 +3230,15 @@
   },
   {
     "type": "noun",
+    "base": "Medizin",
+    "article": "die",
+    "original": "die Medizin",
+    "translate": "лекарство",
+    "context": [],
+    "id": "83f977f29d60126c964db0641367a966"
+  },
+  {
+    "type": "noun",
     "base": "Messer",
     "article": "das",
     "original": "das Messer",
@@ -3275,6 +3356,15 @@
   },
   {
     "type": "noun",
+    "base": "Mund",
+    "article": "der",
+    "original": "der Mund",
+    "translate": "рот",
+    "context": [],
+    "id": "a4f9f640984862dc7e1e7029ac0183b6"
+  },
+  {
+    "type": "noun",
     "base": "Musik",
     "article": "die",
     "original": "die Musik",
@@ -3365,6 +3455,15 @@
   },
   {
     "type": "noun",
+    "base": "Nase",
+    "article": "die",
+    "original": "die Nase",
+    "translate": "нос",
+    "context": [],
+    "id": "d0907ba2458961c7af96d9a602aa1bfd"
+  },
+  {
+    "type": "noun",
     "base": "Natur",
     "article": "die",
     "original": "die Natur",
@@ -3412,6 +3511,15 @@
       ]
     ],
     "id": "ca9da68acb651174d184d10eae599569"
+  },
+  {
+    "type": "noun",
+    "base": "Ohr",
+    "article": "das",
+    "original": "das Ohr",
+    "translate": "ухо",
+    "context": [],
+    "id": "79cf230f53b154a3c613c81e9b76c309"
   },
   {
     "type": "noun",
@@ -3627,7 +3735,7 @@
     "base": "Praxis",
     "article": "die",
     "original": "die Praxis",
-    "translate": "практика",
+    "translate": "практика; приемная; кабинет",
     "context": [],
     "id": "675d45b061eba2a12c36ade078e509e2"
   },
@@ -3729,6 +3837,15 @@
     "translate": "ресторан",
     "context": [],
     "id": "933310c7752b5755d493e3bceea4481f"
+  },
+  {
+    "type": "noun",
+    "base": "Rücken",
+    "article": "der",
+    "original": "der Rücken",
+    "translate": "спина",
+    "context": [],
+    "id": "4899848ca10ee0d5d9b409939c7601ea"
   },
   {
     "type": "noun",
@@ -3837,6 +3954,15 @@
     "translate": "ключ",
     "context": [],
     "id": "285c09053e9c7e07e92f31d8b4efe8de"
+  },
+  {
+    "type": "noun",
+    "base": "Schmerz",
+    "article": "der",
+    "original": "der Schmerz",
+    "translate": "боль",
+    "context": [],
+    "id": "ad61e44b7067d5809e348406c2eeaf97"
   },
   {
     "type": "noun",
@@ -4173,6 +4299,15 @@
   },
   {
     "type": "noun",
+    "base": "Tablette",
+    "article": "die",
+    "original": "die Tablette",
+    "translate": "таблетка",
+    "context": [],
+    "id": "25c6e1ae2151e55fb812237fdecf74f3"
+  },
+  {
+    "type": "noun",
     "base": "Tag",
     "article": "der",
     "original": "der Tag, -e",
@@ -4359,6 +4494,15 @@
     "translate": "время; время на часах",
     "context": [],
     "id": "b06ddf76c0d5b8ff928f0f77145389a7"
+  },
+  {
+    "type": "noun",
+    "base": "Unterschrift",
+    "article": "die",
+    "original": "die Unterschrift",
+    "translate": "подпись",
+    "context": [],
+    "id": "58b88ef2ec8a1a9b2b63bf81ceb6267a"
   },
   {
     "type": "noun",
@@ -4753,6 +4897,15 @@
   },
   {
     "type": "noun",
+    "base": "Zahn",
+    "article": "der",
+    "original": "der Zahn",
+    "translate": "зуб",
+    "context": [],
+    "id": "2968039074c72e6956e4315ed3a6d4f4"
+  },
+  {
+    "type": "noun",
     "base": "Zeit",
     "article": "die",
     "original": "die Zeit",
@@ -4929,6 +5082,15 @@
       ]
     ],
     "id": "bf22e70a9bd2a851477fd3fff9f12eb3"
+  },
+  {
+    "type": "verb",
+    "base": "absagen",
+    "article": null,
+    "original": "absagen",
+    "translate": "отменять; сообщить об отмене",
+    "context": [],
+    "id": "2fa689cd554b11235cc9bc542e47b732"
   },
   {
     "type": "*",
@@ -8481,6 +8643,15 @@
   },
   {
     "type": "*",
+    "base": "gesund",
+    "article": null,
+    "original": "gesund",
+    "translate": "здоровый",
+    "context": [],
+    "id": "dd9e03d085ef294671ff26efc31987e7"
+  },
+  {
+    "type": "*",
     "base": "gesund werden",
     "article": null,
     "original": "genesen; gesund werden",
@@ -8814,6 +8985,15 @@
     "translate": "хотеть есть; испытывать голод; быть голодным",
     "context": [],
     "id": "211f88bd7ca019617c58953eea3a837d"
+  },
+  {
+    "type": "verb",
+    "base": "husten",
+    "article": null,
+    "original": "husten",
+    "translate": "кашлять",
+    "context": [],
+    "id": "6996738f1e2fdcfbe07328082a1e977e"
   },
   {
     "type": "verb",
@@ -9264,6 +9444,15 @@
     "translate": "стоить; пробовать",
     "context": [],
     "id": "19c24e30d2877bf643c1ee1879b316fa"
+  },
+  {
+    "type": "*",
+    "base": "krank",
+    "article": null,
+    "original": "krank",
+    "translate": "больной",
+    "context": [],
+    "id": "7bc6d0783dca9ca359a59635e9bdfd5a"
   },
   {
     "type": "*",
@@ -11752,6 +11941,15 @@
   },
   {
     "type": "verb",
+    "base": "untersuchen",
+    "article": null,
+    "original": "untersuchen",
+    "translate": "осматривать",
+    "context": [],
+    "id": "4cb1cbfc0b2b4ebc3f9d19d2a78e7e43"
+  },
+  {
+    "type": "verb",
     "base": "verbieten",
     "article": null,
     "original": "verbieten",
@@ -11814,6 +12012,15 @@
     "context": [],
     "irregular": true,
     "id": "311e3d19e1853908d5d77363fd2ba277"
+  },
+  {
+    "type": "verb",
+    "base": "vereinbaren",
+    "article": null,
+    "original": "vereinbaren",
+    "translate": "согласовывать; договариваться",
+    "context": [],
+    "id": "2aebc961c19a29f4a98d3b716a587bf6"
   },
   {
     "type": "verb",
@@ -11898,7 +12105,7 @@
     "base": "verschieben",
     "article": null,
     "original": "verschieben",
-    "translate": "откладывать",
+    "translate": "откладывать; переносить; передвигать",
     "context": [],
     "id": "f5674cc7661aa4b4a0055e5f1a6ea8bf"
   },
@@ -12237,6 +12444,15 @@
     "translate": "будить",
     "context": [],
     "id": "5080757f3ce187638f4f9ce2fbe0cd49"
+  },
+  {
+    "type": "*",
+    "base": "wehtun",
+    "article": null,
+    "original": "wehtun",
+    "translate": "болеть; боль",
+    "context": [],
+    "id": "62233ebd1d753bda7be039fb1b80318b"
   },
   {
     "type": "verb",

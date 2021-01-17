@@ -8,6 +8,7 @@ const listA11L4 = require("./in_data/other/a1/case1/a1.1-l4.json");
 const listA11L5 = require("./in_data/other/a1/case1/a1.1-l5.json");
 const listA11L6 = require("./in_data/other/a1/case1/a1.1-l6.json");
 const listA11L8 = require("./in_data/other/a1/case1/a1.1-l8.json");
+const listA11L10 = require("./in_data/other/a1/case1/a1.1-l10.json");
 
 const words200 = require("./in_data/de-online_ru/200words.json");
 const verbs = require("./in_data/other/verbs.json");
@@ -228,6 +229,7 @@ irregularVerbs2.forEach((data) => {
   ...listA11L5,
   ...listA11L6,
   ...listA11L8,
+  ...listA11L10,
 ].forEach((data) => add(dictonary, data));
 
 dictonary.sort((a, b) => (a.base > b.base ? 1 : -1));
