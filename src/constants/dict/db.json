@@ -263,7 +263,7 @@
     "base": "Anzeige",
     "article": "die",
     "original": "die Anzeige, -n",
-    "translate": "объявление; заявление",
+    "translate": "объявление; заявление; уведомление",
     "context": [
       [
         "Ich habe Ihre Anzeige in der Zeitung gelesen.",
@@ -277,7 +277,7 @@
     "base": "Apartment",
     "article": "das",
     "original": "das Apartment, -s",
-    "translate": "",
+    "translate": "апартаменты; квартира",
     "context": [
       [
         "Wir haben ein Apartment gemietet.",
@@ -353,6 +353,15 @@
   },
   {
     "type": "noun",
+    "base": "Arbeitszimmer",
+    "article": "das",
+    "original": "das Arbeitszimmer",
+    "translate": "рабочий кабинет; кабинет",
+    "context": [],
+    "id": "3541cfd7715d38d4428e56f9ae385e04"
+  },
+  {
+    "type": "noun",
     "base": "Arm",
     "article": "der",
     "original": "der Arm, -e",
@@ -364,6 +373,15 @@
       ]
     ],
     "id": "6fd47cba8a57a612429fbd572ced3c92"
+  },
+  {
+    "type": "noun",
+    "base": "Artikel",
+    "article": "der",
+    "original": "der Artikel",
+    "translate": "статья; заметка",
+    "context": [],
+    "id": "0d121315f95989c88a784b5998ac4600"
   },
   {
     "type": "noun",
@@ -607,7 +625,7 @@
     "base": "Bad",
     "article": "das",
     "original": "das Bad",
-    "translate": "",
+    "translate": "ванная комната; ванная",
     "context": [
       [
         "Wir haben kein großes Bad.",
@@ -615,6 +633,15 @@
       ]
     ],
     "id": "ac01e302b8218a99a5dfa42f82210035"
+  },
+  {
+    "type": "noun",
+    "base": "Badewanne",
+    "article": "die",
+    "original": "die Badewanne",
+    "translate": "ванна",
+    "context": [],
+    "id": "e894809da8cb896740ad568ff9f3ea48"
   },
   {
     "type": "noun",
@@ -667,7 +694,7 @@
     "base": "Balkon",
     "article": "der",
     "original": "der Balkon",
-    "translate": "",
+    "translate": "балкон",
     "context": [
       [
         "Die Wohnung hat auch einen kleinen Balkon.",
@@ -1374,7 +1401,7 @@
     "base": "Dusche",
     "article": "die",
     "original": "die Dusche",
-    "translate": "",
+    "translate": "душ",
     "context": [
       [
         "Unsere Wohnung hat nur eine Dusche.",
@@ -1745,7 +1772,7 @@
     "base": "Farbe",
     "article": "die",
     "original": "die Farbe, -n",
-    "translate": "",
+    "translate": "цвет; краска",
     "context": [
       [
         "Die Farbe gefällt mir gut.",
@@ -1808,6 +1835,24 @@
       ]
     ],
     "id": "3ae1bdcceb28064aa33748b0781cc89b"
+  },
+  {
+    "type": "noun",
+    "base": "Ferienwohnung",
+    "article": "die",
+    "original": "die Ferienwohnung",
+    "translate": "дом отдыха; дача",
+    "context": [],
+    "id": "b06d6416ed7bd2ea3c746f6708039c39"
+  },
+  {
+    "type": "noun",
+    "base": "Fernseher",
+    "article": "der",
+    "original": "der Fernseher",
+    "translate": "телевизор",
+    "context": [],
+    "id": "7f36263626bf32dc952ad42bbdf8aff5"
   },
   {
     "type": "noun",
@@ -1934,6 +1979,15 @@
       ]
     ],
     "id": "7bfe35344574c9bc527ac8fbef06acad"
+  },
+  {
+    "type": "noun",
+    "base": "Flur",
+    "article": "der",
+    "original": "der Flur",
+    "translate": "коридор; прихожая",
+    "context": [],
+    "id": "22322e1c13789011bdfdbb1bb4f2e8f8"
   },
   {
     "type": "noun",
@@ -2152,6 +2206,15 @@
   },
   {
     "type": "noun",
+    "base": "Garten",
+    "article": "der",
+    "original": "der Garten",
+    "translate": "сад",
+    "context": [],
+    "id": "63211e8979478711d77ad2fb89ac06ea"
+  },
+  {
+    "type": "noun",
     "base": "Geburtsort",
     "article": "der",
     "original": "der Geburtsort",
@@ -2185,6 +2248,15 @@
     "translate": "блюдо; кушанье; суд",
     "context": [],
     "id": "b0701d5e2b62693240b4eb509d502e12"
+  },
+  {
+    "type": "noun",
+    "base": "Geschichte",
+    "article": "die",
+    "original": "die Geschichte",
+    "translate": "история; рассказ",
+    "context": [],
+    "id": "90fb04d380cbfc382b8f6c5e6811c14a"
   },
   {
     "type": "*",
@@ -2618,6 +2690,15 @@
   },
   {
     "type": "noun",
+    "base": "Kinderzimmer",
+    "article": "das",
+    "original": "das Kinderzimmer",
+    "translate": "детская комната; детская",
+    "context": [],
+    "id": "17c391fc5a4d702449a1dfe558060ef8"
+  },
+  {
+    "type": "noun",
     "base": "Kollegin",
     "article": "die",
     "original": "die Kollegin",
@@ -2645,10 +2726,28 @@
   },
   {
     "type": "noun",
+    "base": "Küche",
+    "article": "die",
+    "original": "die Küche",
+    "translate": "кухня",
+    "context": [],
+    "id": "83f62fac303fa341e76aac8ba49c4d5a"
+  },
+  {
+    "type": "noun",
+    "base": "Kühlschrank",
+    "article": "der",
+    "original": "der Kühlschrank",
+    "translate": "холодильник",
+    "context": [],
+    "id": "74c59f115e56735f92f1f0095674393b"
+  },
+  {
+    "type": "noun",
     "base": "Lampe",
     "article": "die",
     "original": "die Lampe, -n",
-    "translate": "лампа",
+    "translate": "лампа; светильник",
     "context": [],
     "id": "0fbab3182739c1173503886c3f79dd0a"
   },
@@ -2789,6 +2888,15 @@
   },
   {
     "type": "noun",
+    "base": "Miete",
+    "article": "die",
+    "original": "die Miete",
+    "translate": "арендная плата; аренда; квартплата",
+    "context": [],
+    "id": "6c7e94999ed920a26190324f691a483f"
+  },
+  {
+    "type": "noun",
     "base": "Milch",
     "article": "die",
     "original": "die Milch",
@@ -2888,6 +2996,15 @@
   },
   {
     "type": "noun",
+    "base": "Möbel",
+    "article": "das",
+    "original": "das Möbel",
+    "translate": "мебель",
+    "context": [],
+    "id": "fc4057424cdd7849e8b318d4a6abb079"
+  },
+  {
+    "type": "noun",
     "base": "Nachmittag",
     "article": "der",
     "original": "der Nachmittag,-e",
@@ -2921,6 +3038,15 @@
     "translate": "фамилия",
     "context": [],
     "id": "7e97f8358b5317a4e2971ad2e4c2f257"
+  },
+  {
+    "type": "noun",
+    "base": "Natur",
+    "article": "die",
+    "original": "die Natur",
+    "translate": "природа; натура; характер",
+    "context": [],
+    "id": "48a25aee077f8cb3feb6596b49c90f0c"
   },
   {
     "type": "noun",
@@ -3120,6 +3246,15 @@
   },
   {
     "type": "noun",
+    "base": "Praktikum",
+    "article": "das",
+    "original": "das Praktikum",
+    "translate": "практика; стажировка",
+    "context": [],
+    "id": "5807561eaf057204ba1851df3183e7a7"
+  },
+  {
+    "type": "noun",
     "base": "Preis",
     "article": "der",
     "original": "der Preis, -e",
@@ -3144,6 +3279,15 @@
     "translate": "процент",
     "context": [],
     "id": "ddf181ccf195e5fbb1fb84d8f03d4b5b"
+  },
+  {
+    "type": "noun",
+    "base": "Quadratmeter",
+    "article": "der",
+    "original": "der Quadratmeter",
+    "translate": "квадратный метр",
+    "context": [],
+    "id": "55da3fb075ae852ff37510af6024cf52"
   },
   {
     "type": "noun",
@@ -3255,6 +3399,24 @@
   },
   {
     "type": "noun",
+    "base": "Schlafzimmer",
+    "article": "das",
+    "original": "das Schlafzimmer",
+    "translate": "спальная комната; спальня",
+    "context": [],
+    "id": "dea8f8b6ebce385e01fd0b61cd6253ad"
+  },
+  {
+    "type": "noun",
+    "base": "Schrank",
+    "article": "der",
+    "original": "der Schrank",
+    "translate": "шкаф",
+    "context": [],
+    "id": "8d0338213f1d4da0ac403b038180a278"
+  },
+  {
+    "type": "noun",
     "base": "Schwester",
     "article": "die",
     "original": "die Schwester",
@@ -3297,6 +3459,15 @@
     "translate": "вы",
     "context": [],
     "id": "f7ec4b166db18fe57e8cd88ba6e4fb9e"
+  },
+  {
+    "type": "noun",
+    "base": "Sofa",
+    "article": "das",
+    "original": "das Sofa",
+    "translate": "диван; софа",
+    "context": [],
+    "id": "5e3fb8152ccf840cdf874e473005fe9f"
   },
   {
     "type": "noun",
@@ -3390,6 +3561,33 @@
   },
   {
     "type": "noun",
+    "base": "Stock",
+    "article": "der",
+    "original": "der Stock",
+    "translate": "этаж",
+    "context": [],
+    "id": "695d81b16e3d448eac92c91fb12e931c"
+  },
+  {
+    "type": "*",
+    "base": "Stockwerke",
+    "article": null,
+    "original": "Stockwerke",
+    "translate": "этажи",
+    "context": [],
+    "id": "c58d31ca44a87ae5924b9f149446ee92"
+  },
+  {
+    "type": "noun",
+    "base": "Student",
+    "article": "der",
+    "original": "der Student",
+    "translate": "студент",
+    "context": [],
+    "id": "fe6d41a9c55160df9a6edcaa111422c4"
+  },
+  {
+    "type": "noun",
     "base": "Stuhl",
     "article": "der",
     "original": "der Stuhl *{die Stühle}",
@@ -3480,6 +3678,15 @@
   },
   {
     "type": "noun",
+    "base": "Terrasse",
+    "article": "die",
+    "original": "die Terrasse",
+    "translate": "терраса; веранда",
+    "context": [],
+    "id": "ba79864b263fcc673f4d3f38f0d816eb"
+  },
+  {
+    "type": "noun",
     "base": "Text",
     "article": "der",
     "original": "der Text",
@@ -3504,6 +3711,15 @@
     "translate": "дочь; дочка",
     "context": [],
     "id": "0728bbb8127fbf1238fa882e984c13f2"
+  },
+  {
+    "type": "noun",
+    "base": "Toilette",
+    "article": "die",
+    "original": "die Toilette",
+    "translate": "туалет; уборная",
+    "context": [],
+    "id": "5386a526a935d4055ded54d9099bf5ff"
   },
   {
     "type": "noun",
@@ -3549,6 +3765,15 @@
     "translate": "часы",
     "context": [],
     "id": "9c36f48b344ba3c8e3ce02e31cdeb95f"
+  },
+  {
+    "type": "noun",
+    "base": "Urlaub",
+    "article": "der",
+    "original": "der Urlaub",
+    "translate": "отпуск",
+    "context": [],
+    "id": "9ad538bc464f3d82ad3f4bbb348d998f"
   },
   {
     "type": "noun",
@@ -3667,6 +3892,15 @@
     "id": "d96abd598396fb9514063c286773eda3"
   },
   {
+    "type": "*",
+    "base": "Vorsicht!",
+    "article": null,
+    "original": "Vorsicht!",
+    "translate": "осторожно",
+    "context": [],
+    "id": "48bc755197fa785e887cea1eb2f44509"
+  },
+  {
     "type": "noun",
     "base": "Vorwahl",
     "article": "die",
@@ -3679,6 +3913,15 @@
       ]
     ],
     "id": "c441304834224f42d272383a76345554"
+  },
+  {
+    "type": "noun",
+    "base": "Waschmaschine",
+    "article": "die",
+    "original": "die Waschmaschine",
+    "translate": "стиральная машина",
+    "context": [],
+    "id": "e21e1c21163f82edea4c21a72ef53cbd"
   },
   {
     "type": "noun",
@@ -3808,6 +4051,24 @@
   },
   {
     "type": "noun",
+    "base": "Wohnung",
+    "article": "die",
+    "original": "die Wohnung",
+    "translate": "квартира",
+    "context": [],
+    "id": "9062d559e9be8f63161b5a221bb0c85b"
+  },
+  {
+    "type": "noun",
+    "base": "Wohnzimmer",
+    "article": "das",
+    "original": "das Wohnzimmer",
+    "translate": "жилая комната; гостиная",
+    "context": [],
+    "id": "cb2bb8ca0461b8d915201f1734f8cbfe"
+  },
+  {
+    "type": "noun",
     "base": "Wort",
     "article": "das",
     "original": "das Wort",
@@ -3898,7 +4159,7 @@
     "base": "Zimmer",
     "article": "das",
     "original": "das Zimmer, –",
-    "translate": "",
+    "translate": "комната",
     "context": [
       [
         "Das Zimmer ist groß.",
@@ -4085,7 +4346,7 @@
     "base": "alles",
     "article": null,
     "original": "alles",
-    "translate": "всё",
+    "translate": "всё; все",
     "context": [
       [
         "Alles Gute!",
@@ -4124,7 +4385,7 @@
     "base": "also",
     "article": null,
     "original": "also",
-    "translate": "",
+    "translate": "следовательно; итак; значит",
     "context": [
       [
         "Also, es ist so: ...",
@@ -5248,6 +5509,15 @@
   },
   {
     "type": "*",
+    "base": "besonders",
+    "article": null,
+    "original": "besonders",
+    "translate": "особенно; в особенности",
+    "context": [],
+    "id": "4335801232b0fc8dce3f664582060bf9"
+  },
+  {
+    "type": "*",
     "base": "besser",
     "article": null,
     "original": "besser",
@@ -5291,6 +5561,15 @@
       ]
     ],
     "id": "83b587fb6e6c4745d896dc15183d8c84"
+  },
+  {
+    "type": "*",
+    "base": "bestimmt",
+    "article": null,
+    "original": "bestimmt",
+    "translate": "определённо; точно",
+    "context": [],
+    "id": "cc6bfa3528f0dfeb62f05790d71f1a18"
   },
   {
     "type": "verb",
@@ -5356,7 +5635,7 @@
     "base": "bezahlen",
     "article": null,
     "original": "bezahlen",
-    "translate": "платить; выплачивать",
+    "translate": "платить; выплачивать; оплачивать",
     "context": [
       [
         "Wo muss ich bezahlen?",
@@ -5406,7 +5685,7 @@
     "base": "billig",
     "article": null,
     "original": "billig",
-    "translate": "",
+    "translate": "дешевый; дешево",
     "context": [
       [
         "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
@@ -5512,6 +5791,15 @@
     "id": "c2115013f9ae2f5d1cdfaa945bf18de2"
   },
   {
+    "type": "*",
+    "base": "blau",
+    "article": null,
+    "original": "blau",
+    "translate": "голубой; синий",
+    "context": [],
+    "id": "657a12bcdfa9514ca9d3dc245b0d2415"
+  },
+  {
     "type": "verb",
     "base": "bleiben",
     "article": null,
@@ -5598,6 +5886,15 @@
     "id": "b6fd44469bf75f0d6cbba71cc97b3bb2"
   },
   {
+    "type": "*",
+    "base": "braun",
+    "article": null,
+    "original": "braun",
+    "translate": "коричневый",
+    "context": [],
+    "id": "fdcc55cb8bdc5c53494c935538fdeb1c"
+  },
+  {
     "type": "verb",
     "base": "brausen",
     "article": null,
@@ -5620,7 +5917,7 @@
     "base": "breit",
     "article": null,
     "original": "breit",
-    "translate": "",
+    "translate": "широкий",
     "context": [
       [
         "Wie breit ist der Schrank?",
@@ -5675,7 +5972,7 @@
     "base": "böse",
     "article": null,
     "original": "böse",
-    "translate": "",
+    "translate": "злой; сердитый",
     "context": [
       [
         "Sie ist böse auf mich.",
@@ -5968,7 +6265,7 @@
     "base": "dort",
     "article": null,
     "original": "dort",
-    "translate": "там",
+    "translate": "там; вон там; туда",
     "context": [],
     "id": "d5aefad4a8cc6efeffc4d8c5708f9a0a"
   },
@@ -6025,6 +6322,15 @@
     "id": "77a0f98282e9fcbcdf0eb5014e7cb803"
   },
   {
+    "type": "*",
+    "base": "dringend",
+    "article": null,
+    "original": "dringend",
+    "translate": "срочный; неотложный",
+    "context": [],
+    "id": "91bbacf75db8e9c6c11c4c9cdbe8dbfc"
+  },
+  {
     "type": "verb",
     "base": "drucken",
     "article": null,
@@ -6078,6 +6384,15 @@
     "translate": "ты ешь; ты кушаешь",
     "context": [],
     "id": "ec345f8ac37228c183317e5e6e6c4946"
+  },
+  {
+    "type": "*",
+    "base": "dunkel",
+    "article": null,
+    "original": "dunkel",
+    "translate": "темный",
+    "context": [],
+    "id": "9c070781664f130a88b17ec2c321a159"
   },
   {
     "type": "*",
@@ -6631,7 +6946,7 @@
     "base": "es",
     "article": null,
     "original": "es",
-    "translate": "",
+    "translate": "это; оно",
     "context": [
       [
         "Es regnet.",
@@ -6639,6 +6954,15 @@
       ]
     ],
     "id": "73990ad02287ac81313d624d18d537ed"
+  },
+  {
+    "type": "*",
+    "base": "es gefällt",
+    "article": null,
+    "original": "es gefällt",
+    "translate": "оно нравится; это нравится",
+    "context": [],
+    "id": "06d29dc8019a2b0d80c6985cdb3ffebf"
   },
   {
     "type": "*",
@@ -6848,7 +7172,7 @@
     "base": "finden",
     "article": null,
     "original": "finden",
-    "translate": "находить; отыскать",
+    "translate": "находить; найти; отыскать",
     "context": [
       [
         "Wir müssen den Schlüssel finden.",
@@ -6992,6 +7316,15 @@
     "translate": "радоваться",
     "context": [],
     "id": "794298b9c0467e5c0495824698978677"
+  },
+  {
+    "type": "*",
+    "base": "freundlich",
+    "article": null,
+    "original": "freundlich",
+    "translate": "дружеский; дружелюбный",
+    "context": [],
+    "id": "69edf3206246d328c1f3d207ce341e28"
   },
   {
     "type": "verb",
@@ -7157,7 +7490,7 @@
     "base": "gefallen",
     "article": null,
     "original": "gefallen",
-    "translate": "нравиться; нравится",
+    "translate": "нравиться; нравится; быть по вкусу",
     "context": [],
     "id": "1994c96c97f7d53478e55ad0c79b218e"
   },
@@ -7196,6 +7529,15 @@
     "translate": "принадлежать",
     "context": [],
     "id": "9a72c6bf02212ea0670e3dc36e693c80"
+  },
+  {
+    "type": "*",
+    "base": "gelb",
+    "article": null,
+    "original": "gelb",
+    "translate": "желтый",
+    "context": [],
+    "id": "03ed44e26c24f2b203468683f824100a"
   },
   {
     "type": "verb",
@@ -7409,6 +7751,15 @@
     "id": "0e9151ec4af933f66f2aaae5dfada096"
   },
   {
+    "type": "*",
+    "base": "grau",
+    "article": null,
+    "original": "grau",
+    "translate": "серый",
+    "context": [],
+    "id": "450b797a09cb440045db31ff33ab8477"
+  },
+  {
     "type": "verb",
     "base": "greifen",
     "article": null,
@@ -7426,6 +7777,15 @@
     "translate": "большой; крупный",
     "context": [],
     "id": "b1adeb57d52ce2c96e0106e371f36b85"
+  },
+  {
+    "type": "*",
+    "base": "grün",
+    "article": null,
+    "original": "grün",
+    "translate": "зеленый",
+    "context": [],
+    "id": "d7c2c2306aceacbdc162182a1209f475"
   },
   {
     "type": "verb",
@@ -7548,6 +7908,15 @@
   },
   {
     "type": "*",
+    "base": "hell",
+    "article": null,
+    "original": "hell",
+    "translate": "светлый",
+    "context": [],
+    "id": "437f135dfd2a83bc401f9e39090406a4"
+  },
+  {
+    "type": "*",
     "base": "heute",
     "article": null,
     "original": "heute",
@@ -7599,6 +7968,24 @@
     "translate": "висеть; вешать",
     "context": [],
     "id": "5d3c84437ed92fc0d8d740a5ae4ecb69"
+  },
+  {
+    "type": "*",
+    "base": "hässlich",
+    "article": null,
+    "original": "hässlich",
+    "translate": "некрасивый",
+    "context": [],
+    "id": "8ada439dc9867e11c746d0ac4d47d304"
+  },
+  {
+    "type": "*",
+    "base": "höflich",
+    "article": null,
+    "original": "höflich",
+    "translate": "вежливый; учтивый",
+    "context": [],
+    "id": "529ff93c42a79af0b86414be552055b5"
   },
   {
     "type": "verb",
@@ -7707,6 +8094,15 @@
     "translate": "занимать (время)",
     "context": [],
     "id": "ff68c6a513f0aa585c95ecb7b368028e"
+  },
+  {
+    "type": "*",
+    "base": "interessant",
+    "article": null,
+    "original": "interessant",
+    "translate": "интересный",
+    "context": [],
+    "id": "80831446da682024edf287d73ba151c8"
   },
   {
     "type": "*",
@@ -8093,7 +8489,7 @@
     "base": "leider",
     "article": null,
     "original": "leider",
-    "translate": "к сожалению",
+    "translate": "к сожалению; увы",
     "context": [],
     "id": "528a8eccf56cc7789b99c64bca27dcc8"
   },
@@ -8312,6 +8708,24 @@
   },
   {
     "type": "verb",
+    "base": "mieten",
+    "article": null,
+    "original": "mieten",
+    "translate": "арендовать; снимать",
+    "context": [],
+    "id": "50957bdc3fa9e8d11d846a7f4b1e6f32"
+  },
+  {
+    "type": "*",
+    "base": "mindestens",
+    "article": null,
+    "original": "mindestens",
+    "translate": "по крайней мере; не менее",
+    "context": [],
+    "id": "d09fa52d86b84ca74dc5134d4ec65433"
+  },
+  {
+    "type": "verb",
     "base": "misslingen",
     "article": null,
     "original": "misslingen",
@@ -8340,6 +8754,15 @@
     "id": "e41f2b0aa02ef67867f085184660d582"
   },
   {
+    "type": "*",
+    "base": "modern",
+    "article": null,
+    "original": "modern",
+    "translate": "современный; модный",
+    "context": [],
+    "id": "763950e7b9cc6eb0b1541f2b39222ad8"
+  },
+  {
     "type": "verb",
     "base": "multiplizieren",
     "article": null,
@@ -8347,6 +8770,15 @@
     "translate": "умножать",
     "context": [],
     "id": "e42494d91b8aa96d89ba50131974ea2c"
+  },
+  {
+    "type": "*",
+    "base": "möbliert",
+    "article": null,
+    "original": "möbliert",
+    "translate": "обставленный мебелью; меблированный; с мебелью",
+    "context": [],
+    "id": "42adfe5a05fa976244c37ed751fcebf2"
   },
   {
     "type": "verb",
@@ -8461,7 +8893,7 @@
     "base": "nicht",
     "article": null,
     "original": "nicht",
-    "translate": "не; ни",
+    "translate": "не; ни; нет",
     "context": [],
     "id": "6c549db794bc71fbeba76af5864ebca1"
   },
@@ -8500,6 +8932,15 @@
     "translate": "отмечать; замечать; записывать",
     "context": [],
     "id": "42822153f2474dbab6f621c806d2a1b8"
+  },
+  {
+    "type": "*",
+    "base": "nur",
+    "article": null,
+    "original": "nur",
+    "translate": "только; лишь; всего",
+    "context": [],
+    "id": "2c756a303be5847b39361fdce23ad306"
   },
   {
     "type": "verb",
@@ -8580,7 +9021,7 @@
     "base": "ordnen",
     "article": null,
     "original": "ordnen",
-    "translate": "приводить в порядок; систематизировать",
+    "translate": "приводить в порядок; систематизировать; организовывать; упорядочивать",
     "context": [],
     "id": "1027ca8d90fc8a8e48b0313e348127cb"
   },
@@ -8649,6 +9090,15 @@
     "id": "298235c442a77d57eed9738e77fd320e"
   },
   {
+    "type": "*",
+    "base": "praktisch",
+    "article": null,
+    "original": "praktisch",
+    "translate": "удобный; практичный",
+    "context": [],
+    "id": "a92483a73b064d72981713f25157b829"
+  },
+  {
     "type": "verb",
     "base": "preisen",
     "article": null,
@@ -8657,6 +9107,15 @@
     "context": [],
     "irregular": true,
     "id": "03791ebbd188d8f4bb095ae5071bd3a7"
+  },
+  {
+    "type": "*",
+    "base": "preiswert",
+    "article": null,
+    "original": "preiswert",
+    "translate": "недорогой",
+    "context": [],
+    "id": "df87f474950080e69fd33991636ffb92"
   },
   {
     "type": "verb",
@@ -8836,6 +9295,15 @@
     "id": "b5b6470f78eb7088a04b92547712fc69"
   },
   {
+    "type": "*",
+    "base": "rot",
+    "article": null,
+    "original": "rot",
+    "translate": "красный",
+    "context": [],
+    "id": "264b8d2fa2d5211ce12f4fde5a468985"
+  },
+  {
     "type": "verb",
     "base": "rufen",
     "article": null,
@@ -8843,6 +9311,15 @@
     "translate": "кричать; звать; вызывать",
     "context": [],
     "id": "eecd7288204d2ff7c846f30f8f8d3d9b"
+  },
+  {
+    "type": "*",
+    "base": "ruhig",
+    "article": null,
+    "original": "ruhig",
+    "translate": "спокойный; тихий",
+    "context": [],
+    "id": "310554cab3772d84abbd625ecdc89aa2"
   },
   {
     "type": "verb",
@@ -9056,6 +9533,15 @@
     "id": "aab300b4219e84065ac3f5e8f3914ae4"
   },
   {
+    "type": "*",
+    "base": "schmal",
+    "article": null,
+    "original": "schmal",
+    "translate": "небольшой; тонкий; узкий",
+    "context": [],
+    "id": "e1d0f3c7d1193284821b3ff2eb67a096"
+  },
+  {
     "type": "verb",
     "base": "schmecken",
     "article": null,
@@ -9167,6 +9653,15 @@
     "context": [],
     "irregular": true,
     "id": "e7d794464f4953e57f48a2278f00adc0"
+  },
+  {
+    "type": "*",
+    "base": "schwarz",
+    "article": null,
+    "original": "schwarz",
+    "translate": "черный",
+    "context": [],
+    "id": "c7bdc1de4b6d6993d30d4b77acd2e53f"
   },
   {
     "type": "verb",
@@ -9511,6 +10006,15 @@
     "id": "2dfe02a23e395d8fd30ae3190820256f"
   },
   {
+    "type": "*",
+    "base": "sofort",
+    "article": null,
+    "original": "sofort",
+    "translate": "сейчас; немедленно",
+    "context": [],
+    "id": "52e5cff4913d81d169e5bfbc17571a20"
+  },
+  {
     "type": "verb",
     "base": "sollen",
     "article": null,
@@ -9823,7 +10327,7 @@
     "base": "suchen",
     "article": null,
     "original": "suchen",
-    "translate": "искать",
+    "translate": "искать; разыскивать",
     "context": [],
     "id": "eb3e4130d943cc5eed70166fe4c2c9dd"
   },
@@ -9862,6 +10366,15 @@
     "translate": "участвовать",
     "context": [],
     "id": "5bae74e4e98f1fca05b516f262878c80"
+  },
+  {
+    "type": "*",
+    "base": "teuer",
+    "article": null,
+    "original": "teuer",
+    "translate": "дорогой; дорого",
+    "context": [],
+    "id": "519b6fbf7897f10d735825956faae480"
   },
   {
     "type": "verb",
@@ -10151,6 +10664,15 @@
     "id": "1afac5eeca429744a7c6f2dfdc563200"
   },
   {
+    "type": "verb",
+    "base": "vergleichen",
+    "article": null,
+    "original": "vergleichen",
+    "translate": "сравнивать; сопоставлять",
+    "context": [],
+    "id": "1ca119ed43e90db765b85ddc5fdfb3d1"
+  },
+  {
     "type": "*",
     "base": "verheiratet",
     "article": null,
@@ -10201,7 +10723,7 @@
     "base": "vermieten",
     "article": null,
     "original": "vermieten",
-    "translate": "",
+    "translate": "сдавать в аренду; сдавать",
     "context": [
       [
         "Die Wohnung ist schon vermietet.",
@@ -10344,6 +10866,15 @@
   },
   {
     "type": "*",
+    "base": "voll",
+    "article": null,
+    "original": "voll",
+    "translate": "полный; наполненный",
+    "context": [],
+    "id": "fc4b401b1c549d1a5cbff5ea6197e207"
+  },
+  {
+    "type": "*",
     "base": "voll sein",
     "article": null,
     "original": "voll sein",
@@ -10386,6 +10917,15 @@
       ]
     ],
     "id": "a40bd9bfa9c15b1718e05372abe0c14b"
+  },
+  {
+    "type": "*",
+    "base": "vor allem",
+    "article": null,
+    "original": "vor allem",
+    "translate": "прежде всего; в первую очередь",
+    "context": [],
+    "id": "f490b58e4f0c4034c382cb4c19c2ab86"
   },
   {
     "type": "verb",
@@ -10454,6 +10994,15 @@
     "translate": "ждать; дожидаться",
     "context": [],
     "id": "926fe4446fc6f84d0c6d9371c00ac0ae"
+  },
+  {
+    "type": "*",
+    "base": "warum",
+    "article": null,
+    "original": "warum",
+    "translate": "почему",
+    "context": [],
+    "id": "c9a096464623bca088cfeb10281d1014"
   },
   {
     "type": "*",
@@ -10556,6 +11105,15 @@
     "translate": "дальше; далее",
     "context": [],
     "id": "599079c2062a224bdf2bd27c030fbbae"
+  },
+  {
+    "type": "*",
+    "base": "weiß",
+    "article": null,
+    "original": "weiß",
+    "translate": "белый",
+    "context": [],
+    "id": "fe559c8e6e06ec0fec726f192d08082b"
   },
   {
     "type": "verb",
@@ -10680,6 +11238,15 @@
     "id": "e84d678af9b11c1acc291486dbd01447"
   },
   {
+    "type": "*",
+    "base": "wirklich",
+    "article": null,
+    "original": "wirklich",
+    "translate": "действительно; в самом деле",
+    "context": [],
+    "id": "e9fd3ab77020c3334ba0208a0f1e8c9a"
+  },
+  {
     "type": "verb",
     "base": "wissen",
     "article": null,
@@ -10802,6 +11369,15 @@
     "context": [],
     "irregular": true,
     "id": "890ca3104e2d586a3c992f14b4207ca0"
+  },
+  {
+    "type": "*",
+    "base": "zentral",
+    "article": null,
+    "original": "zentral",
+    "translate": "центральный",
+    "context": [],
+    "id": "3565c138efde9378de802c20e39169d1"
   },
   {
     "type": "verb",

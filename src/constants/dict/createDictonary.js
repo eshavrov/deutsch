@@ -4,6 +4,8 @@ const { createHash } = require("crypto");
 const listA11L1 = require("./in_data/other/a1/case1/a1.1-l1.json");
 const listA11L2 = require("./in_data/other/a1/case1/a1.1-l2.json");
 const listA11L3 = require("./in_data/other/a1/case1/a1.1-l3.json");
+const listA11L4 = require("./in_data/other/a1/case1/a1.1-l4.json");
+
 const words200 = require("./in_data/de-online_ru/200words.json");
 const verbs = require("./in_data/other/verbs.json");
 const irregularVerbs = require("./in_data/de-online_ru/irregularVerbs.json");
@@ -208,6 +210,7 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
   ...listA11L1,
   ...listA11L2,
   ...listA11L3,
+  ...listA11L4,
 ].forEach((data) => add(dictonary, data));
 datumGroups.forEach((g) => g.forEach((data) => add(dictonary, data)));
 
