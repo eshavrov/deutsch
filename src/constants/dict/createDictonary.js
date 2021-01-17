@@ -225,15 +225,27 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
           );
         }
         sn.context.push(...entry.context);
+
+        // Optional
+        if (entry.config) {
+          sn.config = { ...entry.config };
+        }
+
+        if (entry.irregular) {
+          sn.irregular = entry.irregular;
+        }
       }
     });
   }
 };
 
-const addVerb = (dictonary, data, options = {}) => {
-  const cb = (entry) => {
+const addVerb = (dictonary, data, options = {}, afterCb) => {
+  const cb = (_entry) => {
+    const entry = afterCb ? afterCb(_entry) : _entry;
+
     return { ...entry, type: "verb" };
   };
+
   add(dictonary, data, { options, cb });
 };
 
@@ -279,7 +291,15 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
 
 verbsIrregular.forEach((data) => {
   const [w, t, o] = data;
-  addVerb(dictonary, [w, t], { irregular: true });
+
+  addVerb(dictonary, [w, t], { irregular: true }, (entry) => {
+    // const {config: ={}}
+    const config = {
+      type: o.type,
+    };
+
+    return { ...entry, config };
+  });
 });
 
 // ------------------------------
