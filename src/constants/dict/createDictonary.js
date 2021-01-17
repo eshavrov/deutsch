@@ -22,6 +22,7 @@ const listA11L10 = require("./in_data/other/a1/case1/a1.1-l10.json");
 const listA1 = require("./in_data/other/a1/case1/a1.json");
 const listdasAdjektiv01 = require("./in_data/other/a1/case1/das-adjektiv-01.json");
 const listKlassePiriBayern = require("./in_data/other/a1/case1/klasse-piri-bayern.json");
+const listDeutschA1Schritte = require("./in_data/other/a1/case1/deutsch-a1-schritte.json");
 
 const getId = (uni) => {
   return createHash("md5").update(uni).digest("hex");
@@ -31,9 +32,9 @@ const phraseNormalize = (text) => {
   return text.replace(/\s+/gi, " ").trim();
 };
 
-const translateNormalize = (text) => {
+const translateNormalize = (text, { spliter = ";" } = {}) => {
   const chunks = phraseNormalize(text)
-    .split(";")
+    .split(spliter)
     .filter(Boolean)
     .map(phraseNormalize);
 
@@ -71,6 +72,17 @@ const REGEXP_DAS = /^das\s+/i;
 const REGEXP_DIE_DER = /^(die\s*\/\s*der\s*|der\s*\/\s*die)\s+/i;
 const REGEXP_VERB = /en$/i;
 
+const REGEXP_END = /\,\s*[äöü¨]*-(|e|er|s)$/i;
+
+const removeAdv = (text) => {
+  return text
+    .replace(REGEXP_END, "")
+    .trim()
+    .replace(/\,\s*pl$/i, "")
+    .replace(/[?!.,]$/i, "")
+    .trim();
+};
+
 console.log("---------------- start test ------------");
 
 const dictonary = [];
@@ -99,13 +111,15 @@ const parsePhrase = (text, options = {}) => {
 
         if (chunk.length > 0) {
           const [word] = chunk;
-          const w = removeOptional(
-            removeOptionalPlural(
-              word
-                .replace(REGEXP_DER, "")
-                .replace(REGEXP_DIE, "")
-                .replace(REGEXP_DAS, "")
-                .replace(REGEXP_DIE_DER, "")
+          const w = removeAdv(
+            removeOptional(
+              removeOptionalPlural(
+                word
+                  .replace(REGEXP_DER, "")
+                  .replace(REGEXP_DIE, "")
+                  .replace(REGEXP_DAS, "")
+                  .replace(REGEXP_DIE_DER, "")
+              )
             )
           );
 
@@ -124,14 +138,16 @@ const parsePhrase = (text, options = {}) => {
             article = "der/die";
           }
 
-          const entry = {
-            type: "noun", //  существительное
-            base: w,
-            article,
-            original: _phrase,
-          };
+          if (w.split(/\s/).length === 1) {
+            const entry = {
+              type: "noun", //  существительное
+              base: w,
+              article,
+              original: _phrase,
+            };
 
-          return entry;
+            return entry;
+          }
         } else {
           console.log("--opps");
         }
@@ -139,7 +155,7 @@ const parsePhrase = (text, options = {}) => {
 
       const isVerb = REGEXP_VERB.test(phrase);
       if (isVerb) {
-        const base = removeOptional(removeOptionalPlural(phrase));
+        const base = removeAdv(removeOptional(removeOptionalPlural(phrase)));
 
         // только если одно слово, иначе отбраковываем (возможно фраза)
         if (base.split(/\s/).length === 1) {
@@ -159,7 +175,7 @@ const parsePhrase = (text, options = {}) => {
 
       const entry = {
         type: "*", // остальное
-        base: phrase,
+        base: removeAdv(phrase),
         article: null,
         original: _phrase,
       };
@@ -169,14 +185,14 @@ const parsePhrase = (text, options = {}) => {
     .map((data) => ({ ...data, ...options }));
 };
 
-const add = (dictonary, data, { options = {}, cb } = {}) => {
+const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
   if (data instanceof Array) {
     const [text, translate = "", context = []] = data;
     if (!text) {
       return;
     }
     const entries = parsePhrase(text, {
-      translate: translateNormalize(translate),
+      translate: translateNormalize(translate, { spliter }),
       context,
       ...options,
     });
@@ -242,6 +258,10 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
   ...listdasAdjektiv01,
   ...listKlassePiriBayern,
 ].forEach((data) => add(dictonary, data));
+
+[...listDeutschA1Schritte].forEach((data) =>
+  add(dictonary, data, { spliter: "," })
+);
 
 dictonary.sort((a, b) => {
   if (a.base > b.base) return 1;
