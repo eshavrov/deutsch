@@ -173,4 +173,22 @@ const sp = (infinitive, config) => {
   return result;
 };
 
+const normalizeVerb = (text) => {
+  if (text.includes("/")) {
+    const chunks = text.split("/");
+
+    if (chunks.length === 2) {
+      const [prefix, base] = chunks;
+      if ([...PREFIX_NOT_SEPARATED, ...PREFIX_SEPARATE].includes(prefix)) {
+        text = prefix + base;
+      }
+    } else {
+      console.warn("Invalide verbs");
+    }
+  }
+
+  return text.toLowerCase();
+};
+
 module.exports.sp = sp;
+module.exports.normalizeVerb = normalizeVerb;

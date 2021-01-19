@@ -1,72 +1,6 @@
 [
   {
     "type": "verb",
-    "base": "ab/holen",
-    "article": null,
-    "translate": "встречать; заезжать",
-    "context": [],
-    "originals": [
-      "ab/holen"
-    ],
-    "id": "66564b25efe88d096d6d678a519b7789"
-  },
-  {
-    "type": "verb",
-    "base": "ab/lehnen",
-    "article": null,
-    "translate": "отклонять; отвергать; отрицать; отказывать; не принимать",
-    "context": [],
-    "originals": [
-      "ab/lehnen"
-    ],
-    "id": "9103c82909ae6ff4d40003e11f9872fd"
-  },
-  {
-    "type": "verb",
-    "base": "ab/sagen",
-    "article": null,
-    "translate": "отменять; отказываться",
-    "context": [],
-    "originals": [
-      "ab/sagen"
-    ],
-    "id": "71f9f03d57f5b1c81f42407bf7426cab"
-  },
-  {
-    "type": "verb",
-    "base": "ab/stellen",
-    "article": null,
-    "translate": "отставить; поставить в сторону; ставить на хранение; приостанавливать",
-    "context": [],
-    "originals": [
-      "ab/stellen"
-    ],
-    "id": "20758c48c19f6bb8dea0900b137ffb47"
-  },
-  {
-    "type": "verb",
-    "base": "ab/stimmen",
-    "article": null,
-    "translate": "голосовать; согласовывать; координировать; увязывать; проводить голосование",
-    "context": [],
-    "originals": [
-      "ab/stimmen"
-    ],
-    "id": "29cc519f73923fd1eb50a2f9ad2fd92f"
-  },
-  {
-    "type": "verb",
-    "base": "ab/trocknen",
-    "article": null,
-    "translate": "вытирать; вытираться; высыхать; высушивать",
-    "context": [],
-    "originals": [
-      "ab/trocknen"
-    ],
-    "id": "87907233ed1d5c2cc2f2800a15af7dfe"
-  },
-  {
-    "type": "verb",
     "base": "abfahren",
     "article": null,
     "translate": "отправляться; уезжать; уйти; отъезжать",
@@ -117,7 +51,7 @@
     "type": "verb",
     "base": "abholen",
     "article": null,
-    "translate": "забирать; встречать",
+    "translate": "забирать; встречать; заезжать",
     "context": [
       [
         "Wann kann ich den Schrank bei dir abholen?",
@@ -132,6 +66,17 @@
       "abholen"
     ],
     "id": "bf22e70a9bd2a851477fd3fff9f12eb3"
+  },
+  {
+    "type": "verb",
+    "base": "ablehnen",
+    "article": null,
+    "translate": "отклонять; отвергать; отрицать; отказывать; не принимать",
+    "context": [],
+    "originals": [
+      "ab/lehnen"
+    ],
+    "id": "0d9c4342f901658fab535212bddd849b"
   },
   {
     "type": "verb",
@@ -163,12 +108,45 @@
     "type": "verb",
     "base": "absagen",
     "article": null,
-    "translate": "отменять; сообщить об отмене",
+    "translate": "отменять; сообщить об отмене; отказываться",
     "context": [],
     "originals": [
       "absagen"
     ],
     "id": "2fa689cd554b11235cc9bc542e47b732"
+  },
+  {
+    "type": "verb",
+    "base": "abstellen",
+    "article": null,
+    "translate": "отставить; поставить в сторону; ставить на хранение; приостанавливать",
+    "context": [],
+    "originals": [
+      "ab/stellen"
+    ],
+    "id": "6f1ab65fd06337ec938be8f62aa3a29a"
+  },
+  {
+    "type": "verb",
+    "base": "abstimmen",
+    "article": null,
+    "translate": "голосовать; согласовывать; координировать; увязывать; проводить голосование",
+    "context": [],
+    "originals": [
+      "ab/stimmen"
+    ],
+    "id": "e340cc7e0e3c96822e788ea119e1eca0"
+  },
+  {
+    "type": "verb",
+    "base": "abtrocknen",
+    "article": null,
+    "translate": "вытирать; вытираться; высыхать; высушивать",
+    "context": [],
+    "originals": [
+      "ab/trocknen"
+    ],
+    "id": "8a71a8c09b1b3ef395c17eb654ca61d2"
   },
   {
     "type": "verb",
@@ -202,72 +180,6 @@
       "addieren; zufügen"
     ],
     "id": "df828f3b6ec5ea9a873f126dbfe60f05"
-  },
-  {
-    "type": "verb",
-    "base": "an/klicken",
-    "article": null,
-    "translate": "щелкнуть мышью",
-    "context": [],
-    "originals": [
-      "an/klicken"
-    ],
-    "id": "54c36ead51d1064e4078276ab88d8c61"
-  },
-  {
-    "type": "verb",
-    "base": "an/kreuzen",
-    "article": null,
-    "translate": "отметить крестиком",
-    "context": [],
-    "originals": [
-      "an/kreuzen"
-    ],
-    "id": "54f6be2651d7435cb511306443451f2b"
-  },
-  {
-    "type": "verb",
-    "base": "an/machen",
-    "article": null,
-    "translate": "приставать; зажигать; разводить; заправлять",
-    "context": [],
-    "originals": [
-      "an/machen"
-    ],
-    "id": "ead02a843486ca14a61358c94f99bff7"
-  },
-  {
-    "type": "verb",
-    "base": "an/probieren",
-    "article": null,
-    "translate": "примерять",
-    "context": [],
-    "originals": [
-      "an/probieren"
-    ],
-    "id": "0c215d925892d94ae05530766f549f64"
-  },
-  {
-    "type": "verb",
-    "base": "an/schaffen",
-    "article": null,
-    "translate": "приобретать; покупать; доставать",
-    "context": [],
-    "originals": [
-      "an/schaffen"
-    ],
-    "id": "21514f392fd310d4b36133e5b1501dc7"
-  },
-  {
-    "type": "verb",
-    "base": "an/schauen",
-    "article": null,
-    "translate": "смотреть; взирать; рассматривать; глядеть; созерцать",
-    "context": [],
-    "originals": [
-      "an/schauen"
-    ],
-    "id": "d31456d4b6eae1f8ee8036b5adc21264"
   },
   {
     "type": "verb",
@@ -365,7 +277,7 @@
     "type": "verb",
     "base": "anklicken",
     "article": null,
-    "translate": "кликать мышкой; кликнуть мышью; кликать; кликнуть",
+    "translate": "кликать мышкой; кликнуть мышью; кликать; кликнуть; щелкнуть мышью",
     "context": [
       [
         "Da musst du dieses Wort anklicken.",
@@ -413,7 +325,7 @@
     "type": "verb",
     "base": "anmachen",
     "article": null,
-    "translate": "включать; прикреплять; зажигать",
+    "translate": "включать; прикреплять; зажигать; приставать; разводить; заправлять",
     "context": [
       [
         "Mach bitte das Licht an!",
@@ -465,6 +377,17 @@
   },
   {
     "type": "verb",
+    "base": "anprobieren",
+    "article": null,
+    "translate": "примерять",
+    "context": [],
+    "originals": [
+      "an/probieren"
+    ],
+    "id": "ad8f6777c96f3906440c3f9a70eea6d7"
+  },
+  {
+    "type": "verb",
     "base": "anrufen",
     "article": null,
     "translate": "звонить (по телефону); звонить по телефону; окликать; звать; звонить",
@@ -482,6 +405,28 @@
       "anrufen"
     ],
     "id": "123139e2c2149b5d6726d47f100b2250"
+  },
+  {
+    "type": "verb",
+    "base": "anschaffen",
+    "article": null,
+    "translate": "приобретать; покупать; доставать",
+    "context": [],
+    "originals": [
+      "an/schaffen"
+    ],
+    "id": "a2d71a2247489b92dbff266ae39c28fb"
+  },
+  {
+    "type": "verb",
+    "base": "anschauen",
+    "article": null,
+    "translate": "смотреть; взирать; рассматривать; глядеть; созерцать",
+    "context": [],
+    "originals": [
+      "an/schauen"
+    ],
+    "id": "a37d39aee41108c251510890ccae1c59"
   },
   {
     "type": "verb",
@@ -566,72 +511,6 @@
   },
   {
     "type": "verb",
-    "base": "auf/hören",
-    "article": null,
-    "translate": "переставать; прекратить; прекращать; останавливать; приостанавливать; кончаться",
-    "context": [],
-    "originals": [
-      "auf/hören"
-    ],
-    "id": "6737ca0dd808d6675d68d06bc844a9de"
-  },
-  {
-    "type": "verb",
-    "base": "auf/klären",
-    "article": null,
-    "translate": "просвещать; разъяснять; объяснять; вести разведку; прояснять",
-    "context": [],
-    "originals": [
-      "auf/klären"
-    ],
-    "id": "5601ab7e04315cdf42cd85e26aa6bd3f"
-  },
-  {
-    "type": "verb",
-    "base": "auf/machen",
-    "article": null,
-    "translate": "открывать; отворять; оформлять; вскрывать; расстегивать",
-    "context": [],
-    "originals": [
-      "auf/machen"
-    ],
-    "id": "fdbbd8b50c9c99ae53f5830fc56c40b0"
-  },
-  {
-    "type": "verb",
-    "base": "auf/passen",
-    "article": null,
-    "translate": "наблюдать; присматривать; следить; быть внимательным; берегись; внимательно слушать",
-    "context": [],
-    "originals": [
-      "auf/passen"
-    ],
-    "id": "e1909113dd70dfe00dab3426138127e8"
-  },
-  {
-    "type": "verb",
-    "base": "auf/räumen",
-    "article": null,
-    "translate": "убирать; наводить порядок; делать уборку",
-    "context": [],
-    "originals": [
-      "auf/räumen"
-    ],
-    "id": "191603e407a732af5e5ca59a9e9511f2"
-  },
-  {
-    "type": "verb",
-    "base": "auf/wachen",
-    "article": null,
-    "translate": "просыпаться; пробуждаться",
-    "context": [],
-    "originals": [
-      "auf/wachen"
-    ],
-    "id": "d3ccd97a83956a638b30c6affb005902"
-  },
-  {
-    "type": "verb",
     "base": "auffallen",
     "article": null,
     "translate": "обращать на себя внимание; бросаться в глаза",
@@ -645,7 +524,7 @@
     "type": "verb",
     "base": "aufhören",
     "article": null,
-    "translate": "переставать; прекращать; заканчивать",
+    "translate": "переставать; прекращать; заканчивать; прекратить; останавливать; приостанавливать; кончаться",
     "context": [
       [
         "Der Kurs hört in einer Woche auf.",
@@ -663,9 +542,20 @@
   },
   {
     "type": "verb",
+    "base": "aufklären",
+    "article": null,
+    "translate": "просвещать; разъяснять; объяснять; вести разведку; прояснять",
+    "context": [],
+    "originals": [
+      "auf/klären"
+    ],
+    "id": "99e24f3a121a7b14f5bdfbcda87289ce"
+  },
+  {
+    "type": "verb",
     "base": "aufmachen",
     "article": null,
-    "translate": "открывать",
+    "translate": "открывать; отворять; оформлять; вскрывать; расстегивать",
     "context": [],
     "originals": [
       "öffnen; aufmachen"
@@ -674,9 +564,20 @@
   },
   {
     "type": "verb",
+    "base": "aufpassen",
+    "article": null,
+    "translate": "наблюдать; присматривать; следить; быть внимательным; берегись; внимательно слушать",
+    "context": [],
+    "originals": [
+      "auf/passen"
+    ],
+    "id": "2ee732a29f0b7d1395afe04018a7c7e8"
+  },
+  {
+    "type": "verb",
     "base": "aufräumen",
     "article": null,
-    "translate": "убирать; заниматься уборкой; наводить порядок",
+    "translate": "убирать; заниматься уборкой; наводить порядок; делать уборку",
     "context": [],
     "originals": [
       "aufräumen"
@@ -705,80 +606,14 @@
   },
   {
     "type": "verb",
-    "base": "aus/füllen",
+    "base": "aufwachen",
     "article": null,
-    "translate": "заполнять; наполнять",
+    "translate": "просыпаться; пробуждаться",
     "context": [],
     "originals": [
-      "aus/füllen"
+      "auf/wachen"
     ],
-    "id": "bddaa8e5d26e8e81c16290787f38daa2"
-  },
-  {
-    "type": "verb",
-    "base": "aus/machen",
-    "article": null,
-    "translate": "составлять; гасить; выключать",
-    "context": [],
-    "originals": [
-      "aus/machen"
-    ],
-    "id": "faaba39a8fa58b5e5759935e5dc51ad6"
-  },
-  {
-    "type": "verb",
-    "base": "aus/packen",
-    "article": null,
-    "translate": "распаковывать; развертывать",
-    "context": [],
-    "originals": [
-      "aus/packen"
-    ],
-    "id": "cf5dc0fe38c0735b9d24d3653e3f0005"
-  },
-  {
-    "type": "verb",
-    "base": "aus/rechnen",
-    "article": null,
-    "translate": "вычислять; высчитывать; рассчитывать",
-    "context": [],
-    "originals": [
-      "aus/rechnen"
-    ],
-    "id": "38f5851fc52928cb692de1645dff0cbc"
-  },
-  {
-    "type": "verb",
-    "base": "aus/reichen",
-    "article": null,
-    "translate": "быть достаточным; хватать; доставать",
-    "context": [],
-    "originals": [
-      "aus/reichen"
-    ],
-    "id": "e9fdc8478e28edc2f59d9a8b87386c0e"
-  },
-  {
-    "type": "verb",
-    "base": "aus/schalten",
-    "article": null,
-    "translate": "выключать; отключать; исключать",
-    "context": [],
-    "originals": [
-      "aus/schalten"
-    ],
-    "id": "69bb49412b530d95068092af43aa352c"
-  },
-  {
-    "type": "verb",
-    "base": "aus/stellen",
-    "article": null,
-    "translate": "выдавать; выставлять; экспонировать; участвовать в выставке",
-    "context": [],
-    "originals": [
-      "aus/stellen"
-    ],
-    "id": "ab5d43faa270035c2e9642089928c056"
+    "id": "35f43c463a95067f7c3440bac0c45c18"
   },
   {
     "type": "verb",
@@ -819,7 +654,7 @@
     "type": "verb",
     "base": "ausfüllen",
     "article": null,
-    "translate": "заполнять; заполнить",
+    "translate": "заполнять; заполнить; наполнять",
     "context": [
       [
         "Füllen Sie bitte dieses Formular aus.",
@@ -868,7 +703,7 @@
     "type": "verb",
     "base": "ausmachen",
     "article": null,
-    "translate": "выключать; гасить; тушить",
+    "translate": "выключать; гасить; тушить; составлять",
     "context": [
       [
         "Mach bitte das Licht aus!",
@@ -882,14 +717,47 @@
   },
   {
     "type": "verb",
+    "base": "auspacken",
+    "article": null,
+    "translate": "распаковывать; развертывать",
+    "context": [],
+    "originals": [
+      "aus/packen"
+    ],
+    "id": "649916dcf406938550c0289b28a5d856"
+  },
+  {
+    "type": "verb",
+    "base": "ausrechnen",
+    "article": null,
+    "translate": "вычислять; высчитывать; рассчитывать",
+    "context": [],
+    "originals": [
+      "aus/rechnen"
+    ],
+    "id": "aaea6078de9306f09195853e1d59eaac"
+  },
+  {
+    "type": "verb",
     "base": "ausreichen",
     "article": null,
-    "translate": "быть достаточным",
+    "translate": "быть достаточным; хватать; доставать",
     "context": [],
     "originals": [
       "ausreichen"
     ],
     "id": "6d4d5b940da7b1a1590beff0bd31b3d5"
+  },
+  {
+    "type": "verb",
+    "base": "ausschalten",
+    "article": null,
+    "translate": "выключать; отключать; исключать",
+    "context": [],
+    "originals": [
+      "aus/schalten"
+    ],
+    "id": "cde8ad7e1e35d77f8d472d7b05891daa"
   },
   {
     "type": "verb",
@@ -938,7 +806,7 @@
     "type": "verb",
     "base": "ausstellen",
     "article": null,
-    "translate": "выставлять; экспонировать",
+    "translate": "выставлять; экспонировать; выдавать; участвовать в выставке",
     "context": [],
     "originals": [
       "ausstellen"
@@ -2252,58 +2120,27 @@
   },
   {
     "type": "verb",
-    "base": "ein/kaufen",
-    "article": null,
-    "translate": "делать покупки; производить закупки",
-    "context": "отовариваться",
-    "originals": [
-      "ein/kaufen"
-    ],
-    "id": "971895b085404c3177ecfa4dcc893fc8"
-  },
-  {
-    "type": "verb",
-    "base": "ein/packen",
-    "article": null,
-    "translate": "заворачивать; укутывать; упаковывать; укладывать; складывать",
-    "context": [],
-    "originals": [
-      "ein/packen"
-    ],
-    "id": "7bd13b85bd26844a185ec81ab4c581cc"
-  },
-  {
-    "type": "verb",
-    "base": "ein/richten",
-    "article": null,
-    "translate": "обставлять; меблировать; настраивать; регулировать",
-    "context": [],
-    "originals": [
-      "ein/richten"
-    ],
-    "id": "d4b439e3b4164e755e481ec74dff2d91"
-  },
-  {
-    "type": "verb",
-    "base": "ein/stellen",
-    "article": null,
-    "translate": "устанавливать; регулировать; настраивать; вставлять; принимать на работу",
-    "context": [],
-    "originals": [
-      "ein/stellen"
-    ],
-    "id": "1e925b0d137d1da5dd4763bb2bce3b66"
-  },
-  {
-    "type": "verb",
     "base": "einkaufen",
     "article": null,
-    "translate": "покупать; закупаться; делать покупки; закупать",
+    "translate": "покупать; закупаться; делать покупки; закупать; производить закупки",
     "context": [
       [
         "Ich muss noch für morgen einkaufen.",
         ""
-      ]
+      ],
+      "о",
+      "т",
+      "о",
+      "в",
+      "а",
+      "р",
+      "и",
+      "в",
+      "а",
+      "т",
+      "ь",
+      "с",
+      "я"
     ],
     "originals": [
       "einkaufen"
@@ -2339,6 +2176,28 @@
   },
   {
     "type": "verb",
+    "base": "einpacken",
+    "article": null,
+    "translate": "заворачивать; укутывать; упаковывать; укладывать; складывать",
+    "context": [],
+    "originals": [
+      "ein/packen"
+    ],
+    "id": "4afa7555596b8d75704416366cb2de5b"
+  },
+  {
+    "type": "verb",
+    "base": "einrichten",
+    "article": null,
+    "translate": "обставлять; меблировать; настраивать; регулировать",
+    "context": [],
+    "originals": [
+      "ein/richten"
+    ],
+    "id": "e266732ab7d0016a81def0d085710dbb"
+  },
+  {
+    "type": "verb",
     "base": "einsteigen",
     "article": null,
     "translate": "входить; садиться в транспорт",
@@ -2357,7 +2216,7 @@
     "type": "verb",
     "base": "einstellen",
     "article": null,
-    "translate": "прекращать",
+    "translate": "прекращать; устанавливать; регулировать; настраивать; вставлять; принимать на работу",
     "context": [],
     "originals": [
       "einstellen"
@@ -2911,14 +2770,14 @@
   },
   {
     "type": "verb",
-    "base": "fest/stellen",
+    "base": "feststellen",
     "article": null,
     "translate": "обнаруживать; выяснять; отмечать; констатировать; признавать; устанавливать",
     "context": [],
     "originals": [
       "fest/stellen"
     ],
-    "id": "31d291e14531280e92d73ffacba0c9db"
+    "id": "33b458edaf3fdeac5d424ce33452e5b9"
   },
   {
     "type": "verb",
@@ -3773,14 +3632,14 @@
   },
   {
     "type": "verb",
-    "base": "her/stellen",
+    "base": "herstellen",
     "article": null,
     "translate": "изготовлять; производить; изготавливать; выпускать; вырабатывать",
     "context": [],
     "originals": [
       "her/stellen"
     ],
-    "id": "53746f6ec1b1f2a6d44c2b1290a84bbd"
+    "id": "096f476c183827f4436f833edf70c595"
   },
   {
     "type": "verb",
@@ -4666,28 +4525,6 @@
   },
   {
     "type": "verb",
-    "base": "mit/machen",
-    "article": null,
-    "translate": "участвовать; принимать участие; испытывать",
-    "context": [],
-    "originals": [
-      "mit/machen"
-    ],
-    "id": "e023badf52fb9f37259889228d192207"
-  },
-  {
-    "type": "verb",
-    "base": "mit/teilen",
-    "article": null,
-    "translate": "сообщать; поведать; рассказать; объявить; докладывать; уведомлять; извещать",
-    "context": [],
-    "originals": [
-      "mit/teilen"
-    ],
-    "id": "2a80b59c24f602756b49b4500b016795"
-  },
-  {
-    "type": "verb",
     "base": "mitbringen",
     "article": null,
     "translate": "приносить с собой; принести с собой; приносить; принести",
@@ -4712,7 +4549,7 @@
     "type": "verb",
     "base": "mitmachen",
     "article": null,
-    "translate": "участвовать; принимать участие",
+    "translate": "участвовать; принимать участие; испытывать",
     "context": [],
     "originals": [
       "mitmachen"
@@ -4729,6 +4566,17 @@
       "mitnehmen"
     ],
     "id": "69144f04f4e687b65fb983dfed3d6613"
+  },
+  {
+    "type": "verb",
+    "base": "mitteilen",
+    "article": null,
+    "translate": "сообщать; поведать; рассказать; объявить; докладывать; уведомлять; извещать",
+    "context": [],
+    "originals": [
+      "mit/teilen"
+    ],
+    "id": "4e577fc67ead6fbb45f8fad45ecb36a2"
   },
   {
     "type": "verb",
@@ -6116,17 +5964,6 @@
       "sein"
     ],
     "id": "a017eb265503b12768802b679df03a5b"
-  },
-  {
-    "type": "verb",
-    "base": "seit...Jahren/Stunden",
-    "article": null,
-    "translate": "на протяжении...лет/часов",
-    "context": [],
-    "originals": [
-      "seit...Jahren/Stunden"
-    ],
-    "id": "f5e86a49e9a499771511a184cec7fa01"
   },
   {
     "type": "verb",
@@ -7604,31 +7441,9 @@
   },
   {
     "type": "verb",
-    "base": "vor...Jahren/Tagen",
-    "article": null,
-    "translate": "...лет назад/дней назад",
-    "context": [],
-    "originals": [
-      "vor...Jahren/Tagen"
-    ],
-    "id": "e891e948274d56e3c47c3057e1c8ee31"
-  },
-  {
-    "type": "verb",
-    "base": "vor/bereiten",
-    "article": null,
-    "translate": "готовиться; приготовлять; готовить; подготавливать; подготовлять; заготавливать",
-    "context": [],
-    "originals": [
-      "vor/bereiten"
-    ],
-    "id": "d912cfdf5e764544d3a5d951fe87619a"
-  },
-  {
-    "type": "verb",
     "base": "vorbereiten",
     "article": null,
-    "translate": "готовиться; готовить",
+    "translate": "готовиться; готовить; приготовлять; подготавливать; подготовлять; заготавливать",
     "context": [],
     "originals": [
       "vorbereiten"
@@ -8086,50 +7901,6 @@
   },
   {
     "type": "verb",
-    "base": "zu/hören",
-    "article": null,
-    "translate": "слушать; выслушивать",
-    "context": [],
-    "originals": [
-      "zu/hören"
-    ],
-    "id": "ba1efc437b299cc03585d7ca3e95f230"
-  },
-  {
-    "type": "verb",
-    "base": "zu/machen",
-    "article": null,
-    "translate": "застегивать; закрывать; запирать; сомкнуть",
-    "context": [],
-    "originals": [
-      "zu/machen"
-    ],
-    "id": "02167f92928d14625295932a3d4bedd4"
-  },
-  {
-    "type": "verb",
-    "base": "zu/ordnen",
-    "article": null,
-    "translate": "ставить в соответствие; сопоставлять",
-    "context": [],
-    "originals": [
-      "zu/ordnen"
-    ],
-    "id": "d95b60347a07a9d8ff8839d6d0fe9845"
-  },
-  {
-    "type": "verb",
-    "base": "zu/schauen",
-    "article": null,
-    "translate": "наблюдать; смотреть; следить; глядеть",
-    "context": [],
-    "originals": [
-      "zu/schauen"
-    ],
-    "id": "c65339fca218ccda0365e16b2d04ed53"
-  },
-  {
-    "type": "verb",
     "base": "zufrieden",
     "article": null,
     "translate": "довольный; удовлетворенный",
@@ -8160,12 +7931,23 @@
     "type": "verb",
     "base": "zuhören",
     "article": null,
-    "translate": "слушать",
+    "translate": "слушать; выслушивать",
     "context": [],
     "originals": [
       "zuhören"
     ],
     "id": "98f33c3ff041d0a03f71ba0cbea76990"
+  },
+  {
+    "type": "verb",
+    "base": "zumachen",
+    "article": null,
+    "translate": "застегивать; закрывать; запирать; сомкнуть",
+    "context": [],
+    "originals": [
+      "zu/machen"
+    ],
+    "id": "bd964f6845ff94064ee07245806b4a0d"
   },
   {
     "type": "verb",
@@ -8195,7 +7977,7 @@
     "type": "verb",
     "base": "zuordnen",
     "article": null,
-    "translate": "подбирать; сочетать",
+    "translate": "подбирать; сочетать; ставить в соответствие; сопоставлять",
     "context": [],
     "originals": [
       "zuordnen"
@@ -8245,20 +8027,20 @@
   },
   {
     "type": "verb",
-    "base": "zusammen/fassen",
+    "base": "zusammenfassen",
     "article": null,
     "translate": "резюмировать; подводить итоги; обобщать; подытоживать",
     "context": [],
     "originals": [
       "zusammen/fassen"
     ],
-    "id": "e27c6ad8b10dbb1079d643d708bc27f6"
+    "id": "f57ea439110492b9605e73466d9a6fd5"
   },
   {
     "type": "verb",
     "base": "zuschauen",
     "article": null,
-    "translate": "смотреть; наблюдать",
+    "translate": "смотреть; наблюдать; следить; глядеть",
     "context": [],
     "originals": [
       "zuschauen"

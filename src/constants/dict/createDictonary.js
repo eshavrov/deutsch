@@ -1,6 +1,6 @@
 const fs = require("fs");
 const { createHash } = require("crypto");
-const { sp } = require("./verbs");
+const { sp, normalizeVerb } = require("./verbs");
 
 const predlogi = require("./in_data/other/predlogi.json");
 const words200 = require("./in_data/de-online_ru/200words.json");
@@ -229,10 +229,11 @@ const parsePhrase = (text, options = {}) => {
         // только если одно слово, иначе отбраковываем (возможно фраза)
         if (base.split(/\s/).length === 1) {
           // только слово с маленькой буквы
-          if (!/^[A-ZÄÖÜ]/.test(base)) {
+          if (!/^[A-ZÄÖÜ]/.test(base) && !/[^a-zäöüß\/\=]/ig.test(base)) {
+            
             const entry = {
               type: "verb", //  глагол
-              base,
+              base: normalizeVerb(base), // нормализовать
               article: null,
               original: _phrase,
             };
@@ -352,19 +353,16 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
   ...listDeutschB1Schritte,
 ].forEach((data) => add(dictonary, data, { spliter: "," }));
 
-// const lllllllll = [];
 verbsIrregular.forEach((data) => {
   const [w, t, o] = data;
 
   addVerb(dictonary, [w, t], { irregular: true }, (entry) => {
-    // const {config: ={}}
     const config = {
       ...o,
     };
 
     console.log(w, `(${o.type})`);
-    // console.table(sp(w, o));
-    // lllllllll.push(sp(w, o));
+
     config._form = sp(w, o);
 
     return { ...entry, config };

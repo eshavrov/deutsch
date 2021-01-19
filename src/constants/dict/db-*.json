@@ -10090,6 +10090,17 @@
   },
   {
     "type": "*",
+    "base": "seit...Jahren/Stunden",
+    "article": null,
+    "translate": "на протяжении...лет/часов",
+    "context": [],
+    "originals": [
+      "seit...Jahren/Stunden"
+    ],
+    "id": "1fc91c2ff4683920a299fdac621fbc13"
+  },
+  {
+    "type": "*",
     "base": "selber",
     "article": null,
     "translate": "сам; само",
@@ -12331,6 +12342,17 @@
       "vor allem"
     ],
     "id": "f490b58e4f0c4034c382cb4c19c2ab86"
+  },
+  {
+    "type": "*",
+    "base": "vor...Jahren/Tagen",
+    "article": null,
+    "translate": "...лет назад/дней назад",
+    "context": [],
+    "originals": [
+      "vor...Jahren/Tagen"
+    ],
+    "id": "2a89b8aad7a672ac8eee27e023e471a9"
   },
   {
     "type": "*",
