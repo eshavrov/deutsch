@@ -352,19 +352,20 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
   ...listDeutschB1Schritte,
 ].forEach((data) => add(dictonary, data, { spliter: "," }));
 
-const l = [];
+// const lllllllll = [];
 verbsIrregular.forEach((data) => {
   const [w, t, o] = data;
 
   addVerb(dictonary, [w, t], { irregular: true }, (entry) => {
     // const {config: ={}}
     const config = {
-      type: o.type,
+      ...o,
     };
 
     console.log(w, `(${o.type})`);
     // console.table(sp(w, o));
-    l.push(sp(w, o));
+    // lllllllll.push(sp(w, o));
+    config._form = sp(w, o);
 
     return { ...entry, config };
   });

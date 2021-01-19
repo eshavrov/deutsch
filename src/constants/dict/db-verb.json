@@ -141,7 +141,18 @@
     "context": [],
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "du": "nimmst",
+      "er,sie,es": "nimmt",
+      "_form": {
+        "base": "nehm",
+        "ich": "nehme ab",
+        "du": "nihmst ab",
+        "er,sie,es": "nihmt ab",
+        "wir": "nehmen ab",
+        "ihr": "nehmt ab",
+        "sie,Sie": "nehmen ab"
+      }
     },
     "originals": [
       "abnehmen"
@@ -777,7 +788,16 @@
     "context": [],
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "brech",
+        "ich": "breche aus",
+        "du": "brichst aus",
+        "er,sie,es": "bricht aus",
+        "wir": "brechen aus",
+        "ihr": "brecht aus",
+        "sie,Sie": "brechen aus"
+      }
     },
     "originals": [
       "ausbrechen"
@@ -964,7 +984,16 @@
     "id": "2e64a1d38bffef40a18675ab642a2f52",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "_form": {
+        "base": "back",
+        "ich": "backe",
+        "du": "bäckst",
+        "er,sie,es": "bäckt",
+        "wir": "backen",
+        "ihr": "backt",
+        "sie,Sie": "backen"
+      }
     }
   },
   {
@@ -1066,7 +1095,16 @@
     "id": "7568073afd41e97321b32224691d522b",
     "irregular": true,
     "config": {
-      "type": "e-ie"
+      "type": "e-ie",
+      "_form": {
+        "base": "befehl",
+        "ich": "befehle",
+        "du": null,
+        "er,sie,es": null,
+        "wir": "befehlen",
+        "ihr": "befehlt",
+        "sie,Sie": "befehlen"
+      }
     }
   },
   {
@@ -1664,7 +1702,18 @@
     "id": "c2115013f9ae2f5d1cdfaa945bf18de2",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "du": "bläst",
+      "er,sie,es": "bläst",
+      "_form": {
+        "base": "blas",
+        "ich": "blase",
+        "du": "bläst",
+        "er,sie,es": "bläst",
+        "wir": "blasen",
+        "ihr": "blast",
+        "sie,Sie": "blasen"
+      }
     }
   },
   {
@@ -1805,7 +1854,16 @@
     "id": "7f507f09b14c74cebbfe80a4ca7974b6",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "brech",
+        "ich": "breche",
+        "du": "brichst",
+        "er,sie,es": "bricht",
+        "wir": "brechen",
+        "ihr": "brecht",
+        "sie,Sie": "brechen"
+      }
     }
   },
   {
@@ -2357,7 +2415,16 @@
     "id": "a711f50c227b80bd467cf3aa31269ea1",
     "irregular": true,
     "config": {
-      "type": "e-ie"
+      "type": "e-ie",
+      "_form": {
+        "base": "empfehl",
+        "ich": "empfehle",
+        "du": null,
+        "er,sie,es": null,
+        "wir": "empfehlen",
+        "ihr": "empfehlt",
+        "sie,Sie": "empfehlen"
+      }
     }
   },
   {
@@ -2615,7 +2682,16 @@
     ],
     "id": "20e1d036ad8f1ed11c521b2e5bb6dd92",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "erschreck",
+        "ich": "erschrecke",
+        "du": null,
+        "er,sie,es": null,
+        "wir": "erschrecken",
+        "ihr": "erschreckt",
+        "sie,Sie": "erschrecken"
+      }
     }
   },
   {
@@ -2695,7 +2771,18 @@
     "id": "ee297696b6ae60e71a517f1f6ce8bf44",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "du": "isst",
+      "er,sie,es": "isst",
+      "_form": {
+        "base": "ess",
+        "ich": "esse",
+        "du": "isst",
+        "er,sie,es": "isst",
+        "wir": "essen",
+        "ihr": "esst",
+        "sie,Sie": "essen"
+      }
     }
   },
   {
@@ -2726,7 +2813,16 @@
     "id": "519ba363e4c3e0b5fbfca3a7727e76bd",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "_form": {
+        "base": "fahr",
+        "ich": "fahre",
+        "du": "fährst",
+        "er,sie,es": "fährt",
+        "wir": "fahren",
+        "ihr": "fahrt",
+        "sie,Sie": "fahren"
+      }
     }
   },
   {
@@ -2753,7 +2849,16 @@
     ],
     "id": "fd8023b8c71e00cc010d9ebdb36d82d6",
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "_form": {
+        "base": "fang",
+        "ich": "fange",
+        "du": "fängst",
+        "er,sie,es": "fängt",
+        "wir": "fangen",
+        "ihr": "fangt",
+        "sie,Sie": "fangen"
+      }
     }
   },
   {
@@ -2957,7 +3062,18 @@
     "id": "aac8e66ab0345586eebdc995c0c7a3d9",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "du": "frisst",
+      "er,sie,es": "frisst",
+      "_form": {
+        "base": "fress",
+        "ich": "fresse",
+        "du": "frisst",
+        "er,sie,es": "frisst",
+        "wir": "fressen",
+        "ihr": "fresst",
+        "sie,Sie": "fressen"
+      }
     }
   },
   {
@@ -3082,7 +3198,16 @@
     "id": "c9279fbe5b9e8250ef769eec8d73e45b",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "geb",
+        "ich": "gebe",
+        "du": "gibst",
+        "er,sie,es": "gibt",
+        "wir": "geben",
+        "ihr": "gebt",
+        "sie,Sie": "geben"
+      }
     }
   },
   {
@@ -3200,7 +3325,17 @@
     ],
     "id": "bb1794ab7d152fd9265a48a87f14d46a",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "er,sie,es": "gilt",
+      "_form": {
+        "base": "gelt",
+        "ich": "gelte",
+        "du": "giltest",
+        "er,sie,es": "giltet",
+        "wir": "gelten",
+        "ihr": "geltet",
+        "sie,Sie": "gelten"
+      }
     }
   },
   {
@@ -3274,7 +3409,17 @@
     ],
     "id": "bc4d5c12efa62b04e429efed5650155d",
     "config": {
-      "type": "e-ie"
+      "type": "e-ie",
+      "complex": true,
+      "_form": {
+        "base": "gescheh",
+        "ich": "geschehe",
+        "du": null,
+        "er,sie,es": null,
+        "wir": "geschehen",
+        "ihr": "gescheht",
+        "sie,Sie": "geschehen"
+      }
     }
   },
   {
@@ -3393,7 +3538,16 @@
     ],
     "id": "c28c5a96f6d71e06e2518cd6198ad035",
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "_form": {
+        "base": "grab",
+        "ich": "grabe",
+        "du": "gräbst",
+        "er,sie,es": "gräbt",
+        "wir": "graben",
+        "ihr": "grabt",
+        "sie,Sie": "graben"
+      }
     }
   },
   {
@@ -3499,7 +3653,18 @@
     "id": "f52c4199a3fb661784f10725eaa48844",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "du": "hältst",
+      "er,sie,es": "hält",
+      "_form": {
+        "base": "halt",
+        "ich": "halte",
+        "du": "hältest",
+        "er,sie,es": "hältet",
+        "wir": "halten",
+        "ihr": "haltet",
+        "sie,Sie": "halten"
+      }
     }
   },
   {
@@ -3594,7 +3759,16 @@
     "id": "aaa7770a441edf35e476854df37fef3b",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "helf",
+        "ich": "helfe",
+        "du": "hilfst",
+        "er,sie,es": "hilft",
+        "wir": "helfen",
+        "ihr": "helft",
+        "sie,Sie": "helfen"
+      }
     }
   },
   {
@@ -4046,7 +4220,18 @@
     ],
     "id": "7b6e34aee4b0f686aa8322474b34d84b",
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "du": "lädst",
+      "er,sie,es": "lädt",
+      "_form": {
+        "base": "lad",
+        "ich": "lade",
+        "du": "lädest",
+        "er,sie,es": "lädet",
+        "wir": "laden",
+        "ihr": "ladet",
+        "sie,Sie": "laden"
+      }
     }
   },
   {
@@ -4072,7 +4257,18 @@
     "id": "611aea9af6cfd8b43c4ca768a155330a",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "du": "lässt",
+      "er,sie,es": "lässt",
+      "_form": {
+        "base": "lass",
+        "ich": "lasse",
+        "du": "lässt",
+        "er,sie,es": "lässt",
+        "wir": "lassen",
+        "ihr": "lasst",
+        "sie,Sie": "lassen"
+      }
     }
   },
   {
@@ -4087,7 +4283,16 @@
     "id": "036a486f46fbc4792750ba8ba9b54b38",
     "irregular": true,
     "config": {
-      "type": "au-äu"
+      "type": "au-äu",
+      "_form": {
+        "base": "lauf",
+        "ich": "laufe",
+        "du": "läufst",
+        "er,sie,es": "läuft",
+        "wir": "laufen",
+        "ihr": "lauft",
+        "sie,Sie": "laufen"
+      }
     }
   },
   {
@@ -4170,7 +4375,18 @@
     "id": "ba99ebdecee97e246ce1057f95fd79c1",
     "irregular": true,
     "config": {
-      "type": "e-ie"
+      "type": "e-ie",
+      "du": "liest",
+      "er,sie,es": "liest",
+      "_form": {
+        "base": "les",
+        "ich": "lese",
+        "du": "liest",
+        "er,sie,es": "liest",
+        "wir": "lesen",
+        "ihr": "lest",
+        "sie,Sie": "lesen"
+      }
     }
   },
   {
@@ -4400,7 +4616,18 @@
     ],
     "id": "e97252b78c597dacd4709a9d5f6a89ae",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "du": "misst",
+      "er,sie,es": "misst",
+      "_form": {
+        "base": "mess",
+        "ich": "messe",
+        "du": "misst",
+        "er,sie,es": "misst",
+        "wir": "messen",
+        "ihr": "messt",
+        "sie,Sie": "messen"
+      }
     }
   },
   {
@@ -4628,7 +4855,18 @@
     "id": "49920922fde40a7728df67aa251c971f",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "du": "nimmst",
+      "er,sie,es": "nimmt",
+      "_form": {
+        "base": "nehm",
+        "ich": "nehme",
+        "du": "nihmst",
+        "er,sie,es": "nihmt",
+        "wir": "nehmen",
+        "ihr": "nehmt",
+        "sie,Sie": "nehmen"
+      }
     }
   },
   {
@@ -4960,7 +5198,16 @@
     ],
     "id": "15f364b025f1f173dad08ed19f1ff440",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "quell",
+        "ich": "quelle",
+        "du": "quillst",
+        "er,sie,es": "quillt",
+        "wir": "quellen",
+        "ihr": "quellt",
+        "sie,Sie": "quellen"
+      }
     }
   },
   {
@@ -5293,7 +5540,16 @@
     ],
     "id": "dd77d65dca15d3a38578b3d743c2917a",
     "config": {
-      "type": "au-äu"
+      "type": "au-äu",
+      "_form": {
+        "base": "sauf",
+        "ich": "saufe",
+        "du": "säufst",
+        "er,sie,es": "säuft",
+        "wir": "saufen",
+        "ihr": "sauft",
+        "sie,Sie": "saufen"
+      }
     }
   },
   {
@@ -5472,7 +5728,16 @@
     "id": "20231fe72a6661d965dfd33a07c81791",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "_form": {
+        "base": "schlaf",
+        "ich": "schlafe",
+        "du": "schläfst",
+        "er,sie,es": "schläft",
+        "wir": "schlafen",
+        "ihr": "schlaft",
+        "sie,Sie": "schlafen"
+      }
     }
   },
   {
@@ -5487,7 +5752,16 @@
     ],
     "id": "6d652d4f55050176a1fd2cf454bbad24",
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "_form": {
+        "base": "schlag",
+        "ich": "schlage",
+        "du": "schlägst",
+        "er,sie,es": "schlägt",
+        "wir": "schlagen",
+        "ihr": "schlagt",
+        "sie,Sie": "schlagen"
+      }
     }
   },
   {
@@ -5584,7 +5858,17 @@
     ],
     "id": "e72b67c35bc86d19adce4df61514971f",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "er,sie,es": "schmilzt",
+      "_form": {
+        "base": "schmelz",
+        "ich": "schmelze",
+        "du": "schmilzt",
+        "er,sie,es": "schmilzt",
+        "wir": "schmelzen",
+        "ihr": "schmelzt",
+        "sie,Sie": "schmelzen"
+      }
     }
   },
   {
@@ -5809,7 +6093,16 @@
     "id": "72aa6b45173767438a8a84e84a4e6d18",
     "irregular": true,
     "config": {
-      "type": "e-ie"
+      "type": "e-ie",
+      "_form": {
+        "base": "seh",
+        "ich": "sehe",
+        "du": "siehst",
+        "er,sie,es": "sieht",
+        "wir": "sehen",
+        "ihr": "seht",
+        "sie,Sie": "sehen"
+      }
     }
   },
   {
@@ -6045,7 +6338,16 @@
     "id": "1c58006cbbbdd86eae5da72ff8f88b94",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "sprech",
+        "ich": "spreche",
+        "du": "sprichst",
+        "er,sie,es": "spricht",
+        "wir": "sprechen",
+        "ihr": "sprecht",
+        "sie,Sie": "sprechen"
+      }
     }
   },
   {
@@ -6128,7 +6430,16 @@
     ],
     "id": "754cfdd69cf43d24cdb1812686837bbf",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "stech",
+        "ich": "steche",
+        "du": "stichst",
+        "er,sie,es": "sticht",
+        "wir": "stechen",
+        "ihr": "stecht",
+        "sie,Sie": "stechen"
+      }
     }
   },
   {
@@ -6178,7 +6489,16 @@
     ],
     "id": "b26a8af8431acf320815e15666182a27",
     "config": {
-      "type": "e-ie"
+      "type": "e-ie",
+      "_form": {
+        "base": "stehl",
+        "ich": "stehle",
+        "du": "stiehlst",
+        "er,sie,es": "stiehlt",
+        "wir": "stehlen",
+        "ihr": "stehlt",
+        "sie,Sie": "stehlen"
+      }
     }
   },
   {
@@ -6216,7 +6536,16 @@
     "id": "82b3079121800296a1606c6584a6da67",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "sterb",
+        "ich": "sterbe",
+        "du": "stirbst",
+        "er,sie,es": "stirbt",
+        "wir": "sterben",
+        "ihr": "sterbt",
+        "sie,Sie": "sterben"
+      }
     }
   },
   {
@@ -6446,7 +6775,16 @@
     "id": "b0647b46e4c990800cda12f23f34bcba",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "_form": {
+        "base": "trag",
+        "ich": "trage",
+        "du": "trägst",
+        "er,sie,es": "trägt",
+        "wir": "tragen",
+        "ihr": "tragt",
+        "sie,Sie": "tragen"
+      }
     }
   },
   {
@@ -6483,7 +6821,16 @@
     ],
     "id": "38e43521560ff72f29b4010fe4c6e73e",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "treff",
+        "ich": "treffe",
+        "du": "triffst",
+        "er,sie,es": "trifft",
+        "wir": "treffen",
+        "ihr": "trefft",
+        "sie,Sie": "treffen"
+      }
     }
   },
   {
@@ -6521,7 +6868,18 @@
     ],
     "id": "d6f16dfcde8ad3f46222ba8ff30290d8",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "du": "trittst",
+      "er,sie,es": "tritt",
+      "_form": {
+        "base": "tret",
+        "ich": "trete",
+        "du": "tritest",
+        "er,sie,es": "tritet",
+        "wir": "treten",
+        "ihr": "tretet",
+        "sie,Sie": "treten"
+      }
     }
   },
   {
@@ -6853,7 +7211,16 @@
     ],
     "id": "32436c81f90438797c8b7712c49886be",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "verderb",
+        "ich": "verderbe",
+        "du": null,
+        "er,sie,es": null,
+        "wir": "verderben",
+        "ihr": "verderbt",
+        "sie,Sie": "verderben"
+      }
     }
   },
   {
@@ -6907,7 +7274,18 @@
     "id": "1afac5eeca429744a7c6f2dfdc563200",
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "du": "vergisst",
+      "er,sie,es": "vergisst",
+      "_form": {
+        "base": "vergess",
+        "ich": "vergesse",
+        "du": "nullst",
+        "er,sie,es": "nullt",
+        "wir": "vergessen",
+        "ihr": "vergesst",
+        "sie,Sie": "vergessen"
+      }
     }
   },
   {
@@ -7307,7 +7685,18 @@
     "id": "6cfb78c3238faf7a822330e51cbfc027",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "du": "wächst",
+      "er,sie,es": "wächst",
+      "_form": {
+        "base": "wachs",
+        "ich": "wachse",
+        "du": "wächst",
+        "er,sie,es": "wächst",
+        "wir": "wachsen",
+        "ihr": "wachst",
+        "sie,Sie": "wachsen"
+      }
     }
   },
   {
@@ -7344,7 +7733,16 @@
     "id": "3e5bc68ee7c8a000e832617645567697",
     "irregular": true,
     "config": {
-      "type": "a-ä"
+      "type": "a-ä",
+      "_form": {
+        "base": "wasch",
+        "ich": "wasche",
+        "du": "wäschst",
+        "er,sie,es": "wäscht",
+        "wir": "waschen",
+        "ihr": "wascht",
+        "sie,Sie": "waschen"
+      }
     }
   },
   {
@@ -7464,7 +7862,16 @@
     ],
     "id": "d5d318ebbb4db6b889a52de23384f1d1",
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "werf",
+        "ich": "werfe",
+        "du": "wirfst",
+        "er,sie,es": "wirft",
+        "wir": "werfen",
+        "ihr": "werft",
+        "sie,Sie": "werfen"
+      }
     }
   },
   {
@@ -7768,7 +8175,16 @@
     "context": [],
     "irregular": true,
     "config": {
-      "type": "e-i"
+      "type": "e-i",
+      "_form": {
+        "base": "nehm",
+        "ich": "nehme zu",
+        "du": "nihmst zu",
+        "er,sie,es": "nihmt zu",
+        "wir": "nehmen zu",
+        "ihr": "nehmt zu",
+        "sie,Sie": "nehmen zu"
+      }
     },
     "originals": [
       "zunehmen"
