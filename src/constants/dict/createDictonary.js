@@ -232,7 +232,7 @@ const parsePhrase = (text, options = {}) => {
           if (!/^[A-ZÄÖÜ]/.test(base) && !/[^a-zäöüß\/\=]/gi.test(base)) {
             const w = normalizeVerb(base); // нормализовать
 
-            const config = { generate: 0 };
+            const config = { generate: 1 };
             config._form = sp(w, config);
 
             const entry = {
@@ -285,8 +285,11 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
         // console.log("skip", sn, entry);
         // merge code
         sn.originals = mergeOriginals(sn.originals, entry.original);
-
-        // delete entry.original;
+        if (sn.type === "*" && entry.type !== "*") {
+          sn.type = entry.type;
+        } else if (sn.type !== entry.type) {
+          console.warn("Изменился тип слова. Необходима проверка");
+        }
 
         if (sn.translate !== entry.translate) {
           sn.translate = translateNormalize(
@@ -297,7 +300,15 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
 
         // Optional
         if (entry.config) {
-          sn.config = { ...entry.config };
+          if (sn?.config?.generate < entry.config?.generate) {
+            sn.config = { ...entry.config };
+          } else if (sn?.config?.generate !== entry.config?.generate) {
+            console.log(
+              "! no merge config!!!!!!",
+              sn?.config?.generate,
+              entry.config?.generate
+            );
+          }
         }
 
         if (entry.irregular) {
@@ -366,9 +377,6 @@ verbsIrregular.forEach((data) => {
       generate: 100,
       ...o,
     };
-
-    console.log(w, `(${o.type})`);
-
     config._form = sp(w, o);
 
     return { ...entry, config };

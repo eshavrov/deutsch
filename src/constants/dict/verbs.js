@@ -137,7 +137,6 @@ const sp = (infinitive, config) => {
   /// Авто определение отделяемой приставки
   for (const prefix of PREFIX_SEPARATE) {
     if (new RegExp(`^${prefix}`, "i").test(base)) {
-      console.log(prefix);
       config.prefixSeparate = prefix;
       break;
     }

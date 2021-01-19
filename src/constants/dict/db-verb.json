@@ -4,7 +4,7 @@
     "base": "abfahren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "fahr",
@@ -33,7 +33,7 @@
     "base": "abfliegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "flieg",
@@ -62,7 +62,7 @@
     "base": "abgeben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "geb",
@@ -91,7 +91,7 @@
     "base": "abholen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "hol",
@@ -124,7 +124,7 @@
     "base": "ablehnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "lehn",
@@ -175,7 +175,7 @@
     "base": "absagen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "sag",
@@ -199,7 +199,7 @@
     "base": "abstellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "stell",
@@ -223,7 +223,7 @@
     "base": "abstimmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "stimm",
@@ -247,7 +247,7 @@
     "base": "abtrocknen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "trockn",
@@ -271,7 +271,7 @@
     "base": "abziehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ab",
       "_form": {
         "base": "zieh",
@@ -295,7 +295,7 @@
     "base": "achten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "acht",
         "ich": "achte",
@@ -318,7 +318,7 @@
     "base": "addieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "addier",
         "ich": "addiere",
@@ -341,7 +341,7 @@
     "base": "analysieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "alysier",
@@ -365,7 +365,7 @@
     "base": "anbieten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "biet",
@@ -394,7 +394,7 @@
     "base": "anerkennen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "erkenn",
@@ -418,7 +418,7 @@
     "base": "anfangen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "fang",
@@ -451,7 +451,7 @@
     "base": "angeboten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "gebot",
@@ -475,7 +475,7 @@
     "base": "angreifen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "greif",
@@ -499,7 +499,7 @@
     "base": "anhaben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "hab",
@@ -524,7 +524,7 @@
     "base": "anklicken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "klick",
@@ -553,7 +553,7 @@
     "base": "ankommen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "komm",
@@ -582,7 +582,7 @@
     "base": "ankreuzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "kreuz",
@@ -611,7 +611,7 @@
     "base": "anmachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "mach",
@@ -640,7 +640,7 @@
     "base": "anmalen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "mal",
@@ -664,7 +664,7 @@
     "base": "anmelden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "meld",
@@ -693,7 +693,7 @@
     "base": "annehmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "nehm",
@@ -717,7 +717,7 @@
     "base": "anprobieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "probier",
@@ -741,7 +741,7 @@
     "base": "anrufen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "ruf",
@@ -774,7 +774,7 @@
     "base": "anschaffen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "schaff",
@@ -798,7 +798,7 @@
     "base": "anschauen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "schau",
@@ -822,7 +822,7 @@
     "base": "anschließen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "schließ",
@@ -846,7 +846,7 @@
     "base": "anschuldigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "schuldig",
@@ -870,7 +870,7 @@
     "base": "antworten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "twort",
@@ -899,7 +899,7 @@
     "base": "anziehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "an",
       "_form": {
         "base": "zieh",
@@ -928,7 +928,7 @@
     "base": "arbeiten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "arbeit",
         "ich": "arbeite",
@@ -956,7 +956,7 @@
     "base": "atmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "atm",
         "ich": "atme",
@@ -979,7 +979,7 @@
     "base": "auffallen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "auf",
       "_form": {
         "base": "fall",
@@ -1003,7 +1003,7 @@
     "base": "aufhören",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "auf",
       "_form": {
         "base": "hör",
@@ -1036,7 +1036,7 @@
     "base": "aufklären",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "auf",
       "_form": {
         "base": "klär",
@@ -1060,7 +1060,7 @@
     "base": "aufmachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "auf",
       "_form": {
         "base": "mach",
@@ -1084,7 +1084,7 @@
     "base": "aufpassen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "auf",
       "_form": {
         "base": "pass",
@@ -1108,7 +1108,7 @@
     "base": "aufräumen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "auf",
       "_form": {
         "base": "räum",
@@ -1132,7 +1132,7 @@
     "base": "aufstehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "auf",
       "_form": {
         "base": "steh",
@@ -1165,7 +1165,7 @@
     "base": "aufwachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "auf",
       "_form": {
         "base": "wach",
@@ -1214,7 +1214,7 @@
     "base": "ausführen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "führ",
@@ -1238,7 +1238,7 @@
     "base": "ausfüllen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "füll",
@@ -1267,7 +1267,7 @@
     "base": "ausgeben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "geb",
@@ -1291,7 +1291,7 @@
     "base": "aushalten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "halt",
@@ -1315,7 +1315,7 @@
     "base": "auskommen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "komm",
@@ -1339,7 +1339,7 @@
     "base": "ausmachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "mach",
@@ -1368,7 +1368,7 @@
     "base": "auspacken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "pack",
@@ -1392,7 +1392,7 @@
     "base": "ausrechnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "rechn",
@@ -1416,7 +1416,7 @@
     "base": "ausreichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "reich",
@@ -1440,7 +1440,7 @@
     "base": "ausschalten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "schalt",
@@ -1464,7 +1464,7 @@
     "base": "ausschließen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "schließ",
@@ -1488,7 +1488,7 @@
     "base": "aussehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "seh",
@@ -1517,7 +1517,7 @@
     "base": "aussteigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "steig",
@@ -1546,7 +1546,7 @@
     "base": "ausstellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "stell",
@@ -1570,7 +1570,7 @@
     "base": "aussuchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "such",
@@ -1594,7 +1594,7 @@
     "base": "ausziehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "aus",
       "_form": {
         "base": "zieh",
@@ -1648,7 +1648,7 @@
     "base": "baden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bad",
         "ich": "bade",
@@ -1676,7 +1676,7 @@
     "base": "bauen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bau",
         "ich": "baue",
@@ -1699,7 +1699,7 @@
     "base": "beachten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beacht",
         "ich": "beachte",
@@ -1722,7 +1722,7 @@
     "base": "beben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beb",
         "ich": "bebe",
@@ -1745,7 +1745,7 @@
     "base": "bedeuten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bedeut",
         "ich": "bedeute",
@@ -1773,7 +1773,7 @@
     "base": "bedienen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bedien",
         "ich": "bediene",
@@ -1796,7 +1796,7 @@
     "base": "beenden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beend",
         "ich": "beende",
@@ -1844,7 +1844,7 @@
     "base": "befreien",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "befrei",
         "ich": "befreie",
@@ -1867,7 +1867,7 @@
     "base": "begegnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "begegn",
         "ich": "begegne",
@@ -1890,7 +1890,7 @@
     "base": "beginnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beginn",
         "ich": "beginne",
@@ -1919,7 +1919,7 @@
     "base": "begleiten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "begleit",
         "ich": "begleite",
@@ -1942,7 +1942,7 @@
     "base": "begründen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "begründ",
         "ich": "begründe",
@@ -1965,7 +1965,7 @@
     "base": "begrüßen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "begrüß",
         "ich": "begrüße",
@@ -1988,7 +1988,7 @@
     "base": "behalten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "behalt",
         "ich": "behalte",
@@ -2011,7 +2011,7 @@
     "base": "behaupten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "behaupt",
         "ich": "behaupte",
@@ -2034,7 +2034,7 @@
     "base": "beiwohnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "bei",
       "_form": {
         "base": "wohn",
@@ -2058,7 +2058,7 @@
     "base": "beißen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "bei",
       "_form": {
         "base": "ß",
@@ -2083,7 +2083,7 @@
     "base": "bekommen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bekomm",
         "ich": "bekomme",
@@ -2119,7 +2119,7 @@
     "base": "beleben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beleb",
         "ich": "belebe",
@@ -2142,7 +2142,7 @@
     "base": "beleidigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beleidig",
         "ich": "beleidige",
@@ -2165,7 +2165,7 @@
     "base": "bellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bell",
         "ich": "belle",
@@ -2188,7 +2188,7 @@
     "base": "belohnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "belohn",
         "ich": "belohne",
@@ -2211,7 +2211,7 @@
     "base": "belästigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "belästig",
         "ich": "belästige",
@@ -2234,7 +2234,7 @@
     "base": "bemerken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bemerk",
         "ich": "bemerke",
@@ -2257,7 +2257,7 @@
     "base": "benutzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "benutz",
         "ich": "benutze",
@@ -2285,7 +2285,7 @@
     "base": "beobachten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beobacht",
         "ich": "beobachte",
@@ -2308,7 +2308,7 @@
     "base": "bergen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "berg",
         "ich": "berge",
@@ -2332,7 +2332,7 @@
     "base": "berichten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bericht",
         "ich": "berichte",
@@ -2355,7 +2355,7 @@
     "base": "bersten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "berst",
         "ich": "berste",
@@ -2379,7 +2379,7 @@
     "base": "beruhigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beruhig",
         "ich": "beruhige",
@@ -2402,7 +2402,7 @@
     "base": "berücksichtigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "berücksichtig",
         "ich": "berücksichtige",
@@ -2425,7 +2425,7 @@
     "base": "beschließen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beschließ",
         "ich": "beschließe",
@@ -2448,7 +2448,7 @@
     "base": "beschädigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beschädig",
         "ich": "beschädige",
@@ -2471,7 +2471,7 @@
     "base": "besichtigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "besichtig",
         "ich": "besichtige",
@@ -2499,7 +2499,7 @@
     "base": "besitzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "besitz",
         "ich": "besitze",
@@ -2522,7 +2522,7 @@
     "base": "besorgen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "besorg",
         "ich": "besorge",
@@ -2545,7 +2545,7 @@
     "base": "bestellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bestell",
         "ich": "bestelle",
@@ -2577,7 +2577,7 @@
     "base": "bestimmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bestimm",
         "ich": "bestimme",
@@ -2600,7 +2600,7 @@
     "base": "bestrafen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bestraf",
         "ich": "bestrafe",
@@ -2623,7 +2623,7 @@
     "base": "bestätigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bestätig",
         "ich": "bestätige",
@@ -2646,7 +2646,7 @@
     "base": "besuchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "besuch",
         "ich": "besuche",
@@ -2674,7 +2674,7 @@
     "base": "beten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bet",
         "ich": "bete",
@@ -2697,7 +2697,7 @@
     "base": "betreuen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "betreu",
         "ich": "betreue",
@@ -2720,7 +2720,7 @@
     "base": "betrunken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "betrunk",
         "ich": "betrunke",
@@ -2743,7 +2743,7 @@
     "base": "betrügen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "betrüg",
         "ich": "betrüge",
@@ -2766,7 +2766,7 @@
     "base": "beunruhigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beunruhig",
         "ich": "beunruhige",
@@ -2789,7 +2789,7 @@
     "base": "bewegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "beweg",
         "ich": "bewege",
@@ -2813,7 +2813,7 @@
     "base": "bezahlen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bezahl",
         "ich": "bezahle",
@@ -2841,7 +2841,7 @@
     "base": "biegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bieg",
         "ich": "biege",
@@ -2865,7 +2865,7 @@
     "base": "bieten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "biet",
         "ich": "biete",
@@ -2889,7 +2889,7 @@
     "base": "bilden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bild",
         "ich": "bilde",
@@ -2912,7 +2912,7 @@
     "base": "binden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bind",
         "ich": "binde",
@@ -2936,7 +2936,7 @@
     "base": "bisschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bissch",
         "ich": "bissche",
@@ -2964,7 +2964,7 @@
     "base": "bitten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bitt",
         "ich": "bitte",
@@ -3020,7 +3020,7 @@
     "base": "bleiben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bleib",
         "ich": "bleibe",
@@ -3053,7 +3053,7 @@
     "base": "blicken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "blick",
         "ich": "blicke",
@@ -3076,7 +3076,7 @@
     "base": "blitzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "blitz",
         "ich": "blitze",
@@ -3099,7 +3099,7 @@
     "base": "bluten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "blut",
         "ich": "blute",
@@ -3122,7 +3122,7 @@
     "base": "blühen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "blüh",
         "ich": "blühe",
@@ -3145,7 +3145,7 @@
     "base": "borgen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "borg",
         "ich": "borge",
@@ -3168,7 +3168,7 @@
     "base": "braten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "brat",
         "ich": "brate",
@@ -3192,7 +3192,7 @@
     "base": "brauchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "brauch",
         "ich": "brauche",
@@ -3220,7 +3220,7 @@
     "base": "brauen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "brau",
         "ich": "braue",
@@ -3243,7 +3243,7 @@
     "base": "brausen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "braus",
         "ich": "brause",
@@ -3291,7 +3291,7 @@
     "base": "bremsen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "brems",
         "ich": "bremse",
@@ -3314,7 +3314,7 @@
     "base": "brennen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "brenn",
         "ich": "brenne",
@@ -3338,7 +3338,7 @@
     "base": "bringen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bring",
         "ich": "bringe",
@@ -3371,7 +3371,7 @@
     "base": "brüten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "brüt",
         "ich": "brüte",
@@ -3394,7 +3394,7 @@
     "base": "buchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "buch",
         "ich": "buche",
@@ -3417,7 +3417,7 @@
     "base": "buchstabieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "buchstabier",
         "ich": "buchstabiere",
@@ -3445,7 +3445,7 @@
     "base": "bürsten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "bürst",
         "ich": "bürste",
@@ -3468,7 +3468,7 @@
     "base": "dabeihaben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dabeihab",
         "ich": "dabeihabe",
@@ -3491,7 +3491,7 @@
     "base": "daneben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "daneb",
         "ich": "danebe",
@@ -3519,7 +3519,7 @@
     "base": "danken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dank",
         "ich": "danke",
@@ -3547,7 +3547,7 @@
     "base": "decken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "deck",
         "ich": "decke",
@@ -3570,7 +3570,7 @@
     "base": "denken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "denk",
         "ich": "denke",
@@ -3594,7 +3594,7 @@
     "base": "deswegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "desweg",
         "ich": "deswege",
@@ -3617,7 +3617,7 @@
     "base": "dienen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dien",
         "ich": "diene",
@@ -3640,7 +3640,7 @@
     "base": "dingen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "ding",
         "ich": "dinge",
@@ -3664,7 +3664,7 @@
     "base": "diskutieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "diskutier",
         "ich": "diskutiere",
@@ -3687,7 +3687,7 @@
     "base": "dividieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dividier",
         "ich": "dividiere",
@@ -3710,7 +3710,7 @@
     "base": "draußen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "drauß",
         "ich": "drauße",
@@ -3738,7 +3738,7 @@
     "base": "drehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dreh",
         "ich": "drehe",
@@ -3761,7 +3761,7 @@
     "base": "dreschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dresch",
         "ich": "dresche",
@@ -3785,7 +3785,7 @@
     "base": "dringen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dring",
         "ich": "dringe",
@@ -3809,7 +3809,7 @@
     "base": "drinnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "drinn",
         "ich": "drinne",
@@ -3832,7 +3832,7 @@
     "base": "drucken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "druck",
         "ich": "drucke",
@@ -3860,7 +3860,7 @@
     "base": "drüben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "drüb",
         "ich": "drübe",
@@ -3883,7 +3883,7 @@
     "base": "drücken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "drück",
         "ich": "drücke",
@@ -3911,7 +3911,7 @@
     "base": "duschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dusch",
         "ich": "dusche",
@@ -3939,7 +3939,7 @@
     "base": "dünken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dünk",
         "ich": "dünke",
@@ -3963,7 +3963,7 @@
     "base": "dürfen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "dürf",
         "ich": "dürfe",
@@ -4000,7 +4000,7 @@
     "base": "eigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "eig",
         "ich": "eige",
@@ -4023,7 +4023,7 @@
     "base": "einkaufen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "kauf",
@@ -4065,7 +4065,7 @@
     "base": "einkreisen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "kreis",
@@ -4089,7 +4089,7 @@
     "base": "einladen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "lad",
@@ -4118,7 +4118,7 @@
     "base": "einpacken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "pack",
@@ -4142,7 +4142,7 @@
     "base": "einrichten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "richt",
@@ -4166,7 +4166,7 @@
     "base": "einsteigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "steig",
@@ -4195,7 +4195,7 @@
     "base": "einstellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "stell",
@@ -4219,7 +4219,7 @@
     "base": "eintreten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "tret",
@@ -4243,7 +4243,7 @@
     "base": "einverstanden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "ein",
       "_form": {
         "base": "verstand",
@@ -4267,7 +4267,7 @@
     "base": "empfangen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "empfang",
         "ich": "empfange",
@@ -4321,7 +4321,7 @@
     "base": "empfinden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "empfind",
         "ich": "empfinde",
@@ -4344,7 +4344,7 @@
     "base": "enden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "end",
         "ich": "ende",
@@ -4372,7 +4372,7 @@
     "base": "enthalten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "enthalt",
         "ich": "enthalte",
@@ -4395,7 +4395,7 @@
     "base": "entscheiden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "entscheid",
         "ich": "entscheide",
@@ -4418,7 +4418,7 @@
     "base": "entschuldigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "entschuldig",
         "ich": "entschuldige",
@@ -4446,7 +4446,7 @@
     "base": "erbleichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erbleich",
         "ich": "erbleiche",
@@ -4470,7 +4470,7 @@
     "base": "erfahren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erfahr",
         "ich": "erfahre",
@@ -4493,7 +4493,7 @@
     "base": "erfinden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erfind",
         "ich": "erfinde",
@@ -4516,7 +4516,7 @@
     "base": "erfüllen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erfüll",
         "ich": "erfülle",
@@ -4539,7 +4539,7 @@
     "base": "ergänzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "ergänz",
         "ich": "ergänze",
@@ -4562,7 +4562,7 @@
     "base": "erhöhen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erhöh",
         "ich": "erhöhe",
@@ -4585,7 +4585,7 @@
     "base": "erkennen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erkenn",
         "ich": "erkenne",
@@ -4608,7 +4608,7 @@
     "base": "erkiesen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erkies",
         "ich": "erkiese",
@@ -4632,7 +4632,7 @@
     "base": "erklären",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erklär",
         "ich": "erkläre",
@@ -4660,7 +4660,7 @@
     "base": "erlauben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erlaub",
         "ich": "erlaube",
@@ -4688,7 +4688,7 @@
     "base": "erleben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erleb",
         "ich": "erlebe",
@@ -4711,7 +4711,7 @@
     "base": "erledigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erledig",
         "ich": "erledige",
@@ -4734,7 +4734,7 @@
     "base": "erlöschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erlösch",
         "ich": "erlösche",
@@ -4758,7 +4758,7 @@
     "base": "erreichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erreich",
         "ich": "erreiche",
@@ -4781,7 +4781,7 @@
     "base": "erscheinen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erschein",
         "ich": "erscheine",
@@ -4829,7 +4829,7 @@
     "base": "erwachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erwach",
         "ich": "erwache",
@@ -4852,7 +4852,7 @@
     "base": "erwarten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erwart",
         "ich": "erwarte",
@@ -4875,7 +4875,7 @@
     "base": "erziehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erzieh",
         "ich": "erziehe",
@@ -4898,7 +4898,7 @@
     "base": "erzählen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erzähl",
         "ich": "erzähle",
@@ -4926,7 +4926,7 @@
     "base": "erzälen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "erzäl",
         "ich": "erzäle",
@@ -4981,7 +4981,7 @@
     "base": "existieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "existier",
         "ich": "existiere",
@@ -5034,7 +5034,7 @@
     "base": "fallen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fall",
         "ich": "falle",
@@ -5083,7 +5083,7 @@
     "base": "fechten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fecht",
         "ich": "fechte",
@@ -5107,7 +5107,7 @@
     "base": "fehlen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fehl",
         "ich": "fehle",
@@ -5139,7 +5139,7 @@
     "base": "fernsehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fernseh",
         "ich": "fernsehe",
@@ -5167,7 +5167,7 @@
     "base": "feststellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "fest",
       "_form": {
         "base": "stell",
@@ -5191,7 +5191,7 @@
     "base": "finden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "find",
         "ich": "finde",
@@ -5220,7 +5220,7 @@
     "base": "fischen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fisch",
         "ich": "fische",
@@ -5243,7 +5243,7 @@
     "base": "flechten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "flecht",
         "ich": "flechte",
@@ -5267,7 +5267,7 @@
     "base": "fliegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "flieg",
         "ich": "fliege",
@@ -5296,7 +5296,7 @@
     "base": "fliehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "flieh",
         "ich": "fliehe",
@@ -5320,7 +5320,7 @@
     "base": "fließen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fließ",
         "ich": "fließe",
@@ -5344,7 +5344,7 @@
     "base": "folgen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "folg",
         "ich": "folge",
@@ -5367,7 +5367,7 @@
     "base": "fortsetzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fortsetz",
         "ich": "fortsetze",
@@ -5390,7 +5390,7 @@
     "base": "fotografieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fotografier",
         "ich": "fotografiere",
@@ -5413,7 +5413,7 @@
     "base": "fragen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "frag",
         "ich": "frage",
@@ -5468,7 +5468,7 @@
     "base": "freuen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "freu",
         "ich": "freue",
@@ -5496,7 +5496,7 @@
     "base": "frieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "frier",
         "ich": "friere",
@@ -5520,7 +5520,7 @@
     "base": "frühstücken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "frühstück",
         "ich": "frühstücke",
@@ -5548,7 +5548,7 @@
     "base": "funktionieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "funktionier",
         "ich": "funktioniere",
@@ -5571,7 +5571,7 @@
     "base": "fühlen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fühl",
         "ich": "fühle",
@@ -5594,7 +5594,7 @@
     "base": "führen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "führ",
         "ich": "führe",
@@ -5617,7 +5617,7 @@
     "base": "füllen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "füll",
         "ich": "fülle",
@@ -5640,7 +5640,7 @@
     "base": "fürchten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "fürcht",
         "ich": "fürchte",
@@ -5663,7 +5663,7 @@
     "base": "gebacken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "geback",
         "ich": "gebacke",
@@ -5711,7 +5711,7 @@
     "base": "geboren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gebor",
         "ich": "gebore",
@@ -5734,7 +5734,7 @@
     "base": "gebrauchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gebrauch",
         "ich": "gebrauche",
@@ -5757,7 +5757,7 @@
     "base": "gebären",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gebär",
         "ich": "gebäre",
@@ -5781,7 +5781,7 @@
     "base": "gedeihen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gedeih",
         "ich": "gedeihe",
@@ -5805,7 +5805,7 @@
     "base": "gefallen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gefall",
         "ich": "gefalle",
@@ -5828,7 +5828,7 @@
     "base": "gegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "geg",
         "ich": "gege",
@@ -5851,7 +5851,7 @@
     "base": "gehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "geh",
         "ich": "gehe",
@@ -5875,7 +5875,7 @@
     "base": "gehören",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gehör",
         "ich": "gehöre",
@@ -5898,7 +5898,7 @@
     "base": "gelingen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "geling",
         "ich": "gelinge",
@@ -5948,7 +5948,7 @@
     "base": "genehmigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "genehmig",
         "ich": "genehmige",
@@ -5971,7 +5971,7 @@
     "base": "genesen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "genes",
         "ich": "genese",
@@ -5996,7 +5996,7 @@
     "base": "genießen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "genieß",
         "ich": "genieße",
@@ -6020,7 +6020,7 @@
     "base": "genügen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "genüg",
         "ich": "genüge",
@@ -6043,7 +6043,7 @@
     "base": "geraten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gerat",
         "ich": "gerate",
@@ -6093,7 +6093,7 @@
     "base": "geschieden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "geschied",
         "ich": "geschiede",
@@ -6116,7 +6116,7 @@
     "base": "geschlossen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "geschloss",
         "ich": "geschlosse",
@@ -6139,7 +6139,7 @@
     "base": "gestorben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gestorb",
         "ich": "gestorbe",
@@ -6162,7 +6162,7 @@
     "base": "gewinnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gewinn",
         "ich": "gewinne",
@@ -6186,7 +6186,7 @@
     "base": "gießen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gieß",
         "ich": "gieße",
@@ -6210,7 +6210,7 @@
     "base": "glauben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "glaub",
         "ich": "glaube",
@@ -6233,7 +6233,7 @@
     "base": "gleichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gleich",
         "ich": "gleiche",
@@ -6257,7 +6257,7 @@
     "base": "gleiten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gleit",
         "ich": "gleite",
@@ -6281,7 +6281,7 @@
     "base": "glimmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "glimm",
         "ich": "glimme",
@@ -6330,7 +6330,7 @@
     "base": "gratulieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gratulier",
         "ich": "gratuliere",
@@ -6353,7 +6353,7 @@
     "base": "greifen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "greif",
         "ich": "greife",
@@ -6377,7 +6377,7 @@
     "base": "grillen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "grill",
         "ich": "grille",
@@ -6400,7 +6400,7 @@
     "base": "gründen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gründ",
         "ich": "gründe",
@@ -6423,7 +6423,7 @@
     "base": "grüßen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "grüß",
         "ich": "grüße",
@@ -6446,7 +6446,7 @@
     "base": "gucken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "guck",
         "ich": "gucke",
@@ -6469,7 +6469,7 @@
     "base": "gären",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "gär",
         "ich": "gäre",
@@ -6493,7 +6493,7 @@
     "base": "haben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hab",
         "ich": "habe",
@@ -6544,7 +6544,7 @@
     "base": "hassen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hass",
         "ich": "hasse",
@@ -6567,7 +6567,7 @@
     "base": "hauen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hau",
         "ich": "haue",
@@ -6591,7 +6591,7 @@
     "base": "heben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "heb",
         "ich": "hebe",
@@ -6615,7 +6615,7 @@
     "base": "heilen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "heil",
         "ich": "heile",
@@ -6638,7 +6638,7 @@
     "base": "heiraten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "heirat",
         "ich": "heirate",
@@ -6661,7 +6661,7 @@
     "base": "heizen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "heiz",
         "ich": "heize",
@@ -6684,7 +6684,7 @@
     "base": "heißen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "heiß",
         "ich": "heiße",
@@ -6733,7 +6733,7 @@
     "base": "herstellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "her",
       "_form": {
         "base": "stell",
@@ -6757,7 +6757,7 @@
     "base": "hetzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hetz",
         "ich": "hetze",
@@ -6780,7 +6780,7 @@
     "base": "hinausgehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "hinaus",
       "_form": {
         "base": "geh",
@@ -6804,7 +6804,7 @@
     "base": "hinten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "hin",
       "_form": {
         "base": "t",
@@ -6828,7 +6828,7 @@
     "base": "hochheben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hochheb",
         "ich": "hochhebe",
@@ -6851,7 +6851,7 @@
     "base": "hoffen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hoff",
         "ich": "hoffe",
@@ -6874,7 +6874,7 @@
     "base": "holen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hol",
         "ich": "hole",
@@ -6897,7 +6897,7 @@
     "base": "husten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hust",
         "ich": "huste",
@@ -6920,7 +6920,7 @@
     "base": "hängen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "häng",
         "ich": "hänge",
@@ -6944,7 +6944,7 @@
     "base": "hören",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hör",
         "ich": "höre",
@@ -6967,7 +6967,7 @@
     "base": "hüpfen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "hüpf",
         "ich": "hüpfe",
@@ -6990,7 +6990,7 @@
     "base": "innen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "inn",
         "ich": "inne",
@@ -7013,7 +7013,7 @@
     "base": "inzwischen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "inzwisch",
         "ich": "inzwische",
@@ -7036,7 +7036,7 @@
     "base": "jagen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "jag",
         "ich": "jage",
@@ -7059,7 +7059,7 @@
     "base": "joggen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "jogg",
         "ich": "jogge",
@@ -7082,7 +7082,7 @@
     "base": "kaufen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kauf",
         "ich": "kaufe",
@@ -7105,7 +7105,7 @@
     "base": "kennen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kenn",
         "ich": "kenne",
@@ -7129,7 +7129,7 @@
     "base": "kennen/lernen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kennen/lern",
         "ich": "kennen/lerne",
@@ -7152,7 +7152,7 @@
     "base": "kennenlernen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kennenlern",
         "ich": "kennenlerne",
@@ -7175,7 +7175,7 @@
     "base": "klagen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "klag",
         "ich": "klage",
@@ -7198,7 +7198,7 @@
     "base": "klappen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "klapp",
         "ich": "klappe",
@@ -7221,7 +7221,7 @@
     "base": "kleiden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kleid",
         "ich": "kleide",
@@ -7244,7 +7244,7 @@
     "base": "klicken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "klick",
         "ich": "klicke",
@@ -7267,7 +7267,7 @@
     "base": "klingen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kling",
         "ich": "klinge",
@@ -7291,7 +7291,7 @@
     "base": "klopfen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "klopf",
         "ich": "klopfe",
@@ -7314,7 +7314,7 @@
     "base": "kneifen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kneif",
         "ich": "kneife",
@@ -7338,7 +7338,7 @@
     "base": "kochen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "koch",
         "ich": "koche",
@@ -7362,7 +7362,7 @@
     "base": "kommen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "komm",
         "ich": "komme",
@@ -7386,7 +7386,7 @@
     "base": "kontrollieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kontrollier",
         "ich": "kontrolliere",
@@ -7409,7 +7409,7 @@
     "base": "kopieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kopier",
         "ich": "kopiere",
@@ -7432,7 +7432,7 @@
     "base": "kosten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kost",
         "ich": "koste",
@@ -7455,7 +7455,7 @@
     "base": "kriechen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kriech",
         "ich": "krieche",
@@ -7479,7 +7479,7 @@
     "base": "kriegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "krieg",
         "ich": "kriege",
@@ -7502,7 +7502,7 @@
     "base": "kränken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kränk",
         "ich": "kränke",
@@ -7525,7 +7525,7 @@
     "base": "kämpfen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kämpf",
         "ich": "kämpfe",
@@ -7548,7 +7548,7 @@
     "base": "können",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "könn",
         "ich": "könne",
@@ -7572,7 +7572,7 @@
     "base": "kürzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "kürz",
         "ich": "kürze",
@@ -7595,7 +7595,7 @@
     "base": "küssen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "küss",
         "ich": "küsse",
@@ -7618,7 +7618,7 @@
     "base": "lachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lach",
         "ich": "lache",
@@ -7668,7 +7668,7 @@
     "base": "landen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "land",
         "ich": "lande",
@@ -7743,7 +7743,7 @@
     "base": "leben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "leb",
         "ich": "lebe",
@@ -7766,7 +7766,7 @@
     "base": "legen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "leg",
         "ich": "lege",
@@ -7789,7 +7789,7 @@
     "base": "leiden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "leid",
         "ich": "leide",
@@ -7813,7 +7813,7 @@
     "base": "leihen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "leih",
         "ich": "leihe",
@@ -7837,7 +7837,7 @@
     "base": "leiten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "leit",
         "ich": "leite",
@@ -7860,7 +7860,7 @@
     "base": "lernen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lern",
         "ich": "lerne",
@@ -7910,7 +7910,7 @@
     "base": "lieben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lieb",
         "ich": "liebe",
@@ -7933,7 +7933,7 @@
     "base": "liegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lieg",
         "ich": "liege",
@@ -7957,7 +7957,7 @@
     "base": "loben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lob",
         "ich": "lobe",
@@ -7980,7 +7980,7 @@
     "base": "loslösen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "los",
       "_form": {
         "base": "lös",
@@ -8004,7 +8004,7 @@
     "base": "läuten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "läut",
         "ich": "läute",
@@ -8027,7 +8027,7 @@
     "base": "löschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lösch",
         "ich": "lösche",
@@ -8051,7 +8051,7 @@
     "base": "lösen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lös",
         "ich": "löse",
@@ -8074,7 +8074,7 @@
     "base": "lüften",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lüft",
         "ich": "lüfte",
@@ -8097,7 +8097,7 @@
     "base": "lügen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "lüg",
         "ich": "lüge",
@@ -8121,7 +8121,7 @@
     "base": "machen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "mach",
         "ich": "mache",
@@ -8144,7 +8144,7 @@
     "base": "mahlen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "mahl",
         "ich": "mahle",
@@ -8168,7 +8168,7 @@
     "base": "malen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "mal",
         "ich": "male",
@@ -8191,7 +8191,7 @@
     "base": "markieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "markier",
         "ich": "markiere",
@@ -8214,7 +8214,7 @@
     "base": "meiden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "meid",
         "ich": "meide",
@@ -8238,7 +8238,7 @@
     "base": "meinen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "mein",
         "ich": "meine",
@@ -8261,7 +8261,7 @@
     "base": "meinetwegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "meinetweg",
         "ich": "meinetwege",
@@ -8284,7 +8284,7 @@
     "base": "melden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "meld",
         "ich": "melde",
@@ -8307,7 +8307,7 @@
     "base": "melken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "melk",
         "ich": "melke",
@@ -8331,7 +8331,7 @@
     "base": "merken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "merk",
         "ich": "merke",
@@ -8381,7 +8381,7 @@
     "base": "mieten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "miet",
         "ich": "miete",
@@ -8404,7 +8404,7 @@
     "base": "mischen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "misch",
         "ich": "mische",
@@ -8427,7 +8427,7 @@
     "base": "misslingen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "missling",
         "ich": "misslinge",
@@ -8451,7 +8451,7 @@
     "base": "mitbringen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "mit",
       "_form": {
         "base": "bring",
@@ -8475,7 +8475,7 @@
     "base": "mitkommen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "mit",
       "_form": {
         "base": "komm",
@@ -8499,7 +8499,7 @@
     "base": "mitmachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "mit",
       "_form": {
         "base": "mach",
@@ -8523,7 +8523,7 @@
     "base": "mitnehmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "mit",
       "_form": {
         "base": "nehm",
@@ -8547,7 +8547,7 @@
     "base": "mitteilen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "mit",
       "_form": {
         "base": "teil",
@@ -8571,7 +8571,7 @@
     "base": "mixen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "mix",
         "ich": "mixe",
@@ -8594,7 +8594,7 @@
     "base": "mißlingen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "mißling",
         "ich": "mißlinge",
@@ -8618,7 +8618,7 @@
     "base": "morgen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "morg",
         "ich": "morge",
@@ -8641,7 +8641,7 @@
     "base": "multiplizieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "multiplizier",
         "ich": "multipliziere",
@@ -8664,7 +8664,7 @@
     "base": "mussen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "muss",
         "ich": "musse",
@@ -8687,7 +8687,7 @@
     "base": "möchten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "möcht",
         "ich": "möchte",
@@ -8710,7 +8710,7 @@
     "base": "mögen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "mög",
         "ich": "möge",
@@ -8734,7 +8734,7 @@
     "base": "müssen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "müss",
         "ich": "müsse",
@@ -8758,7 +8758,7 @@
     "base": "nachgeben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "nach",
       "_form": {
         "base": "geb",
@@ -8782,7 +8782,7 @@
     "base": "neben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "neb",
         "ich": "nebe",
@@ -8832,7 +8832,7 @@
     "base": "nennen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "nenn",
         "ich": "nenne",
@@ -8856,7 +8856,7 @@
     "base": "notieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "notier",
         "ich": "notiere",
@@ -8879,7 +8879,7 @@
     "base": "nutzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "nutz",
         "ich": "nutze",
@@ -8902,7 +8902,7 @@
     "base": "nähen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "näh",
         "ich": "nähe",
@@ -8925,7 +8925,7 @@
     "base": "oben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "ob",
         "ich": "obe",
@@ -8953,7 +8953,7 @@
     "base": "offen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "off",
         "ich": "offe",
@@ -8976,7 +8976,7 @@
     "base": "operieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "operier",
         "ich": "operiere",
@@ -8999,7 +8999,7 @@
     "base": "ordnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "ordn",
         "ich": "ordne",
@@ -9022,7 +9022,7 @@
     "base": "organisieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "organisier",
         "ich": "organisiere",
@@ -9045,7 +9045,7 @@
     "base": "packen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "pack",
         "ich": "packe",
@@ -9068,7 +9068,7 @@
     "base": "parken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "park",
         "ich": "parke",
@@ -9091,7 +9091,7 @@
     "base": "passen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "pass",
         "ich": "passe",
@@ -9114,7 +9114,7 @@
     "base": "passieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "passier",
         "ich": "passiere",
@@ -9137,7 +9137,7 @@
     "base": "petzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "petz",
         "ich": "petze",
@@ -9160,7 +9160,7 @@
     "base": "pfeifen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "pfeif",
         "ich": "pfeife",
@@ -9184,7 +9184,7 @@
     "base": "pflanzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "pflanz",
         "ich": "pflanze",
@@ -9207,7 +9207,7 @@
     "base": "pflegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "pfleg",
         "ich": "pflege",
@@ -9231,7 +9231,7 @@
     "base": "pflücken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "pflück",
         "ich": "pflücke",
@@ -9254,7 +9254,7 @@
     "base": "piepen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "piep",
         "ich": "piepe",
@@ -9277,7 +9277,7 @@
     "base": "planen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "plan",
         "ich": "plane",
@@ -9300,7 +9300,7 @@
     "base": "preisen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "preis",
         "ich": "preise",
@@ -9324,7 +9324,7 @@
     "base": "probieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "probier",
         "ich": "probiere",
@@ -9347,7 +9347,7 @@
     "base": "produzieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "produzier",
         "ich": "produziere",
@@ -9370,7 +9370,7 @@
     "base": "protestieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "protestier",
         "ich": "protestiere",
@@ -9393,7 +9393,7 @@
     "base": "prüfen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "prüf",
         "ich": "prüfe",
@@ -9416,7 +9416,7 @@
     "base": "pusten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "pust",
         "ich": "puste",
@@ -9439,7 +9439,7 @@
     "base": "putzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "putz",
         "ich": "putze",
@@ -9462,7 +9462,7 @@
     "base": "quaken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "quak",
         "ich": "quake",
@@ -9510,7 +9510,7 @@
     "base": "quieken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "quiek",
         "ich": "quieke",
@@ -9533,7 +9533,7 @@
     "base": "quietschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "quietsch",
         "ich": "quietsche",
@@ -9556,7 +9556,7 @@
     "base": "raten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "rat",
         "ich": "rate",
@@ -9580,7 +9580,7 @@
     "base": "rauchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "rauch",
         "ich": "rauche",
@@ -9603,7 +9603,7 @@
     "base": "reagieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reagier",
         "ich": "reagiere",
@@ -9626,7 +9626,7 @@
     "base": "realisieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "realisier",
         "ich": "realisiere",
@@ -9649,7 +9649,7 @@
     "base": "rechnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "rechn",
         "ich": "rechne",
@@ -9672,7 +9672,7 @@
     "base": "reden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "red",
         "ich": "rede",
@@ -9695,7 +9695,7 @@
     "base": "reduzieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reduzier",
         "ich": "reduziere",
@@ -9718,7 +9718,7 @@
     "base": "regnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "regn",
         "ich": "regne",
@@ -9741,7 +9741,7 @@
     "base": "reiben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reib",
         "ich": "reibe",
@@ -9765,7 +9765,7 @@
     "base": "reichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reich",
         "ich": "reiche",
@@ -9788,7 +9788,7 @@
     "base": "reisen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reis",
         "ich": "reise",
@@ -9811,7 +9811,7 @@
     "base": "reiten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reit",
         "ich": "reite",
@@ -9835,7 +9835,7 @@
     "base": "reißen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reiß",
         "ich": "reiße",
@@ -9859,7 +9859,7 @@
     "base": "rennen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "renn",
         "ich": "renne",
@@ -9883,7 +9883,7 @@
     "base": "renovieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "renovier",
         "ich": "renoviere",
@@ -9906,7 +9906,7 @@
     "base": "reparieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reparier",
         "ich": "repariere",
@@ -9929,7 +9929,7 @@
     "base": "reservieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "reservier",
         "ich": "reserviere",
@@ -9952,7 +9952,7 @@
     "base": "retten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "rett",
         "ich": "rette",
@@ -9975,7 +9975,7 @@
     "base": "riechen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "riech",
         "ich": "rieche",
@@ -9999,7 +9999,7 @@
     "base": "ringen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "ring",
         "ich": "ringe",
@@ -10023,7 +10023,7 @@
     "base": "rinnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "rinn",
         "ich": "rinne",
@@ -10047,7 +10047,7 @@
     "base": "rollen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "roll",
         "ich": "rolle",
@@ -10070,7 +10070,7 @@
     "base": "rufen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "ruf",
         "ich": "rufe",
@@ -10094,7 +10094,7 @@
     "base": "rühren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "rühr",
         "ich": "rühre",
@@ -10117,7 +10117,7 @@
     "base": "sagen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "sag",
         "ich": "sage",
@@ -10140,7 +10140,7 @@
     "base": "salzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "salz",
         "ich": "salze",
@@ -10189,7 +10189,7 @@
     "base": "saugen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "saug",
         "ich": "sauge",
@@ -10213,7 +10213,7 @@
     "base": "schaffen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schaff",
         "ich": "schaffe",
@@ -10237,7 +10237,7 @@
     "base": "schallen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schall",
         "ich": "schalle",
@@ -10261,7 +10261,7 @@
     "base": "schauen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schau",
         "ich": "schaue",
@@ -10284,7 +10284,7 @@
     "base": "scheiden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "scheid",
         "ich": "scheide",
@@ -10308,7 +10308,7 @@
     "base": "scheinen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schein",
         "ich": "scheine",
@@ -10332,7 +10332,7 @@
     "base": "schelten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schelt",
         "ich": "schelte",
@@ -10356,7 +10356,7 @@
     "base": "schenken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schenk",
         "ich": "schenke",
@@ -10379,7 +10379,7 @@
     "base": "scheren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "scher",
         "ich": "schere",
@@ -10403,7 +10403,7 @@
     "base": "schicken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schick",
         "ich": "schicke",
@@ -10426,7 +10426,7 @@
     "base": "schieben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schieb",
         "ich": "schiebe",
@@ -10450,7 +10450,7 @@
     "base": "schießen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schieß",
         "ich": "schieße",
@@ -10474,7 +10474,7 @@
     "base": "schimpfen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schimpf",
         "ich": "schimpfe",
@@ -10497,7 +10497,7 @@
     "base": "schinden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schind",
         "ich": "schinde",
@@ -10571,7 +10571,7 @@
     "base": "schleichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schleich",
         "ich": "schleiche",
@@ -10595,7 +10595,7 @@
     "base": "schleifen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schleif",
         "ich": "schleife",
@@ -10619,7 +10619,7 @@
     "base": "schließen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schließ",
         "ich": "schließe",
@@ -10643,7 +10643,7 @@
     "base": "schlingen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schling",
         "ich": "schlinge",
@@ -10667,7 +10667,7 @@
     "base": "schmausen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schmaus",
         "ich": "schmause",
@@ -10690,7 +10690,7 @@
     "base": "schmecken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schmeck",
         "ich": "schmecke",
@@ -10713,7 +10713,7 @@
     "base": "schmeißen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schmeiß",
         "ich": "schmeiße",
@@ -10763,7 +10763,7 @@
     "base": "schmücken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schmück",
         "ich": "schmücke",
@@ -10786,7 +10786,7 @@
     "base": "schnarchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schnarch",
         "ich": "schnarche",
@@ -10809,7 +10809,7 @@
     "base": "schnauben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schnaub",
         "ich": "schnaube",
@@ -10833,7 +10833,7 @@
     "base": "schneiden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schneid",
         "ich": "schneide",
@@ -10857,7 +10857,7 @@
     "base": "schneien",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schnei",
         "ich": "schneie",
@@ -10880,7 +10880,7 @@
     "base": "schrecken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schreck",
         "ich": "schrecke",
@@ -10904,7 +10904,7 @@
     "base": "schreiben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schreib",
         "ich": "schreibe",
@@ -10928,7 +10928,7 @@
     "base": "schreien",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schrei",
         "ich": "schreie",
@@ -10952,7 +10952,7 @@
     "base": "schreiten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schreit",
         "ich": "schreite",
@@ -10976,7 +10976,7 @@
     "base": "schweigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schweig",
         "ich": "schweige",
@@ -11000,7 +11000,7 @@
     "base": "schwellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schwell",
         "ich": "schwelle",
@@ -11024,7 +11024,7 @@
     "base": "schwimmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schwimm",
         "ich": "schwimme",
@@ -11048,7 +11048,7 @@
     "base": "schwinden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schwind",
         "ich": "schwinde",
@@ -11072,7 +11072,7 @@
     "base": "schwingen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schwing",
         "ich": "schwinge",
@@ -11096,7 +11096,7 @@
     "base": "schwitzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schwitz",
         "ich": "schwitze",
@@ -11119,7 +11119,7 @@
     "base": "schwören",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schwör",
         "ich": "schwöre",
@@ -11143,7 +11143,7 @@
     "base": "schätzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schätz",
         "ich": "schätze",
@@ -11166,7 +11166,7 @@
     "base": "schützen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "schütz",
         "ich": "schütze",
@@ -11226,7 +11226,7 @@
     "base": "selten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "selt",
         "ich": "selte",
@@ -11249,7 +11249,7 @@
     "base": "senden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "send",
         "ich": "sende",
@@ -11273,7 +11273,7 @@
     "base": "senken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "senk",
         "ich": "senke",
@@ -11296,7 +11296,7 @@
     "base": "sieden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "sied",
         "ich": "siede",
@@ -11321,7 +11321,7 @@
     "base": "singen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "sing",
         "ich": "singe",
@@ -11345,7 +11345,7 @@
     "base": "sinken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "sink",
         "ich": "sinke",
@@ -11369,7 +11369,7 @@
     "base": "sinnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "sinn",
         "ich": "sinne",
@@ -11393,7 +11393,7 @@
     "base": "sitzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "sitz",
         "ich": "sitze",
@@ -11417,7 +11417,7 @@
     "base": "sollen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "soll",
         "ich": "solle",
@@ -11441,7 +11441,7 @@
     "base": "sorgen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "sorg",
         "ich": "sorge",
@@ -11464,7 +11464,7 @@
     "base": "spalten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spalt",
         "ich": "spalte",
@@ -11488,7 +11488,7 @@
     "base": "sparen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spar",
         "ich": "spare",
@@ -11511,7 +11511,7 @@
     "base": "spazieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spazier",
         "ich": "spaziere",
@@ -11534,7 +11534,7 @@
     "base": "speien",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spei",
         "ich": "speie",
@@ -11558,7 +11558,7 @@
     "base": "spielen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spiel",
         "ich": "spiele",
@@ -11581,7 +11581,7 @@
     "base": "spinnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spinn",
         "ich": "spinne",
@@ -11605,7 +11605,7 @@
     "base": "spitzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spitz",
         "ich": "spitze",
@@ -11653,7 +11653,7 @@
     "base": "sprießen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "sprieß",
         "ich": "sprieße",
@@ -11677,7 +11677,7 @@
     "base": "springen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spring",
         "ich": "springe",
@@ -11701,7 +11701,7 @@
     "base": "spucken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spuck",
         "ich": "spucke",
@@ -11724,7 +11724,7 @@
     "base": "spuren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spur",
         "ich": "spure",
@@ -11747,7 +11747,7 @@
     "base": "spülen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "spül",
         "ich": "spüle",
@@ -11770,7 +11770,7 @@
     "base": "starten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "start",
         "ich": "starte",
@@ -11818,7 +11818,7 @@
     "base": "stecken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "steck",
         "ich": "stecke",
@@ -11842,7 +11842,7 @@
     "base": "stehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "steh",
         "ich": "stehe",
@@ -11866,7 +11866,7 @@
     "base": "stehenbleiben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stehenbleib",
         "ich": "stehenbleibe",
@@ -11914,7 +11914,7 @@
     "base": "steigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "steig",
         "ich": "steige",
@@ -11938,7 +11938,7 @@
     "base": "stellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stell",
         "ich": "stelle",
@@ -11986,7 +11986,7 @@
     "base": "stieben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stieb",
         "ich": "stiebe",
@@ -12010,7 +12010,7 @@
     "base": "stimmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stimm",
         "ich": "stimme",
@@ -12033,7 +12033,7 @@
     "base": "stinken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stink",
         "ich": "stinke",
@@ -12057,7 +12057,7 @@
     "base": "stoppen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stopp",
         "ich": "stoppe",
@@ -12080,7 +12080,7 @@
     "base": "stoßen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stoß",
         "ich": "stoße",
@@ -12104,7 +12104,7 @@
     "base": "streichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "streich",
         "ich": "streiche",
@@ -12128,7 +12128,7 @@
     "base": "streiten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "streit",
         "ich": "streite",
@@ -12152,7 +12152,7 @@
     "base": "stricken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "strick",
         "ich": "stricke",
@@ -12175,7 +12175,7 @@
     "base": "studieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "studier",
         "ich": "studiere",
@@ -12198,7 +12198,7 @@
     "base": "stören",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stör",
         "ich": "störe",
@@ -12221,7 +12221,7 @@
     "base": "stürzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "stürz",
         "ich": "stürze",
@@ -12244,7 +12244,7 @@
     "base": "suchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "such",
         "ich": "suche",
@@ -12267,7 +12267,7 @@
     "base": "tanken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "tank",
         "ich": "tanke",
@@ -12290,7 +12290,7 @@
     "base": "tanzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "tanz",
         "ich": "tanze",
@@ -12313,7 +12313,7 @@
     "base": "teilen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "teil",
         "ich": "teile",
@@ -12336,7 +12336,7 @@
     "base": "teilnehmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "teilnehm",
         "ich": "teilnehme",
@@ -12359,7 +12359,7 @@
     "base": "telefonieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "telefonier",
         "ich": "telefoniere",
@@ -12382,7 +12382,7 @@
     "base": "testen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "test",
         "ich": "teste",
@@ -12405,7 +12405,7 @@
     "base": "tippen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "tipp",
         "ich": "tippe",
@@ -12454,7 +12454,7 @@
     "base": "trainieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "trainier",
         "ich": "trainiere",
@@ -12477,7 +12477,7 @@
     "base": "transportieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "transportier",
         "ich": "transportiere",
@@ -12525,7 +12525,7 @@
     "base": "treiben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "treib",
         "ich": "treibe",
@@ -12549,7 +12549,7 @@
     "base": "trennen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "trenn",
         "ich": "trenne",
@@ -12599,7 +12599,7 @@
     "base": "triefen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "trief",
         "ich": "triefe",
@@ -12623,7 +12623,7 @@
     "base": "trinken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "trink",
         "ich": "trinke",
@@ -12647,7 +12647,7 @@
     "base": "trocken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "trock",
         "ich": "trocke",
@@ -12670,7 +12670,7 @@
     "base": "trocknen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "trockn",
         "ich": "trockne",
@@ -12693,7 +12693,7 @@
     "base": "tropfen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "tropf",
         "ich": "tropfe",
@@ -12716,7 +12716,7 @@
     "base": "träumen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "träum",
         "ich": "träume",
@@ -12739,7 +12739,7 @@
     "base": "trösten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "tröst",
         "ich": "tröste",
@@ -12762,7 +12762,7 @@
     "base": "trügen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "trüg",
         "ich": "trüge",
@@ -12798,7 +12798,7 @@
     "base": "turnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "turn",
         "ich": "turne",
@@ -12821,7 +12821,7 @@
     "base": "töten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "töt",
         "ich": "töte",
@@ -12844,7 +12844,7 @@
     "base": "um/tauschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "um/tausch",
         "ich": "um/tausche",
@@ -12867,7 +12867,7 @@
     "base": "umarmen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "umarm",
         "ich": "umarme",
@@ -12890,7 +12890,7 @@
     "base": "umbringen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "umbring",
         "ich": "umbringe",
@@ -12913,7 +12913,7 @@
     "base": "umwerfen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "umwerf",
         "ich": "umwerfe",
@@ -12936,7 +12936,7 @@
     "base": "umziehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "umzieh",
         "ich": "umziehe",
@@ -12959,7 +12959,7 @@
     "base": "unten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "unt",
         "ich": "unte",
@@ -12982,7 +12982,7 @@
     "base": "unterrichten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "unterricht",
         "ich": "unterrichte",
@@ -13005,7 +13005,7 @@
     "base": "unterscheiden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "unterscheid",
         "ich": "unterscheide",
@@ -13028,7 +13028,7 @@
     "base": "unterschreiben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "unterschreib",
         "ich": "unterschreibe",
@@ -13051,7 +13051,7 @@
     "base": "unterstützen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "unterstütz",
         "ich": "unterstütze",
@@ -13074,7 +13074,7 @@
     "base": "untersuchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "untersuch",
         "ich": "untersuche",
@@ -13097,7 +13097,7 @@
     "base": "verabschieden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verabschied",
         "ich": "verabschiede",
@@ -13120,7 +13120,7 @@
     "base": "verbieten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verbiet",
         "ich": "verbiete",
@@ -13143,7 +13143,7 @@
     "base": "verbinden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verbind",
         "ich": "verbinde",
@@ -13166,7 +13166,7 @@
     "base": "verboten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verbot",
         "ich": "verbote",
@@ -13194,7 +13194,7 @@
     "base": "verbrauchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verbrauch",
         "ich": "verbrauche",
@@ -13217,7 +13217,7 @@
     "base": "verbringen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verbring",
         "ich": "verbringe",
@@ -13265,7 +13265,7 @@
     "base": "verdienen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verdien",
         "ich": "verdiene",
@@ -13293,7 +13293,7 @@
     "base": "verdrießen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verdrieß",
         "ich": "verdrieße",
@@ -13317,7 +13317,7 @@
     "base": "vereinbaren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "vereinbar",
         "ich": "vereinbare",
@@ -13367,7 +13367,7 @@
     "base": "vergleichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "vergleich",
         "ich": "vergleiche",
@@ -13390,7 +13390,7 @@
     "base": "verkaufen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verkauf",
         "ich": "verkaufe",
@@ -13418,7 +13418,7 @@
     "base": "verlangen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verlang",
         "ich": "verlange",
@@ -13441,7 +13441,7 @@
     "base": "verleihen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verleih",
         "ich": "verleihe",
@@ -13464,7 +13464,7 @@
     "base": "verlieren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verlier",
         "ich": "verliere",
@@ -13488,7 +13488,7 @@
     "base": "vermieten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "vermiet",
         "ich": "vermiete",
@@ -13516,7 +13516,7 @@
     "base": "vermuten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "vermut",
         "ich": "vermute",
@@ -13539,7 +13539,7 @@
     "base": "verpassen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verpass",
         "ich": "verpasse",
@@ -13562,7 +13562,7 @@
     "base": "verreisen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verreis",
         "ich": "verreise",
@@ -13585,7 +13585,7 @@
     "base": "verschicken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verschick",
         "ich": "verschicke",
@@ -13608,7 +13608,7 @@
     "base": "verschieben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verschieb",
         "ich": "verschiebe",
@@ -13631,7 +13631,7 @@
     "base": "verschieden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verschied",
         "ich": "verschiede",
@@ -13654,7 +13654,7 @@
     "base": "verschmutzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verschmutz",
         "ich": "verschmutze",
@@ -13677,7 +13677,7 @@
     "base": "verschütten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verschütt",
         "ich": "verschütte",
@@ -13700,7 +13700,7 @@
     "base": "verstecken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "versteck",
         "ich": "verstecke",
@@ -13723,7 +13723,7 @@
     "base": "verstehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "versteh",
         "ich": "verstehe",
@@ -13751,7 +13751,7 @@
     "base": "versuchen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "versuch",
         "ich": "versuche",
@@ -13774,7 +13774,7 @@
     "base": "versäumen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "versäum",
         "ich": "versäume",
@@ -13797,7 +13797,7 @@
     "base": "verteidigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verteidig",
         "ich": "verteidige",
@@ -13820,7 +13820,7 @@
     "base": "verteilen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verteil",
         "ich": "verteile",
@@ -13843,7 +13843,7 @@
     "base": "vertrauen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "vertrau",
         "ich": "vertraue",
@@ -13866,7 +13866,7 @@
     "base": "verursachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verursach",
         "ich": "verursache",
@@ -13889,7 +13889,7 @@
     "base": "verurteilen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verurteil",
         "ich": "verurteile",
@@ -13912,7 +13912,7 @@
     "base": "verwenden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verwend",
         "ich": "verwende",
@@ -13935,7 +13935,7 @@
     "base": "verwunden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verwund",
         "ich": "verwunde",
@@ -13958,7 +13958,7 @@
     "base": "verzeihen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "verzeih",
         "ich": "verzeihe",
@@ -13982,7 +13982,7 @@
     "base": "veröffentlichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "veröffentlich",
         "ich": "veröffentliche",
@@ -14005,7 +14005,7 @@
     "base": "vorbereiten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "vor",
       "_form": {
         "base": "bereit",
@@ -14029,7 +14029,7 @@
     "base": "vorstellen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "vor",
       "_form": {
         "base": "stell",
@@ -14058,7 +14058,7 @@
     "base": "vorziehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "vor",
       "_form": {
         "base": "zieh",
@@ -14082,7 +14082,7 @@
     "base": "wachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wach",
         "ich": "wache",
@@ -14132,7 +14132,7 @@
     "base": "warnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "warn",
         "ich": "warne",
@@ -14155,7 +14155,7 @@
     "base": "warten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wart",
         "ich": "warte",
@@ -14203,7 +14203,7 @@
     "base": "weben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "web",
         "ich": "webe",
@@ -14227,7 +14227,7 @@
     "base": "wecken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "weck",
         "ich": "wecke",
@@ -14250,7 +14250,7 @@
     "base": "wegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "weg",
       "_form": {
         "base": "",
@@ -14274,7 +14274,7 @@
     "base": "weichen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "weich",
         "ich": "weiche",
@@ -14298,7 +14298,7 @@
     "base": "weinen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wein",
         "ich": "weine",
@@ -14321,7 +14321,7 @@
     "base": "weisen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "weis",
         "ich": "weise",
@@ -14345,7 +14345,7 @@
     "base": "wenden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wend",
         "ich": "wende",
@@ -14369,7 +14369,7 @@
     "base": "werben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "werb",
         "ich": "werbe",
@@ -14393,7 +14393,7 @@
     "base": "werden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "werd",
         "ich": "werde",
@@ -14442,7 +14442,7 @@
     "base": "wiederholen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "wieder",
       "_form": {
         "base": "hol",
@@ -14466,7 +14466,7 @@
     "base": "wiegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wieg",
         "ich": "wiege",
@@ -14490,7 +14490,7 @@
     "base": "willkommen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "willkomm",
         "ich": "willkomme",
@@ -14513,7 +14513,7 @@
     "base": "winden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wind",
         "ich": "winde",
@@ -14537,7 +14537,7 @@
     "base": "winken",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wink",
         "ich": "winke",
@@ -14560,7 +14560,7 @@
     "base": "wischen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wisch",
         "ich": "wische",
@@ -14583,7 +14583,7 @@
     "base": "wissen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wiss",
         "ich": "wisse",
@@ -14607,7 +14607,7 @@
     "base": "wohnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wohn",
         "ich": "wohne",
@@ -14630,7 +14630,7 @@
     "base": "wollen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "woll",
         "ich": "wolle",
@@ -14654,7 +14654,7 @@
     "base": "wägen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wäg",
         "ich": "wäge",
@@ -14678,7 +14678,7 @@
     "base": "wählen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wähl",
         "ich": "wähle",
@@ -14701,7 +14701,7 @@
     "base": "wünschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "wünsch",
         "ich": "wünsche",
@@ -14724,7 +14724,7 @@
     "base": "zahlen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zahl",
         "ich": "zahle",
@@ -14752,7 +14752,7 @@
     "base": "zeichnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zeichn",
         "ich": "zeichne",
@@ -14775,7 +14775,7 @@
     "base": "zeigen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zeig",
         "ich": "zeige",
@@ -14798,7 +14798,7 @@
     "base": "zeihen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zeih",
         "ich": "zeihe",
@@ -14822,7 +14822,7 @@
     "base": "zerstören",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zerstör",
         "ich": "zerstöre",
@@ -14845,7 +14845,7 @@
     "base": "ziehen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zieh",
         "ich": "ziehe",
@@ -14869,7 +14869,7 @@
     "base": "zufrieden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "fried",
@@ -14898,7 +14898,7 @@
     "base": "zufügen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "füg",
@@ -14923,7 +14923,7 @@
     "base": "zuhören",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "hör",
@@ -14947,7 +14947,7 @@
     "base": "zumachen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "mach",
@@ -14996,7 +14996,7 @@
     "base": "zuordnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "ordn",
@@ -15020,7 +15020,7 @@
     "base": "zurückkehren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zurück",
       "_form": {
         "base": "kehr",
@@ -15044,7 +15044,7 @@
     "base": "zurückkommen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zurück",
       "_form": {
         "base": "komm",
@@ -15068,7 +15068,7 @@
     "base": "zusammen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "samm",
@@ -15100,7 +15100,7 @@
     "base": "zusammenfassen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "sammenfass",
@@ -15124,7 +15124,7 @@
     "base": "zuschauen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "schau",
@@ -15148,7 +15148,7 @@
     "base": "zussamen/leben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "prefixSeparate": "zu",
       "_form": {
         "base": "ssamen/leb",
@@ -15172,7 +15172,7 @@
     "base": "zwingen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zwing",
         "ich": "zwinge",
@@ -15196,7 +15196,7 @@
     "base": "zwischen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zwisch",
         "ich": "zwische",
@@ -15228,7 +15228,7 @@
     "base": "zählen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "zähl",
         "ich": "zähle",
@@ -15251,7 +15251,7 @@
     "base": "öffnen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "öffn",
         "ich": "öffne",
@@ -15280,7 +15280,7 @@
     "base": "üben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "üb",
         "ich": "übe",
@@ -15303,7 +15303,7 @@
     "base": "überholen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "überhol",
         "ich": "überhole",
@@ -15326,7 +15326,7 @@
     "base": "überlegen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "überleg",
         "ich": "überlege",
@@ -15349,7 +15349,7 @@
     "base": "übermorgen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "übermorg",
         "ich": "übermorge",
@@ -15372,7 +15372,7 @@
     "base": "übernachten",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "übernacht",
         "ich": "übernachte",
@@ -15395,7 +15395,7 @@
     "base": "überqueren",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "überquer",
         "ich": "überquere",
@@ -15418,7 +15418,7 @@
     "base": "überraschen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "überrasch",
         "ich": "überrasche",
@@ -15441,7 +15441,7 @@
     "base": "überreden",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "überred",
         "ich": "überrede",
@@ -15464,7 +15464,7 @@
     "base": "übersetzen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "übersetz",
         "ich": "übersetze",
@@ -15487,7 +15487,7 @@
     "base": "überweisen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "überweis",
         "ich": "überweise",
@@ -15510,7 +15510,7 @@
     "base": "überzeugen",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "überzeug",
         "ich": "überzeuge",
@@ -15533,7 +15533,7 @@
     "base": "übrigbleiben",
     "article": null,
     "config": {
-      "generate": 0,
+      "generate": 1,
       "_form": {
         "base": "übrigbleib",
         "ich": "übrigbleibe",
