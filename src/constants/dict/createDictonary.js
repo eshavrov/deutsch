@@ -363,6 +363,7 @@ verbsIrregular.forEach((data) => {
 
   addVerb(dictonary, [w, t], { irregular: true }, (entry) => {
     const config = {
+      generate: 100,
       ...o,
     };
 

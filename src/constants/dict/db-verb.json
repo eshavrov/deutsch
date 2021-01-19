@@ -148,6 +148,7 @@
     "base": "abnehmen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "du": "nimmst",
       "er,sie,es": "nimmt",
@@ -1188,6 +1189,7 @@
     "base": "ausbrechen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "brech",
@@ -1621,6 +1623,7 @@
     "base": "backen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "_form": {
         "base": "back",
@@ -1816,6 +1819,7 @@
     "base": "befehlen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-ie",
       "_form": {
         "base": "befehl",
@@ -2989,6 +2993,7 @@
     "base": "blasen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "du": "bläst",
       "er,sie,es": "bläst",
@@ -3261,6 +3266,7 @@
     "base": "brechen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "brech",
@@ -4285,6 +4291,7 @@
     "base": "empfehlen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-ie",
       "_form": {
         "base": "empfehl",
@@ -4797,6 +4804,7 @@
     "base": "erschrecken",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "erschreck",
@@ -4941,6 +4949,7 @@
     "base": "essen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "du": "isst",
       "er,sie,es": "isst",
@@ -4995,6 +5004,7 @@
     "base": "fahren",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "_form": {
         "base": "fahr",
@@ -5048,6 +5058,7 @@
     "base": "fangen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "_form": {
         "base": "fang",
@@ -5430,6 +5441,7 @@
     "base": "fressen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "du": "frisst",
       "er,sie,es": "frisst",
@@ -5674,6 +5686,7 @@
     "base": "geben",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "geb",
@@ -5909,6 +5922,7 @@
     "base": "gelten",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "er,sie,es": "gilt",
       "_form": {
@@ -6053,6 +6067,7 @@
     "base": "geschehen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-ie",
       "complex": true,
       "_form": {
@@ -6290,6 +6305,7 @@
     "base": "graben",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "_form": {
         "base": "grab",
@@ -6501,6 +6517,7 @@
     "base": "halten",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "du": "hältst",
       "er,sie,es": "hält",
@@ -6691,6 +6708,7 @@
     "base": "helfen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "helf",
@@ -7623,6 +7641,7 @@
     "base": "laden",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "du": "lädst",
       "er,sie,es": "lädt",
@@ -7672,6 +7691,7 @@
     "base": "lassen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "du": "lässt",
       "er,sie,es": "lässt",
@@ -7698,6 +7718,7 @@
     "base": "laufen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "au-äu",
       "_form": {
         "base": "lauf",
@@ -7862,6 +7883,7 @@
     "base": "lesen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-ie",
       "du": "liest",
       "er,sie,es": "liest",
@@ -8332,6 +8354,7 @@
     "base": "messen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "du": "misst",
       "er,sie,es": "misst",
@@ -8782,6 +8805,7 @@
     "base": "nehmen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "du": "nimmst",
       "er,sie,es": "nimmt",
@@ -9461,6 +9485,7 @@
     "base": "quellen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "quell",
@@ -10139,6 +10164,7 @@
     "base": "saufen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "au-äu",
       "_form": {
         "base": "sauf",
@@ -10495,6 +10521,7 @@
     "base": "schlafen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "_form": {
         "base": "schlaf",
@@ -10519,6 +10546,7 @@
     "base": "schlagen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "_form": {
         "base": "schlag",
@@ -10709,6 +10737,7 @@
     "base": "schmelzen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "er,sie,es": "schmilzt",
       "_form": {
@@ -11160,6 +11189,7 @@
     "base": "sehen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-ie",
       "_form": {
         "base": "seh",
@@ -11598,6 +11628,7 @@
     "base": "sprechen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "sprech",
@@ -11762,6 +11793,7 @@
     "base": "stechen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "stech",
@@ -11857,6 +11889,7 @@
     "base": "stehlen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-ie",
       "_form": {
         "base": "stehl",
@@ -11928,6 +11961,7 @@
     "base": "sterben",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "sterb",
@@ -12394,6 +12428,7 @@
     "base": "tragen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "_form": {
         "base": "trag",
@@ -12465,6 +12500,7 @@
     "base": "treffen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "treff",
@@ -12536,6 +12572,7 @@
     "base": "treten",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "du": "trittst",
       "er,sie,es": "tritt",
@@ -13203,6 +13240,7 @@
     "base": "verderben",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "verderb",
@@ -13302,6 +13340,7 @@
     "base": "vergessen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "du": "vergisst",
       "er,sie,es": "vergisst",
@@ -14066,6 +14105,7 @@
     "base": "wachsen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "du": "wächst",
       "er,sie,es": "wächst",
@@ -14138,6 +14178,7 @@
     "base": "waschen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "a-ä",
       "_form": {
         "base": "wasch",
@@ -14376,6 +14417,7 @@
     "base": "werfen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "werf",
@@ -14929,6 +14971,7 @@
     "base": "zunehmen",
     "article": null,
     "config": {
+      "generate": 100,
       "type": "e-i",
       "_form": {
         "base": "nehm",
