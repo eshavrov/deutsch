@@ -31,7 +31,7 @@ Page.getInitialProps = ({ query }) => {
       : [LANGUAGE.DE, LANGUAGE.RU];
 
   // number of variants to answer
-  const count = 4;
+  const count = 1;
 
   const dict = getDictonary({ languages, count: 30 });
 

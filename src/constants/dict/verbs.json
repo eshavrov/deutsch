@@ -1,0 +1,389 @@
+[
+  {
+    "base": "nehm",
+    "ich": "nehme ab",
+    "du": "nihmst ab",
+    "er,sie,es": "nihmt ab",
+    "wir": "nehmen ab",
+    "ihr": "nehmt ab",
+    "sie,Sie": "nehmen ab"
+  },
+  {
+    "base": "brech",
+    "ich": "breche aus",
+    "du": "brichst aus",
+    "er,sie,es": "bricht aus",
+    "wir": "brechen aus",
+    "ihr": "brecht aus",
+    "sie,Sie": "brechen aus"
+  },
+  {
+    "base": "brech",
+    "ich": "breche",
+    "du": "brichst",
+    "er,sie,es": "bricht",
+    "wir": "brechen",
+    "ihr": "brecht",
+    "sie,Sie": "brechen"
+  },
+  {
+    "base": "erschreck",
+    "ich": "erschrecke",
+    "du": null,
+    "er,sie,es": null,
+    "wir": "erschrecken",
+    "ihr": "erschreckt",
+    "sie,Sie": "erschrecken"
+  },
+  {
+    "base": "ess",
+    "ich": "esse",
+    "du": "isst",
+    "er,sie,es": "isst",
+    "wir": "essen",
+    "ihr": "esst",
+    "sie,Sie": "essen"
+  },
+  {
+    "base": "fress",
+    "ich": "fresse",
+    "du": "frisst",
+    "er,sie,es": "frisst",
+    "wir": "fressen",
+    "ihr": "fresst",
+    "sie,Sie": "fressen"
+  },
+  {
+    "base": "geb",
+    "ich": "gebe",
+    "du": "gibst",
+    "er,sie,es": "gibt",
+    "wir": "geben",
+    "ihr": "gebt",
+    "sie,Sie": "geben"
+  },
+  {
+    "base": "helf",
+    "ich": "helfe",
+    "du": "hilfst",
+    "er,sie,es": "hilft",
+    "wir": "helfen",
+    "ihr": "helft",
+    "sie,Sie": "helfen"
+  },
+  {
+    "base": "mess",
+    "ich": "messe",
+    "du": "misst",
+    "er,sie,es": "misst",
+    "wir": "messen",
+    "ihr": "messt",
+    "sie,Sie": "messen"
+  },
+  {
+    "base": "gelt",
+    "ich": "gelte",
+    "du": "giltest",
+    "er,sie,es": "giltet",
+    "wir": "gelten",
+    "ihr": "geltet",
+    "sie,Sie": "gelten"
+  },
+  {
+    "base": "nehm",
+    "ich": "nehme",
+    "du": "nihmst",
+    "er,sie,es": "nihmt",
+    "wir": "nehmen",
+    "ihr": "nehmt",
+    "sie,Sie": "nehmen"
+  },
+  {
+    "base": "quell",
+    "ich": "quelle",
+    "du": "quillst",
+    "er,sie,es": "quillt",
+    "wir": "quellen",
+    "ihr": "quellt",
+    "sie,Sie": "quellen"
+  },
+  {
+    "base": "schmelz",
+    "ich": "schmelze",
+    "du": "schmilzt",
+    "er,sie,es": "schmilzt",
+    "wir": "schmelzen",
+    "ihr": "schmelzt",
+    "sie,Sie": "schmelzen"
+  },
+  {
+    "base": "sprech",
+    "ich": "spreche",
+    "du": "sprichst",
+    "er,sie,es": "spricht",
+    "wir": "sprechen",
+    "ihr": "sprecht",
+    "sie,Sie": "sprechen"
+  },
+  {
+    "base": "stech",
+    "ich": "steche",
+    "du": "stichst",
+    "er,sie,es": "sticht",
+    "wir": "stechen",
+    "ihr": "stecht",
+    "sie,Sie": "stechen"
+  },
+  {
+    "base": "sterb",
+    "ich": "sterbe",
+    "du": "stirbst",
+    "er,sie,es": "stirbt",
+    "wir": "sterben",
+    "ihr": "sterbt",
+    "sie,Sie": "sterben"
+  },
+  {
+    "base": "treff",
+    "ich": "treffe",
+    "du": "triffst",
+    "er,sie,es": "trifft",
+    "wir": "treffen",
+    "ihr": "trefft",
+    "sie,Sie": "treffen"
+  },
+  {
+    "base": "tret",
+    "ich": "trete",
+    "du": "tritest",
+    "er,sie,es": "tritet",
+    "wir": "treten",
+    "ihr": "tretet",
+    "sie,Sie": "treten"
+  },
+  {
+    "base": "verderb",
+    "ich": "verderbe",
+    "du": null,
+    "er,sie,es": null,
+    "wir": "verderben",
+    "ihr": "verderbt",
+    "sie,Sie": "verderben"
+  },
+  {
+    "base": "vergess",
+    "ich": "vergesse",
+    "du": "nullst",
+    "er,sie,es": "nullt",
+    "wir": "vergessen",
+    "ihr": "vergesst",
+    "sie,Sie": "vergessen"
+  },
+  {
+    "base": "werf",
+    "ich": "werfe",
+    "du": "wirfst",
+    "er,sie,es": "wirft",
+    "wir": "werfen",
+    "ihr": "werft",
+    "sie,Sie": "werfen"
+  },
+  {
+    "base": "nehm",
+    "ich": "nehme zu",
+    "du": "nihmst zu",
+    "er,sie,es": "nihmt zu",
+    "wir": "nehmen zu",
+    "ihr": "nehmt zu",
+    "sie,Sie": "nehmen zu"
+  },
+  {
+    "base": "befehl",
+    "ich": "befehle",
+    "du": null,
+    "er,sie,es": null,
+    "wir": "befehlen",
+    "ihr": "befehlt",
+    "sie,Sie": "befehlen"
+  },
+  {
+    "base": "empfehl",
+    "ich": "empfehle",
+    "du": null,
+    "er,sie,es": null,
+    "wir": "empfehlen",
+    "ihr": "empfehlt",
+    "sie,Sie": "empfehlen"
+  },
+  {
+    "base": "gescheh",
+    "ich": "geschehe",
+    "du": null,
+    "er,sie,es": null,
+    "wir": "geschehen",
+    "ihr": "gescheht",
+    "sie,Sie": "geschehen"
+  },
+  {
+    "base": "les",
+    "ich": "lese",
+    "du": "liest",
+    "er,sie,es": "liest",
+    "wir": "lesen",
+    "ihr": "lest",
+    "sie,Sie": "lesen"
+  },
+  {
+    "base": "seh",
+    "ich": "sehe",
+    "du": "siehst",
+    "er,sie,es": "sieht",
+    "wir": "sehen",
+    "ihr": "seht",
+    "sie,Sie": "sehen"
+  },
+  {
+    "base": "stehl",
+    "ich": "stehle",
+    "du": "stiehlst",
+    "er,sie,es": "stiehlt",
+    "wir": "stehlen",
+    "ihr": "stehlt",
+    "sie,Sie": "stehlen"
+  },
+  {
+    "base": "back",
+    "ich": "backe",
+    "du": "bäckst",
+    "er,sie,es": "bäckt",
+    "wir": "backen",
+    "ihr": "backt",
+    "sie,Sie": "backen"
+  },
+  {
+    "base": "blas",
+    "ich": "blase",
+    "du": "bläst",
+    "er,sie,es": "bläst",
+    "wir": "blasen",
+    "ihr": "blast",
+    "sie,Sie": "blasen"
+  },
+  {
+    "base": "fahr",
+    "ich": "fahre",
+    "du": "fährst",
+    "er,sie,es": "fährt",
+    "wir": "fahren",
+    "ihr": "fahrt",
+    "sie,Sie": "fahren"
+  },
+  {
+    "base": "fang",
+    "ich": "fange",
+    "du": "fängst",
+    "er,sie,es": "fängt",
+    "wir": "fangen",
+    "ihr": "fangt",
+    "sie,Sie": "fangen"
+  },
+  {
+    "base": "grab",
+    "ich": "grabe",
+    "du": "gräbst",
+    "er,sie,es": "gräbt",
+    "wir": "graben",
+    "ihr": "grabt",
+    "sie,Sie": "graben"
+  },
+  {
+    "base": "halt",
+    "ich": "halte",
+    "du": "hältest",
+    "er,sie,es": "hältet",
+    "wir": "halten",
+    "ihr": "haltet",
+    "sie,Sie": "halten"
+  },
+  {
+    "base": "lad",
+    "ich": "lade",
+    "du": "lädest",
+    "er,sie,es": "lädet",
+    "wir": "laden",
+    "ihr": "ladet",
+    "sie,Sie": "laden"
+  },
+  {
+    "base": "lass",
+    "ich": "lasse",
+    "du": "lässt",
+    "er,sie,es": "lässt",
+    "wir": "lassen",
+    "ihr": "lasst",
+    "sie,Sie": "lassen"
+  },
+  {
+    "base": "schlaf",
+    "ich": "schlafe",
+    "du": "schläfst",
+    "er,sie,es": "schläft",
+    "wir": "schlafen",
+    "ihr": "schlaft",
+    "sie,Sie": "schlafen"
+  },
+  {
+    "base": "schlag",
+    "ich": "schlage",
+    "du": "schlägst",
+    "er,sie,es": "schlägt",
+    "wir": "schlagen",
+    "ihr": "schlagt",
+    "sie,Sie": "schlagen"
+  },
+  {
+    "base": "trag",
+    "ich": "trage",
+    "du": "trägst",
+    "er,sie,es": "trägt",
+    "wir": "tragen",
+    "ihr": "tragt",
+    "sie,Sie": "tragen"
+  },
+  {
+    "base": "wachs",
+    "ich": "wachse",
+    "du": "wächst",
+    "er,sie,es": "wächst",
+    "wir": "wachsen",
+    "ihr": "wachst",
+    "sie,Sie": "wachsen"
+  },
+  {
+    "base": "wasch",
+    "ich": "wasche",
+    "du": "wäschst",
+    "er,sie,es": "wäscht",
+    "wir": "waschen",
+    "ihr": "wascht",
+    "sie,Sie": "waschen"
+  },
+  {
+    "base": "lauf",
+    "ich": "laufe",
+    "du": "läufst",
+    "er,sie,es": "läuft",
+    "wir": "laufen",
+    "ihr": "lauft",
+    "sie,Sie": "laufen"
+  },
+  {
+    "base": "sauf",
+    "ich": "saufe",
+    "du": "säufst",
+    "er,sie,es": "säuft",
+    "wir": "saufen",
+    "ihr": "sauft",
+    "sie,Sie": "saufen"
+  }
+]

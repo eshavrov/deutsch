@@ -1,5 +1,6 @@
 const fs = require("fs");
 const { createHash } = require("crypto");
+const { sp } = require("./verbs");
 
 const predlogi = require("./in_data/other/predlogi.json");
 const words200 = require("./in_data/de-online_ru/200words.json");
@@ -54,6 +55,62 @@ const translateNormalize = (text, { spliter = ";" } = {}) => {
   });
 
   return list.join("; ");
+};
+
+const getUniPhraseOriginal = (text) =>
+  text
+    .replace(/[^a-zäöüß0-9\(\)]/gi, "")
+    .trim()
+    .toUpperCase();
+
+const nestingValidation = (list) => {
+  const _list = list.map((text) => [getUniPhraseOriginal(text), text]);
+
+  const newlist = _list
+    .sort((a, b) => a.length - b.length)
+    .reduce((acc, v) => {
+      if (acc.length === 0) {
+        return [v];
+      }
+
+      let bb = true;
+
+      acc.forEach(([_v]) => {
+        if (_v.split(v[0]).length > 1) {
+          bb = false;
+        }
+      });
+
+      // проверяем есть ли среди существующих фраз вхождения в новую
+      const newAcc = acc.reduce((acc, [_v, _o]) => {
+        if (v[0].split(_v).length > 1) {
+          return acc;
+        }
+
+        return [...acc, [_v, _o]];
+      }, []);
+
+      // если новая фраза не входит ни в одну из предыдущих, то добавляем её в список
+      if (bb) newAcc.push(v);
+
+      return newAcc;
+    }, []);
+
+  return newlist.map(([, v]) => v);
+};
+
+const mergeOriginals = (list, inText) => {
+  return inText.split(";").reduce((acc, text) => {
+    const _list = acc.map((text) => getUniPhraseOriginal(text));
+
+    const _text = getUniPhraseOriginal(text);
+
+    if (!_list.includes(_text)) {
+      return nestingValidation([...acc, text]);
+    }
+
+    return acc;
+  }, list || []);
 };
 
 const removeOptional = (text) => {
@@ -214,10 +271,16 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
 
       const sn = dictonary.find((e) => e.id === id);
       if (!sn) {
-        dictonary.push({ ...entry, id });
+        const originals = [entry.original];
+        delete entry.original;
+
+        dictonary.push({ ...entry, originals, id });
       } else {
         // console.log("skip", sn, entry);
         // merge code
+        sn.originals = mergeOriginals(sn.originals, entry.original);
+
+        // delete entry.original;
 
         if (sn.translate !== entry.translate) {
           sn.translate = translateNormalize(
@@ -289,6 +352,7 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
   ...listDeutschB1Schritte,
 ].forEach((data) => add(dictonary, data, { spliter: "," }));
 
+const l = [];
 verbsIrregular.forEach((data) => {
   const [w, t, o] = data;
 
@@ -297,6 +361,10 @@ verbsIrregular.forEach((data) => {
     const config = {
       type: o.type,
     };
+
+    console.log(w, `(${o.type})`);
+    // console.table(sp(w, o));
+    l.push(sp(w, o));
 
     return { ...entry, config };
   });
@@ -333,3 +401,4 @@ console.log("---------------- end test --------------");
 // console.log(dictonary);
 
 fs.writeFileSync("./db.json", JSON.stringify(dictonary, null, "  "));
+// fs.writeFileSync("./verbs.json", JSON.stringify(l, null, "  "));
