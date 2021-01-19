@@ -229,13 +229,18 @@ const parsePhrase = (text, options = {}) => {
         // только если одно слово, иначе отбраковываем (возможно фраза)
         if (base.split(/\s/).length === 1) {
           // только слово с маленькой буквы
-          if (!/^[A-ZÄÖÜ]/.test(base) && !/[^a-zäöüß\/\=]/ig.test(base)) {
-            
+          if (!/^[A-ZÄÖÜ]/.test(base) && !/[^a-zäöüß\/\=]/gi.test(base)) {
+            const w = normalizeVerb(base); // нормализовать
+
+            const config = { generate: 0 };
+            config._form = sp(w, config);
+
             const entry = {
               type: "verb", //  глагол
-              base: normalizeVerb(base), // нормализовать
+              base: w,
               article: null,
               original: _phrase,
+              config, // склонения
             };
 
             return entry;
