@@ -382,9 +382,9 @@ dictonary.sort((a, b) => {
 console.log("---------------- end test --------------");
 // console.log(dictonary.filter(({ type }) => type === "*"));
 
-["*", "verb", "noun"].forEach((t) =>
-  console.log(t + " = ", dictonary.filter(({ type }) => type === t).length)
-);
+// ["*", "verb", "noun"].forEach((t) =>
+//   console.log(t + " = ", dictonary.filter(({ type }) => type === t).length)
+// );
 
 // dictonary
 //   .filter(({ translate }) => translate === "")
@@ -400,5 +400,9 @@ console.log("---------------- end test --------------");
 
 // console.log(dictonary);
 
-fs.writeFileSync("./db.json", JSON.stringify(dictonary, null, "  "));
-// fs.writeFileSync("./verbs.json", JSON.stringify(l, null, "  "));
+["*", "verb", "noun"].forEach((t) => {
+  const db = dictonary.filter(({ type }) => type === t);
+  const fileName = `db-${t}.json`;
+  fs.writeFileSync(`./${fileName}`, JSON.stringify(db, null, "  "));
+  console.log(`Writed file  ${fileName}, ${db.length} items`);
+});

@@ -1,0 +1,8055 @@
+[
+  {
+    "type": "verb",
+    "base": "ab/holen",
+    "article": null,
+    "translate": "встречать; заезжать",
+    "context": [],
+    "originals": [
+      "ab/holen"
+    ],
+    "id": "66564b25efe88d096d6d678a519b7789"
+  },
+  {
+    "type": "verb",
+    "base": "ab/lehnen",
+    "article": null,
+    "translate": "отклонять; отвергать; отрицать; отказывать; не принимать",
+    "context": [],
+    "originals": [
+      "ab/lehnen"
+    ],
+    "id": "9103c82909ae6ff4d40003e11f9872fd"
+  },
+  {
+    "type": "verb",
+    "base": "ab/sagen",
+    "article": null,
+    "translate": "отменять; отказываться",
+    "context": [],
+    "originals": [
+      "ab/sagen"
+    ],
+    "id": "71f9f03d57f5b1c81f42407bf7426cab"
+  },
+  {
+    "type": "verb",
+    "base": "ab/stellen",
+    "article": null,
+    "translate": "отставить; поставить в сторону; ставить на хранение; приостанавливать",
+    "context": [],
+    "originals": [
+      "ab/stellen"
+    ],
+    "id": "20758c48c19f6bb8dea0900b137ffb47"
+  },
+  {
+    "type": "verb",
+    "base": "ab/stimmen",
+    "article": null,
+    "translate": "голосовать; согласовывать; координировать; увязывать; проводить голосование",
+    "context": [],
+    "originals": [
+      "ab/stimmen"
+    ],
+    "id": "29cc519f73923fd1eb50a2f9ad2fd92f"
+  },
+  {
+    "type": "verb",
+    "base": "ab/trocknen",
+    "article": null,
+    "translate": "вытирать; вытираться; высыхать; высушивать",
+    "context": [],
+    "originals": [
+      "ab/trocknen"
+    ],
+    "id": "87907233ed1d5c2cc2f2800a15af7dfe"
+  },
+  {
+    "type": "verb",
+    "base": "abfahren",
+    "article": null,
+    "translate": "отправляться; уезжать; уйти; отъезжать",
+    "context": [
+      [
+        "Wir fahren um zwölf Uhr ab.",
+        "Отправляемся в двенадцать часов."
+      ]
+    ],
+    "originals": [
+      "abfahren"
+    ],
+    "id": "df6f7b98758bc9badf814875e0d475cd"
+  },
+  {
+    "type": "verb",
+    "base": "abfliegen",
+    "article": null,
+    "translate": "вылетать; улетать",
+    "context": [
+      [
+        "Wann fliegst du ab?",
+        ""
+      ]
+    ],
+    "originals": [
+      "abfliegen"
+    ],
+    "id": "cbe9fae009d2ab3200f5fdef2e8c369c"
+  },
+  {
+    "type": "verb",
+    "base": "abgeben",
+    "article": null,
+    "translate": "отдавать; сдавать",
+    "context": [
+      [
+        "Ich muss meine Schlüssel abgeben.",
+        "Я должен сдать ключи."
+      ]
+    ],
+    "originals": [
+      "abgeben"
+    ],
+    "id": "805c89ca2a38ca3d9c933e703b2e2d62"
+  },
+  {
+    "type": "verb",
+    "base": "abholen",
+    "article": null,
+    "translate": "забирать; встречать",
+    "context": [
+      [
+        "Wann kann ich den Schrank bei dir abholen?",
+        "Когда я смогу забрать у тебя шкаф?"
+      ],
+      [
+        "Wir müssen noch meinen Bruder abholen.",
+        "Нам все еще нужно забрать моего брата."
+      ]
+    ],
+    "originals": [
+      "abholen"
+    ],
+    "id": "bf22e70a9bd2a851477fd3fff9f12eb3"
+  },
+  {
+    "type": "verb",
+    "base": "abnehmen",
+    "article": null,
+    "translate": "худеть",
+    "context": [],
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    },
+    "originals": [
+      "abnehmen"
+    ],
+    "id": "80ea5e0a02630f4426c1b6af25850a37"
+  },
+  {
+    "type": "verb",
+    "base": "absagen",
+    "article": null,
+    "translate": "отменять; сообщить об отмене",
+    "context": [],
+    "originals": [
+      "absagen"
+    ],
+    "id": "2fa689cd554b11235cc9bc542e47b732"
+  },
+  {
+    "type": "verb",
+    "base": "abziehen",
+    "article": null,
+    "translate": "вычитать",
+    "context": [],
+    "originals": [
+      "abziehen"
+    ],
+    "id": "9da2d49a46674254f427a31930072135"
+  },
+  {
+    "type": "verb",
+    "base": "achten",
+    "article": null,
+    "translate": "обращать внимание; ценить; уважать",
+    "context": [],
+    "originals": [
+      "achten"
+    ],
+    "id": "f341c7fc2da9e775970328d54e6570c1"
+  },
+  {
+    "type": "verb",
+    "base": "addieren",
+    "article": null,
+    "translate": "прибавлять",
+    "context": [],
+    "originals": [
+      "addieren; zufügen"
+    ],
+    "id": "df828f3b6ec5ea9a873f126dbfe60f05"
+  },
+  {
+    "type": "verb",
+    "base": "an/klicken",
+    "article": null,
+    "translate": "щелкнуть мышью",
+    "context": [],
+    "originals": [
+      "an/klicken"
+    ],
+    "id": "54c36ead51d1064e4078276ab88d8c61"
+  },
+  {
+    "type": "verb",
+    "base": "an/kreuzen",
+    "article": null,
+    "translate": "отметить крестиком",
+    "context": [],
+    "originals": [
+      "an/kreuzen"
+    ],
+    "id": "54f6be2651d7435cb511306443451f2b"
+  },
+  {
+    "type": "verb",
+    "base": "an/machen",
+    "article": null,
+    "translate": "приставать; зажигать; разводить; заправлять",
+    "context": [],
+    "originals": [
+      "an/machen"
+    ],
+    "id": "ead02a843486ca14a61358c94f99bff7"
+  },
+  {
+    "type": "verb",
+    "base": "an/probieren",
+    "article": null,
+    "translate": "примерять",
+    "context": [],
+    "originals": [
+      "an/probieren"
+    ],
+    "id": "0c215d925892d94ae05530766f549f64"
+  },
+  {
+    "type": "verb",
+    "base": "an/schaffen",
+    "article": null,
+    "translate": "приобретать; покупать; доставать",
+    "context": [],
+    "originals": [
+      "an/schaffen"
+    ],
+    "id": "21514f392fd310d4b36133e5b1501dc7"
+  },
+  {
+    "type": "verb",
+    "base": "an/schauen",
+    "article": null,
+    "translate": "смотреть; взирать; рассматривать; глядеть; созерцать",
+    "context": [],
+    "originals": [
+      "an/schauen"
+    ],
+    "id": "d31456d4b6eae1f8ee8036b5adc21264"
+  },
+  {
+    "type": "verb",
+    "base": "analysieren",
+    "article": null,
+    "translate": "анализировать; проанализировать",
+    "context": [],
+    "originals": [
+      "analysieren"
+    ],
+    "id": "afb397298cf364e9cae501a47e6493cb"
+  },
+  {
+    "type": "verb",
+    "base": "anbieten",
+    "article": null,
+    "translate": "предлагать; предложить; угощать; угостить",
+    "context": [
+      [
+        "Was darf ich dir anbieten?",
+        ""
+      ]
+    ],
+    "originals": [
+      "anbieten"
+    ],
+    "id": "bd8da1a68fce9bfe73a5f72196a3b2cf"
+  },
+  {
+    "type": "verb",
+    "base": "anerkennen",
+    "article": null,
+    "translate": "признавать",
+    "context": [],
+    "originals": [
+      "anerkennen"
+    ],
+    "id": "26dfedce1e0ee368cb0923a01c233ff5"
+  },
+  {
+    "type": "verb",
+    "base": "anfangen",
+    "article": null,
+    "translate": "начинать; начинаться; приступать; начать",
+    "context": [
+      [
+        "Hier fängt die Bahnhofstraße an.",
+        ""
+      ],
+      [
+        "Der Unterricht fängt gleich an.",
+        ""
+      ]
+    ],
+    "originals": [
+      "anfangen"
+    ],
+    "id": "e6733652a39c789fd2c35a60eb6ba41f"
+  },
+  {
+    "type": "verb",
+    "base": "angeboten",
+    "article": null,
+    "translate": "предлагать",
+    "context": [],
+    "originals": [
+      "angeboten"
+    ],
+    "id": "63d677576759373bec959c8ba258f51a"
+  },
+  {
+    "type": "verb",
+    "base": "angreifen",
+    "article": null,
+    "translate": "брать; хватать; нападать",
+    "context": [],
+    "originals": [
+      "angreifen"
+    ],
+    "id": "ec0d93a2d86409318b339488360d5cb1"
+  },
+  {
+    "type": "verb",
+    "base": "anhaben",
+    "article": null,
+    "translate": "носить одежду; быть одетым; носить",
+    "context": [],
+    "originals": [
+      "anhaben",
+      "tragen"
+    ],
+    "id": "d15b26e6f58db3a61dcfc227e18df848"
+  },
+  {
+    "type": "verb",
+    "base": "anklicken",
+    "article": null,
+    "translate": "кликать мышкой; кликнуть мышью; кликать; кликнуть",
+    "context": [
+      [
+        "Da musst du dieses Wort anklicken.",
+        ""
+      ]
+    ],
+    "originals": [
+      "anklicken"
+    ],
+    "id": "db48c8fdbaf40f2725e7de1afdf94216"
+  },
+  {
+    "type": "verb",
+    "base": "ankommen",
+    "article": null,
+    "translate": "прибывать; приезжать",
+    "context": [
+      [
+        "Wann kommt dieser Zug in Hamburg an?",
+        ""
+      ]
+    ],
+    "originals": [
+      "ankommen"
+    ],
+    "id": "93986664a1dac026d4ca0b88e7cfced6"
+  },
+  {
+    "type": "verb",
+    "base": "ankreuzen",
+    "article": null,
+    "translate": "отмечать крестиком; отметить крестиком; поставить крестик; зачеркнуть",
+    "context": [
+      [
+        "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
+        ""
+      ]
+    ],
+    "originals": [
+      "ankreuzen"
+    ],
+    "id": "e18f8169d75345803dde9bf517fa7906"
+  },
+  {
+    "type": "verb",
+    "base": "anmachen",
+    "article": null,
+    "translate": "включать; прикреплять; зажигать",
+    "context": [
+      [
+        "Mach bitte das Licht an!",
+        ""
+      ]
+    ],
+    "originals": [
+      "anmachen"
+    ],
+    "id": "5b0921740e6dff81b593b1d85953836f"
+  },
+  {
+    "type": "verb",
+    "base": "anmalen",
+    "article": null,
+    "translate": "разукрашивать",
+    "context": [],
+    "originals": [
+      "anmalen"
+    ],
+    "id": "5c56227f3f01603096ff61a164b3ac8b"
+  },
+  {
+    "type": "verb",
+    "base": "anmelden",
+    "article": null,
+    "translate": "регистрироваться; регистрировать; сообщать; заявлять",
+    "context": [
+      [
+        "Wo kann ich mich anmelden?",
+        ""
+      ]
+    ],
+    "originals": [
+      "(sich) anmelden"
+    ],
+    "id": "e7689edf7d589faefa1e0a80db5177e2"
+  },
+  {
+    "type": "verb",
+    "base": "annehmen",
+    "article": null,
+    "translate": "принимать; допускать",
+    "context": [],
+    "originals": [
+      "annehmen"
+    ],
+    "id": "38cee5b33ef438ac1847377e14442464"
+  },
+  {
+    "type": "verb",
+    "base": "anrufen",
+    "article": null,
+    "translate": "звонить (по телефону); звонить по телефону; окликать; звать; звонить",
+    "context": [
+      [
+        "Kann man Sie anrufen?",
+        ""
+      ],
+      [
+        "Peter ruft kurz seine Freundin an.",
+        ""
+      ]
+    ],
+    "originals": [
+      "anrufen"
+    ],
+    "id": "123139e2c2149b5d6726d47f100b2250"
+  },
+  {
+    "type": "verb",
+    "base": "anschließen",
+    "article": null,
+    "translate": "присоединять",
+    "context": [],
+    "originals": [
+      "anschließen"
+    ],
+    "id": "ed9db3eabe47009f22b68072641cb09a"
+  },
+  {
+    "type": "verb",
+    "base": "anschuldigen",
+    "article": null,
+    "translate": "обвинять",
+    "context": [],
+    "originals": [
+      "anschuldigen"
+    ],
+    "id": "f681457ef77716076ff68a50c48e5cee"
+  },
+  {
+    "type": "verb",
+    "base": "antworten",
+    "article": null,
+    "translate": "отвечать; давать ответ; ответить; откликаться",
+    "context": [
+      [
+        "Er antwortet nicht.",
+        ""
+      ]
+    ],
+    "originals": [
+      "antworten"
+    ],
+    "id": "1ae70fe6cc0c3093d2c35cba6684bf62"
+  },
+  {
+    "type": "verb",
+    "base": "anziehen",
+    "article": null,
+    "translate": "надевать (одежду); надевать",
+    "context": [
+      [
+        "Ich muss mich noch anziehen.",
+        ""
+      ]
+    ],
+    "originals": [
+      "(sich) anziehen"
+    ],
+    "id": "b2b683fc442d9ab516a9493026c28914"
+  },
+  {
+    "type": "verb",
+    "base": "arbeiten",
+    "article": null,
+    "translate": "работать; трудиться",
+    "context": [
+      [
+        "Wo arbeiten Sie?",
+        ""
+      ]
+    ],
+    "originals": [
+      "arbeiten"
+    ],
+    "id": "cb12f225b2905e4797f835d73d74ea32"
+  },
+  {
+    "type": "verb",
+    "base": "atmen",
+    "article": null,
+    "translate": "дышать; подышать; жить",
+    "context": [],
+    "originals": [
+      "atmen"
+    ],
+    "id": "14731c024008b1d11bba7de61f167d88"
+  },
+  {
+    "type": "verb",
+    "base": "auf/hören",
+    "article": null,
+    "translate": "переставать; прекратить; прекращать; останавливать; приостанавливать; кончаться",
+    "context": [],
+    "originals": [
+      "auf/hören"
+    ],
+    "id": "6737ca0dd808d6675d68d06bc844a9de"
+  },
+  {
+    "type": "verb",
+    "base": "auf/klären",
+    "article": null,
+    "translate": "просвещать; разъяснять; объяснять; вести разведку; прояснять",
+    "context": [],
+    "originals": [
+      "auf/klären"
+    ],
+    "id": "5601ab7e04315cdf42cd85e26aa6bd3f"
+  },
+  {
+    "type": "verb",
+    "base": "auf/machen",
+    "article": null,
+    "translate": "открывать; отворять; оформлять; вскрывать; расстегивать",
+    "context": [],
+    "originals": [
+      "auf/machen"
+    ],
+    "id": "fdbbd8b50c9c99ae53f5830fc56c40b0"
+  },
+  {
+    "type": "verb",
+    "base": "auf/passen",
+    "article": null,
+    "translate": "наблюдать; присматривать; следить; быть внимательным; берегись; внимательно слушать",
+    "context": [],
+    "originals": [
+      "auf/passen"
+    ],
+    "id": "e1909113dd70dfe00dab3426138127e8"
+  },
+  {
+    "type": "verb",
+    "base": "auf/räumen",
+    "article": null,
+    "translate": "убирать; наводить порядок; делать уборку",
+    "context": [],
+    "originals": [
+      "auf/räumen"
+    ],
+    "id": "191603e407a732af5e5ca59a9e9511f2"
+  },
+  {
+    "type": "verb",
+    "base": "auf/wachen",
+    "article": null,
+    "translate": "просыпаться; пробуждаться",
+    "context": [],
+    "originals": [
+      "auf/wachen"
+    ],
+    "id": "d3ccd97a83956a638b30c6affb005902"
+  },
+  {
+    "type": "verb",
+    "base": "auffallen",
+    "article": null,
+    "translate": "обращать на себя внимание; бросаться в глаза",
+    "context": [],
+    "originals": [
+      "auffallen"
+    ],
+    "id": "12a41d7fbd98e0477bf99302118b648e"
+  },
+  {
+    "type": "verb",
+    "base": "aufhören",
+    "article": null,
+    "translate": "переставать; прекращать; заканчивать",
+    "context": [
+      [
+        "Der Kurs hört in einer Woche auf.",
+        ""
+      ],
+      [
+        "Hier hört die Bahnhofstraße auf.",
+        ""
+      ]
+    ],
+    "originals": [
+      "aufhören"
+    ],
+    "id": "335faf1693f679001c2a938681fdfe6b"
+  },
+  {
+    "type": "verb",
+    "base": "aufmachen",
+    "article": null,
+    "translate": "открывать",
+    "context": [],
+    "originals": [
+      "öffnen; aufmachen"
+    ],
+    "id": "50d7be78613110d5360d40ceb036942e"
+  },
+  {
+    "type": "verb",
+    "base": "aufräumen",
+    "article": null,
+    "translate": "убирать; заниматься уборкой; наводить порядок",
+    "context": [],
+    "originals": [
+      "aufräumen"
+    ],
+    "id": "57eb3ea3987f5e2299d3f6937ff6b194"
+  },
+  {
+    "type": "verb",
+    "base": "aufstehen",
+    "article": null,
+    "translate": "вставать; подниматься; просыпаться",
+    "context": [
+      [
+        "Ich muss immer um vier Uhr aufstehen.",
+        ""
+      ],
+      [
+        "Soll ich aufstehen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "aufstehen"
+    ],
+    "id": "7f4555094d8029c47f758fbf9d901c28"
+  },
+  {
+    "type": "verb",
+    "base": "aus/füllen",
+    "article": null,
+    "translate": "заполнять; наполнять",
+    "context": [],
+    "originals": [
+      "aus/füllen"
+    ],
+    "id": "bddaa8e5d26e8e81c16290787f38daa2"
+  },
+  {
+    "type": "verb",
+    "base": "aus/machen",
+    "article": null,
+    "translate": "составлять; гасить; выключать",
+    "context": [],
+    "originals": [
+      "aus/machen"
+    ],
+    "id": "faaba39a8fa58b5e5759935e5dc51ad6"
+  },
+  {
+    "type": "verb",
+    "base": "aus/packen",
+    "article": null,
+    "translate": "распаковывать; развертывать",
+    "context": [],
+    "originals": [
+      "aus/packen"
+    ],
+    "id": "cf5dc0fe38c0735b9d24d3653e3f0005"
+  },
+  {
+    "type": "verb",
+    "base": "aus/rechnen",
+    "article": null,
+    "translate": "вычислять; высчитывать; рассчитывать",
+    "context": [],
+    "originals": [
+      "aus/rechnen"
+    ],
+    "id": "38f5851fc52928cb692de1645dff0cbc"
+  },
+  {
+    "type": "verb",
+    "base": "aus/reichen",
+    "article": null,
+    "translate": "быть достаточным; хватать; доставать",
+    "context": [],
+    "originals": [
+      "aus/reichen"
+    ],
+    "id": "e9fdc8478e28edc2f59d9a8b87386c0e"
+  },
+  {
+    "type": "verb",
+    "base": "aus/schalten",
+    "article": null,
+    "translate": "выключать; отключать; исключать",
+    "context": [],
+    "originals": [
+      "aus/schalten"
+    ],
+    "id": "69bb49412b530d95068092af43aa352c"
+  },
+  {
+    "type": "verb",
+    "base": "aus/stellen",
+    "article": null,
+    "translate": "выдавать; выставлять; экспонировать; участвовать в выставке",
+    "context": [],
+    "originals": [
+      "aus/stellen"
+    ],
+    "id": "ab5d43faa270035c2e9642089928c056"
+  },
+  {
+    "type": "verb",
+    "base": "ausbrechen",
+    "article": null,
+    "translate": "выламывать",
+    "context": [],
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    },
+    "originals": [
+      "ausbrechen"
+    ],
+    "id": "a3413dc3b6d3efda542bb284be01eac5"
+  },
+  {
+    "type": "verb",
+    "base": "ausführen",
+    "article": null,
+    "translate": "выполнять",
+    "context": [],
+    "originals": [
+      "ausführen; erfüllen"
+    ],
+    "id": "e8b9111c41978bbca794b74076dccd9d"
+  },
+  {
+    "type": "verb",
+    "base": "ausfüllen",
+    "article": null,
+    "translate": "заполнять; заполнить",
+    "context": [
+      [
+        "Füllen Sie bitte dieses Formular aus.",
+        ""
+      ]
+    ],
+    "originals": [
+      "ausfüllen"
+    ],
+    "id": "4146120f59ce5a31f6e02cca744a9712"
+  },
+  {
+    "type": "verb",
+    "base": "ausgeben",
+    "article": null,
+    "translate": "тратить",
+    "context": [],
+    "originals": [
+      "ausgeben"
+    ],
+    "id": "76d258b76e2d39681bba3067ae61cfe6"
+  },
+  {
+    "type": "verb",
+    "base": "aushalten",
+    "article": null,
+    "translate": "вынести",
+    "context": [],
+    "originals": [
+      "aushalten"
+    ],
+    "id": "d992aabaf370678bdce68b03eacb4d66"
+  },
+  {
+    "type": "verb",
+    "base": "auskommen",
+    "article": null,
+    "translate": "находить общий язык; ладить",
+    "context": [],
+    "originals": [
+      "auskommen"
+    ],
+    "id": "1a466547f1f80ff6d096c52c43ce70bc"
+  },
+  {
+    "type": "verb",
+    "base": "ausmachen",
+    "article": null,
+    "translate": "выключать; гасить; тушить",
+    "context": [
+      [
+        "Mach bitte das Licht aus!",
+        ""
+      ]
+    ],
+    "originals": [
+      "ausmachen"
+    ],
+    "id": "aa5bc54538cc7b677e6ab575a5e70e5f"
+  },
+  {
+    "type": "verb",
+    "base": "ausreichen",
+    "article": null,
+    "translate": "быть достаточным",
+    "context": [],
+    "originals": [
+      "ausreichen"
+    ],
+    "id": "6d4d5b940da7b1a1590beff0bd31b3d5"
+  },
+  {
+    "type": "verb",
+    "base": "ausschließen",
+    "article": null,
+    "translate": "исключать",
+    "context": [],
+    "originals": [
+      "ausschließen"
+    ],
+    "id": "11e572f49e7f9c1ae2b53dd825b15fe2"
+  },
+  {
+    "type": "verb",
+    "base": "aussehen",
+    "article": null,
+    "translate": "выглядеть; иметь вид",
+    "context": [
+      [
+        "Das sieht schön aus.",
+        ""
+      ]
+    ],
+    "originals": [
+      "aussehen"
+    ],
+    "id": "edd4c3863a007e3bb1eb35c3ec39c98d"
+  },
+  {
+    "type": "verb",
+    "base": "aussteigen",
+    "article": null,
+    "translate": "выходить; высаживаться; выходить из транспорта",
+    "context": [
+      [
+        "Wo muss ich aussteigen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "aussteigen"
+    ],
+    "id": "ce1f5deb9f65afdad0bb26cb05c9c435"
+  },
+  {
+    "type": "verb",
+    "base": "ausstellen",
+    "article": null,
+    "translate": "выставлять; экспонировать",
+    "context": [],
+    "originals": [
+      "ausstellen"
+    ],
+    "id": "bd2b1f83729046d80998d9f383d8deab"
+  },
+  {
+    "type": "verb",
+    "base": "aussuchen",
+    "article": null,
+    "translate": "выбирать",
+    "context": [],
+    "originals": [
+      "aussuchen"
+    ],
+    "id": "c9d1d09e3f7fdc35077cdf1dd4aabe0e"
+  },
+  {
+    "type": "verb",
+    "base": "ausziehen",
+    "article": null,
+    "translate": "снимать (одежду); вытягивать; снимать; снимать одежду",
+    "context": [
+      [
+        "Zieh die Schuhe aus, bitte!",
+        ""
+      ]
+    ],
+    "originals": [
+      "(sich) ausziehen"
+    ],
+    "id": "5ae89740a5e4a225d5f2e8a62d76b246"
+  },
+  {
+    "type": "verb",
+    "base": "backen",
+    "article": null,
+    "translate": "печь; выпекать; запекать",
+    "context": [],
+    "originals": [
+      "backen"
+    ],
+    "id": "2e64a1d38bffef40a18675ab642a2f52",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "baden",
+    "article": null,
+    "translate": "плавать; купаться; искупать; купать; мыть",
+    "context": [
+      [
+        "Ich bade nicht so gern, ich dusche lieber.",
+        ""
+      ]
+    ],
+    "originals": [
+      "baden"
+    ],
+    "id": "6b9c19e7fa90d781ded5673ed7de396f"
+  },
+  {
+    "type": "verb",
+    "base": "bauen",
+    "article": null,
+    "translate": "строить; возводить; сооружать; воздвигать",
+    "context": [],
+    "originals": [
+      "bauen"
+    ],
+    "id": "e1a23412ca46a9be4a8bd22c37871b74"
+  },
+  {
+    "type": "verb",
+    "base": "beachten",
+    "article": null,
+    "translate": "обратить внимание; соблюдать; учитывать",
+    "context": [],
+    "originals": [
+      "beachten"
+    ],
+    "id": "f79a990047fedd009d20c8ee4d60d5ca"
+  },
+  {
+    "type": "verb",
+    "base": "beben",
+    "article": null,
+    "translate": "сотрясаться (о земле); дрожать",
+    "context": [],
+    "originals": [
+      "beben"
+    ],
+    "id": "ef23c9f0f1968f30b0a120929296f065"
+  },
+  {
+    "type": "verb",
+    "base": "bedeuten",
+    "article": null,
+    "translate": "значить; означать; обозначать",
+    "context": [
+      [
+        "Was bedeutet das Wort?",
+        ""
+      ]
+    ],
+    "originals": [
+      "bedeuten"
+    ],
+    "id": "33f4a356e533bec66cc9b347f1c332f9"
+  },
+  {
+    "type": "verb",
+    "base": "bedienen",
+    "article": null,
+    "translate": "обслуживать; ухаживать; (С 'sich' - угощаться); прислуживать",
+    "context": [],
+    "originals": [
+      "bedienen"
+    ],
+    "id": "153f70beeaaa87d5cac20924f16e3c3f"
+  },
+  {
+    "type": "verb",
+    "base": "beenden",
+    "article": null,
+    "translate": "завершать",
+    "context": [],
+    "originals": [
+      "beenden"
+    ],
+    "id": "7ea5300afe0f480d6ca709487cafeb46"
+  },
+  {
+    "type": "verb",
+    "base": "befehlen",
+    "article": null,
+    "translate": "командовать; приказывать; предписывать; велеть",
+    "context": [],
+    "originals": [
+      "befehlen"
+    ],
+    "id": "7568073afd41e97321b32224691d522b",
+    "irregular": true,
+    "config": {
+      "type": "e-ie"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "befreien",
+    "article": null,
+    "translate": "освобождать",
+    "context": [],
+    "originals": [
+      "befreien"
+    ],
+    "id": "1b063a76cc5bee26d4e4da8da4fa3022"
+  },
+  {
+    "type": "verb",
+    "base": "begegnen",
+    "article": null,
+    "translate": "встречать; приключаться; повстречать; встречаться; противостоять; давать отпор",
+    "context": [],
+    "originals": [
+      "begegnen"
+    ],
+    "id": "5489889bccc1d8f30cb5977e56bb228c"
+  },
+  {
+    "type": "verb",
+    "base": "beginnen",
+    "article": null,
+    "translate": "затевать; начинать; предпринимать; делать; начинаться",
+    "context": [
+      [
+        "Das Spiel beginnt um 15.30 Uhr.",
+        ""
+      ]
+    ],
+    "originals": [
+      "beginnen"
+    ],
+    "id": "76aa5d5da4c50956fb65086013fd323e",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "begleiten",
+    "article": null,
+    "translate": "сопровождать; конвоировать",
+    "context": [],
+    "originals": [
+      "begleiten"
+    ],
+    "id": "c7291b474ed982c37a48e9d94e35aa98"
+  },
+  {
+    "type": "verb",
+    "base": "begründen",
+    "article": null,
+    "translate": "обосновывать; мотивировать; основывать; закладывать основы",
+    "context": [],
+    "originals": [
+      "begründen"
+    ],
+    "id": "c8c089109134f4d8e2fc6f4542a3741c"
+  },
+  {
+    "type": "verb",
+    "base": "begrüßen",
+    "article": null,
+    "translate": "приветствовать; здороваться; встречать; одобрять",
+    "context": [],
+    "originals": [
+      "begrüßen"
+    ],
+    "id": "174077606367e3ea139ca8a60951e5b8"
+  },
+  {
+    "type": "verb",
+    "base": "behalten",
+    "article": null,
+    "translate": "держать; удерживать; сохранять; хранить; оставлять; задерживать",
+    "context": [],
+    "originals": [
+      "behalten"
+    ],
+    "id": "c0e9ddd0d4e8fe8bd0fb25356ab7971b"
+  },
+  {
+    "type": "verb",
+    "base": "behaupten",
+    "article": null,
+    "translate": "утверждать; уверять; отстаивать; удерживать",
+    "context": [],
+    "originals": [
+      "behaupten"
+    ],
+    "id": "5c0fbf5bbce297ac4a74dc9d0902a91a"
+  },
+  {
+    "type": "verb",
+    "base": "beiwohnen",
+    "article": null,
+    "translate": "присутствовать",
+    "context": [],
+    "originals": [
+      "beiwohnen"
+    ],
+    "id": "c9caf87fd118e886b73bca031ac17d1c"
+  },
+  {
+    "type": "verb",
+    "base": "beißen",
+    "article": null,
+    "translate": "кусать; укусить",
+    "context": [],
+    "originals": [
+      "beißen"
+    ],
+    "id": "b774c642a86f9c0ab43ce60e872fe1ad",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "bekommen",
+    "article": null,
+    "translate": "получать; приобретать; получить",
+    "context": [
+      [
+        "Haben Sie meinen Brief bekommen?",
+        ""
+      ],
+      [
+        "Was bekommen Sie?",
+        ""
+      ],
+      [
+        "Dieses Medikament bekommen Sie in der Apotheke.",
+        ""
+      ]
+    ],
+    "originals": [
+      "bekommen"
+    ],
+    "id": "523c38fffbff53dbed8cacfa440890de"
+  },
+  {
+    "type": "verb",
+    "base": "beleben",
+    "article": null,
+    "translate": "приводить в чувство; оживлять; воодушевлять",
+    "context": [],
+    "originals": [
+      "beleben"
+    ],
+    "id": "b91a077806a3019e108718ea9504b1f5"
+  },
+  {
+    "type": "verb",
+    "base": "beleidigen",
+    "article": null,
+    "translate": "обижать; оскорблять",
+    "context": [],
+    "originals": [
+      "beleidigen"
+    ],
+    "id": "766159284d90c0a528628659573fd83e"
+  },
+  {
+    "type": "verb",
+    "base": "bellen",
+    "article": null,
+    "translate": "лаять; тявкать",
+    "context": [],
+    "originals": [
+      "bellen"
+    ],
+    "id": "7201fb433c9096cdcbbe382129ae2af6"
+  },
+  {
+    "type": "verb",
+    "base": "belohnen",
+    "article": null,
+    "translate": "награждать; вознаграждать",
+    "context": [],
+    "originals": [
+      "belohnen"
+    ],
+    "id": "318aa5ac93c36b163859023f3493ab42"
+  },
+  {
+    "type": "verb",
+    "base": "belästigen",
+    "article": null,
+    "translate": "беспокоить",
+    "context": [],
+    "originals": [
+      "belästigen"
+    ],
+    "id": "e4b3789cb17ef6d1f339a2269e67bcfd"
+  },
+  {
+    "type": "verb",
+    "base": "bemerken",
+    "article": null,
+    "translate": "отмечать; замечать; подмечать; усматривать",
+    "context": [],
+    "originals": [
+      "bemerken"
+    ],
+    "id": "50aa08d2904154f6ff9a2399ac87787d"
+  },
+  {
+    "type": "verb",
+    "base": "benutzen",
+    "article": null,
+    "translate": "пользоваться; использовать; употреблять; воспользоваться",
+    "context": [
+      [
+        "Die Aufzüge bitte nicht benutzen!",
+        ""
+      ]
+    ],
+    "originals": [
+      "benutzen"
+    ],
+    "id": "a6b23f5016b1991fd20883d7aaf6f63d"
+  },
+  {
+    "type": "verb",
+    "base": "beobachten",
+    "article": null,
+    "translate": "наблюдать; следить; присматривать; проводить наблюдения",
+    "context": [],
+    "originals": [
+      "beobachten"
+    ],
+    "id": "7a6e39ad146a20688af182027be52258"
+  },
+  {
+    "type": "verb",
+    "base": "bergen",
+    "article": null,
+    "translate": "спасать; укрывать; прятать",
+    "context": [],
+    "originals": [
+      "bergen"
+    ],
+    "id": "3a282d31e0e261064c34d5ccb95c8645",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "berichten",
+    "article": null,
+    "translate": "сообщать; доносить; докладывать; рапортовать",
+    "context": [],
+    "originals": [
+      "berichten"
+    ],
+    "id": "6b17321307274dd9a53f447c6dff4aa9"
+  },
+  {
+    "type": "verb",
+    "base": "bersten",
+    "article": null,
+    "translate": "трескаться; разрываться; лопнуть; лопаться",
+    "context": [],
+    "originals": [
+      "bersten"
+    ],
+    "id": "0120399dc342478fcbb2ed9156aebd2f",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "beruhigen",
+    "article": null,
+    "translate": "успокаивать; усмирять",
+    "context": [],
+    "originals": [
+      "beruhigen"
+    ],
+    "id": "df018961b3299125612a212f45624bdc"
+  },
+  {
+    "type": "verb",
+    "base": "berücksichtigen",
+    "article": null,
+    "translate": "учитывать; считаться; принимать во внимание; принять в расчет",
+    "context": [],
+    "originals": [
+      "berücksichtigen"
+    ],
+    "id": "77fda6b75e70f611451e4874607545a8"
+  },
+  {
+    "type": "verb",
+    "base": "beschließen",
+    "article": null,
+    "translate": "решать",
+    "context": [],
+    "originals": [
+      "entscheiden; beschließen"
+    ],
+    "id": "ee8f4c6d41f0312d10aee64773c3ea28"
+  },
+  {
+    "type": "verb",
+    "base": "beschädigen",
+    "article": null,
+    "translate": "повреждать; портить; получать повреждения",
+    "context": [],
+    "originals": [
+      "beschädigen"
+    ],
+    "id": "7a4d9ba1f1a78d2f200d1a47d9900a89"
+  },
+  {
+    "type": "verb",
+    "base": "besichtigen",
+    "article": null,
+    "translate": "осматривать; посещать; инспектировать",
+    "context": [
+      [
+        "Ich möchte gern den Dom besichtigen.",
+        ""
+      ]
+    ],
+    "originals": [
+      "besichtigen"
+    ],
+    "id": "ea4d2b608e1f0206e1f455b84b6f37fa"
+  },
+  {
+    "type": "verb",
+    "base": "besitzen",
+    "article": null,
+    "translate": "владеть; обладать",
+    "context": [],
+    "originals": [
+      "besitzen"
+    ],
+    "id": "deb109065cd47f2869631a0f06adc205"
+  },
+  {
+    "type": "verb",
+    "base": "besorgen",
+    "article": null,
+    "translate": "опасаться; заботиться; ухаживать; присматривать; вести; заниматься",
+    "context": [],
+    "originals": [
+      "besorgen"
+    ],
+    "id": "d99414e12b8e632d3910635425d0adaa"
+  },
+  {
+    "type": "verb",
+    "base": "bestellen",
+    "article": null,
+    "translate": "заказывать; заказать; делать заказ",
+    "context": [
+      [
+        "Wir möchten bestellen, bitte.",
+        ""
+      ],
+      [
+        "Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "bestellen"
+    ],
+    "id": "83b587fb6e6c4745d896dc15183d8c84"
+  },
+  {
+    "type": "verb",
+    "base": "bestimmen",
+    "article": null,
+    "translate": "определять; идентифицировать; обозначать; предназначить; устанавливать",
+    "context": [],
+    "originals": [
+      "bestimmen"
+    ],
+    "id": "fea807929b1f475eb7ab0bc15dc0b048"
+  },
+  {
+    "type": "verb",
+    "base": "bestrafen",
+    "article": null,
+    "translate": "наказывать; карать; штрафовать",
+    "context": [],
+    "originals": [
+      "bestrafen"
+    ],
+    "id": "fa9b88190e43d3096c40437ba3af635f"
+  },
+  {
+    "type": "verb",
+    "base": "bestätigen",
+    "article": null,
+    "translate": "подтверждать; удостоверять; заверять; засвидетельствовать; утверждать; ратифицировать",
+    "context": [],
+    "originals": [
+      "bestätigen"
+    ],
+    "id": "9a99557393034c23ff791d807db4b7ac"
+  },
+  {
+    "type": "verb",
+    "base": "besuchen",
+    "article": null,
+    "translate": "посещать; навещать; наведываться; проведывать",
+    "context": [
+      [
+        "Darf ich dich besuchen?",
+        "Могу я навестить вас?"
+      ]
+    ],
+    "originals": [
+      "besuchen"
+    ],
+    "id": "5e7635ff026b6a49b30916106a4fd0da"
+  },
+  {
+    "type": "verb",
+    "base": "beten",
+    "article": null,
+    "translate": "молиться",
+    "context": [],
+    "originals": [
+      "beten"
+    ],
+    "id": "202cbb086ee0d6b9afc6088c05f5963a"
+  },
+  {
+    "type": "verb",
+    "base": "betreuen",
+    "article": null,
+    "translate": "курировать; заботиться; ухаживать; присматривать; опекать; оказывать поддержку",
+    "context": [],
+    "originals": [
+      "betreuen"
+    ],
+    "id": "cac530b22ca3a5194ca50985d76b1d7b"
+  },
+  {
+    "type": "verb",
+    "base": "betrunken",
+    "article": null,
+    "translate": "пьяный; нетрезвый; в нетрезвом виде; выпивши",
+    "context": [],
+    "originals": [
+      "betrunken"
+    ],
+    "id": "d0a8f1e816be6fdde46319ad272c3abc"
+  },
+  {
+    "type": "verb",
+    "base": "betrügen",
+    "article": null,
+    "translate": "обманывать; дурачить",
+    "context": [],
+    "originals": [
+      "betrügen"
+    ],
+    "id": "b17124999d262d00189c6c782754092f"
+  },
+  {
+    "type": "verb",
+    "base": "beunruhigen",
+    "article": null,
+    "translate": "волновать",
+    "context": [],
+    "originals": [
+      "beunruhigen"
+    ],
+    "id": "7033d9c43a03adc563e893538a8dae21"
+  },
+  {
+    "type": "verb",
+    "base": "bewegen",
+    "article": null,
+    "translate": "двигать; передвигать; склонять; побуждать; двигать(ся)",
+    "context": [],
+    "originals": [
+      "(sich) bewegen"
+    ],
+    "id": "f0985f24156111046817f3967729ce43",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "bezahlen",
+    "article": null,
+    "translate": "платить; выплачивать; оплачивать",
+    "context": [
+      [
+        "Wo muss ich bezahlen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "bezahlen"
+    ],
+    "id": "c17a9f3924b78515a55630d58a7006ee"
+  },
+  {
+    "type": "verb",
+    "base": "biegen",
+    "article": null,
+    "translate": "гнуть; сгибать; изгибать",
+    "context": [],
+    "originals": [
+      "biegen"
+    ],
+    "id": "b706bbcc2b93630854d394bfcab526eb",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "bieten",
+    "article": null,
+    "translate": "предлагать; давать; предоставлять возможность",
+    "context": [],
+    "originals": [
+      "bieten"
+    ],
+    "id": "747f930f0a80e04ff481ae95258145f0",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "bilden",
+    "article": null,
+    "translate": "образовывать",
+    "context": [],
+    "originals": [
+      "bilden"
+    ],
+    "id": "2a936d39e5cc7da01cf70d6119f64dc4"
+  },
+  {
+    "type": "verb",
+    "base": "binden",
+    "article": null,
+    "translate": "связывать; завязывать",
+    "context": [],
+    "originals": [
+      "binden"
+    ],
+    "id": "2051c95af9867acf1b38c9a18bb56058",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "bisschen",
+    "article": null,
+    "translate": "немного; чуть-чуть",
+    "context": [
+      [
+        "Ich spreche Englisch, Französisch und ein bisschen Deutsch.",
+        ""
+      ]
+    ],
+    "originals": [
+      "bisschen"
+    ],
+    "id": "ed67f7fff210cde4135b5dca56ed8bea"
+  },
+  {
+    "type": "verb",
+    "base": "bitten",
+    "article": null,
+    "translate": "просить; ходатайствовать; выражать просьбу",
+    "context": [
+      [
+        "Darf ich Sie um etwas bitten?",
+        ""
+      ]
+    ],
+    "originals": [
+      "bitten"
+    ],
+    "id": "ebd06672a4355661fc8ab4ff6cce9306",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "blasen",
+    "article": null,
+    "translate": "дуть; выдувать",
+    "context": [],
+    "originals": [
+      "blasen"
+    ],
+    "id": "c2115013f9ae2f5d1cdfaa945bf18de2",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "bleiben",
+    "article": null,
+    "translate": "оставаться; остаться",
+    "context": [
+      [
+        "Ich bleibe heute zu Hause.",
+        ""
+      ],
+      [
+        "Wir bleiben nur bis morgen.",
+        ""
+      ]
+    ],
+    "originals": [
+      "bleiben"
+    ],
+    "id": "9c64e52c4a8b1da1e702e7a89e7e9b8b",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "blicken",
+    "article": null,
+    "translate": "взглянуть; глядеть",
+    "context": [],
+    "originals": [
+      "blicken"
+    ],
+    "id": "66a500651cd6e5792e607227d91b2102"
+  },
+  {
+    "type": "verb",
+    "base": "blitzen",
+    "article": null,
+    "translate": "сверкать",
+    "context": [],
+    "originals": [
+      "blitzen"
+    ],
+    "id": "836defcc2b5053a49c17c1dfca7ba772"
+  },
+  {
+    "type": "verb",
+    "base": "bluten",
+    "article": null,
+    "translate": "кровоточить; наливаться кровью",
+    "context": [],
+    "originals": [
+      "bluten"
+    ],
+    "id": "30ee2cc7a721193cc1b50b1d26604739"
+  },
+  {
+    "type": "verb",
+    "base": "blühen",
+    "article": null,
+    "translate": "цвести; расцветать; зацветать",
+    "context": [],
+    "originals": [
+      "blühen"
+    ],
+    "id": "fc6c23bdf39c20c8610291570a22766e"
+  },
+  {
+    "type": "verb",
+    "base": "borgen",
+    "article": null,
+    "translate": "брать взаймы",
+    "context": [],
+    "originals": [
+      "borgen"
+    ],
+    "id": "eaea5ae7762cea54e6e9f791ab423c2b"
+  },
+  {
+    "type": "verb",
+    "base": "braten",
+    "article": null,
+    "translate": "жарить; обжигать; жариться",
+    "context": [],
+    "originals": [
+      "braten"
+    ],
+    "id": "03b449a502886636ca9de450a82f2782",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "brauchen",
+    "article": null,
+    "translate": "нуждаться; иметь потребность; понадобиться",
+    "context": [
+      [
+        "Brauchst du die Zeitung noch?",
+        ""
+      ]
+    ],
+    "originals": [
+      "brauchen"
+    ],
+    "id": "77bcfd6e534471ed8b82eff34a7f6cb8"
+  },
+  {
+    "type": "verb",
+    "base": "brauen",
+    "article": null,
+    "translate": "варить (пиво)",
+    "context": [],
+    "originals": [
+      "brauen"
+    ],
+    "id": "b6fd44469bf75f0d6cbba71cc97b3bb2"
+  },
+  {
+    "type": "verb",
+    "base": "brausen",
+    "article": null,
+    "translate": "шуметь; реветь; бурлить",
+    "context": [],
+    "originals": [
+      "brausen"
+    ],
+    "id": "935366cc0deba464b9e7cd630ec8cead"
+  },
+  {
+    "type": "verb",
+    "base": "brechen",
+    "article": null,
+    "translate": "ломать; разбивать; нарушать; преодолевать",
+    "context": [],
+    "originals": [
+      "brechen"
+    ],
+    "id": "7f507f09b14c74cebbfe80a4ca7974b6",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "bremsen",
+    "article": null,
+    "translate": "тормозить; замедлять; сдерживать; останавливать",
+    "context": [],
+    "originals": [
+      "bremsen"
+    ],
+    "id": "e99fa103e71e685d7a7650a36cd6bfac"
+  },
+  {
+    "type": "verb",
+    "base": "brennen",
+    "article": null,
+    "translate": "гореть; жечь; сжигать; пылать",
+    "context": [],
+    "originals": [
+      "brennen"
+    ],
+    "id": "808542a87f27beb4d6155c0859905d30",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "bringen",
+    "article": null,
+    "translate": "приносить; приводить; привозить",
+    "context": [
+      [
+        "Bringen Sie mir bitte noch einen Kaffee!",
+        ""
+      ],
+      [
+        "Wir müssen ihn zum Arzt bringen.",
+        ""
+      ]
+    ],
+    "originals": [
+      "bringen"
+    ],
+    "id": "5559026541603f61eb094c699d7f26ca",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "brüten",
+    "article": null,
+    "translate": "высиживать птенцов",
+    "context": [],
+    "originals": [
+      "brüten"
+    ],
+    "id": "49af9e891003643610aa1e32b4664574"
+  },
+  {
+    "type": "verb",
+    "base": "buchen",
+    "article": null,
+    "translate": "бронировать; заказывать; резервировать",
+    "context": [],
+    "originals": [
+      "buchen"
+    ],
+    "id": "ba5539faecbb60c0ebffab0f96e68603"
+  },
+  {
+    "type": "verb",
+    "base": "buchstabieren",
+    "article": null,
+    "translate": "диктовать по буквам; говорить по буквам; произносить по буквам; читать по буквам",
+    "context": [
+      [
+        "Bitte buchstabieren Sie Ihren Namen.",
+        ""
+      ]
+    ],
+    "originals": [
+      "buchstabieren"
+    ],
+    "id": "9241a1fb9e29add2bd97d99ef7523a67"
+  },
+  {
+    "type": "verb",
+    "base": "bürsten",
+    "article": null,
+    "translate": "чистить; чесать щеткой",
+    "context": [],
+    "originals": [
+      "bürsten"
+    ],
+    "id": "02f96b411d477088834179174055b0ca"
+  },
+  {
+    "type": "verb",
+    "base": "dabeihaben",
+    "article": null,
+    "translate": "иметь при себе; иметь с собой",
+    "context": [],
+    "originals": [
+      "dabeihaben"
+    ],
+    "id": "00e161065e9ce6259dd7ce200126d06f"
+  },
+  {
+    "type": "verb",
+    "base": "daneben",
+    "article": null,
+    "translate": "в дополнение; на ряду с этим; наряду с этим; рядом; сбоку; подле; возле",
+    "context": [
+      [
+        "Du kennst doch die Post. Daneben ist die Bank.",
+        ""
+      ]
+    ],
+    "originals": [
+      "daneben"
+    ],
+    "id": "172b9f5b6454b832220e454d3167fa74"
+  },
+  {
+    "type": "verb",
+    "base": "danken",
+    "article": null,
+    "translate": "благодарить; поблагодарить",
+    "context": [
+      [
+        "Ich danke Ihnen für die Einladung.",
+        ""
+      ]
+    ],
+    "originals": [
+      "danken"
+    ],
+    "id": "66d26fa3c613d06833484cf97d210bbe"
+  },
+  {
+    "type": "verb",
+    "base": "decken",
+    "article": null,
+    "translate": "покрывать",
+    "context": [],
+    "originals": [
+      "decken"
+    ],
+    "id": "b0692fdbab610b328b0c9881dc059149"
+  },
+  {
+    "type": "verb",
+    "base": "denken",
+    "article": null,
+    "translate": "думать; размышлять; мыслить; полагать",
+    "context": [],
+    "originals": [
+      "denken"
+    ],
+    "id": "429dc9d5a0b8521695eac7edc5d5cab8",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "deswegen",
+    "article": null,
+    "translate": "поэтому; по этой причине; оттого",
+    "context": [],
+    "originals": [
+      "deswegen"
+    ],
+    "id": "4dcacabb9555159d74689176852e48b1"
+  },
+  {
+    "type": "verb",
+    "base": "dienen",
+    "article": null,
+    "translate": "служить; посвятить себя; оказывать услугу",
+    "context": [],
+    "originals": [
+      "dienen"
+    ],
+    "id": "37ca8a5956e5c72b548e7c526eeacad5"
+  },
+  {
+    "type": "verb",
+    "base": "dingen",
+    "article": null,
+    "translate": "нанимать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "dingen"
+    ],
+    "id": "4c796658a69888af6a76ec32f589cbcc"
+  },
+  {
+    "type": "verb",
+    "base": "diskutieren",
+    "article": null,
+    "translate": "обсуждать; дискутировать",
+    "context": [],
+    "originals": [
+      "diskutieren"
+    ],
+    "id": "fbcd976a7cd291e04e8b7dbe920a7f9d"
+  },
+  {
+    "type": "verb",
+    "base": "dividieren",
+    "article": null,
+    "translate": "делить",
+    "context": [],
+    "originals": [
+      "dividieren"
+    ],
+    "id": "15b7cb9f75c221f13724e5994fb610d0"
+  },
+  {
+    "type": "verb",
+    "base": "draußen",
+    "article": null,
+    "translate": "снаружи; на улице",
+    "context": [
+      [
+        "Wollen wir draußen sitzen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "draußen"
+    ],
+    "id": "f8b314b92d5d9fb69d0daee56a12034b"
+  },
+  {
+    "type": "verb",
+    "base": "drehen",
+    "article": null,
+    "translate": "поворачивать; вращать; вертеть; крутить; скручивать; снимать",
+    "context": [],
+    "originals": [
+      "drehen"
+    ],
+    "id": "0c72d4d7b0c17af00c484f194631fec8"
+  },
+  {
+    "type": "verb",
+    "base": "dreschen",
+    "article": null,
+    "translate": "молотить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "dreschen"
+    ],
+    "id": "0e2d85fea7106003e46afc2c24d15147"
+  },
+  {
+    "type": "verb",
+    "base": "dringen",
+    "article": null,
+    "translate": "проникать; настаивать; требовать; просить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "dringen"
+    ],
+    "id": "77a0f98282e9fcbcdf0eb5014e7cb803"
+  },
+  {
+    "type": "verb",
+    "base": "drinnen",
+    "article": null,
+    "translate": "внутри; в помещении",
+    "context": [],
+    "originals": [
+      "drinnen"
+    ],
+    "id": "c6ff42c1adf407734b277d347b11357b"
+  },
+  {
+    "type": "verb",
+    "base": "drucken",
+    "article": null,
+    "translate": "печатать; распечатать; печатать (на принтере); отпечатать",
+    "context": [
+      [
+        "Bitte drucke das Formular für mich.",
+        ""
+      ]
+    ],
+    "originals": [
+      "drucken"
+    ],
+    "id": "ff9a57e5584913e7ee5b4718cf9ef5d4"
+  },
+  {
+    "type": "verb",
+    "base": "drüben",
+    "article": null,
+    "translate": "(там) на той стороне",
+    "context": [],
+    "originals": [
+      "(da) drüben"
+    ],
+    "id": "9d9e3d38d7214be239a23eedb84dec79"
+  },
+  {
+    "type": "verb",
+    "base": "drücken",
+    "article": null,
+    "translate": "давить; жать; нажимать; надавливать; оказывать давление",
+    "context": [
+      [
+        "Drück hier, dann geht der Computer an.",
+        ""
+      ]
+    ],
+    "originals": [
+      "drücken"
+    ],
+    "id": "098b8b2cae05a8687f2feeef780152c0"
+  },
+  {
+    "type": "verb",
+    "base": "duschen",
+    "article": null,
+    "translate": "принимать душ",
+    "context": [
+      [
+        "Ich bade nicht so gern, ich dusche lieber.",
+        ""
+      ]
+    ],
+    "originals": [
+      "(sich) duschen"
+    ],
+    "id": "5180f15b2e7172d8905cde2e190f0ffc"
+  },
+  {
+    "type": "verb",
+    "base": "dünken",
+    "article": null,
+    "translate": "воображать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "dünken"
+    ],
+    "id": "2c295c8543a9061aeb19edebb2aaf9aa"
+  },
+  {
+    "type": "verb",
+    "base": "dürfen",
+    "article": null,
+    "translate": "мочь; мочь (иметь разрешение); быть вправе; сметь; иметь разрешение",
+    "context": [
+      [
+        "Sie dürfen hier nicht rauchen.",
+        ""
+      ],
+      [
+        "Darf ich Sie zu einem Kaffee einladen?",
+        ""
+      ],
+      [
+        "Es darf nicht mehr als 15 Euro kosten.",
+        ""
+      ]
+    ],
+    "originals": [
+      "dürfen"
+    ],
+    "id": "5e8fec55936145d9014189d9245c521a",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "eigen",
+    "article": null,
+    "translate": "собственный; личный; родной; свой",
+    "context": [],
+    "originals": [
+      "eigen"
+    ],
+    "id": "05f40ada660895373c80a87a60c6e4bf"
+  },
+  {
+    "type": "verb",
+    "base": "ein/kaufen",
+    "article": null,
+    "translate": "делать покупки; производить закупки",
+    "context": "отовариваться",
+    "originals": [
+      "ein/kaufen"
+    ],
+    "id": "971895b085404c3177ecfa4dcc893fc8"
+  },
+  {
+    "type": "verb",
+    "base": "ein/packen",
+    "article": null,
+    "translate": "заворачивать; укутывать; упаковывать; укладывать; складывать",
+    "context": [],
+    "originals": [
+      "ein/packen"
+    ],
+    "id": "7bd13b85bd26844a185ec81ab4c581cc"
+  },
+  {
+    "type": "verb",
+    "base": "ein/richten",
+    "article": null,
+    "translate": "обставлять; меблировать; настраивать; регулировать",
+    "context": [],
+    "originals": [
+      "ein/richten"
+    ],
+    "id": "d4b439e3b4164e755e481ec74dff2d91"
+  },
+  {
+    "type": "verb",
+    "base": "ein/stellen",
+    "article": null,
+    "translate": "устанавливать; регулировать; настраивать; вставлять; принимать на работу",
+    "context": [],
+    "originals": [
+      "ein/stellen"
+    ],
+    "id": "1e925b0d137d1da5dd4763bb2bce3b66"
+  },
+  {
+    "type": "verb",
+    "base": "einkaufen",
+    "article": null,
+    "translate": "покупать; закупаться; делать покупки; закупать",
+    "context": [
+      [
+        "Ich muss noch für morgen einkaufen.",
+        ""
+      ]
+    ],
+    "originals": [
+      "einkaufen"
+    ],
+    "id": "ca914c2b573f678177d056a2935f0f4e"
+  },
+  {
+    "type": "verb",
+    "base": "einkreisen",
+    "article": null,
+    "translate": "обвести",
+    "context": [],
+    "originals": [
+      "einkreisen"
+    ],
+    "id": "afd3e77c919836c7e5c8a3d1c4dfe8d8"
+  },
+  {
+    "type": "verb",
+    "base": "einladen",
+    "article": null,
+    "translate": "приглашать; пригласить; звать",
+    "context": [
+      [
+        "Darf ich Sie zu einem Kaffee einladen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "einladen"
+    ],
+    "id": "76f89faaca34233537199cf8d80d2e88"
+  },
+  {
+    "type": "verb",
+    "base": "einsteigen",
+    "article": null,
+    "translate": "входить; садиться в транспорт",
+    "context": [
+      [
+        "Schnell, steig ein, der Zug fährt gleich.",
+        ""
+      ]
+    ],
+    "originals": [
+      "einsteigen"
+    ],
+    "id": "ee5a797852e40e44602cf9767faf2d5b"
+  },
+  {
+    "type": "verb",
+    "base": "einstellen",
+    "article": null,
+    "translate": "прекращать",
+    "context": [],
+    "originals": [
+      "einstellen"
+    ],
+    "id": "0f86250155bdd6d1b978155de2a03793"
+  },
+  {
+    "type": "verb",
+    "base": "eintreten",
+    "article": null,
+    "translate": "входить",
+    "context": [],
+    "originals": [
+      "eintreten"
+    ],
+    "id": "344dc8315afc5f889f955eb04c7ce938"
+  },
+  {
+    "type": "verb",
+    "base": "einverstanden",
+    "article": null,
+    "translate": "согласный; согласен",
+    "context": [],
+    "originals": [
+      "einverstanden"
+    ],
+    "id": "dec882bdd72f21a578d32887423f642d"
+  },
+  {
+    "type": "verb",
+    "base": "empfangen",
+    "article": null,
+    "translate": "принимать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "empfangen"
+    ],
+    "id": "cc28b7fee8532bb769cc49d2902c3663"
+  },
+  {
+    "type": "verb",
+    "base": "empfehlen",
+    "article": null,
+    "translate": "рекомендовать; советовать",
+    "context": [
+      [
+        "Welchen Wein können Sie mir empfehlen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "empfehlen"
+    ],
+    "id": "a711f50c227b80bd467cf3aa31269ea1",
+    "irregular": true,
+    "config": {
+      "type": "e-ie"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "empfinden",
+    "article": null,
+    "translate": "чувствовать",
+    "context": [],
+    "originals": [
+      "fühlen; empfinden"
+    ],
+    "id": "14b055fb02b0e43ad5b16e89e529eea8"
+  },
+  {
+    "type": "verb",
+    "base": "enden",
+    "article": null,
+    "translate": "заканчиваться; завершиться; заканчивать",
+    "context": [
+      [
+        "Die Straße endet hier.",
+        ""
+      ]
+    ],
+    "originals": [
+      "enden"
+    ],
+    "id": "2a84f93ee15dc8aa6d36dbc4bb31956a"
+  },
+  {
+    "type": "verb",
+    "base": "enthalten",
+    "article": null,
+    "translate": "содержать",
+    "context": [],
+    "originals": [
+      "enthalten"
+    ],
+    "id": "9f7d4c76770ae8e28adffd4a918682af"
+  },
+  {
+    "type": "verb",
+    "base": "entscheiden",
+    "article": null,
+    "translate": "решать",
+    "context": [],
+    "originals": [
+      "entscheiden; beschließen"
+    ],
+    "id": "2733254c5c17376a57cbde730adede60"
+  },
+  {
+    "type": "verb",
+    "base": "entschuldigen",
+    "article": null,
+    "translate": "извинять; прощать; извиняться",
+    "context": [
+      [
+        "Entschuldigen Sie bitte!",
+        ""
+      ]
+    ],
+    "originals": [
+      "entschuldigen"
+    ],
+    "id": "7615c1fdd91b925dad65809f98a783ca"
+  },
+  {
+    "type": "verb",
+    "base": "erbleichen",
+    "article": null,
+    "translate": "бледнеть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "erbleichen"
+    ],
+    "id": "e608291cbe8f701c5405e4dc3b595638"
+  },
+  {
+    "type": "verb",
+    "base": "erfahren",
+    "article": null,
+    "translate": "узнавать",
+    "context": [],
+    "originals": [
+      "erfahren"
+    ],
+    "id": "42e5d8948081491591d5e27154b06184"
+  },
+  {
+    "type": "verb",
+    "base": "erfinden",
+    "article": null,
+    "translate": "изобретать",
+    "context": [],
+    "originals": [
+      "erfinden"
+    ],
+    "id": "0678e097cf4729bccddf33cc640c85d5"
+  },
+  {
+    "type": "verb",
+    "base": "erfüllen",
+    "article": null,
+    "translate": "выполнять; удовлетворять; исполнять; соблюдать",
+    "context": [],
+    "originals": [
+      "ausführen; erfüllen"
+    ],
+    "id": "17dda683ed3b7bd66a0d187d79f93483"
+  },
+  {
+    "type": "verb",
+    "base": "ergänzen",
+    "article": null,
+    "translate": "дополнять; добавлять",
+    "context": [],
+    "originals": [
+      "ergänzen"
+    ],
+    "id": "9cf7450319833f84d469a19f6542cb04"
+  },
+  {
+    "type": "verb",
+    "base": "erhöhen",
+    "article": null,
+    "translate": "наращивать; увеличивать; повышать; поднимать; возносить",
+    "context": [],
+    "originals": [
+      "erhöhen"
+    ],
+    "id": "277c353e31ae3ea2b8785881ac41a2b6"
+  },
+  {
+    "type": "verb",
+    "base": "erkennen",
+    "article": null,
+    "translate": "узнавать; распознавать; понимать; признавать; осознавать; обнаруживать",
+    "context": [],
+    "originals": [
+      "erkennen"
+    ],
+    "id": "950dadacbf7a5b7303188f4fef801ac4"
+  },
+  {
+    "type": "verb",
+    "base": "erkiesen",
+    "article": null,
+    "translate": "избирать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "erkiesen"
+    ],
+    "id": "7992ccae9f4c2ff9163d11a8acdb1fee"
+  },
+  {
+    "type": "verb",
+    "base": "erklären",
+    "article": null,
+    "translate": "объяснять; разъяснять; растолковывать",
+    "context": [
+      [
+        "Kannst du mir das erklären?",
+        ""
+      ]
+    ],
+    "originals": [
+      "erklären"
+    ],
+    "id": "30576e7cc28773c7680bd744b2b0598c"
+  },
+  {
+    "type": "verb",
+    "base": "erlauben",
+    "article": null,
+    "translate": "разрешать; позволять",
+    "context": [
+      [
+        "Rauchen ist hier nicht erlaubt.",
+        ""
+      ]
+    ],
+    "originals": [
+      "erlauben"
+    ],
+    "id": "0b50eabf0c79b99a03762ef18815ceb8"
+  },
+  {
+    "type": "verb",
+    "base": "erleben",
+    "article": null,
+    "translate": "испытывать; испробовать; переживать; познавать",
+    "context": [],
+    "originals": [
+      "erleben"
+    ],
+    "id": "1a1a226b148bc69c67b27828b3501a99"
+  },
+  {
+    "type": "verb",
+    "base": "erledigen",
+    "article": null,
+    "translate": "выполнять; исполнять; заканчивать; доводить до конца",
+    "context": [],
+    "originals": [
+      "erledigen"
+    ],
+    "id": "809c5c8ab512c78903d80ba068c00bec"
+  },
+  {
+    "type": "verb",
+    "base": "erlöschen",
+    "article": null,
+    "translate": "потухать; прекращаться; погаснуть; угасать; ослабевать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "erlöschen"
+    ],
+    "id": "b6bf7e6303174390ac35e56402a0fc38"
+  },
+  {
+    "type": "verb",
+    "base": "erreichen",
+    "article": null,
+    "translate": "достигать; добиваться; добираться",
+    "context": [],
+    "originals": [
+      "erreichen"
+    ],
+    "id": "926265427467dc2cdf467249dfa57aa3"
+  },
+  {
+    "type": "verb",
+    "base": "erscheinen",
+    "article": null,
+    "translate": "появляться",
+    "context": [],
+    "originals": [
+      "erscheinen"
+    ],
+    "id": "a3d05acdd2b87711300bda2093436638"
+  },
+  {
+    "type": "verb",
+    "base": "erschrecken",
+    "article": null,
+    "translate": "пугаться; пугать; испугать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "erschrecken"
+    ],
+    "id": "20e1d036ad8f1ed11c521b2e5bb6dd92",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "erwachen",
+    "article": null,
+    "translate": "просыпаться",
+    "context": [],
+    "originals": [
+      "erwachen"
+    ],
+    "id": "4aaca6590a57845e27b1c6cecd0f0ccd"
+  },
+  {
+    "type": "verb",
+    "base": "erwarten",
+    "article": null,
+    "translate": "ожидать; ждать; поджидать",
+    "context": [],
+    "originals": [
+      "erwarten"
+    ],
+    "id": "9bc8a15d9c95abc40f5262e853470243"
+  },
+  {
+    "type": "verb",
+    "base": "erziehen",
+    "article": null,
+    "translate": "воспитывать; выращивать; разводить",
+    "context": [],
+    "originals": [
+      "erziehen"
+    ],
+    "id": "34a847a1466cdedfb4ecf663868956fb"
+  },
+  {
+    "type": "verb",
+    "base": "erzählen",
+    "article": null,
+    "translate": "рассказывать; рассказать; сообщать; повествовать",
+    "context": [
+      [
+        "Wir müssen euch etwas erzählen!",
+        ""
+      ]
+    ],
+    "originals": [
+      "erzählen"
+    ],
+    "id": "42b4701318c2a68bf7ef8e04120044f3"
+  },
+  {
+    "type": "verb",
+    "base": "erzälen",
+    "article": null,
+    "translate": "рассказывать",
+    "context": [],
+    "originals": [
+      "erzälen"
+    ],
+    "id": "53c6ab7a63410fc4fa97e70bd1912ba3"
+  },
+  {
+    "type": "verb",
+    "base": "essen",
+    "article": null,
+    "translate": "есть; кушать",
+    "context": [
+      [
+        "Was gibt es zu essen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "essen"
+    ],
+    "id": "ee297696b6ae60e71a517f1f6ce8bf44",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "existieren",
+    "article": null,
+    "translate": "существовать; быть",
+    "context": [],
+    "originals": [
+      "existieren"
+    ],
+    "id": "280f097fc7e82b123438aa1948eb2576"
+  },
+  {
+    "type": "verb",
+    "base": "fahren",
+    "article": null,
+    "translate": "ехать; ездить; кататься; везти; катать",
+    "context": [
+      [
+        "Ich fahre mit dem Auto zur Arbeit.",
+        ""
+      ]
+    ],
+    "originals": [
+      "fahren"
+    ],
+    "id": "519ba363e4c3e0b5fbfca3a7727e76bd",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "fallen",
+    "article": null,
+    "translate": "падать",
+    "context": [],
+    "originals": [
+      "fallen"
+    ],
+    "id": "c72851b701c57a2ab6f035a74e7b5bb4",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "fangen",
+    "article": null,
+    "translate": "ловить; поймать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "fangen"
+    ],
+    "id": "fd8023b8c71e00cc010d9ebdb36d82d6",
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "fechten",
+    "article": null,
+    "translate": "фехтовать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "fechten"
+    ],
+    "id": "b6eb9f79f12eb5c6f1ee7915971ee5fc"
+  },
+  {
+    "type": "verb",
+    "base": "fehlen",
+    "article": null,
+    "translate": "отсутствовать; недоставать; не хватать; ошибаться",
+    "context": [
+      [
+        "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+        ""
+      ],
+      [
+        "Was fehlt Ihnen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "fehlen"
+    ],
+    "id": "150c97951f86ed3fa6fc8ecae1fc501b"
+  },
+  {
+    "type": "verb",
+    "base": "fernsehen",
+    "article": null,
+    "translate": "смотреть телевизор",
+    "context": [
+      [
+        "Wollen wir heute Abend mal fernsehen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "fernsehen"
+    ],
+    "id": "7907aec9841f3674c2d7ff63d3d1736b"
+  },
+  {
+    "type": "verb",
+    "base": "fest/stellen",
+    "article": null,
+    "translate": "обнаруживать; выяснять; отмечать; констатировать; признавать; устанавливать",
+    "context": [],
+    "originals": [
+      "fest/stellen"
+    ],
+    "id": "31d291e14531280e92d73ffacba0c9db"
+  },
+  {
+    "type": "verb",
+    "base": "finden",
+    "article": null,
+    "translate": "находить; отыскать; найти",
+    "context": [
+      [
+        "Wir müssen den Schlüssel finden.",
+        ""
+      ]
+    ],
+    "originals": [
+      "finden"
+    ],
+    "id": "a4f0ea1833f9cacb2aff2382cac3ac50",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "fischen",
+    "article": null,
+    "translate": "рыбачить",
+    "context": [],
+    "originals": [
+      "fischen"
+    ],
+    "id": "ec2d9c170ff4c46ae66edca3a5cf2f49"
+  },
+  {
+    "type": "verb",
+    "base": "flechten",
+    "article": null,
+    "translate": "плести; заплетать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "flechten"
+    ],
+    "id": "2e04ea56b95d67f192de0e9b517a67c1"
+  },
+  {
+    "type": "verb",
+    "base": "fliegen",
+    "article": null,
+    "translate": "летать; лететь",
+    "context": [
+      [
+        "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
+        ""
+      ]
+    ],
+    "originals": [
+      "fliegen"
+    ],
+    "id": "c5441c2f5577351c6b065b02484a4bfc",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "fliehen",
+    "article": null,
+    "translate": "убегать; удирать; бежать; спасаться бегством",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "fliehen"
+    ],
+    "id": "6031a0d220546d9ee0b65ad7384d76e8"
+  },
+  {
+    "type": "verb",
+    "base": "fließen",
+    "article": null,
+    "translate": "течь; литься; струиться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "fließen"
+    ],
+    "id": "8bb4e0c5b624ff9c5a975c0566a43c26"
+  },
+  {
+    "type": "verb",
+    "base": "folgen",
+    "article": null,
+    "translate": "следовать; сопровождать; провожать",
+    "context": [],
+    "originals": [
+      "folgen"
+    ],
+    "id": "cc9dc044dad163b4c3692e2cca7a7302"
+  },
+  {
+    "type": "verb",
+    "base": "fortsetzen",
+    "article": null,
+    "translate": "продолжать",
+    "context": [],
+    "originals": [
+      "fortsetzen"
+    ],
+    "id": "deb175c1cbd01b1fe5e70101d8d1e54f"
+  },
+  {
+    "type": "verb",
+    "base": "fotografieren",
+    "article": null,
+    "translate": "фотографировать; заниматься фотографией",
+    "context": [],
+    "originals": [
+      "fotografieren"
+    ],
+    "id": "b3cbb607e1e475fc244f7e5ce1ab8749"
+  },
+  {
+    "type": "verb",
+    "base": "fragen",
+    "article": null,
+    "translate": "спрашивать; спросить",
+    "context": [
+      [
+        "Er möchte Sie etwas fragen. Wann kommen Sie?",
+        ""
+      ]
+    ],
+    "originals": [
+      "fragen"
+    ],
+    "id": "7f4e57692b3a80600ce09afd35095511"
+  },
+  {
+    "type": "verb",
+    "base": "fressen",
+    "article": null,
+    "translate": "пожирать; жрать; лопать; есть",
+    "context": [],
+    "originals": [
+      "fressen"
+    ],
+    "id": "aac8e66ab0345586eebdc995c0c7a3d9",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "freuen",
+    "article": null,
+    "translate": "радовать; радоваться",
+    "context": [
+      [
+        "Ich freue mich auf den Urlaub.",
+        ""
+      ]
+    ],
+    "originals": [
+      "(sich) freuen"
+    ],
+    "id": "3c0289b54140af93b8095e3bd2cba9b9"
+  },
+  {
+    "type": "verb",
+    "base": "frieren",
+    "article": null,
+    "translate": "мёрзнуть; замерзать; зябнуть",
+    "context": [],
+    "originals": [
+      "frieren"
+    ],
+    "id": "df69000459df06955b513afb7747125a",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "frühstücken",
+    "article": null,
+    "translate": "завтракать",
+    "context": [
+      [
+        "Am Sonntag frühstücke ich gern im Bett.",
+        ""
+      ]
+    ],
+    "originals": [
+      "frühstücken"
+    ],
+    "id": "7e475d0727a8709d3473e5dc151f5c81"
+  },
+  {
+    "type": "verb",
+    "base": "funktionieren",
+    "article": null,
+    "translate": "функционировать; действовать; работать",
+    "context": [],
+    "originals": [
+      "funktionieren"
+    ],
+    "id": "5abd7e94b8b58b9536305c6e4b2f5ad4"
+  },
+  {
+    "type": "verb",
+    "base": "fühlen",
+    "article": null,
+    "translate": "чувствовать",
+    "context": [],
+    "originals": [
+      "fühlen; empfinden"
+    ],
+    "id": "1ae49528a9842a34a58bccb53243090b"
+  },
+  {
+    "type": "verb",
+    "base": "führen",
+    "article": null,
+    "translate": "вести; водить; направлять; проводить; руководить; возглавлять; управлять; править",
+    "context": [],
+    "originals": [
+      "führen"
+    ],
+    "id": "0f3dad00abf323844bb5ae704b933a97"
+  },
+  {
+    "type": "verb",
+    "base": "füllen",
+    "article": null,
+    "translate": "наполнять",
+    "context": [],
+    "originals": [
+      "füllen"
+    ],
+    "id": "70843cd172c7958f070352c4e6a6083b"
+  },
+  {
+    "type": "verb",
+    "base": "fürchten",
+    "article": null,
+    "translate": "бояться; опасаться",
+    "context": [],
+    "originals": [
+      "fürchten"
+    ],
+    "id": "fd7cc3d6b480c0ebb4e8b6c5c57e023c"
+  },
+  {
+    "type": "verb",
+    "base": "gebacken",
+    "article": null,
+    "translate": "запеченный",
+    "context": [],
+    "originals": [
+      "gebacken"
+    ],
+    "id": "dee10ee37a46baca866e10dbd67e3d05"
+  },
+  {
+    "type": "verb",
+    "base": "geben",
+    "article": null,
+    "translate": "давать; подавать; дать",
+    "context": [],
+    "originals": [
+      "geben"
+    ],
+    "id": "c9279fbe5b9e8250ef769eec8d73e45b",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "geboren",
+    "article": null,
+    "translate": "родиться; рожденный",
+    "context": [],
+    "originals": [
+      "geboren"
+    ],
+    "id": "5104fa3c0796626c3b9bfef184d66271"
+  },
+  {
+    "type": "verb",
+    "base": "gebrauchen",
+    "article": null,
+    "translate": "использовать; употреблять; пользоваться; приспосабливать",
+    "context": [],
+    "originals": [
+      "gebrauchen"
+    ],
+    "id": "9c1277e16b1e61eba915f44f0b2d7455"
+  },
+  {
+    "type": "verb",
+    "base": "gebären",
+    "article": null,
+    "translate": "рождаться; родить; рожать",
+    "context": [],
+    "originals": [
+      "gebären"
+    ],
+    "id": "db0a3b9538ecfc01b09279339bfc35a8",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "gedeihen",
+    "article": null,
+    "translate": "расти; преуспевать; развиваться; процветать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "gedeihen"
+    ],
+    "id": "aa685a57b5fa36eefa7fad21a54af573"
+  },
+  {
+    "type": "verb",
+    "base": "gefallen",
+    "article": null,
+    "translate": "нравится; нравиться; быть по вкусу; приглянуться",
+    "context": [],
+    "originals": [
+      "gefallen"
+    ],
+    "id": "1994c96c97f7d53478e55ad0c79b218e"
+  },
+  {
+    "type": "verb",
+    "base": "gegen",
+    "article": null,
+    "translate": "против; около; вопреки; по отношению к; по сравнению с; помимо",
+    "context": [],
+    "originals": [
+      "gegen"
+    ],
+    "id": "1d1f67b710afa2c8a39ebe0938599c71"
+  },
+  {
+    "type": "verb",
+    "base": "gehen",
+    "article": null,
+    "translate": "идти; ходить; уходить",
+    "context": [],
+    "originals": [
+      "gehen"
+    ],
+    "id": "db5702d5405ba3dda35b69e3a58c770b",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "gehören",
+    "article": null,
+    "translate": "принадлежать; относиться; входить в состав",
+    "context": [],
+    "originals": [
+      "gehören"
+    ],
+    "id": "9a72c6bf02212ea0670e3dc36e693c80"
+  },
+  {
+    "type": "verb",
+    "base": "gelingen",
+    "article": null,
+    "translate": "удаваться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "gelingen"
+    ],
+    "id": "0f2cd1d3640f7117918eecff0432941a"
+  },
+  {
+    "type": "verb",
+    "base": "gelten",
+    "article": null,
+    "translate": "стоить; цениться; годиться; быть действительным; быть действительным (н-р, проездной)",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "gelten"
+    ],
+    "id": "bb1794ab7d152fd9265a48a87f14d46a",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "genehmigen",
+    "article": null,
+    "translate": "одобрять; утверждать; санкционировать; разрешать",
+    "context": [],
+    "originals": [
+      "genehmigen"
+    ],
+    "id": "69c3bf44f6d507374d73edff165fd955"
+  },
+  {
+    "type": "verb",
+    "base": "genesen",
+    "article": null,
+    "translate": "выздоравливать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "genesen",
+      " gesund werden"
+    ],
+    "id": "51eb15bfae121ef24a9b52a4064e7190"
+  },
+  {
+    "type": "verb",
+    "base": "genießen",
+    "article": null,
+    "translate": "наслаждаться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "genießen"
+    ],
+    "id": "458f35c59f211b92356d4a343c46ee48"
+  },
+  {
+    "type": "verb",
+    "base": "genügen",
+    "article": null,
+    "translate": "быть достаточным",
+    "context": [],
+    "originals": [
+      "genügen"
+    ],
+    "id": "5eed1e987cd97cb54d13ed91eef9cabe"
+  },
+  {
+    "type": "verb",
+    "base": "geraten",
+    "article": null,
+    "translate": "попасть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "geraten"
+    ],
+    "id": "d863bc41272a45af53b55f2f9d346f16"
+  },
+  {
+    "type": "verb",
+    "base": "geschehen",
+    "article": null,
+    "translate": "происходить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "geschehen"
+    ],
+    "id": "bc4d5c12efa62b04e429efed5650155d",
+    "config": {
+      "type": "e-ie"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "geschieden",
+    "article": null,
+    "translate": "разведенный; разведен",
+    "context": [],
+    "originals": [
+      "geschieden"
+    ],
+    "id": "d9fdd0aab364825852ad84f053edda66"
+  },
+  {
+    "type": "verb",
+    "base": "geschlossen",
+    "article": null,
+    "translate": "закрыто; закрытый",
+    "context": [],
+    "originals": [
+      "geschlossen"
+    ],
+    "id": "67edd54d60a2c9138c94803fc51951f7"
+  },
+  {
+    "type": "verb",
+    "base": "gestorben",
+    "article": null,
+    "translate": "умереть",
+    "context": [],
+    "originals": [
+      "gestorben"
+    ],
+    "id": "19f4e5d766177e09d477f1303d7776f4"
+  },
+  {
+    "type": "verb",
+    "base": "gewinnen",
+    "article": null,
+    "translate": "выигрывать; добывать; получать; выиграть; побеждать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "gewinnen"
+    ],
+    "id": "6149001adcdfb6620ce2c7afb5f54fea"
+  },
+  {
+    "type": "verb",
+    "base": "gießen",
+    "article": null,
+    "translate": "поливать; лить; наливать; обливать",
+    "context": [],
+    "originals": [
+      "gießen"
+    ],
+    "id": "8b02035b7d140a9c05fb6b4881fd04cc",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "glauben",
+    "article": null,
+    "translate": "полагать; думать; верить",
+    "context": [],
+    "originals": [
+      "glauben"
+    ],
+    "id": "48c65704ae49971aa07b9b6d2f28e2c7"
+  },
+  {
+    "type": "verb",
+    "base": "gleichen",
+    "article": null,
+    "translate": "выравнивать; походить; быть похожим",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "gleichen"
+    ],
+    "id": "9d1a3174ddd7283798cdbdd107ed991a"
+  },
+  {
+    "type": "verb",
+    "base": "gleiten",
+    "article": null,
+    "translate": "скользить; соскальзывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "gleiten"
+    ],
+    "id": "4953e5ae8016253aa69c3212cda7c15d"
+  },
+  {
+    "type": "verb",
+    "base": "glimmen",
+    "article": null,
+    "translate": "тлеть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "glimmen"
+    ],
+    "id": "8c1d586811b7e3ce6713604e84e489c7"
+  },
+  {
+    "type": "verb",
+    "base": "graben",
+    "article": null,
+    "translate": "копать; рыть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "graben"
+    ],
+    "id": "c28c5a96f6d71e06e2518cd6198ad035",
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "gratulieren",
+    "article": null,
+    "translate": "поздравлять; поздравить",
+    "context": [],
+    "originals": [
+      "gratulieren"
+    ],
+    "id": "0e9151ec4af933f66f2aaae5dfada096"
+  },
+  {
+    "type": "verb",
+    "base": "greifen",
+    "article": null,
+    "translate": "браться (за что-л.); хватать; схватить; брать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "greifen"
+    ],
+    "id": "e626840e67a10993dd3cbcc3cd055e36"
+  },
+  {
+    "type": "verb",
+    "base": "grillen",
+    "article": null,
+    "translate": "жарить на гриле; поджаривать на гриле",
+    "context": [],
+    "originals": [
+      "grillen"
+    ],
+    "id": "95f28b70313971eee27e3a9600ea98a1"
+  },
+  {
+    "type": "verb",
+    "base": "gründen",
+    "article": null,
+    "translate": "основать; основывать; учреждать; образовывать",
+    "context": [],
+    "originals": [
+      "gründen"
+    ],
+    "id": "c07f848337af300b79f02ae83948cf41"
+  },
+  {
+    "type": "verb",
+    "base": "grüßen",
+    "article": null,
+    "translate": "приветствовать; отдавать честь; кланяться",
+    "context": [],
+    "originals": [
+      "grüßen"
+    ],
+    "id": "3e2b1e4f3ea60dd0256e24faca6f9f82"
+  },
+  {
+    "type": "verb",
+    "base": "gucken",
+    "article": null,
+    "translate": "смотреть; взглянуть; глядеть",
+    "context": [],
+    "originals": [
+      "gucken"
+    ],
+    "id": "5a41ee8719bbb20fce57e43551f01e23"
+  },
+  {
+    "type": "verb",
+    "base": "gären",
+    "article": null,
+    "translate": "бродить; (о вине)",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "gären"
+    ],
+    "id": "e4a2529fde7497d0f200d7ebe10e9580"
+  },
+  {
+    "type": "verb",
+    "base": "haben",
+    "article": null,
+    "translate": "иметь; обладать; владеть",
+    "context": [],
+    "originals": [
+      "haben"
+    ],
+    "id": "730f9569c2990f4a784eb03812d9bc24",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "halten",
+    "article": null,
+    "translate": "держать; останавливаться; содержать; соблюдать; останавливать(ся)",
+    "context": [],
+    "originals": [
+      "halten"
+    ],
+    "id": "f52c4199a3fb661784f10725eaa48844",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "hassen",
+    "article": null,
+    "translate": "ненавидеть; возненавидеть",
+    "context": [],
+    "originals": [
+      "hassen"
+    ],
+    "id": "2ea1ac78315c8d722bad789ae4ca7f62"
+  },
+  {
+    "type": "verb",
+    "base": "hauen",
+    "article": null,
+    "translate": "рубить; колотить; дубасить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "hauen"
+    ],
+    "id": "2fafc9f13c531a1258b3dae39158eccd"
+  },
+  {
+    "type": "verb",
+    "base": "heben",
+    "article": null,
+    "translate": "поднимать; повышать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "heben"
+    ],
+    "id": "23bf4c8505983b034a1cc79111300277"
+  },
+  {
+    "type": "verb",
+    "base": "heilen",
+    "article": null,
+    "translate": "лечить",
+    "context": [],
+    "originals": [
+      "heilen"
+    ],
+    "id": "213ad19d842afe54e1496b79978482e5"
+  },
+  {
+    "type": "verb",
+    "base": "heiraten",
+    "article": null,
+    "translate": "жениться; выходить замуж",
+    "context": [],
+    "originals": [
+      "heiraten"
+    ],
+    "id": "a61a99854e9283f07b5a3f93cc8141d6"
+  },
+  {
+    "type": "verb",
+    "base": "heizen",
+    "article": null,
+    "translate": "нагревать; отапливать; обогревать; подогревать; греть; топить; давать тепло",
+    "context": [],
+    "originals": [
+      "heizen"
+    ],
+    "id": "97d6ea4e981c6933a9c83e9edacdfa50"
+  },
+  {
+    "type": "verb",
+    "base": "heißen",
+    "article": null,
+    "translate": "называть; зваться; называться; означать",
+    "context": [],
+    "originals": [
+      "heißen"
+    ],
+    "id": "1ac5235261cab9e150a55e8f18d7af70",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "helfen",
+    "article": null,
+    "translate": "помогать; помочь",
+    "context": [],
+    "originals": [
+      "helfen"
+    ],
+    "id": "aaa7770a441edf35e476854df37fef3b",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "her/stellen",
+    "article": null,
+    "translate": "изготовлять; производить; изготавливать; выпускать; вырабатывать",
+    "context": [],
+    "originals": [
+      "her/stellen"
+    ],
+    "id": "53746f6ec1b1f2a6d44c2b1290a84bbd"
+  },
+  {
+    "type": "verb",
+    "base": "hetzen",
+    "article": null,
+    "translate": "травить; науськивать; спешить",
+    "context": [],
+    "originals": [
+      "hetzen"
+    ],
+    "id": "252ebd085ff4cbf324fc5691addefc80"
+  },
+  {
+    "type": "verb",
+    "base": "hinausgehen",
+    "article": null,
+    "translate": "выходить",
+    "context": [],
+    "originals": [
+      "hinausgehen"
+    ],
+    "id": "0ab35232780588d513cc8bf6dcbf12e8"
+  },
+  {
+    "type": "verb",
+    "base": "hinten",
+    "article": null,
+    "translate": "позади; сзади; (там) сзади",
+    "context": [],
+    "originals": [
+      "(da) hinten"
+    ],
+    "id": "512db1f719729f200d4be10ccef88ab1"
+  },
+  {
+    "type": "verb",
+    "base": "hochheben",
+    "article": null,
+    "translate": "поднимать",
+    "context": [],
+    "originals": [
+      "hochheben"
+    ],
+    "id": "d00a4568d08263b6694b10fc14264741"
+  },
+  {
+    "type": "verb",
+    "base": "hoffen",
+    "article": null,
+    "translate": "надеяться; уповать; ожидать",
+    "context": [],
+    "originals": [
+      "hoffen"
+    ],
+    "id": "5da4d67286b7151c4f259681d16ddb87"
+  },
+  {
+    "type": "verb",
+    "base": "holen",
+    "article": null,
+    "translate": "приносить; привозить; забирать; убирать; вывозить; получать; доставать; вытаскивать",
+    "context": [],
+    "originals": [
+      "holen"
+    ],
+    "id": "acd393150944954c67b8692e50c84882"
+  },
+  {
+    "type": "verb",
+    "base": "husten",
+    "article": null,
+    "translate": "кашлять",
+    "context": [],
+    "originals": [
+      "husten"
+    ],
+    "id": "6996738f1e2fdcfbe07328082a1e977e"
+  },
+  {
+    "type": "verb",
+    "base": "hängen",
+    "article": null,
+    "translate": "висеть; вешать",
+    "context": [],
+    "originals": [
+      "hängen"
+    ],
+    "id": "5d3c84437ed92fc0d8d740a5ae4ecb69",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "hören",
+    "article": null,
+    "translate": "слушать; слышать; уловить",
+    "context": [],
+    "originals": [
+      "hören"
+    ],
+    "id": "1ed4515c1c59b99dee495829cd0c67ee"
+  },
+  {
+    "type": "verb",
+    "base": "hüpfen",
+    "article": null,
+    "translate": "прыгать; скакать",
+    "context": [],
+    "originals": [
+      "hüpfen"
+    ],
+    "id": "af081e9e1a1bff8c8f9f80f8075b5f42"
+  },
+  {
+    "type": "verb",
+    "base": "innen",
+    "article": null,
+    "translate": "внутренний; внутри; изнутри",
+    "context": [],
+    "originals": [
+      "innen"
+    ],
+    "id": "75ce34cae3fe32e988df54e18db3691e"
+  },
+  {
+    "type": "verb",
+    "base": "inzwischen",
+    "article": null,
+    "translate": "между тем; с тех пор; теперь",
+    "context": [],
+    "originals": [
+      "inzwischen"
+    ],
+    "id": "eaa60ba494f4698b21fbcb7e6b0c1b77"
+  },
+  {
+    "type": "verb",
+    "base": "jagen",
+    "article": null,
+    "translate": "охотиться; преследовать",
+    "context": [],
+    "originals": [
+      "jagen"
+    ],
+    "id": "1818da7603de2505be0635f0686f5470"
+  },
+  {
+    "type": "verb",
+    "base": "joggen",
+    "article": null,
+    "translate": "бегать трусцой; бегать",
+    "context": [],
+    "originals": [
+      "joggen"
+    ],
+    "id": "9f78347e9614e964cee4bafa38fcba61"
+  },
+  {
+    "type": "verb",
+    "base": "kaufen",
+    "article": null,
+    "translate": "купить; покупать",
+    "context": [],
+    "originals": [
+      "kaufen"
+    ],
+    "id": "2e19d458a477eaa9b0bf39aaf96b3ca7"
+  },
+  {
+    "type": "verb",
+    "base": "kennen",
+    "article": null,
+    "translate": "знать; быть знакомым",
+    "context": [],
+    "originals": [
+      "kennen"
+    ],
+    "id": "5bf0831da72fa2faa06fde8ec0ba2b9c",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "kennen/lernen",
+    "article": null,
+    "translate": "знакомиться; узнавать",
+    "context": [],
+    "originals": [
+      "kennen/lernen"
+    ],
+    "id": "0c1578afe009b9332bec094ab37048d0"
+  },
+  {
+    "type": "verb",
+    "base": "kennenlernen",
+    "article": null,
+    "translate": "знакомиться; познакомиться",
+    "context": [],
+    "originals": [
+      "kennenlernen"
+    ],
+    "id": "e661e130b24db5e8894601b5ecd18842"
+  },
+  {
+    "type": "verb",
+    "base": "klagen",
+    "article": null,
+    "translate": "жаловаться; сетовать; подавать иск; плакаться",
+    "context": [],
+    "originals": [
+      "klagen"
+    ],
+    "id": "6ca05c9b74da08f5fe839b818e6d4481"
+  },
+  {
+    "type": "verb",
+    "base": "klappen",
+    "article": null,
+    "translate": "клеить; хлопать; стучать",
+    "context": [],
+    "originals": [
+      "klappen"
+    ],
+    "id": "0ff1d0ef031a3a23ebb6a2d98524b86a"
+  },
+  {
+    "type": "verb",
+    "base": "kleiden",
+    "article": null,
+    "translate": "одевать",
+    "context": [],
+    "originals": [
+      "kleiden"
+    ],
+    "id": "8b63b3de88d8f57729667a6e49770361"
+  },
+  {
+    "type": "verb",
+    "base": "klicken",
+    "article": null,
+    "translate": "щелкать",
+    "context": [],
+    "originals": [
+      "klicken"
+    ],
+    "id": "bdd1d0c12fbb9051712284a21561afcf"
+  },
+  {
+    "type": "verb",
+    "base": "klingen",
+    "article": null,
+    "translate": "звенеть; звонить; звучать; раздаваться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "klingen"
+    ],
+    "id": "9f7ea9e2b46b4cf8ccc49f0b79317cf2"
+  },
+  {
+    "type": "verb",
+    "base": "klopfen",
+    "article": null,
+    "translate": "стучать; выстукивать; колотить; стучаться; постучаться; хлопать",
+    "context": [],
+    "originals": [
+      "klopfen"
+    ],
+    "id": "b943851bde9daa2ba1c82890b2a15435"
+  },
+  {
+    "type": "verb",
+    "base": "kneifen",
+    "article": null,
+    "translate": "щипать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "kneifen"
+    ],
+    "id": "c1bd109e7229c20f58bb901c11791503"
+  },
+  {
+    "type": "verb",
+    "base": "kochen",
+    "article": null,
+    "translate": "варить; готовить (пищу); стряпать; кипятить; кипеть; готовить; готовить пищу",
+    "context": [],
+    "originals": [
+      "kochen",
+      "sieden"
+    ],
+    "id": "3c433836613d4ab6ce38d89d5d067695"
+  },
+  {
+    "type": "verb",
+    "base": "kommen",
+    "article": null,
+    "translate": "приходить; прибывать; приезжать",
+    "context": [],
+    "originals": [
+      "kommen"
+    ],
+    "id": "080ddb446d43d7efc584cbe1ab159267",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "kontrollieren",
+    "article": null,
+    "translate": "контролировать; проверять",
+    "context": [],
+    "originals": [
+      "kontrollieren"
+    ],
+    "id": "538c597cd3f7562c4b102ef238f97593"
+  },
+  {
+    "type": "verb",
+    "base": "kopieren",
+    "article": null,
+    "translate": "копировать; воспроизводить; размножать; делать копию; подражать",
+    "context": [],
+    "originals": [
+      "kopieren"
+    ],
+    "id": "a3373a82454238664008a117283bb4ea"
+  },
+  {
+    "type": "verb",
+    "base": "kosten",
+    "article": null,
+    "translate": "стоить; пробовать; составлять",
+    "context": [],
+    "originals": [
+      "kosten"
+    ],
+    "id": "19c24e30d2877bf643c1ee1879b316fa"
+  },
+  {
+    "type": "verb",
+    "base": "kriechen",
+    "article": null,
+    "translate": "ползать; лезть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "kriechen"
+    ],
+    "id": "b83a965b123cf119ba10da7b36e16345"
+  },
+  {
+    "type": "verb",
+    "base": "kriegen",
+    "article": null,
+    "translate": "получать; вести войну; воевать",
+    "context": [],
+    "originals": [
+      "kriegen"
+    ],
+    "id": "8ed296532e28f8ab9f7abebe721cf70c"
+  },
+  {
+    "type": "verb",
+    "base": "kränken",
+    "article": null,
+    "translate": "обижать",
+    "context": [],
+    "originals": [
+      "kränken"
+    ],
+    "id": "688d8db1b90ae8ef743edb1f22c166cb"
+  },
+  {
+    "type": "verb",
+    "base": "kämpfen",
+    "article": null,
+    "translate": "сражаться; бороться; воевать; драться; биться; вести бой",
+    "context": [],
+    "originals": [
+      "kämpfen"
+    ],
+    "id": "a8512611359b8452e7427f21e585fb43"
+  },
+  {
+    "type": "verb",
+    "base": "können",
+    "article": null,
+    "translate": "мочь; уметь; быть в состоянии",
+    "context": [],
+    "originals": [
+      "können"
+    ],
+    "id": "0c68e1b3ec0ee646a2146e38513852cf",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "kürzen",
+    "article": null,
+    "translate": "сокращать",
+    "context": [],
+    "originals": [
+      "reduzieren; kürzen"
+    ],
+    "id": "71375854c5bf5464dd9a086c9538ff61"
+  },
+  {
+    "type": "verb",
+    "base": "küssen",
+    "article": null,
+    "translate": "целовать; целоваться; расцеловать",
+    "context": [],
+    "originals": [
+      "küssen"
+    ],
+    "id": "59b5ab706aa6bf23c5754dc4b22e33fe"
+  },
+  {
+    "type": "verb",
+    "base": "lachen",
+    "article": null,
+    "translate": "смеяться; хохотать; посмеиваться",
+    "context": [],
+    "originals": [
+      "lachen"
+    ],
+    "id": "69f75c4c569a42189babf5d282d3765c"
+  },
+  {
+    "type": "verb",
+    "base": "laden",
+    "article": null,
+    "translate": "грузить; приглашать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "laden"
+    ],
+    "id": "7b6e34aee4b0f686aa8322474b34d84b",
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "landen",
+    "article": null,
+    "translate": "приземляться; высаживаться",
+    "context": [],
+    "originals": [
+      "landen"
+    ],
+    "id": "c9cfd99d2169890f10de9664de6e7524"
+  },
+  {
+    "type": "verb",
+    "base": "lassen",
+    "article": null,
+    "translate": "оставлять; позволять; велеть; пускать; разрешать",
+    "context": [],
+    "originals": [
+      "lassen"
+    ],
+    "id": "611aea9af6cfd8b43c4ca768a155330a",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "laufen",
+    "article": null,
+    "translate": "бегать; бежать; убегать",
+    "context": [],
+    "originals": [
+      "laufen"
+    ],
+    "id": "036a486f46fbc4792750ba8ba9b54b38",
+    "irregular": true,
+    "config": {
+      "type": "au-äu"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "leben",
+    "article": null,
+    "translate": "жить; существовать",
+    "context": [],
+    "originals": [
+      "leben"
+    ],
+    "id": "be20b8dee2b6fd4e9a7efee032692edb"
+  },
+  {
+    "type": "verb",
+    "base": "legen",
+    "article": null,
+    "translate": "класть; положить; ставить; укладывать",
+    "context": [],
+    "originals": [
+      "legen"
+    ],
+    "id": "49b725d781e9cab646b03b6f4a4ebdab"
+  },
+  {
+    "type": "verb",
+    "base": "leiden",
+    "article": null,
+    "translate": "страдать; терпеть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "leiden"
+    ],
+    "id": "ecd814069a749ce9b7cb42463c662ead"
+  },
+  {
+    "type": "verb",
+    "base": "leihen",
+    "article": null,
+    "translate": "одалживать; занимать; брать взаймы",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "leihen"
+    ],
+    "id": "aa2364db9046e33935699aa55d6361f9"
+  },
+  {
+    "type": "verb",
+    "base": "leiten",
+    "article": null,
+    "translate": "дирижировать; руководить; заведовать; управлять; возглавлять; командовать",
+    "context": [],
+    "originals": [
+      "leiten"
+    ],
+    "id": "ecdd2aa635eda4edb154027fe9e75687"
+  },
+  {
+    "type": "verb",
+    "base": "lernen",
+    "article": null,
+    "translate": "учиться; обучаться; научиться; изучать",
+    "context": [],
+    "originals": [
+      "lernen"
+    ],
+    "id": "7b76a8e646796460aadc85cd8985b3b3"
+  },
+  {
+    "type": "verb",
+    "base": "lesen",
+    "article": null,
+    "translate": "читать",
+    "context": [],
+    "originals": [
+      "lesen"
+    ],
+    "id": "ba99ebdecee97e246ce1057f95fd79c1",
+    "irregular": true,
+    "config": {
+      "type": "e-ie"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "lieben",
+    "article": null,
+    "translate": "любить; полюбить",
+    "context": [],
+    "originals": [
+      "lieben"
+    ],
+    "id": "e61e8a742914d79b3fed885f6ed7de10"
+  },
+  {
+    "type": "verb",
+    "base": "liegen",
+    "article": null,
+    "translate": "лежать; быть расположенным; располагаться; находиться",
+    "context": [],
+    "originals": [
+      "liegen"
+    ],
+    "id": "610961ffe4c2828d291548701455777d",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "loben",
+    "article": null,
+    "translate": "хвалить; расхваливать; восхвалять; превозносить",
+    "context": [],
+    "originals": [
+      "loben"
+    ],
+    "id": "e0ea7d58698b9d0f44e0b075be50fc39"
+  },
+  {
+    "type": "verb",
+    "base": "loslösen",
+    "article": null,
+    "translate": "развязать",
+    "context": [],
+    "originals": [
+      "lösen; loslösen"
+    ],
+    "id": "458c8238d321db584667be564490c34a"
+  },
+  {
+    "type": "verb",
+    "base": "läuten",
+    "article": null,
+    "translate": "звонить; звенеть; ударить в колокол; трезвонить; вызывать",
+    "context": [],
+    "originals": [
+      "läuten"
+    ],
+    "id": "4f2b764b66eb574d7c8985e770f8fb81"
+  },
+  {
+    "type": "verb",
+    "base": "löschen",
+    "article": null,
+    "translate": "тушить; стирать; гасить; удалять",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "löschen"
+    ],
+    "id": "e89979b70068d3776e7d0c7a6cd456a4"
+  },
+  {
+    "type": "verb",
+    "base": "lösen",
+    "article": null,
+    "translate": "развязать; решать; разгадывать; распутывать; освобождать",
+    "context": [],
+    "originals": [
+      "lösen; loslösen"
+    ],
+    "id": "4742e5881a269258e97a6eb2a0141a76"
+  },
+  {
+    "type": "verb",
+    "base": "lüften",
+    "article": null,
+    "translate": "проветривать",
+    "context": [],
+    "originals": [
+      "lüften"
+    ],
+    "id": "23a76d56ab5dccd44c33d17c5e54dfd3"
+  },
+  {
+    "type": "verb",
+    "base": "lügen",
+    "article": null,
+    "translate": "лгать; врать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "lügen"
+    ],
+    "id": "5b905db368cfe9d28c985bff7bffc954"
+  },
+  {
+    "type": "verb",
+    "base": "machen",
+    "article": null,
+    "translate": "делать; заниматься; совершать; выполнять",
+    "context": [],
+    "originals": [
+      "machen"
+    ],
+    "id": "3690648aeafc6679150d93ec151dea06"
+  },
+  {
+    "type": "verb",
+    "base": "mahlen",
+    "article": null,
+    "translate": "молоть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "mahlen"
+    ],
+    "id": "f5bd2d5ed5ad61f5be614606eaca7d35"
+  },
+  {
+    "type": "verb",
+    "base": "malen",
+    "article": null,
+    "translate": "рисовать; рисовать красками; расписать; изображать; окрашивать; разрисовывать; раскрашивать; писать красками",
+    "context": [],
+    "originals": [
+      "malen"
+    ],
+    "id": "6bdb135fc2aa7103659e65af10a18eff"
+  },
+  {
+    "type": "verb",
+    "base": "markieren",
+    "article": null,
+    "translate": "отмечать; отметить; помечать; обозначать",
+    "context": [],
+    "originals": [
+      "markieren"
+    ],
+    "id": "8f0285530b12133b1b904f0f22abaece"
+  },
+  {
+    "type": "verb",
+    "base": "meiden",
+    "article": null,
+    "translate": "избегать; сторониться; уклоняться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "meiden"
+    ],
+    "id": "29c570ee890cd1d07675a322abdfb00e"
+  },
+  {
+    "type": "verb",
+    "base": "meinen",
+    "article": null,
+    "translate": "полагать; думать; говорить; иметь в виду; считать",
+    "context": [],
+    "originals": [
+      "meinen"
+    ],
+    "id": "ae15c7742d16d76ae16f8f2670db8486"
+  },
+  {
+    "type": "verb",
+    "base": "meinetwegen",
+    "article": null,
+    "translate": "ради меня; пожалуй",
+    "context": [],
+    "originals": [
+      "meinetwegen"
+    ],
+    "id": "7a99248490144dbd6c9bc6cb3521fd55"
+  },
+  {
+    "type": "verb",
+    "base": "melden",
+    "article": null,
+    "translate": "сообщать; докладывать; рапортовать; уведомлять; оповещать",
+    "context": [],
+    "originals": [
+      "melden"
+    ],
+    "id": "51e9495c7183c2a7f20c770127d32b3b"
+  },
+  {
+    "type": "verb",
+    "base": "melken",
+    "article": null,
+    "translate": "доить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "melken"
+    ],
+    "id": "d28029ff8b29fa3bcaefb97ea890a1ef"
+  },
+  {
+    "type": "verb",
+    "base": "merken",
+    "article": null,
+    "translate": "замечать; отмечать; понимать; внимать",
+    "context": [],
+    "originals": [
+      "merken"
+    ],
+    "id": "c16d79aa06668aa36b95437061ea6b06"
+  },
+  {
+    "type": "verb",
+    "base": "messen",
+    "article": null,
+    "translate": "измерять; мерить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "messen"
+    ],
+    "id": "e97252b78c597dacd4709a9d5f6a89ae",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "mieten",
+    "article": null,
+    "translate": "арендовать; снимать; нанимать",
+    "context": [],
+    "originals": [
+      "mieten"
+    ],
+    "id": "50957bdc3fa9e8d11d846a7f4b1e6f32"
+  },
+  {
+    "type": "verb",
+    "base": "mischen",
+    "article": null,
+    "translate": "смешивать; смешиваться; перемешивать; путать; перетасовать; тасовать; замешивать",
+    "context": [],
+    "originals": [
+      "mischen"
+    ],
+    "id": "0538329f00a382deead7e075b0d257d8"
+  },
+  {
+    "type": "verb",
+    "base": "misslingen",
+    "article": null,
+    "translate": "не удаваться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "misslingen"
+    ],
+    "id": "99174713cc2c39587fe64dc707d06fea"
+  },
+  {
+    "type": "verb",
+    "base": "mit/machen",
+    "article": null,
+    "translate": "участвовать; принимать участие; испытывать",
+    "context": [],
+    "originals": [
+      "mit/machen"
+    ],
+    "id": "e023badf52fb9f37259889228d192207"
+  },
+  {
+    "type": "verb",
+    "base": "mit/teilen",
+    "article": null,
+    "translate": "сообщать; поведать; рассказать; объявить; докладывать; уведомлять; извещать",
+    "context": [],
+    "originals": [
+      "mit/teilen"
+    ],
+    "id": "2a80b59c24f602756b49b4500b016795"
+  },
+  {
+    "type": "verb",
+    "base": "mitbringen",
+    "article": null,
+    "translate": "приносить с собой; принести с собой; приносить; принести",
+    "context": [],
+    "originals": [
+      "mitbringen"
+    ],
+    "id": "febbf0096806bbe614b7b79370f5b9a5"
+  },
+  {
+    "type": "verb",
+    "base": "mitkommen",
+    "article": null,
+    "translate": "пойти вместе; идти вместе",
+    "context": [],
+    "originals": [
+      "mitkommen"
+    ],
+    "id": "098260b8c6577aa91e744bbdfb88b4ef"
+  },
+  {
+    "type": "verb",
+    "base": "mitmachen",
+    "article": null,
+    "translate": "участвовать; принимать участие",
+    "context": [],
+    "originals": [
+      "mitmachen"
+    ],
+    "id": "b0ee09849a3d127b0762f395cc66e16d"
+  },
+  {
+    "type": "verb",
+    "base": "mitnehmen",
+    "article": null,
+    "translate": "брать с собой; взять с собой",
+    "context": [],
+    "originals": [
+      "mitnehmen"
+    ],
+    "id": "69144f04f4e687b65fb983dfed3d6613"
+  },
+  {
+    "type": "verb",
+    "base": "mixen",
+    "article": null,
+    "translate": "смешивать",
+    "context": [],
+    "originals": [
+      "mixen"
+    ],
+    "id": "94531fbc3243302775dcd3770b36bb96"
+  },
+  {
+    "type": "verb",
+    "base": "mißlingen",
+    "article": null,
+    "translate": "не удаваться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "mißlingen"
+    ],
+    "id": "e41f2b0aa02ef67867f085184660d582"
+  },
+  {
+    "type": "verb",
+    "base": "morgen",
+    "article": null,
+    "translate": "завтра; утро",
+    "context": [],
+    "originals": [
+      "morgen"
+    ],
+    "id": "79dda050f29dfa5405fdacb78070b179"
+  },
+  {
+    "type": "verb",
+    "base": "multiplizieren",
+    "article": null,
+    "translate": "умножать",
+    "context": [],
+    "originals": [
+      "multiplizieren"
+    ],
+    "id": "e42494d91b8aa96d89ba50131974ea2c"
+  },
+  {
+    "type": "verb",
+    "base": "mussen",
+    "article": null,
+    "translate": "должен",
+    "context": [],
+    "originals": [
+      "mussen"
+    ],
+    "id": "b632482068d05ca2ba2800b0dfed29ff"
+  },
+  {
+    "type": "verb",
+    "base": "möchten",
+    "article": null,
+    "translate": "хотеть; хотелось бы",
+    "context": [],
+    "originals": [
+      "möchten"
+    ],
+    "id": "f8f5f3fa02600f5112350b619c7a52ed"
+  },
+  {
+    "type": "verb",
+    "base": "mögen",
+    "article": null,
+    "translate": "любить; чувствовать расположение; нравиться; хотеть; желать",
+    "context": [],
+    "originals": [
+      "mögen"
+    ],
+    "id": "a36b92d67290b11c9ec831233f31a447",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "müssen",
+    "article": null,
+    "translate": "быть должным; быть вынужденным; долженствовать; быть необходимым; должен",
+    "context": [],
+    "originals": [
+      "müssen"
+    ],
+    "id": "4700a8a42bb33486622a607be7cd2d16",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "nachgeben",
+    "article": null,
+    "translate": "поддаться",
+    "context": [],
+    "originals": [
+      "nachgeben"
+    ],
+    "id": "2b08e75ceac7d665c430074565e9ca5d"
+  },
+  {
+    "type": "verb",
+    "base": "neben",
+    "article": null,
+    "translate": "рядом; около; наряду; сбоку; возле; подле",
+    "context": [],
+    "originals": [
+      "neben"
+    ],
+    "id": "5b9ce0eb9f1f0c6b68fa4db350e0362c"
+  },
+  {
+    "type": "verb",
+    "base": "nehmen",
+    "article": null,
+    "translate": "брать; взять; принимать",
+    "context": [],
+    "originals": [
+      "nehmen"
+    ],
+    "id": "49920922fde40a7728df67aa251c971f",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "nennen",
+    "article": null,
+    "translate": "называть; звать; давать имя",
+    "context": [],
+    "originals": [
+      "nennen"
+    ],
+    "id": "8fd8dd731896ee30249db703ca9dc8dd",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "notieren",
+    "article": null,
+    "translate": "отмечать; замечать; записывать",
+    "context": [],
+    "originals": [
+      "notieren"
+    ],
+    "id": "42822153f2474dbab6f621c806d2a1b8"
+  },
+  {
+    "type": "verb",
+    "base": "nutzen",
+    "article": null,
+    "translate": "использовать",
+    "context": [],
+    "originals": [
+      "nutzen"
+    ],
+    "id": "540c7f7e9b0edaf382b3c82da33ae1d2"
+  },
+  {
+    "type": "verb",
+    "base": "nähen",
+    "article": null,
+    "translate": "шить; сшить; зашивать; пришивать",
+    "context": [],
+    "originals": [
+      "nähen"
+    ],
+    "id": "98b2c9c0feaa8ed8508e5f8dd39e54d4"
+  },
+  {
+    "type": "verb",
+    "base": "oben",
+    "article": null,
+    "translate": "наверху; вверху; сверху; (там) наверх",
+    "context": [
+      [
+        "Ich wohne oben.",
+        ""
+      ]
+    ],
+    "originals": [
+      "(da) oben"
+    ],
+    "id": "e65fba084d24740d643f2cca5664f22e"
+  },
+  {
+    "type": "verb",
+    "base": "offen",
+    "article": null,
+    "translate": "открытый; открыто; откровенно; нараспашку; раскрытый; откровенный; расстегнутый; в открытую; искренний; неприкрытый",
+    "context": [],
+    "originals": [
+      "offen"
+    ],
+    "id": "d529318f0f8bf40e3887d7e9eb7004eb"
+  },
+  {
+    "type": "verb",
+    "base": "operieren",
+    "article": null,
+    "translate": "оперировать; проводить операцию",
+    "context": [],
+    "originals": [
+      "operieren"
+    ],
+    "id": "0a91c5b5e2447d465014e2245e958573"
+  },
+  {
+    "type": "verb",
+    "base": "ordnen",
+    "article": null,
+    "translate": "приводить в порядок; систематизировать; организовывать; упорядочивать",
+    "context": [],
+    "originals": [
+      "ordnen"
+    ],
+    "id": "1027ca8d90fc8a8e48b0313e348127cb"
+  },
+  {
+    "type": "verb",
+    "base": "organisieren",
+    "article": null,
+    "translate": "организовать; организовывать; устраивать; образовать",
+    "context": [],
+    "originals": [
+      "organisieren"
+    ],
+    "id": "b25c2ec7f25789a523069ef4f110cde9"
+  },
+  {
+    "type": "verb",
+    "base": "packen",
+    "article": null,
+    "translate": "укладывать; паковать",
+    "context": [],
+    "originals": [
+      "packen"
+    ],
+    "id": "24bdb3d3136638e1256af8702e137e1b"
+  },
+  {
+    "type": "verb",
+    "base": "parken",
+    "article": null,
+    "translate": "парковать",
+    "context": [],
+    "originals": [
+      "parken"
+    ],
+    "id": "e05e89dcddfaf4b7fe9adff0849c5c27"
+  },
+  {
+    "type": "verb",
+    "base": "passen",
+    "article": null,
+    "translate": "подходить; устраивать",
+    "context": [],
+    "originals": [
+      "passen"
+    ],
+    "id": "c82de62011d3bea24c4aea5195dbc4d9"
+  },
+  {
+    "type": "verb",
+    "base": "passieren",
+    "article": null,
+    "translate": "происходить; случаться; произойти",
+    "context": [],
+    "originals": [
+      "passieren"
+    ],
+    "id": "34f059c4f90121196d2f76f1637a1adf"
+  },
+  {
+    "type": "verb",
+    "base": "petzen",
+    "article": null,
+    "translate": "ябедничать; доносить",
+    "context": [],
+    "originals": [
+      "petzen"
+    ],
+    "id": "100467704e4d46b10984037cb7fc7481"
+  },
+  {
+    "type": "verb",
+    "base": "pfeifen",
+    "article": null,
+    "translate": "свистеть; насвистывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "pfeifen"
+    ],
+    "id": "104cec64c69bffd15c5708e2559e9a38"
+  },
+  {
+    "type": "verb",
+    "base": "pflanzen",
+    "article": null,
+    "translate": "сажать",
+    "context": [],
+    "originals": [
+      "pflanzen"
+    ],
+    "id": "98de2e92578fd4c1ed972d870afb78d8"
+  },
+  {
+    "type": "verb",
+    "base": "pflegen",
+    "article": null,
+    "translate": "ухаживать; заботиться",
+    "context": [],
+    "originals": [
+      "pflegen"
+    ],
+    "id": "fafc25a06c4dd1be371fb35c5d1ec8f0",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "pflücken",
+    "article": null,
+    "translate": "рвать",
+    "context": [],
+    "originals": [
+      "pflücken"
+    ],
+    "id": "298235c442a77d57eed9738e77fd320e"
+  },
+  {
+    "type": "verb",
+    "base": "piepen",
+    "article": null,
+    "translate": "чирикать; пищать",
+    "context": [],
+    "originals": [
+      "piepen"
+    ],
+    "id": "83f93e3b0f6f56d4063893b0cf424a04"
+  },
+  {
+    "type": "verb",
+    "base": "planen",
+    "article": null,
+    "translate": "планировать; запланировать; намечать; составлять план",
+    "context": [],
+    "originals": [
+      "planen"
+    ],
+    "id": "e51361c5b4db3d6d178e9a404254b731"
+  },
+  {
+    "type": "verb",
+    "base": "preisen",
+    "article": null,
+    "translate": "хвалить; восхвалять; превозносить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "preisen"
+    ],
+    "id": "03791ebbd188d8f4bb095ae5071bd3a7"
+  },
+  {
+    "type": "verb",
+    "base": "probieren",
+    "article": null,
+    "translate": "испробовать; пробовать; дегустировать; испытывать",
+    "context": [],
+    "originals": [
+      "probieren"
+    ],
+    "id": "fca97cf8540f047d378e0216f2aea6a2"
+  },
+  {
+    "type": "verb",
+    "base": "produzieren",
+    "article": null,
+    "translate": "производить; изготавливать; вырабатывать; выпускать",
+    "context": [],
+    "originals": [
+      "produzieren"
+    ],
+    "id": "70fbebe1d789c2f216976055fd8331b4"
+  },
+  {
+    "type": "verb",
+    "base": "protestieren",
+    "article": null,
+    "translate": "протестовать; возражать; заявлять протест",
+    "context": [],
+    "originals": [
+      "protestieren"
+    ],
+    "id": "bd1cf1271677c1797553c3d28e988cd1"
+  },
+  {
+    "type": "verb",
+    "base": "prüfen",
+    "article": null,
+    "translate": "проверять; выверять; контролировать; рассматривать; испытывать",
+    "context": [],
+    "originals": [
+      "prüfen"
+    ],
+    "id": "2d722b73f38a8198eab0218552473053"
+  },
+  {
+    "type": "verb",
+    "base": "pusten",
+    "article": null,
+    "translate": "дуть; тяжело дышать",
+    "context": [],
+    "originals": [
+      "pusten"
+    ],
+    "id": "eba4b1a3140f13e3d038bc432f4fc0d1"
+  },
+  {
+    "type": "verb",
+    "base": "putzen",
+    "article": null,
+    "translate": "чистить; убирать; прочистить; очищать",
+    "context": [],
+    "originals": [
+      "putzen"
+    ],
+    "id": "4c5c24ac9796f0ebb48a99f282864a41"
+  },
+  {
+    "type": "verb",
+    "base": "quaken",
+    "article": null,
+    "translate": "квакать",
+    "context": [],
+    "originals": [
+      "quaken"
+    ],
+    "id": "cd20d06bc113f473bbb7e19bb7842724"
+  },
+  {
+    "type": "verb",
+    "base": "quellen",
+    "article": null,
+    "translate": "бить ключом; течь; литься",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "quellen"
+    ],
+    "id": "15f364b025f1f173dad08ed19f1ff440",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "quieken",
+    "article": null,
+    "translate": "пищать; визжать",
+    "context": [],
+    "originals": [
+      "quieken"
+    ],
+    "id": "d74508c0967c0d05b65bfedf3cb39fc4"
+  },
+  {
+    "type": "verb",
+    "base": "quietschen",
+    "article": null,
+    "translate": "пищать; скрипеть",
+    "context": [],
+    "originals": [
+      "quietschen"
+    ],
+    "id": "48929bbb295c1c591f4f9b4a092d3770"
+  },
+  {
+    "type": "verb",
+    "base": "raten",
+    "article": null,
+    "translate": "советовать; гадать; отгадывать; угадывать",
+    "context": [],
+    "originals": [
+      "raten"
+    ],
+    "id": "45bb4edd089a8561ef99ae39352eff1b",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "rauchen",
+    "article": null,
+    "translate": "курить; дымить",
+    "context": [],
+    "originals": [
+      "rauchen"
+    ],
+    "id": "bd2d114dffa44805180af3501660a3ff"
+  },
+  {
+    "type": "verb",
+    "base": "reagieren",
+    "article": null,
+    "translate": "реагировать; отвечать; откликаться; отзываться; вступать в реакцию",
+    "context": [],
+    "originals": [
+      "reagieren"
+    ],
+    "id": "bb62e8df855463eb73d571f719622b2e"
+  },
+  {
+    "type": "verb",
+    "base": "realisieren",
+    "article": null,
+    "translate": "реализовывать; осуществлять",
+    "context": [],
+    "originals": [
+      "realisieren"
+    ],
+    "id": "59404aa045aa57395497410178269a41"
+  },
+  {
+    "type": "verb",
+    "base": "rechnen",
+    "article": null,
+    "translate": "решать; вычислять; рассчитывать; подсчитывать; считаться; принимать в расчет; производить вычисления",
+    "context": [],
+    "originals": [
+      "rechnen"
+    ],
+    "id": "7f8c3d0c4324abfd7043e562895c7f93"
+  },
+  {
+    "type": "verb",
+    "base": "reden",
+    "article": null,
+    "translate": "разговаривать; беседовать; выступать; произносить речь",
+    "context": [],
+    "originals": [
+      "reden"
+    ],
+    "id": "cdebdb2693c25e6d72788fa03013b2c7"
+  },
+  {
+    "type": "verb",
+    "base": "reduzieren",
+    "article": null,
+    "translate": "сокращать",
+    "context": [],
+    "originals": [
+      "reduzieren; kürzen"
+    ],
+    "id": "b15a84911f1d750ced582cace7ed4804"
+  },
+  {
+    "type": "verb",
+    "base": "regnen",
+    "article": null,
+    "translate": "идет дождь; дождить; идёт дождь",
+    "context": [],
+    "originals": [
+      "regnen"
+    ],
+    "id": "11f989f7da812406ccfe2db1bb989fe5"
+  },
+  {
+    "type": "verb",
+    "base": "reiben",
+    "article": null,
+    "translate": "тереть; натирать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "reiben"
+    ],
+    "id": "9fdb8f7ae068020008b0823cb9b29ce4"
+  },
+  {
+    "type": "verb",
+    "base": "reichen",
+    "article": null,
+    "translate": "достигать; хватать",
+    "context": [],
+    "originals": [
+      "reichen"
+    ],
+    "id": "e5d049f352cb386a3fb1a5db8d9f1445"
+  },
+  {
+    "type": "verb",
+    "base": "reisen",
+    "article": null,
+    "translate": "путешествовать; ездить; странствовать",
+    "context": [],
+    "originals": [
+      "reisen"
+    ],
+    "id": "cf63c0889573576aa7d74ebfe36f322d"
+  },
+  {
+    "type": "verb",
+    "base": "reiten",
+    "article": null,
+    "translate": "ездить верхом; скакать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "reiten"
+    ],
+    "id": "d7124c480858e92464d231d43586d8b6"
+  },
+  {
+    "type": "verb",
+    "base": "reißen",
+    "article": null,
+    "translate": "рвать; разрывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "reißen"
+    ],
+    "id": "e6fe67501242188b30d309e97ccb338e"
+  },
+  {
+    "type": "verb",
+    "base": "rennen",
+    "article": null,
+    "translate": "бежать; быстро бежать; мчаться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "rennen"
+    ],
+    "id": "78b2349279b620d00c4d3e941af491ce"
+  },
+  {
+    "type": "verb",
+    "base": "renovieren",
+    "article": null,
+    "translate": "восстанавливать; ремонтировать",
+    "context": [],
+    "originals": [
+      "renovieren"
+    ],
+    "id": "bf8a1a908d82d9824a8da87b7d45824d"
+  },
+  {
+    "type": "verb",
+    "base": "reparieren",
+    "article": null,
+    "translate": "чинить; ремонтировать; производить ремонт; восстанавливать",
+    "context": [],
+    "originals": [
+      "reparieren"
+    ],
+    "id": "7ff0b47740a8890e1ccbff1e70cc60f7"
+  },
+  {
+    "type": "verb",
+    "base": "reservieren",
+    "article": null,
+    "translate": "резервировать; бронировать; заказывать",
+    "context": [],
+    "originals": [
+      "reservieren"
+    ],
+    "id": "5b22ee04dbb66db2c7f3473a62055a6e"
+  },
+  {
+    "type": "verb",
+    "base": "retten",
+    "article": null,
+    "translate": "спасать; спасаться; выручать; вызволять; избавлять",
+    "context": [],
+    "originals": [
+      "retten"
+    ],
+    "id": "dbe5a151778c91426614af12f0cbf150"
+  },
+  {
+    "type": "verb",
+    "base": "riechen",
+    "article": null,
+    "translate": "нюхать; пахнуть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "riechen"
+    ],
+    "id": "6a3cc76496bade78e57285cb08f7c465"
+  },
+  {
+    "type": "verb",
+    "base": "ringen",
+    "article": null,
+    "translate": "бороться; добиваться; стараться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "ringen"
+    ],
+    "id": "eb4a136e34de083df44cc77fb0340929"
+  },
+  {
+    "type": "verb",
+    "base": "rinnen",
+    "article": null,
+    "translate": "течь; струиться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "rinnen"
+    ],
+    "id": "fb59308e6612ba403bd6a884f35458bd"
+  },
+  {
+    "type": "verb",
+    "base": "rollen",
+    "article": null,
+    "translate": "катиться",
+    "context": [],
+    "originals": [
+      "rollen"
+    ],
+    "id": "874ad91ce935ec417fd4f9797a5fde87"
+  },
+  {
+    "type": "verb",
+    "base": "rufen",
+    "article": null,
+    "translate": "кричать; звать; вызывать",
+    "context": [],
+    "originals": [
+      "rufen"
+    ],
+    "id": "eecd7288204d2ff7c846f30f8f8d3d9b",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "rühren",
+    "article": null,
+    "translate": "перемешивать",
+    "context": [],
+    "originals": [
+      "rühren"
+    ],
+    "id": "ee4ea5168c911ec60902aac9e210eeab"
+  },
+  {
+    "type": "verb",
+    "base": "sagen",
+    "article": null,
+    "translate": "сказать; говорить; произносить",
+    "context": [],
+    "originals": [
+      "sagen"
+    ],
+    "id": "687c514b57ab329e5d0aed792b266eec"
+  },
+  {
+    "type": "verb",
+    "base": "salzen",
+    "article": null,
+    "translate": "солить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "salzen"
+    ],
+    "id": "fa7b11a71a5f8f59d00ad26c56cdfc32"
+  },
+  {
+    "type": "verb",
+    "base": "saufen",
+    "article": null,
+    "translate": "пить; пьянствовать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "saufen"
+    ],
+    "id": "dd77d65dca15d3a38578b3d743c2917a",
+    "config": {
+      "type": "au-äu"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "saugen",
+    "article": null,
+    "translate": "сосать; высасывать; пылесосить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "saugen"
+    ],
+    "id": "be725809bea6c0581db05d7c7b80290a"
+  },
+  {
+    "type": "verb",
+    "base": "schaffen",
+    "article": null,
+    "translate": "создавать; творить; делать; порождать; образовать; учреждать; сделать; суметь сделать",
+    "context": [],
+    "originals": [
+      "schaffen"
+    ],
+    "id": "e13ea74727995e488e8329ec1044adaa",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "schallen",
+    "article": null,
+    "translate": "звучать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schallen"
+    ],
+    "id": "4c0a0e429b37f909ad569fb0ffebd690"
+  },
+  {
+    "type": "verb",
+    "base": "schauen",
+    "article": null,
+    "translate": "смотреть; глядеть; присматривать",
+    "context": [],
+    "originals": [
+      "schauen"
+    ],
+    "id": "5703a6e11d4d90c33309e88e2f3456cd"
+  },
+  {
+    "type": "verb",
+    "base": "scheiden",
+    "article": null,
+    "translate": "разделять; расторгать брак",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "scheiden"
+    ],
+    "id": "904d0bec07002978c9f9e1fcf6719530"
+  },
+  {
+    "type": "verb",
+    "base": "scheinen",
+    "article": null,
+    "translate": "светить; сиять; казаться",
+    "context": [],
+    "originals": [
+      "scheinen"
+    ],
+    "id": "af2bd2b5f59b36368695b494db5628b1",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "schelten",
+    "article": null,
+    "translate": "бранить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schelten"
+    ],
+    "id": "81eef48266d5cebb612dfea1af464011"
+  },
+  {
+    "type": "verb",
+    "base": "schenken",
+    "article": null,
+    "translate": "дарить; даровать; давать; оказывать; преподносить",
+    "context": [],
+    "originals": [
+      "schenken"
+    ],
+    "id": "77da4eb9df11554f36ddb351dc3357ec"
+  },
+  {
+    "type": "verb",
+    "base": "scheren",
+    "article": null,
+    "translate": "стричь; подстригать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "scheren"
+    ],
+    "id": "8c017b77ad6ae5dc9740566af2d4f790"
+  },
+  {
+    "type": "verb",
+    "base": "schicken",
+    "article": null,
+    "translate": "посылать; отправлять; направлять",
+    "context": [],
+    "originals": [
+      "schicken"
+    ],
+    "id": "7b4a044c2bc9c716f09a504ef18ae4a8"
+  },
+  {
+    "type": "verb",
+    "base": "schieben",
+    "article": null,
+    "translate": "двигать; толкать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schieben"
+    ],
+    "id": "b036457ff81bb2a0febfe6d68ff7cc8f"
+  },
+  {
+    "type": "verb",
+    "base": "schießen",
+    "article": null,
+    "translate": "стрелять; бить; ударять",
+    "context": [],
+    "originals": [
+      "schießen"
+    ],
+    "id": "c0e7f911b255a5cc6d48096289557975",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "schimpfen",
+    "article": null,
+    "translate": "ругать; ругаться; поносить; браниться; хаять",
+    "context": [],
+    "originals": [
+      "schimpfen"
+    ],
+    "id": "585ec63452868d0f8d2bd0045bc3c88d"
+  },
+  {
+    "type": "verb",
+    "base": "schinden",
+    "article": null,
+    "translate": "сдирать шкуру; обдирать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schinden"
+    ],
+    "id": "b508be152b53ae3fbee2d9f17e1432c4"
+  },
+  {
+    "type": "verb",
+    "base": "schlafen",
+    "article": null,
+    "translate": "спать; ночевать",
+    "context": [],
+    "originals": [
+      "schlafen"
+    ],
+    "id": "20231fe72a6661d965dfd33a07c81791",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "schlagen",
+    "article": null,
+    "translate": "бить; ударить; стучать; ударять",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schlagen"
+    ],
+    "id": "6d652d4f55050176a1fd2cf454bbad24",
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "schleichen",
+    "article": null,
+    "translate": "красться; подкрадываться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schleichen"
+    ],
+    "id": "56fdffba96e883d013c5363795779c8d"
+  },
+  {
+    "type": "verb",
+    "base": "schleifen",
+    "article": null,
+    "translate": "точить; шлифовать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schleifen"
+    ],
+    "id": "a02add9d91e0e54eaf46f07aaeebb6c7"
+  },
+  {
+    "type": "verb",
+    "base": "schließen",
+    "article": null,
+    "translate": "закрывать; запирать; завершать; заключать; закрыть; завершить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schließen"
+    ],
+    "id": "247595f6d4648d3ab866ccca95f24455"
+  },
+  {
+    "type": "verb",
+    "base": "schlingen",
+    "article": null,
+    "translate": "обвивать; обхватывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schlingen"
+    ],
+    "id": "aab300b4219e84065ac3f5e8f3914ae4"
+  },
+  {
+    "type": "verb",
+    "base": "schmausen",
+    "article": null,
+    "translate": "пировать",
+    "context": [],
+    "originals": [
+      "schmausen"
+    ],
+    "id": "099409ca90d9d0571c8e46cd326e63c5"
+  },
+  {
+    "type": "verb",
+    "base": "schmecken",
+    "article": null,
+    "translate": "пробовать; пробовать на вкус; иметь вкус; отведать; попробовать",
+    "context": [],
+    "originals": [
+      "schmecken"
+    ],
+    "id": "97e53fb74b77205b9116a28a0965bd4b"
+  },
+  {
+    "type": "verb",
+    "base": "schmeißen",
+    "article": null,
+    "translate": "кидать; бросать; швырять",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schmeißen"
+    ],
+    "id": "68c78f6d713f4ab52a8489c7bcd801d5"
+  },
+  {
+    "type": "verb",
+    "base": "schmelzen",
+    "article": null,
+    "translate": "таять; топить; плавить; растаять; расплавиться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schmelzen"
+    ],
+    "id": "e72b67c35bc86d19adce4df61514971f",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "schmücken",
+    "article": null,
+    "translate": "украшать",
+    "context": [],
+    "originals": [
+      "schmücken"
+    ],
+    "id": "1c66b3e3c89b3f4614d7735e593c13e8"
+  },
+  {
+    "type": "verb",
+    "base": "schnarchen",
+    "article": null,
+    "translate": "храпеть",
+    "context": [],
+    "originals": [
+      "schnarchen"
+    ],
+    "id": "429d8944ee57ba5eb59f6df944be9fb1"
+  },
+  {
+    "type": "verb",
+    "base": "schnauben",
+    "article": null,
+    "translate": "сопеть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schnauben"
+    ],
+    "id": "7329f03a6a04a2b693df43fd19900319"
+  },
+  {
+    "type": "verb",
+    "base": "schneiden",
+    "article": null,
+    "translate": "резать; разрезать; стричь",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schneiden"
+    ],
+    "id": "db119423ebc004b46388eabb7dc3c659"
+  },
+  {
+    "type": "verb",
+    "base": "schneien",
+    "article": null,
+    "translate": "идёт снег; идет дождь",
+    "context": [],
+    "originals": [
+      "schneien"
+    ],
+    "id": "3cd59775b21254149b16ee6d21c8fa3c"
+  },
+  {
+    "type": "verb",
+    "base": "schrecken",
+    "article": null,
+    "translate": "пугать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schrecken"
+    ],
+    "id": "24667b0f2257706f485497e7f27a709a"
+  },
+  {
+    "type": "verb",
+    "base": "schreiben",
+    "article": null,
+    "translate": "писать; записывать; написать",
+    "context": [],
+    "originals": [
+      "schreiben"
+    ],
+    "id": "bbf02e9b67727ef1366d219abce63fb6",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "schreien",
+    "article": null,
+    "translate": "кричать; орать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schreien"
+    ],
+    "id": "1f6699cd79ee34a7f0a3903b46860eb0"
+  },
+  {
+    "type": "verb",
+    "base": "schreiten",
+    "article": null,
+    "translate": "шагать; шествовать; идти",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schreiten"
+    ],
+    "id": "e7d794464f4953e57f48a2278f00adc0"
+  },
+  {
+    "type": "verb",
+    "base": "schweigen",
+    "article": null,
+    "translate": "молчать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schweigen"
+    ],
+    "id": "1f70df2f3ef92725832a546ab20da016"
+  },
+  {
+    "type": "verb",
+    "base": "schwellen",
+    "article": null,
+    "translate": "пухнуть; вздуваться; отекать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schwellen"
+    ],
+    "id": "72bd233cf06e5e83c4854682b8020b29"
+  },
+  {
+    "type": "verb",
+    "base": "schwimmen",
+    "article": null,
+    "translate": "плавать; плыть",
+    "context": [],
+    "originals": [
+      "schwimmen"
+    ],
+    "id": "078216e621231f4c8e5e43760f4eb934",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "schwinden",
+    "article": null,
+    "translate": "убывать; исчезать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schwinden"
+    ],
+    "id": "ebfc3e7ea2d180d475215599500bc530"
+  },
+  {
+    "type": "verb",
+    "base": "schwingen",
+    "article": null,
+    "translate": "махать; размахивать; качаться; колебаться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schwingen"
+    ],
+    "id": "c1cb2b582c87fe45123793656f541fc1"
+  },
+  {
+    "type": "verb",
+    "base": "schwitzen",
+    "article": null,
+    "translate": "потеть; преть; париться",
+    "context": [],
+    "originals": [
+      "schwitzen"
+    ],
+    "id": "5aef797929c328999c07d1bd8d8e54c0"
+  },
+  {
+    "type": "verb",
+    "base": "schwören",
+    "article": null,
+    "translate": "клясться; обещать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "schwören"
+    ],
+    "id": "f6eb88eb029b8380a5d08083d8bdf6a5"
+  },
+  {
+    "type": "verb",
+    "base": "schätzen",
+    "article": null,
+    "translate": "ценить",
+    "context": [],
+    "originals": [
+      "schätzen"
+    ],
+    "id": "27e9dd22238a7198ef05af235d2c9c78"
+  },
+  {
+    "type": "verb",
+    "base": "schützen",
+    "article": null,
+    "translate": "охранять; защищать; ограждать; предохранять",
+    "context": [],
+    "originals": [
+      "schützen"
+    ],
+    "id": "cd4e3ad1b7424823409dc7ec0f023221"
+  },
+  {
+    "type": "verb",
+    "base": "sehen",
+    "article": null,
+    "translate": "смотреть; глядеть; видеть",
+    "context": [],
+    "originals": [
+      "sehen"
+    ],
+    "id": "72aa6b45173767438a8a84e84a4e6d18",
+    "irregular": true,
+    "config": {
+      "type": "e-ie"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "sein",
+    "article": null,
+    "translate": "быть; являться; находиться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "sein"
+    ],
+    "id": "a017eb265503b12768802b679df03a5b"
+  },
+  {
+    "type": "verb",
+    "base": "seit...Jahren/Stunden",
+    "article": null,
+    "translate": "на протяжении...лет/часов",
+    "context": [],
+    "originals": [
+      "seit...Jahren/Stunden"
+    ],
+    "id": "f5e86a49e9a499771511a184cec7fa01"
+  },
+  {
+    "type": "verb",
+    "base": "selten",
+    "article": null,
+    "translate": "редко; редкий; редкостный",
+    "context": [],
+    "originals": [
+      "selten"
+    ],
+    "id": "f4d79949e5ff5753eb38c5055d55db76"
+  },
+  {
+    "type": "verb",
+    "base": "senden",
+    "article": null,
+    "translate": "посылать; отправлять; слать; передавать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "senden"
+    ],
+    "id": "bdb7642679a3c2e2edb75182f653e10a"
+  },
+  {
+    "type": "verb",
+    "base": "senken",
+    "article": null,
+    "translate": "опускать",
+    "context": [],
+    "originals": [
+      "senken"
+    ],
+    "id": "708046cbc0091d02048e205c0fd5f8f5"
+  },
+  {
+    "type": "verb",
+    "base": "sieden",
+    "article": null,
+    "translate": "кипятить; кипеть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "sieden",
+      " kochen"
+    ],
+    "id": "654eb240162d3e302771dcfe6c35a738"
+  },
+  {
+    "type": "verb",
+    "base": "singen",
+    "article": null,
+    "translate": "петь",
+    "context": [],
+    "originals": [
+      "singen"
+    ],
+    "id": "1a8dfbb7d989130fe3de726aeea23f01",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "sinken",
+    "article": null,
+    "translate": "опускаться; погружаться; падать; тонуть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "sinken"
+    ],
+    "id": "314444e85c7ee8ba7d5a1cc618ba1afe"
+  },
+  {
+    "type": "verb",
+    "base": "sinnen",
+    "article": null,
+    "translate": "думать; размышлять; замышлять",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "sinnen"
+    ],
+    "id": "18bbc81606e9df182c3fbaea93821879"
+  },
+  {
+    "type": "verb",
+    "base": "sitzen",
+    "article": null,
+    "translate": "сидеть; сижу; сидишь; сидят",
+    "context": [],
+    "originals": [
+      "sitzen"
+    ],
+    "id": "2dfe02a23e395d8fd30ae3190820256f",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "sollen",
+    "article": null,
+    "translate": "долженствовать; быть обязанным; быть должным",
+    "context": [],
+    "originals": [
+      "sollen"
+    ],
+    "id": "b39ece2343318219dec468e723076cd7",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "sorgen",
+    "article": null,
+    "translate": "заботиться; беспокоиться; тревожиться; опасаться; позаботиться",
+    "context": [],
+    "originals": [
+      "sorgen"
+    ],
+    "id": "5e64c5f73bf96b68aea55a50a11c6d47"
+  },
+  {
+    "type": "verb",
+    "base": "spalten",
+    "article": null,
+    "translate": "колоть; раскалывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "spalten"
+    ],
+    "id": "06c131fd2284aa7c44823d98a78e14e6"
+  },
+  {
+    "type": "verb",
+    "base": "sparen",
+    "article": null,
+    "translate": "экономить; копить; сберегать; откладывать",
+    "context": [],
+    "originals": [
+      "sparen"
+    ],
+    "id": "fe0d341ad41d7d729b664f355dbdc97c"
+  },
+  {
+    "type": "verb",
+    "base": "spazieren",
+    "article": null,
+    "translate": "гулять",
+    "context": [],
+    "originals": [
+      "spazieren"
+    ],
+    "id": "f11ef06a366d604e723acff51f33640f"
+  },
+  {
+    "type": "verb",
+    "base": "speien",
+    "article": null,
+    "translate": "выплёвывать; плевать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "speien"
+    ],
+    "id": "80523780357a516f44d1a9c4b7d5af9f"
+  },
+  {
+    "type": "verb",
+    "base": "spielen",
+    "article": null,
+    "translate": "играть; исполнять",
+    "context": [],
+    "originals": [
+      "spielen"
+    ],
+    "id": "0bb38b1d0126288d577d8c6a3527263a"
+  },
+  {
+    "type": "verb",
+    "base": "spinnen",
+    "article": null,
+    "translate": "прясть; прясти",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "spinnen"
+    ],
+    "id": "1fa8b6cf4d7e23030638cafc1a8c8c63"
+  },
+  {
+    "type": "verb",
+    "base": "spitzen",
+    "article": null,
+    "translate": "заострять; чинить (карандаш)",
+    "context": [],
+    "originals": [
+      "spitzen"
+    ],
+    "id": "e3f46656a6ca6ddd9b571b33c269e085"
+  },
+  {
+    "type": "verb",
+    "base": "sprechen",
+    "article": null,
+    "translate": "разговаривать; говорить",
+    "context": [],
+    "originals": [
+      "sprechen"
+    ],
+    "id": "1c58006cbbbdd86eae5da72ff8f88b94",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "sprießen",
+    "article": null,
+    "translate": "пускать ростки; почки; расти; прорастать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "sprießen"
+    ],
+    "id": "d9c1d663407c5cb4d85b26c1f4cc472e"
+  },
+  {
+    "type": "verb",
+    "base": "springen",
+    "article": null,
+    "translate": "прыгать; скакать",
+    "context": [],
+    "originals": [
+      "springen"
+    ],
+    "id": "1c11c8c57f1281826f4b192d4606518a",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "spucken",
+    "article": null,
+    "translate": "плевать",
+    "context": [],
+    "originals": [
+      "spucken"
+    ],
+    "id": "33b4c25ae9b550f5d166868d928cbd53"
+  },
+  {
+    "type": "verb",
+    "base": "spuren",
+    "article": null,
+    "translate": "оставлять следы",
+    "context": [],
+    "originals": [
+      "spuren"
+    ],
+    "id": "ea1ecc8d790fe500abf2406fba69c738"
+  },
+  {
+    "type": "verb",
+    "base": "spülen",
+    "article": null,
+    "translate": "полоскать; промывать; мыть; ополаскивать",
+    "context": [],
+    "originals": [
+      "spülen"
+    ],
+    "id": "7c0a4ce5560840488eee6a525ea12462"
+  },
+  {
+    "type": "verb",
+    "base": "starten",
+    "article": null,
+    "translate": "запускать; стартовать; начинать; инициировать; заводить",
+    "context": [],
+    "originals": [
+      "starten"
+    ],
+    "id": "3bf100672ecc79a2b033b8e166eddca5"
+  },
+  {
+    "type": "verb",
+    "base": "stechen",
+    "article": null,
+    "translate": "колоть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "stechen"
+    ],
+    "id": "754cfdd69cf43d24cdb1812686837bbf",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "stecken",
+    "article": null,
+    "translate": "торчать; совать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "stecken"
+    ],
+    "id": "e0e49ffcbbcf3aa3bdcce2e44a434964"
+  },
+  {
+    "type": "verb",
+    "base": "stehen",
+    "article": null,
+    "translate": "стоять; находиться",
+    "context": [],
+    "originals": [
+      "stehen"
+    ],
+    "id": "ddec872d6834598f839cc767c7956c31",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "stehenbleiben",
+    "article": null,
+    "translate": "останавливать(ся)",
+    "context": [],
+    "originals": [
+      "stehenbleiben"
+    ],
+    "id": "5c7e46187ca004bdbf2bdbef8b983051"
+  },
+  {
+    "type": "verb",
+    "base": "stehlen",
+    "article": null,
+    "translate": "воровать; красть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "stehlen"
+    ],
+    "id": "b26a8af8431acf320815e15666182a27",
+    "config": {
+      "type": "e-ie"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "steigen",
+    "article": null,
+    "translate": "подниматься; взбираться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "steigen"
+    ],
+    "id": "bb473a7e7072aa609ed6eb99d1cb5317"
+  },
+  {
+    "type": "verb",
+    "base": "stellen",
+    "article": null,
+    "translate": "ставить; помещать; устанавливать; поставить; задавать; определять",
+    "context": [],
+    "originals": [
+      "stellen"
+    ],
+    "id": "24b8c7af793ee5d89071493676006312"
+  },
+  {
+    "type": "verb",
+    "base": "sterben",
+    "article": null,
+    "translate": "умирать",
+    "context": [],
+    "originals": [
+      "sterben"
+    ],
+    "id": "82b3079121800296a1606c6584a6da67",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "stieben",
+    "article": null,
+    "translate": "рассеиваться; разлетаться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "stieben"
+    ],
+    "id": "480f0dec7fae24f098074a7a700d8b03"
+  },
+  {
+    "type": "verb",
+    "base": "stimmen",
+    "article": null,
+    "translate": "соответствовать (истине); быть верным; голосовать; подать голос; сходиться; соответствовать; подходить",
+    "context": [],
+    "originals": [
+      "stimmen"
+    ],
+    "id": "dcbf47271caaf7ef30bf9c1cdd423584"
+  },
+  {
+    "type": "verb",
+    "base": "stinken",
+    "article": null,
+    "translate": "вонять",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "stinken"
+    ],
+    "id": "2f0d6bbe0cd1a44d98e77500c1f41b88"
+  },
+  {
+    "type": "verb",
+    "base": "stoppen",
+    "article": null,
+    "translate": "останавливать; прекратиться; приостановиться; приостанавливать",
+    "context": [],
+    "originals": [
+      "stoppen"
+    ],
+    "id": "bca73b352e516c729ac3490b4aee2708"
+  },
+  {
+    "type": "verb",
+    "base": "stoßen",
+    "article": null,
+    "translate": "толкать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "stoßen"
+    ],
+    "id": "2e59f227e316ace3445e00f776b6e898"
+  },
+  {
+    "type": "verb",
+    "base": "streichen",
+    "article": null,
+    "translate": "гладить; красить; вычёркивать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "streichen"
+    ],
+    "id": "8c577b5bbbddb71ba2f3dff9b5959870"
+  },
+  {
+    "type": "verb",
+    "base": "streiten",
+    "article": null,
+    "translate": "спорить; ссориться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "streiten"
+    ],
+    "id": "e6780d7d2d765b5ac64d2d7197ac2686"
+  },
+  {
+    "type": "verb",
+    "base": "stricken",
+    "article": null,
+    "translate": "вязать",
+    "context": [],
+    "originals": [
+      "stricken"
+    ],
+    "id": "9a033d6964cb5172d4c77573aa6fb9af"
+  },
+  {
+    "type": "verb",
+    "base": "studieren",
+    "article": null,
+    "translate": "учиться в вузе; изучать; учиться",
+    "context": [],
+    "originals": [
+      "studieren"
+    ],
+    "id": "031bb5473025fc200498ef0cd4f630e5"
+  },
+  {
+    "type": "verb",
+    "base": "stören",
+    "article": null,
+    "translate": "мешать; беспокоить; тревожить; создавать помехи",
+    "context": [],
+    "originals": [
+      "stören"
+    ],
+    "id": "4a65763354276a2c93d70fda565a2478"
+  },
+  {
+    "type": "verb",
+    "base": "stürzen",
+    "article": null,
+    "translate": "свергать; кинуться; мчаться; низвергать; повергать",
+    "context": [],
+    "originals": [
+      "stürzen"
+    ],
+    "id": "9a050181f53e91eeae91e5fb8b7c0552"
+  },
+  {
+    "type": "verb",
+    "base": "suchen",
+    "article": null,
+    "translate": "искать; разыскивать",
+    "context": [],
+    "originals": [
+      "suchen"
+    ],
+    "id": "eb3e4130d943cc5eed70166fe4c2c9dd"
+  },
+  {
+    "type": "verb",
+    "base": "tanken",
+    "article": null,
+    "translate": "заправлять; заправлять топливом",
+    "context": [],
+    "originals": [
+      "tanken"
+    ],
+    "id": "fa2a3f98faab63d853057ae4ac429fc3"
+  },
+  {
+    "type": "verb",
+    "base": "tanzen",
+    "article": null,
+    "translate": "танцевать; плясать",
+    "context": [],
+    "originals": [
+      "tanzen"
+    ],
+    "id": "927e20f738bf4dc4c5f5994b84b6ccdd"
+  },
+  {
+    "type": "verb",
+    "base": "teilen",
+    "article": null,
+    "translate": "делиться; разделяться; разделять; делить",
+    "context": [],
+    "originals": [
+      "teilen"
+    ],
+    "id": "5edd27a436222c71583026cecadcabc0"
+  },
+  {
+    "type": "verb",
+    "base": "teilnehmen",
+    "article": null,
+    "translate": "участвовать",
+    "context": [],
+    "originals": [
+      "teilnehmen"
+    ],
+    "id": "5bae74e4e98f1fca05b516f262878c80"
+  },
+  {
+    "type": "verb",
+    "base": "telefonieren",
+    "article": null,
+    "translate": "звонить; звонить по телефону; говорить по телефону",
+    "context": [],
+    "originals": [
+      "telefonieren"
+    ],
+    "id": "9877b9668300c4f6404dc1278c1256bd"
+  },
+  {
+    "type": "verb",
+    "base": "testen",
+    "article": null,
+    "translate": "тестировать; проверять; испытывать; проводить испытание",
+    "context": [],
+    "originals": [
+      "testen"
+    ],
+    "id": "d441753598607d1bb2a572ca8f83dfc1"
+  },
+  {
+    "type": "verb",
+    "base": "tippen",
+    "article": null,
+    "translate": "печатать",
+    "context": [],
+    "originals": [
+      "tippen"
+    ],
+    "id": "9253c9b41abedd135551fea88e9d7b09"
+  },
+  {
+    "type": "verb",
+    "base": "tragen",
+    "article": null,
+    "translate": "носить; нести",
+    "context": [],
+    "originals": [
+      "tragen",
+      " anhaben"
+    ],
+    "id": "b0647b46e4c990800cda12f23f34bcba",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "trainieren",
+    "article": null,
+    "translate": "тренироваться; упражняться",
+    "context": [],
+    "originals": [
+      "trainieren"
+    ],
+    "id": "d429970df868dd51139debea67a348bc"
+  },
+  {
+    "type": "verb",
+    "base": "transportieren",
+    "article": null,
+    "translate": "транспортировать; перевозить; переносить",
+    "context": [],
+    "originals": [
+      "transportieren"
+    ],
+    "id": "3d2737729cdf2e152d8980f5fb2d115d"
+  },
+  {
+    "type": "verb",
+    "base": "treffen",
+    "article": null,
+    "translate": "встречать; встретить; попасть; настигнуть; встречаться",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "treffen"
+    ],
+    "id": "38e43521560ff72f29b4010fe4c6e73e",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "treiben",
+    "article": null,
+    "translate": "гнать; приводить в движение",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "treiben"
+    ],
+    "id": "018d1e7c70b31204744d93617aa6e98d"
+  },
+  {
+    "type": "verb",
+    "base": "trennen",
+    "article": null,
+    "translate": "отсоединять; отделять; разъединять; разделять",
+    "context": [],
+    "originals": [
+      "trennen"
+    ],
+    "id": "ce4d7349b23372b5882d080e39d5e9e6"
+  },
+  {
+    "type": "verb",
+    "base": "treten",
+    "article": null,
+    "translate": "ступать; наступать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "treten"
+    ],
+    "id": "d6f16dfcde8ad3f46222ba8ff30290d8",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "triefen",
+    "article": null,
+    "translate": "капать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "triefen"
+    ],
+    "id": "271b3aec21d2a6e8ddd70d80cba40b23"
+  },
+  {
+    "type": "verb",
+    "base": "trinken",
+    "article": null,
+    "translate": "пить",
+    "context": [],
+    "originals": [
+      "trinken"
+    ],
+    "id": "6d5359e3e27642247ba95c6698dbc1a5",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "trocken",
+    "article": null,
+    "translate": "сухой; засушливый; высохший; насухо; досуха",
+    "context": [],
+    "originals": [
+      "trocken"
+    ],
+    "id": "edf941c9916fb99a3ae71ed91945b009"
+  },
+  {
+    "type": "verb",
+    "base": "trocknen",
+    "article": null,
+    "translate": "сушить",
+    "context": [],
+    "originals": [
+      "trocknen"
+    ],
+    "id": "306a394923639c092123ce2a60b9da79"
+  },
+  {
+    "type": "verb",
+    "base": "tropfen",
+    "article": null,
+    "translate": "капать",
+    "context": [],
+    "originals": [
+      "tropfen"
+    ],
+    "id": "ba47acfcc98091a8d13d60eb9a9e62c8"
+  },
+  {
+    "type": "verb",
+    "base": "träumen",
+    "article": null,
+    "translate": "мечтать",
+    "context": [],
+    "originals": [
+      "träumen"
+    ],
+    "id": "1d0965828eed8c3287c681d6420f0f7e"
+  },
+  {
+    "type": "verb",
+    "base": "trösten",
+    "article": null,
+    "translate": "утешать",
+    "context": [],
+    "originals": [
+      "trösten"
+    ],
+    "id": "cb106b4cff6de4e8890501c62422cafc"
+  },
+  {
+    "type": "verb",
+    "base": "trügen",
+    "article": null,
+    "translate": "обманывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "trügen"
+    ],
+    "id": "62ef4cbf1c3ca2efe1a140fefaf58ac1"
+  },
+  {
+    "type": "verb",
+    "base": "tun",
+    "article": null,
+    "translate": "делать; сделать; поступить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "tun"
+    ],
+    "id": "269133b08bdf27f82b758bdfc2009564"
+  },
+  {
+    "type": "verb",
+    "base": "turnen",
+    "article": null,
+    "translate": "заниматься гимнастикой",
+    "context": [],
+    "originals": [
+      "turnen"
+    ],
+    "id": "3eaddd41fea38e1f99343ea99b3198e0"
+  },
+  {
+    "type": "verb",
+    "base": "töten",
+    "article": null,
+    "translate": "убить; убивать; умерщвлять; забивать",
+    "context": [],
+    "originals": [
+      "töten; umbringen"
+    ],
+    "id": "e9c26a6bb5cd8fe265bc8f57cebcec5f"
+  },
+  {
+    "type": "verb",
+    "base": "um/tauschen",
+    "article": null,
+    "translate": "обменивать",
+    "context": [],
+    "originals": [
+      "um/tauschen"
+    ],
+    "id": "7f91513c6fd17a576db0a39d36b99b9f"
+  },
+  {
+    "type": "verb",
+    "base": "umarmen",
+    "article": null,
+    "translate": "обнимать",
+    "context": [],
+    "originals": [
+      "umarmen"
+    ],
+    "id": "64908ba5e16bcef52f0ccf63b96579fc"
+  },
+  {
+    "type": "verb",
+    "base": "umbringen",
+    "article": null,
+    "translate": "убить",
+    "context": [],
+    "originals": [
+      "töten; umbringen"
+    ],
+    "id": "54bac17d5ad510a4fb0ae75fe6c5c254"
+  },
+  {
+    "type": "verb",
+    "base": "umwerfen",
+    "article": null,
+    "translate": "опрокидывать",
+    "context": [],
+    "originals": [
+      "umwerfen"
+    ],
+    "id": "49e4172704d82e79f29d1cd0f760d9b9"
+  },
+  {
+    "type": "verb",
+    "base": "umziehen",
+    "article": null,
+    "translate": "переезжать; переехать",
+    "context": [],
+    "originals": [
+      "umziehen"
+    ],
+    "id": "ad5b925ae92f0c2a06f47913b954f09c"
+  },
+  {
+    "type": "verb",
+    "base": "unten",
+    "article": null,
+    "translate": "внизу; снизу; ниже; (там) вниз",
+    "context": [],
+    "originals": [
+      "(da) unten"
+    ],
+    "id": "87b46f234cf125274d7032b811489875"
+  },
+  {
+    "type": "verb",
+    "base": "unterrichten",
+    "article": null,
+    "translate": "преподавать; обучать",
+    "context": [],
+    "originals": [
+      "unterrichten"
+    ],
+    "id": "77cac1e465788aaba8ad732d93527803"
+  },
+  {
+    "type": "verb",
+    "base": "unterscheiden",
+    "article": null,
+    "translate": "различать",
+    "context": [],
+    "originals": [
+      "unterscheiden"
+    ],
+    "id": "f66e7cacaeb14ce8f37f482de23b71f7"
+  },
+  {
+    "type": "verb",
+    "base": "unterschreiben",
+    "article": null,
+    "translate": "подписать; подписаться",
+    "context": [],
+    "originals": [
+      "unterschreiben"
+    ],
+    "id": "11b832515e8c63585ffb74b84632a908"
+  },
+  {
+    "type": "verb",
+    "base": "unterstützen",
+    "article": null,
+    "translate": "поддерживать; содействовать; способствовать; оказывать помощь",
+    "context": [],
+    "originals": [
+      "unterstützen"
+    ],
+    "id": "9cdfb83e9fd92f4b6abeb5d81e1a8897"
+  },
+  {
+    "type": "verb",
+    "base": "untersuchen",
+    "article": null,
+    "translate": "осматривать; исследовать; изучать",
+    "context": [],
+    "originals": [
+      "untersuchen"
+    ],
+    "id": "4cb1cbfc0b2b4ebc3f9d19d2a78e7e43"
+  },
+  {
+    "type": "verb",
+    "base": "verabschieden",
+    "article": null,
+    "translate": "принимать; утверждать; провожать",
+    "context": [],
+    "originals": [
+      "verabschieden"
+    ],
+    "id": "8cfcb8fdc88db460c1199e8c0ba4bb2b"
+  },
+  {
+    "type": "verb",
+    "base": "verbieten",
+    "article": null,
+    "translate": "запрещать",
+    "context": [],
+    "originals": [
+      "verbieten"
+    ],
+    "id": "303df3e945b432a5989e3088bbcf80b0"
+  },
+  {
+    "type": "verb",
+    "base": "verbinden",
+    "article": null,
+    "translate": "соединить",
+    "context": [],
+    "originals": [
+      "verbinden"
+    ],
+    "id": "482713711508d43cdd90a38e5167d503"
+  },
+  {
+    "type": "verb",
+    "base": "verboten",
+    "article": null,
+    "translate": "запрещено; запрещенный; недозволенный",
+    "context": [
+      [
+        "Hier ist Rauchen verboten.",
+        ""
+      ]
+    ],
+    "originals": [
+      "verboten"
+    ],
+    "id": "74e00803c8f190345389b0a8a3c3bdd1"
+  },
+  {
+    "type": "verb",
+    "base": "verbrauchen",
+    "article": null,
+    "translate": "потреблять; расходовать; затрачивать; тратить",
+    "context": [],
+    "originals": [
+      "verbrauchen"
+    ],
+    "id": "838f0144fa2300ccc1865074de5bb256"
+  },
+  {
+    "type": "verb",
+    "base": "verbringen",
+    "article": null,
+    "translate": "проводить",
+    "context": [],
+    "originals": [
+      "verbringen"
+    ],
+    "id": "c08b4589258a582778e487b299435cf1"
+  },
+  {
+    "type": "verb",
+    "base": "verderben",
+    "article": null,
+    "translate": "портить",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "verderben"
+    ],
+    "id": "32436c81f90438797c8b7712c49886be",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "verdienen",
+    "article": null,
+    "translate": "зарабатывать; заслуживать; быть достойным",
+    "context": [
+      [
+        "Ich verdiene 1.500 Euro im Monat.",
+        ""
+      ]
+    ],
+    "originals": [
+      "verdienen"
+    ],
+    "id": "431d47a4d4c0a1e64981e8dc1db2225b"
+  },
+  {
+    "type": "verb",
+    "base": "verdrießen",
+    "article": null,
+    "translate": "сердить; досаждать; раздражать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "verdrießen"
+    ],
+    "id": "311e3d19e1853908d5d77363fd2ba277"
+  },
+  {
+    "type": "verb",
+    "base": "vereinbaren",
+    "article": null,
+    "translate": "согласовывать; договариваться",
+    "context": [],
+    "originals": [
+      "vereinbaren"
+    ],
+    "id": "2aebc961c19a29f4a98d3b716a587bf6"
+  },
+  {
+    "type": "verb",
+    "base": "vergessen",
+    "article": null,
+    "translate": "забывать",
+    "context": [],
+    "originals": [
+      "vergessen"
+    ],
+    "id": "1afac5eeca429744a7c6f2dfdc563200",
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "vergleichen",
+    "article": null,
+    "translate": "сравнивать; сопоставлять",
+    "context": [],
+    "originals": [
+      "vergleichen"
+    ],
+    "id": "1ca119ed43e90db765b85ddc5fdfb3d1"
+  },
+  {
+    "type": "verb",
+    "base": "verkaufen",
+    "article": null,
+    "translate": "продавать; продать; сбывать",
+    "context": [
+      [
+        "Er verkauft sein altes Auto.",
+        ""
+      ]
+    ],
+    "originals": [
+      "verkaufen"
+    ],
+    "id": "daa1aa7f2ba82548f3784a3654736480"
+  },
+  {
+    "type": "verb",
+    "base": "verlangen",
+    "article": null,
+    "translate": "потребовать; требовать; просить; запрашивать; желать; стремиться",
+    "context": [],
+    "originals": [
+      "verlangen"
+    ],
+    "id": "15102905a4b351b5a5c2f719eaee75b9"
+  },
+  {
+    "type": "verb",
+    "base": "verleihen",
+    "article": null,
+    "translate": "давать на время",
+    "context": [],
+    "originals": [
+      "verleihen"
+    ],
+    "id": "811a2f1f867aa49788180d276eea2db2"
+  },
+  {
+    "type": "verb",
+    "base": "verlieren",
+    "article": null,
+    "translate": "терять; проигрывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "verlieren"
+    ],
+    "id": "be822fb632415a1268b8a2f5c3c9fb8e"
+  },
+  {
+    "type": "verb",
+    "base": "vermieten",
+    "article": null,
+    "translate": "сдавать; сдавать в найм; сдавать в аренду",
+    "context": [
+      [
+        "Die Wohnung ist schon vermietet.",
+        ""
+      ]
+    ],
+    "originals": [
+      "vermieten"
+    ],
+    "id": "5ad2f3240298874f4a389501ef26e469"
+  },
+  {
+    "type": "verb",
+    "base": "vermuten",
+    "article": null,
+    "translate": "подозревать; предполагать; догадываться; гадать",
+    "context": [],
+    "originals": [
+      "vermuten"
+    ],
+    "id": "b77a23b9d18e226380f71d9a5fd70323"
+  },
+  {
+    "type": "verb",
+    "base": "verpassen",
+    "article": null,
+    "translate": "пропускать; опаздывать",
+    "context": [],
+    "originals": [
+      "verpassen"
+    ],
+    "id": "56dd3439b78bab1591d22931d2eb5e99"
+  },
+  {
+    "type": "verb",
+    "base": "verreisen",
+    "article": null,
+    "translate": "уезжать; выезжать",
+    "context": [],
+    "originals": [
+      "verreisen"
+    ],
+    "id": "7651e70466c67a7f75b14f3646de177e"
+  },
+  {
+    "type": "verb",
+    "base": "verschicken",
+    "article": null,
+    "translate": "рассылать; отправлять; посылать; направлять",
+    "context": [],
+    "originals": [
+      "verschicken"
+    ],
+    "id": "40229dd784dea44742104d3cad3dc267"
+  },
+  {
+    "type": "verb",
+    "base": "verschieben",
+    "article": null,
+    "translate": "откладывать; переносить; передвигать",
+    "context": [],
+    "originals": [
+      "verschieben"
+    ],
+    "id": "f5674cc7661aa4b4a0055e5f1a6ea8bf"
+  },
+  {
+    "type": "verb",
+    "base": "verschieden",
+    "article": null,
+    "translate": "различный; разный; неодинаковый; разно",
+    "context": [],
+    "originals": [
+      "verschieden"
+    ],
+    "id": "80cd988123f67b01bac4f7de252f3f00"
+  },
+  {
+    "type": "verb",
+    "base": "verschmutzen",
+    "article": null,
+    "translate": "загрязнять",
+    "context": [],
+    "originals": [
+      "verschmutzen"
+    ],
+    "id": "5369a83ecc2fb752f9c597fa7244c5db"
+  },
+  {
+    "type": "verb",
+    "base": "verschütten",
+    "article": null,
+    "translate": "проливать; просыпать",
+    "context": [],
+    "originals": [
+      "verschütten"
+    ],
+    "id": "dfdb8d0e66c6fe7d6b20f6b10b0a67c6"
+  },
+  {
+    "type": "verb",
+    "base": "verstecken",
+    "article": null,
+    "translate": "прятать; прятаться; припрятать",
+    "context": [],
+    "originals": [
+      "verstecken"
+    ],
+    "id": "0be55f1a5b2b23cc90a97ce86ec6f90d"
+  },
+  {
+    "type": "verb",
+    "base": "verstehen",
+    "article": null,
+    "translate": "понимать; понять",
+    "context": [
+      [
+        "önnen Sie mich verstehen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "verstehen"
+    ],
+    "id": "404ed6ba65103fb1ce1d4acbf41dc0ae"
+  },
+  {
+    "type": "verb",
+    "base": "versuchen",
+    "article": null,
+    "translate": "пробовать; пытаться; испытывать",
+    "context": [],
+    "originals": [
+      "versuchen"
+    ],
+    "id": "75766d684b4fb10695c25250a82e6063"
+  },
+  {
+    "type": "verb",
+    "base": "versäumen",
+    "article": null,
+    "translate": "пропускать; упускать; упускать возможность",
+    "context": [],
+    "originals": [
+      "versäumen"
+    ],
+    "id": "9fa0037b539fa7654e32359b10283224"
+  },
+  {
+    "type": "verb",
+    "base": "verteidigen",
+    "article": null,
+    "translate": "защищать",
+    "context": [],
+    "originals": [
+      "verteidigen"
+    ],
+    "id": "ccc2ea85319aab3f85e465f403a6780d"
+  },
+  {
+    "type": "verb",
+    "base": "verteilen",
+    "article": null,
+    "translate": "распределять; распределяться; раздавать; разделять; делить; разбивать",
+    "context": [],
+    "originals": [
+      "verteilen"
+    ],
+    "id": "3d8459cd777bf5320bcae4a8287a53b0"
+  },
+  {
+    "type": "verb",
+    "base": "vertrauen",
+    "article": null,
+    "translate": "доверять",
+    "context": [],
+    "originals": [
+      "vertrauen"
+    ],
+    "id": "b02f0bc48881286a226f32d5d2febcd2"
+  },
+  {
+    "type": "verb",
+    "base": "verursachen",
+    "article": null,
+    "translate": "причинять; вызывать; возбуждать; быть причиной",
+    "context": [],
+    "originals": [
+      "verursachen"
+    ],
+    "id": "c8b61c8078a1bdfdc22eba0d35b1bfc4"
+  },
+  {
+    "type": "verb",
+    "base": "verurteilen",
+    "article": null,
+    "translate": "осуждать; судить; обвинять; порицать; приговаривать; вынести обвинительный приговор",
+    "context": [],
+    "originals": [
+      "verurteilen"
+    ],
+    "id": "98e1bf4be63da4626f54ed88fbaacd0f"
+  },
+  {
+    "type": "verb",
+    "base": "verwenden",
+    "article": null,
+    "translate": "использовать; применять; пользоваться; употреблять",
+    "context": [],
+    "originals": [
+      "verwenden"
+    ],
+    "id": "11c7f9359f944e16a88aed74ea9dfc19"
+  },
+  {
+    "type": "verb",
+    "base": "verwunden",
+    "article": null,
+    "translate": "ранить",
+    "context": [],
+    "originals": [
+      "verwunden"
+    ],
+    "id": "0aa2a103bd0821b3ab2ab7fde64213e4"
+  },
+  {
+    "type": "verb",
+    "base": "verzeihen",
+    "article": null,
+    "translate": "прощать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "verzeihen"
+    ],
+    "id": "557916c9a90f351d0ad76c2fe37276bd"
+  },
+  {
+    "type": "verb",
+    "base": "veröffentlichen",
+    "article": null,
+    "translate": "публиковать; опубликовывать; выпускать; предавать гласности",
+    "context": [],
+    "originals": [
+      "veröffentlichen"
+    ],
+    "id": "4de6c91b01176804825dd83dd9154afa"
+  },
+  {
+    "type": "verb",
+    "base": "vor...Jahren/Tagen",
+    "article": null,
+    "translate": "...лет назад/дней назад",
+    "context": [],
+    "originals": [
+      "vor...Jahren/Tagen"
+    ],
+    "id": "e891e948274d56e3c47c3057e1c8ee31"
+  },
+  {
+    "type": "verb",
+    "base": "vor/bereiten",
+    "article": null,
+    "translate": "готовиться; приготовлять; готовить; подготавливать; подготовлять; заготавливать",
+    "context": [],
+    "originals": [
+      "vor/bereiten"
+    ],
+    "id": "d912cfdf5e764544d3a5d951fe87619a"
+  },
+  {
+    "type": "verb",
+    "base": "vorbereiten",
+    "article": null,
+    "translate": "готовиться; готовить",
+    "context": [],
+    "originals": [
+      "vorbereiten"
+    ],
+    "id": "d821a2884ce3ccbaffb5e4bb0a2a02cc"
+  },
+  {
+    "type": "verb",
+    "base": "vorstellen",
+    "article": null,
+    "translate": "представлять; знакомить",
+    "context": [
+      [
+        "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?",
+        ""
+      ]
+    ],
+    "originals": [
+      "(sich) vorstellen"
+    ],
+    "id": "fcb0894c3e2f673771fa4be6e2c5bd1d"
+  },
+  {
+    "type": "verb",
+    "base": "vorziehen",
+    "article": null,
+    "translate": "предпочитать",
+    "context": [],
+    "originals": [
+      "vorziehen"
+    ],
+    "id": "9b197e80d13153034e0ae20c19252444"
+  },
+  {
+    "type": "verb",
+    "base": "wachen",
+    "article": null,
+    "translate": "бодрствовать; не спать",
+    "context": [],
+    "originals": [
+      "wachen"
+    ],
+    "id": "6b828572ed5ba50974306be49cf4782f"
+  },
+  {
+    "type": "verb",
+    "base": "wachsen",
+    "article": null,
+    "translate": "расти",
+    "context": [],
+    "originals": [
+      "wachsen"
+    ],
+    "id": "6cfb78c3238faf7a822330e51cbfc027",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "warnen",
+    "article": null,
+    "translate": "предупреждать; оповещать; предостерегать",
+    "context": [],
+    "originals": [
+      "warnen"
+    ],
+    "id": "83549100766f27d9244204f6c46ba973"
+  },
+  {
+    "type": "verb",
+    "base": "warten",
+    "article": null,
+    "translate": "ждать; дожидаться; ожидать; подождать",
+    "context": [],
+    "originals": [
+      "warten"
+    ],
+    "id": "926fe4446fc6f84d0c6d9371c00ac0ae"
+  },
+  {
+    "type": "verb",
+    "base": "waschen",
+    "article": null,
+    "translate": "мыть; стирать; промывать; мыть, стирать",
+    "context": [],
+    "originals": [
+      "waschen"
+    ],
+    "id": "3e5bc68ee7c8a000e832617645567697",
+    "irregular": true,
+    "config": {
+      "type": "a-ä"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "weben",
+    "article": null,
+    "translate": "ткать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "weben"
+    ],
+    "id": "c338577e9d507ba1f51e5d1fe8b5ab27"
+  },
+  {
+    "type": "verb",
+    "base": "wecken",
+    "article": null,
+    "translate": "будить; пробуждать; возбуждать; поднимать",
+    "context": [],
+    "originals": [
+      "wecken"
+    ],
+    "id": "5080757f3ce187638f4f9ce2fbe0cd49"
+  },
+  {
+    "type": "verb",
+    "base": "wegen",
+    "article": null,
+    "translate": "из-за; благодаря; вследствие",
+    "context": [],
+    "originals": [
+      "wegen"
+    ],
+    "id": "d09565ae57ce7df9dd27cb584ab0ca6d"
+  },
+  {
+    "type": "verb",
+    "base": "weichen",
+    "article": null,
+    "translate": "уклоняться; уворачиваться; уступать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "weichen"
+    ],
+    "id": "e0903c871504efd3732decb69ddf102f"
+  },
+  {
+    "type": "verb",
+    "base": "weinen",
+    "article": null,
+    "translate": "плакать; поплакать; проплакать",
+    "context": [],
+    "originals": [
+      "weinen"
+    ],
+    "id": "530f63fe4a543a5ee9a649359b3e6aff"
+  },
+  {
+    "type": "verb",
+    "base": "weisen",
+    "article": null,
+    "translate": "указывать; показывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "weisen"
+    ],
+    "id": "1a3e3b2791ad7f240bda09fbdbdb4953"
+  },
+  {
+    "type": "verb",
+    "base": "wenden",
+    "article": null,
+    "translate": "поворачивать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "wenden"
+    ],
+    "id": "7095b03e91b1ae34c0886c94a295ae4e"
+  },
+  {
+    "type": "verb",
+    "base": "werben",
+    "article": null,
+    "translate": "рекламировать; нанимать; вербовать рекламировать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "werben"
+    ],
+    "id": "49da153f73d9ab10087e8412f00c5e02"
+  },
+  {
+    "type": "verb",
+    "base": "werden",
+    "article": null,
+    "translate": "становиться; делаться",
+    "context": [],
+    "originals": [
+      "werden"
+    ],
+    "id": "4142d2673c8ad7870384c23b0495ba18",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "werfen",
+    "article": null,
+    "translate": "кидать; бросать; метать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "werfen"
+    ],
+    "id": "d5d318ebbb4db6b889a52de23384f1d1",
+    "config": {
+      "type": "e-i"
+    }
+  },
+  {
+    "type": "verb",
+    "base": "wiederholen",
+    "article": null,
+    "translate": "повторять; повторить",
+    "context": [],
+    "originals": [
+      "wiederholen"
+    ],
+    "id": "f99d2abbde748ddc8d63e46f25c47ba0"
+  },
+  {
+    "type": "verb",
+    "base": "wiegen",
+    "article": null,
+    "translate": "качать; весить; взвешивать; покачиваться; качаться; раскачиваться; иметь вес",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "wiegen"
+    ],
+    "id": "64d2573a73339c5bac59521fbf64cf20"
+  },
+  {
+    "type": "verb",
+    "base": "willkommen",
+    "article": null,
+    "translate": "добро пожаловать",
+    "context": [],
+    "originals": [
+      "willkommen"
+    ],
+    "id": "1315d05b4ab1d9e915207bc0799e49d4"
+  },
+  {
+    "type": "verb",
+    "base": "winden",
+    "article": null,
+    "translate": "мотать; вить; наматывать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "winden"
+    ],
+    "id": "3cd51c7dbe75e6a6c9be84ae825c6ea0"
+  },
+  {
+    "type": "verb",
+    "base": "winken",
+    "article": null,
+    "translate": "махать",
+    "context": [],
+    "originals": [
+      "winken"
+    ],
+    "id": "305ead742601d7bd3dff63fd7298946d"
+  },
+  {
+    "type": "verb",
+    "base": "wischen",
+    "article": null,
+    "translate": "тереть; вытирать",
+    "context": [],
+    "originals": [
+      "wischen"
+    ],
+    "id": "129a1cc4b027be65dceeb73905af576c"
+  },
+  {
+    "type": "verb",
+    "base": "wissen",
+    "article": null,
+    "translate": "знать; уметь",
+    "context": [],
+    "originals": [
+      "wissen"
+    ],
+    "id": "b821941b976f4f29b734393b1a3bd8b2",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "wohnen",
+    "article": null,
+    "translate": "жить; обитать; проживать",
+    "context": [],
+    "originals": [
+      "wohnen"
+    ],
+    "id": "eaf45a7a9792d49f5741d05b2c0f5f67"
+  },
+  {
+    "type": "verb",
+    "base": "wollen",
+    "article": null,
+    "translate": "хотеть; хотетъ; желатъ",
+    "context": [],
+    "originals": [
+      "wollen"
+    ],
+    "id": "28349a8da68aecd27aafe84f2cfd4436",
+    "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "wägen",
+    "article": null,
+    "translate": "взвешивать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "wägen"
+    ],
+    "id": "43df7eaa740b64f72309b09df78d284d"
+  },
+  {
+    "type": "verb",
+    "base": "wählen",
+    "article": null,
+    "translate": "выбирать; избирать; голосовать; набирать",
+    "context": [],
+    "originals": [
+      "wählen"
+    ],
+    "id": "7e35b6801626d1eb20cd770bb33b69a5"
+  },
+  {
+    "type": "verb",
+    "base": "wünschen",
+    "article": null,
+    "translate": "желать; хотеть",
+    "context": [],
+    "originals": [
+      "wünschen"
+    ],
+    "id": "ad37873494bbfa02630a040a8c0c66b6"
+  },
+  {
+    "type": "verb",
+    "base": "zahlen",
+    "article": null,
+    "translate": "платить; оплачивать; уплачивать",
+    "context": [
+      [
+        "Zahlen, bitte!",
+        ""
+      ]
+    ],
+    "originals": [
+      "zahlen"
+    ],
+    "id": "251ff67b3eeb3432dad9f92166bf262e"
+  },
+  {
+    "type": "verb",
+    "base": "zeichnen",
+    "article": null,
+    "translate": "рисовать; чертить; зарисовывать; изображать",
+    "context": [],
+    "originals": [
+      "zeichnen"
+    ],
+    "id": "d549c316fdf67c865fabff8c961f04c0"
+  },
+  {
+    "type": "verb",
+    "base": "zeigen",
+    "article": null,
+    "translate": "показывать; изображать",
+    "context": [],
+    "originals": [
+      "zeigen"
+    ],
+    "id": "b299a5c8e389a03e90e93eb8d6701f62"
+  },
+  {
+    "type": "verb",
+    "base": "zeihen",
+    "article": null,
+    "translate": "уличать",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "zeihen"
+    ],
+    "id": "890ca3104e2d586a3c992f14b4207ca0"
+  },
+  {
+    "type": "verb",
+    "base": "zerstören",
+    "article": null,
+    "translate": "разрушать; уничтожать; нарушать; портить; разорять; сокрушать",
+    "context": [],
+    "originals": [
+      "zerstören"
+    ],
+    "id": "1f1f26a912c0695efd0a23504de0e171"
+  },
+  {
+    "type": "verb",
+    "base": "ziehen",
+    "article": null,
+    "translate": "тащить; тянуть",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "ziehen"
+    ],
+    "id": "7b84938f6020b7d2daec28f390c69e47"
+  },
+  {
+    "type": "verb",
+    "base": "zu/hören",
+    "article": null,
+    "translate": "слушать; выслушивать",
+    "context": [],
+    "originals": [
+      "zu/hören"
+    ],
+    "id": "ba1efc437b299cc03585d7ca3e95f230"
+  },
+  {
+    "type": "verb",
+    "base": "zu/machen",
+    "article": null,
+    "translate": "застегивать; закрывать; запирать; сомкнуть",
+    "context": [],
+    "originals": [
+      "zu/machen"
+    ],
+    "id": "02167f92928d14625295932a3d4bedd4"
+  },
+  {
+    "type": "verb",
+    "base": "zu/ordnen",
+    "article": null,
+    "translate": "ставить в соответствие; сопоставлять",
+    "context": [],
+    "originals": [
+      "zu/ordnen"
+    ],
+    "id": "d95b60347a07a9d8ff8839d6d0fe9845"
+  },
+  {
+    "type": "verb",
+    "base": "zu/schauen",
+    "article": null,
+    "translate": "наблюдать; смотреть; следить; глядеть",
+    "context": [],
+    "originals": [
+      "zu/schauen"
+    ],
+    "id": "c65339fca218ccda0365e16b2d04ed53"
+  },
+  {
+    "type": "verb",
+    "base": "zufrieden",
+    "article": null,
+    "translate": "довольный; удовлетворенный",
+    "context": [
+      [
+        "Ich bin mit der Wohnung zufrieden.",
+        ""
+      ]
+    ],
+    "originals": [
+      "zufrieden"
+    ],
+    "id": "a9bf5f86757d34a0a8f34213607c7b89"
+  },
+  {
+    "type": "verb",
+    "base": "zufügen",
+    "article": null,
+    "translate": "добавлять; прибавлять",
+    "context": [],
+    "originals": [
+      "zufügen",
+      "addieren"
+    ],
+    "id": "3d1e73f72e8d5a92f5029558e941532d"
+  },
+  {
+    "type": "verb",
+    "base": "zuhören",
+    "article": null,
+    "translate": "слушать",
+    "context": [],
+    "originals": [
+      "zuhören"
+    ],
+    "id": "98f33c3ff041d0a03f71ba0cbea76990"
+  },
+  {
+    "type": "verb",
+    "base": "zunehmen",
+    "article": null,
+    "translate": "набирать в весе",
+    "context": [],
+    "irregular": true,
+    "config": {
+      "type": "e-i"
+    },
+    "originals": [
+      "zunehmen"
+    ],
+    "id": "5c56e9fc5b10b520abaa8a1b5c08b5f3"
+  },
+  {
+    "type": "verb",
+    "base": "zuordnen",
+    "article": null,
+    "translate": "подбирать; сочетать",
+    "context": [],
+    "originals": [
+      "zuordnen"
+    ],
+    "id": "ed6ee1ad966dbfe863a14e3e67dae401"
+  },
+  {
+    "type": "verb",
+    "base": "zurückkehren",
+    "article": null,
+    "translate": "возвращаться",
+    "context": [],
+    "originals": [
+      "zurückkehren"
+    ],
+    "id": "cd5ba3db38ee62f83da09c6a5619594b"
+  },
+  {
+    "type": "verb",
+    "base": "zurückkommen",
+    "article": null,
+    "translate": "возвращаться",
+    "context": [],
+    "originals": [
+      "zurückkommen"
+    ],
+    "id": "0890627c61114c5e657886667506b5f1"
+  },
+  {
+    "type": "verb",
+    "base": "zusammen",
+    "article": null,
+    "translate": "вместе; сообща; совместно",
+    "context": [
+      [
+        "Sollen wir zusammen essen gehen?",
+        ""
+      ],
+      [
+        "Das macht zusammen 2 Euro 80."
+      ]
+    ],
+    "originals": [
+      "zusammen"
+    ],
+    "id": "e32b437bea889942df8fcc40923ab0d0"
+  },
+  {
+    "type": "verb",
+    "base": "zusammen/fassen",
+    "article": null,
+    "translate": "резюмировать; подводить итоги; обобщать; подытоживать",
+    "context": [],
+    "originals": [
+      "zusammen/fassen"
+    ],
+    "id": "e27c6ad8b10dbb1079d643d708bc27f6"
+  },
+  {
+    "type": "verb",
+    "base": "zuschauen",
+    "article": null,
+    "translate": "смотреть; наблюдать",
+    "context": [],
+    "originals": [
+      "zuschauen"
+    ],
+    "id": "fb5197d4fbc79ca1a1e1d7c6eaddbae9"
+  },
+  {
+    "type": "verb",
+    "base": "zussamen/leben",
+    "article": null,
+    "translate": "жить совместно; сожительствовать",
+    "context": [],
+    "originals": [
+      "zussamen/leben"
+    ],
+    "id": "a982e9d86a9ef7199922e863ba47a640"
+  },
+  {
+    "type": "verb",
+    "base": "zwingen",
+    "article": null,
+    "translate": "принуждать; заставлять",
+    "context": [],
+    "irregular": true,
+    "originals": [
+      "zwingen"
+    ],
+    "id": "b80d58b23fe2ed001be4148c28556a85"
+  },
+  {
+    "type": "verb",
+    "base": "zwischen",
+    "article": null,
+    "translate": "между; среди",
+    "context": [
+      [
+        "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+        ""
+      ],
+      [
+        "Zwischen 8 und 10 Uhr bin ich zu Hause.",
+        ""
+      ]
+    ],
+    "originals": [
+      "zwischen"
+    ],
+    "id": "8c3b6943fee02e960223352a7a363204"
+  },
+  {
+    "type": "verb",
+    "base": "zählen",
+    "article": null,
+    "translate": "считать",
+    "context": [],
+    "originals": [
+      "zählen"
+    ],
+    "id": "cfb1acf7eda43aef039fdb864d4580e6"
+  },
+  {
+    "type": "verb",
+    "base": "öffnen",
+    "article": null,
+    "translate": "открывать; открыть; отворять; раскрывать; вскрывать; размыкать",
+    "context": [
+      [
+        "Ich öffne die Tür.",
+        ""
+      ]
+    ],
+    "originals": [
+      "öffnen",
+      " aufmachen"
+    ],
+    "id": "8c075c15f2e431c5426a9bd779d5f586"
+  },
+  {
+    "type": "verb",
+    "base": "üben",
+    "article": null,
+    "translate": "упражняться",
+    "context": [],
+    "originals": [
+      "üben"
+    ],
+    "id": "85eed2929a25db1de53fc7e0c8bd031b"
+  },
+  {
+    "type": "verb",
+    "base": "überholen",
+    "article": null,
+    "translate": "обгонять; перегонять; опережать",
+    "context": [],
+    "originals": [
+      "überholen"
+    ],
+    "id": "1a092d53bc1699ab33eb0d88c092d1c6"
+  },
+  {
+    "type": "verb",
+    "base": "überlegen",
+    "article": null,
+    "translate": "обдумывать; продумывать; рассуждать",
+    "context": [],
+    "originals": [
+      "überlegen"
+    ],
+    "id": "992c801c87d4966518e5ce4381a52755"
+  },
+  {
+    "type": "verb",
+    "base": "übermorgen",
+    "article": null,
+    "translate": "послезавтра",
+    "context": [],
+    "originals": [
+      "übermorgen"
+    ],
+    "id": "2cda0c128aab01aa6d846f2009300649"
+  },
+  {
+    "type": "verb",
+    "base": "übernachten",
+    "article": null,
+    "translate": "ночевать; переночевать; остановиться на ночлег",
+    "context": [],
+    "originals": [
+      "übernachten"
+    ],
+    "id": "799e9025487ea775f0d63cb9be7d7899"
+  },
+  {
+    "type": "verb",
+    "base": "überqueren",
+    "article": null,
+    "translate": "пересекать",
+    "context": [],
+    "originals": [
+      "überqueren"
+    ],
+    "id": "6e2a730834a118b8a0fe71e809d4a145"
+  },
+  {
+    "type": "verb",
+    "base": "überraschen",
+    "article": null,
+    "translate": "удивлять; изумлять; поражать; ошеломлять; захватить врасплох",
+    "context": [],
+    "originals": [
+      "überraschen"
+    ],
+    "id": "cc6741ebb2427ee02b5554d064e9dc66"
+  },
+  {
+    "type": "verb",
+    "base": "überreden",
+    "article": null,
+    "translate": "уговаривать; убеждать; склонять",
+    "context": [],
+    "originals": [
+      "überreden"
+    ],
+    "id": "d516205539becefe3e297fdf6f12801c"
+  },
+  {
+    "type": "verb",
+    "base": "übersetzen",
+    "article": null,
+    "translate": "переводить; перевозить",
+    "context": [],
+    "originals": [
+      "übersetzen"
+    ],
+    "id": "befa8c1f64a33f4a20a9744ba3b3fc56"
+  },
+  {
+    "type": "verb",
+    "base": "überweisen",
+    "article": null,
+    "translate": "переводить; перечислять; передавать; направлять",
+    "context": [],
+    "originals": [
+      "überweisen"
+    ],
+    "id": "dcd9bbb905c2743c749dee8b312ae33d"
+  },
+  {
+    "type": "verb",
+    "base": "überzeugen",
+    "article": null,
+    "translate": "убеждать; переубеждать",
+    "context": [],
+    "originals": [
+      "überzeugen"
+    ],
+    "id": "3380330444f47dd8eafcbf20cea9d452"
+  },
+  {
+    "type": "verb",
+    "base": "übrigbleiben",
+    "article": null,
+    "translate": "оставаться",
+    "context": [],
+    "originals": [
+      "übrigbleiben"
+    ],
+    "id": "7d8664ee3535636806d61dd0ca3b24e4"
+  }
+]
