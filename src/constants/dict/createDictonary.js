@@ -121,10 +121,14 @@ const removeOptionalPlural = (text) => {
   return text.replace(/\*\{[^}]*\}/g, "").trim();
 };
 
-const getEntryId = (entry) => {
-  const { type, base, article } = entry;
+const cc = (text) => {
+  return text.replace(/[^a-zäöüß\/]/gi, "").toLowerCase();
+};
 
-  return getId(type + base + article);
+const getEntryId = (entry) => {
+  const { type, base } = entry;
+
+  return getId(type + cc(base));
 };
 
 const REGEXP_DER = /^der\s+/i;
@@ -149,7 +153,8 @@ const removeAdv = (text) => {
     .trim()
     .replace(/\,\s*pl$/i, "")
     .replace(/[?!.,]$/i, "")
-    .trim();
+    .trim()
+    .replace(/\.*\,*\-*\,*\.*$/i, "");
 };
 
 console.log("---------------- start test ------------");
@@ -171,7 +176,10 @@ const parsePhrase = (text, options = {}) => {
       // @ts-ignore
       let das = REGEXP_DAS.test(phrase);
 
-      const isNoun = der || die || das || dieDer;
+      const isCapitalize = /^[A-ZÄÖÜ]/.test(phrase);
+
+      const isNoun = der || die || das || dieDer || isCapitalize;
+
       // Существительные
       if (isNoun) {
         const chunk = phrase
@@ -206,8 +214,9 @@ const parsePhrase = (text, options = {}) => {
           if (dieDer) {
             article = "der/die";
           }
+          const isOneWord = w.split(/\s/).length === 1;
 
-          if (w.split(/\s/).length === 1) {
+          if (isOneWord) {
             const entry = {
               type: "noun", //  существительное
               base: w,
@@ -230,9 +239,14 @@ const parsePhrase = (text, options = {}) => {
         if (base.split(/\s/).length === 1) {
           // только слово с маленькой буквы
           if (!/^[A-ZÄÖÜ]/.test(base) && !/[^a-zäöüß\/\=]/gi.test(base)) {
-            const w = normalizeVerb(base); // нормализовать
+            const [w, prefix] = normalizeVerb(base); // нормализовать
 
             const config = { generate: 1 };
+
+            if (prefix) {
+              config.prefixSeparate = prefix;
+            }
+
             config._form = sp(w, config);
 
             const entry = {
@@ -285,10 +299,24 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
         // console.log("skip", sn, entry);
         // merge code
         sn.originals = mergeOriginals(sn.originals, entry.original);
+
         if (sn.type === "*" && entry.type !== "*") {
           sn.type = entry.type;
         } else if (sn.type !== entry.type) {
           console.warn("Изменился тип слова. Необходима проверка");
+        }
+
+        if (sn.article === null && entry.type !== null) {
+          sn.article = entry.article;
+        } else if (entry.article !== null && sn.article !== entry.article) {
+          console.warn(
+            "Изменился артикль слова. Необходима проверка",
+            sn.article,
+            entry.article,
+            "_",
+            sn.originals,
+            entry.original
+          );
         }
 
         if (sn.translate !== entry.translate) {

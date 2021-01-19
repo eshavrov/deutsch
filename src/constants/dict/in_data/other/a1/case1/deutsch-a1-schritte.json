@@ -748,44 +748,72 @@
 		"ибо, потому что, то, так как, потом, затем"
 	],
 	[
-		"der/die Architekt/-in",
-		"архитектор (+ж.р.)"
+		"der Architekt",
+		"архитектор"
 	],
 	[
-		"der/die Arzt/Ärztin",
-		"врач, доктор (+ж.р.)"
+		"die Architektin",
+		"архитектор (женщина)"
+	],
+	[
+		"der Arzt",
+		"врач, доктор"
+	],
+	[
+		"die Ärztin",
+		"врач, доктор (женщина)"
 	],
 	[
 		"der/die Bekannte, -n",
-		"знакомый/знакомая"
+		"знакомый, знакомая"
 	],
 	[
 		"der/die Erwachsene, -n",
 		"взрослый, взрослая"
 	],
 	[
-		"der/die Hausmann/-frau",
-		"домохозяйка (+ж.р.)"
+		"der Hausmann",
+		"домохозин"
 	],
 	[
-		"der/die Journalist/-in",
-		"журналист (+ж.р.)"
+		"die Hausfrau",
+		"домохозяйка"
+	],
+	[
+		"der Journalist",
+		"журналист"
+	],
+	[
+		"die Journalistin",
+		"журналист (женщина)"
 	],
 	[
 		"der/die Jugendliche, -n",
 		"подросток, девочка-подросток"
 	],
 	[
-		"der/die Kaufmann/-frau",
-		"купец, торговец (+ж.р.)"
+		"der Kaufmann",
+		"купец, торговец"
 	],
 	[
-		"der/die Praktikant/-in",
-		"стажер, практикант (+ж.р.)"
+		"die Kauffrau",
+		"купец, торговец (женщина)"
 	],
 	[
-		"der/die Verkäufer/-in",
-		"продавец (+ж.р.)"
+		"der Praktikant",
+		"стажер, практикант"
+	],
+	[
+		"die Praktikantin",
+		"стажер, практикант (женщина)"
+	],
+	[
+		"der Verkäufer",
+		"продавец"
+	],
+	[
+		"die Verkäuferin",
+		"продавец (женщина)"
 	],
 	[
 		"das Deutsch",
@@ -2004,8 +2032,12 @@
 		"не, никакой, никто, ни один"
 	],
 	[
-		"kennen/lernen",
-		"знакомиться, узнавать"
+		"kennen",
+		"знакомиться"
+	],
+	[
+		"lernen",
+		"узнавать"
 	],
 	[
 		"die Kenntnisse, pl",

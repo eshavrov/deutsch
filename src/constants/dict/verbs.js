@@ -39,9 +39,11 @@ const PREFIX_SEPARATE = [
   "weg",
   "wieder",
   "zurück",
-  "zu",
   "zusammen",
+  "zu",
 ];
+
+const PREFIX_SEPARATE_EXT = ["um"];
 
 const getChunks = (infinitive) => {
   const base = infinitive.replace(REGEXP_INFINITIVE_END, "");
@@ -173,20 +175,29 @@ const sp = (infinitive, config) => {
 };
 
 const normalizeVerb = (text) => {
+  let _prefix = null;
+
   if (text.includes("/")) {
     const chunks = text.split("/");
 
     if (chunks.length === 2) {
       const [prefix, base] = chunks;
-      if ([...PREFIX_NOT_SEPARATED, ...PREFIX_SEPARATE].includes(prefix)) {
+      if (
+        [
+          ...PREFIX_NOT_SEPARATED,
+          ...PREFIX_SEPARATE,
+          ...PREFIX_SEPARATE_EXT,
+        ].includes(prefix)
+      ) {
         text = prefix + base;
+        _prefix = prefix;
       }
     } else {
       console.warn("Invalide verbs");
     }
   }
 
-  return text.toLowerCase();
+  return [text.toLowerCase(), _prefix];
 };
 
 module.exports.sp = sp;
