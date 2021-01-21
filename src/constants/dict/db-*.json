@@ -393,7 +393,7 @@
     "originals": [
       "Interesse haben an+D, Interesse hatte an, hat Interesse an gehabt"
     ],
-    "id": "f40aeb9c5e042772355a502e39f0a89a"
+    "id": "307745026aa0da0e540b409f5c432c1c"
   },
   {
     "type": "*",
@@ -717,7 +717,7 @@
     "originals": [
       "ab/schließen, schloss ab, hat abgeschlossen"
     ],
-    "id": "99ff9afdbc7e5cc2b1d737d292bfb00e"
+    "id": "18e57ed734e6b9738b79d115a166fd61"
   },
   {
     "type": "*",
@@ -1661,7 +1661,7 @@
     "originals": [
       "aus sein"
     ],
-    "id": "b3e654cbcba270a998200963b3c8c055"
+    "id": "dbd98e8bcab87b0fec233c8bf3676c2a"
   },
   {
     "type": "*",
@@ -1672,7 +1672,7 @@
     "originals": [
       "aus sein, war aus, ist aus gewesen"
     ],
-    "id": "b4d3995c686a731db2252daeb55d34a7"
+    "id": "158342f2f759100caa115fde29660aab"
   },
   {
     "type": "*",
@@ -1716,7 +1716,7 @@
     "originals": [
       "aus/schließen, schloss aus, hat ausgeschlossen"
     ],
-    "id": "848dc03dae5566787fb754be0c68f528"
+    "id": "26fd80d6d7832dd6a3a3a707db1fbca3"
   },
   {
     "type": "*",
@@ -1771,7 +1771,7 @@
     "originals": [
       "ausgeschlossen sein, war ausgeschlossen, ist ausgeschlossen gewesen"
     ],
-    "id": "396ccebe067001dc0d60628fe387b025"
+    "id": "f260aa36fe19743f5cad97c573ff52a1"
   },
   {
     "type": "*",
@@ -2163,7 +2163,7 @@
     "originals": [
       "beschließen, beschloss, hat beschlossen"
     ],
-    "id": "965e942cb84354148d21fccf7f5fa1ea"
+    "id": "f7d8c343945d86787425fa5154eef631"
   },
   {
     "type": "*",
@@ -2216,7 +2216,7 @@
     "originals": [
       "besitzen, besaß, hat besessen"
     ],
-    "id": "aaf6bc2eb0043da8accd91da25736fa7"
+    "id": "708dae97c8e4be1653bf176778e9e267"
   },
   {
     "type": "*",
@@ -2254,7 +2254,7 @@
     "originals": [
       "besser"
     ],
-    "id": "730b53973559f5b7766b8f47fdbe30d6"
+    "id": "cb51ac46891d141f63a61cce820e8a1d"
   },
   {
     "type": "*",
@@ -2474,7 +2474,7 @@
     "originals": [
       "blass"
     ],
-    "id": "46eb6031c96885b8ad9419b4f7ce1f54"
+    "id": "a7b84305a15bb8214c8a6fa2056c02b1"
   },
   {
     "type": "*",
@@ -2956,7 +2956,7 @@
     "originals": [
       "dass"
     ],
-    "id": "968ca2c66f63d02fcec40972bb7447a8"
+    "id": "0c219a328e0411ec7b1394ed200cc401"
   },
   {
     "type": "*",
@@ -3408,7 +3408,7 @@
     "originals": [
       "du isst"
     ],
-    "id": "aa058f3b6db80b82dd8c9152eb2dbf3d"
+    "id": "5acbc951336105e40fa68c87bb62a14d"
   },
   {
     "type": "*",
@@ -3642,21 +3642,10 @@
     "type": "*",
     "base": "ein bisschen",
     "article": null,
-    "translate": "немного",
-    "context": [],
-    "originals": [
-      "ein bisschen"
-    ],
-    "id": "3a31e42d59f3096d7834ab81f0a724fe"
-  },
-  {
-    "type": "*",
-    "base": "ein bißchen",
-    "article": null,
     "translate": "немного; чуточку; слегка",
     "context": [],
     "originals": [
-      "ein bißchen"
+      "ein bisschen"
     ],
     "id": "567b34368b22f8b2f9f72404947476be"
   },
@@ -4006,7 +3995,7 @@
     "originals": [
       "entschlossen sein, war entschlossen, ist entschlossen gewesen"
     ],
-    "id": "1029922434eb10b927397b66014b48c1"
+    "id": "b8dd4759640714c4d48d806d57b82ffe"
   },
   {
     "type": "*",
@@ -4115,7 +4104,7 @@
     "originals": [
       "er isst"
     ],
-    "id": "c7e4a0a607b46e1078e826a730aa19a0"
+    "id": "cec84ee1d1b815471c79865eebec6079"
   },
   {
     "type": "*",
@@ -4417,7 +4406,7 @@
     "originals": [
       "essen, aß, hat gegessen"
     ],
-    "id": "f816bf8b51f1cc8db2f91d3019352872"
+    "id": "a79958210ee757071a9448bb767de9f4"
   },
   {
     "type": "*",
@@ -4782,7 +4771,7 @@
     "originals": [
       "fließen, floss, ist geflossen"
     ],
-    "id": "e317bf451fb9188b1cdc5e2cbe7b7fb1"
+    "id": "508aed2c8338a85f53520092a716873f"
   },
   {
     "type": "*",
@@ -4793,7 +4782,7 @@
     "originals": [
       "flüssig"
     ],
-    "id": "f595f69b4c4551ecbf25d04db32d1932"
+    "id": "15df7b626d7657d58c60afa9e8c67479"
   },
   {
     "type": "*",
@@ -5475,7 +5464,7 @@
     "originals": [
       "gießen, goss, hat gegossen"
     ],
-    "id": "c3b6d2656ea65e28d158e292773e6ae6"
+    "id": "888eab2e5b940b086e06df0f8e84e962"
   },
   {
     "type": "*",
@@ -5640,7 +5629,7 @@
     "originals": [
       "gute Besserung"
     ],
-    "id": "acaac8248f15531b4d77ff95ed0b83ec"
+    "id": "8ec4b9f2aebe699388ebe265948d2369"
   },
   {
     "type": "*",
@@ -6003,7 +5992,7 @@
     "originals": [
       "hässlich"
     ],
-    "id": "3647e3141149532f500b087271d8996a"
+    "id": "295ddbe3bf194191412faefa73a36a71"
   },
   {
     "type": "*",
@@ -6512,7 +6501,7 @@
     "originals": [
       "interessant"
     ],
-    "id": "332ffa094a0cbb46dae865282dca5bf3"
+    "id": "ca98bfafc4d6ba4237983a62bb4fc741"
   },
   {
     "type": "*",
@@ -6878,7 +6867,7 @@
     "originals": [
       "klassisch"
     ],
-    "id": "22bea3593bc6732d061cf3d31c8684f5"
+    "id": "1c63086572e494d707815d51c1f19d7c"
   },
   {
     "type": "*",
@@ -7186,7 +7175,7 @@
     "originals": [
       "lassen, ließ, hat gelassen"
     ],
-    "id": "bd2ecadd144230779dbf6d2e08ddf322"
+    "id": "611ec9dae8bb8427c334acad40afa688"
   },
   {
     "type": "*",
@@ -7604,7 +7593,7 @@
     "originals": [
       "messen, maß, hat gemessen"
     ],
-    "id": "7c27d3526bbdb9f9a48e370157368e17"
+    "id": "967ad507d50847567133433572548ffb"
   },
   {
     "type": "*",
@@ -7868,7 +7857,7 @@
     "originals": [
       "müssen, musste, hat gemusst"
     ],
-    "id": "6e140c700276620178827ca4f7b5b8de"
+    "id": "8284a8c278100218b883aa18ed4e2874"
   },
   {
     "type": "*",
@@ -7967,7 +7956,7 @@
     "originals": [
       "nass"
     ],
-    "id": "b440851906f7fd69fff4bea920f15101"
+    "id": "bda1752e4db7efaa0818d0d5c5479e0d"
   },
   {
     "type": "*",
@@ -8499,7 +8488,7 @@
     "originals": [
       "passende"
     ],
-    "id": "caadc248db4321f630418c7b6b1fd026"
+    "id": "8bd7bf6c16917614a9c2b186a8d44c5d"
   },
   {
     "type": "*",
@@ -9214,7 +9203,7 @@
     "originals": [
       "schließen, schloss, hat geschlossen"
     ],
-    "id": "7306666a4e5bd3a655601f0238965eed"
+    "id": "5181a788f6270e4be163ac75b1e48ec4"
   },
   {
     "type": "*",
@@ -9952,7 +9941,7 @@
     "originals": [
       "sich gefallen lassen, ließ sich gefallen, hat sich gefallen gelassen"
     ],
-    "id": "3840fc9171f9a580339431cd4963d58a"
+    "id": "40e79104f7dd1b49a188ff76bf8bd273"
   },
   {
     "type": "*",
@@ -9985,7 +9974,7 @@
     "originals": [
       "sich interessieren für+A"
     ],
-    "id": "3a5ea64aab67978b057fc4c1185ee6ae"
+    "id": "7ac6b256d2e60a8ec9191d0b695fcba6"
   },
   {
     "type": "*",
@@ -10073,7 +10062,7 @@
     "originals": [
       "sich scheiden lassen, ließ sich scheiden, hat sich scheiden gelassen"
     ],
-    "id": "dfbe372f429a763f0710127c77ec83b3"
+    "id": "b21929b0aaa9ddad59898d207b6a25a2"
   },
   {
     "type": "*",
@@ -10282,7 +10271,7 @@
     "originals": [
       "sitzen, saß, hat gesessen"
     ],
-    "id": "79696f3427c6390a49cd0a06c29ef16b"
+    "id": "7e8dc9d6183e8df48cc35bdc7292a93a"
   },
   {
     "type": "*",
@@ -11041,7 +11030,7 @@
     "originals": [
       "tschüss"
     ],
-    "id": "1396d3da2423c06dfa97085bb3cd1f7a"
+    "id": "134d149809f8f44c1cf282f1e8ca9e84"
   },
   {
     "type": "*",
@@ -11283,7 +11272,7 @@
     "originals": [
       "verbessern"
     ],
-    "id": "b0e7c13d0fcd6fafcd0804d2cb00b4bf"
+    "id": "858e932996706df36249e5564af0e8a2"
   },
   {
     "type": "*",
@@ -11327,7 +11316,7 @@
     "originals": [
       "vergessen, vergaß, hat vergessen"
     ],
-    "id": "20f09bb1dacaed200d0ffd9c7c7621ad"
+    "id": "204d1bef63c9905c76de23133ac1e391"
   },
   {
     "type": "*",
@@ -11376,7 +11365,7 @@
     "originals": [
       "verlassen, verließ, hat verlassen"
     ],
-    "id": "d8b809427101d4ea0b6a288379e2c14f"
+    "id": "958ebf70ed00339a4a6f1420c027e3a3"
   },
   {
     "type": "*",
@@ -12504,7 +12493,7 @@
     "originals": [
       "wissen, wusste, hat gewusst"
     ],
-    "id": "ab6fd1d58b463bce21ec6563391b6cd5"
+    "id": "fd23a9c17c18bed2abf7a31fa5898631"
   },
   {
     "type": "*",
@@ -12878,7 +12867,7 @@
     "originals": [
       "zum Schluss"
     ],
-    "id": "6df5f8c6a2475c6b907a72eb5598703d"
+    "id": "06d48c9b4eb5736dbe472390d807a87a"
   },
   {
     "type": "*",

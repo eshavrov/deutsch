@@ -61,6 +61,7 @@ const getUniPhraseOriginal = (text) =>
   text
     .replace(/[^a-zäöüß0-9\(\)]/gi, "")
     .trim()
+    // .replace("ss", "ß")
     .toUpperCase();
 
 const nestingValidation = (list) => {
@@ -122,7 +123,10 @@ const removeOptionalPlural = (text) => {
 };
 
 const cc = (text) => {
-  return text.replace(/[^a-zäöüß\/]/gi, "").toLowerCase();
+  return text
+    .replace(/[^a-zäöüß\/]/gi, "")
+    .toLowerCase()
+    .replace("ss", "ß");
 };
 
 const getEntryId = (entry) => {
@@ -446,4 +450,8 @@ console.log("---------------- end test --------------");
   const fileName = `db-${t}.json`;
   fs.writeFileSync(`./${fileName}`, JSON.stringify(db, null, "  "));
   console.log(`Writed file  ${fileName}, ${db.length} items`);
+
+  // db.forEach(({ article, base }) =>
+  //   console.log(`${article ? `${article} ` : ""}${base}`)
+  // );
 });

@@ -1101,7 +1101,7 @@
     "originals": [
       "auf/passen"
     ],
-    "id": "995dcbd4903a533c05e45ae1036c86ef"
+    "id": "d39bf98583e99880e54b7130ae8aeeb2"
   },
   {
     "type": "verb",
@@ -1457,7 +1457,7 @@
     "originals": [
       "aus/schalten"
     ],
-    "id": "c5e3beb98b2464082ade95d494a98a24"
+    "id": "993ca0d1b2b0395e881b1c6c9a0e88d5"
   },
   {
     "type": "verb",
@@ -1481,7 +1481,7 @@
     "originals": [
       "ausschließen"
     ],
-    "id": "80bfae39f02f0d8d9bf3eb74ff870e36"
+    "id": "ad470b812ac9a378e3f5b81bf2eea79c"
   },
   {
     "type": "verb",
@@ -1510,7 +1510,7 @@
     "originals": [
       "aussehen"
     ],
-    "id": "52fac3cb612120cbbcf47c4580aed886"
+    "id": "b83c4754a5fccd748c8ae9ed06ee51cc"
   },
   {
     "type": "verb",
@@ -1539,7 +1539,7 @@
     "originals": [
       "aussteigen"
     ],
-    "id": "a617c4be6f143ad83b8bd62978b71ab0"
+    "id": "18c5e0bab0ac9d434a3264081484f53a"
   },
   {
     "type": "verb",
@@ -1563,7 +1563,7 @@
     "originals": [
       "ausstellen"
     ],
-    "id": "f4153518ed52716b58baa23b830f450e"
+    "id": "3d22191382cd13fa7ed3d5895fdbdc40"
   },
   {
     "type": "verb",
@@ -1587,7 +1587,7 @@
     "originals": [
       "aussuchen"
     ],
-    "id": "387c0caaca93b75b1f2b7be050d7a03f"
+    "id": "825777b58abf9905cc1f870d518ae310"
   },
   {
     "type": "verb",
@@ -2957,7 +2957,7 @@
     "originals": [
       "bisschen"
     ],
-    "id": "d76eb43e2286a015f01ed573c94b7909"
+    "id": "d5c655e54bd2fa949669e99947568065"
   },
   {
     "type": "verb",
@@ -4973,7 +4973,7 @@
     "originals": [
       "essen"
     ],
-    "id": "15673bc6aa53b6a2c95986e5c8a7a116",
+    "id": "7882e71830f0988fc30308d9b67e33ea",
     "irregular": true
   },
   {
@@ -5460,7 +5460,7 @@
     "originals": [
       "fressen"
     ],
-    "id": "fd19f5444d59bb337cb24f3f42916ff9",
+    "id": "dbed9d599b8f33d69fcf4a2f13a9ffa8",
     "irregular": true
   },
   {
@@ -6132,7 +6132,7 @@
     "originals": [
       "geschlossen"
     ],
-    "id": "266b4f7b0d9e5c42f6cb9842d027b554"
+    "id": "627ed1dfdcf57bb64a37e0a12581fbe9"
   },
   {
     "type": "verb",
@@ -6560,7 +6560,7 @@
     "originals": [
       "hassen"
     ],
-    "id": "0385c3047e5c06bf202a12b234b52bfd"
+    "id": "82bdb38d6d18cd99deebaba87d3883fc"
   },
   {
     "type": "verb",
@@ -7588,7 +7588,7 @@
     "originals": [
       "küssen"
     ],
-    "id": "f7efb638aafd8f8fd4f370cef6405163"
+    "id": "7d969be96edbdd7b00d736aa94df275d"
   },
   {
     "type": "verb",
@@ -7687,7 +7687,7 @@
     "originals": [
       "lassen"
     ],
-    "id": "54f1b04d9cbef846e9f55d7d4b7a49a9",
+    "id": "44061670af8aa9b4740b0a5ac8b55fe9",
     "irregular": true
   },
   {
@@ -8351,7 +8351,7 @@
     "originals": [
       "messen"
     ],
-    "id": "946a7f0ac31ef20cae5491935b3cd5cf"
+    "id": "0878c455a014ced8475a1fc27ad676bc"
   },
   {
     "type": "verb",
@@ -8421,7 +8421,7 @@
     "originals": [
       "misslingen"
     ],
-    "id": "662c7a648a9a4291ec66db1907046c5d"
+    "id": "4e4ca86526aacd991fbc99f996b2a9f5"
   },
   {
     "type": "verb",
@@ -8568,30 +8568,6 @@
   },
   {
     "type": "verb",
-    "base": "mißlingen",
-    "article": null,
-    "config": {
-      "generate": 1,
-      "_form": {
-        "base": "mißling",
-        "ich": "mißlinge",
-        "du": "mißlingst",
-        "er,sie,es": "mißlingt",
-        "wir": "mißlingen",
-        "ihr": "mißlingt",
-        "sie,Sie": "mißlingen"
-      }
-    },
-    "translate": "не удаваться",
-    "context": [],
-    "irregular": true,
-    "originals": [
-      "mißlingen"
-    ],
-    "id": "4e4ca86526aacd991fbc99f996b2a9f5"
-  },
-  {
-    "type": "verb",
     "base": "morgen",
     "article": null,
     "config": {
@@ -8657,7 +8633,7 @@
     "originals": [
       "mussen"
     ],
-    "id": "3003eb5959e468b7c17afd352eaa44be"
+    "id": "d8086410d69eaf6a5d9f33c8e8b748fe"
   },
   {
     "type": "verb",
@@ -8727,7 +8703,7 @@
     "originals": [
       "müssen"
     ],
-    "id": "b2710b91b1ede7fc5f776ef0fc1022db",
+    "id": "b9fd26129b0341e9398af9aeb0dbf678",
     "irregular": true
   },
   {
@@ -9084,7 +9060,7 @@
     "originals": [
       "passen"
     ],
-    "id": "ee5a0bc61c828bed20031d2d3451e963"
+    "id": "52d88715755bb77a8341cbd69131ac51"
   },
   {
     "type": "verb",
@@ -9107,7 +9083,7 @@
     "originals": [
       "passieren"
     ],
-    "id": "df6c1c49718523ca69836ba1dc465df1"
+    "id": "e01c56c528b7a88fa07a4c61def3e1e1"
   },
   {
     "type": "verb",
@@ -13337,7 +13313,7 @@
     "originals": [
       "vergessen"
     ],
-    "id": "d2adaf766021297348a7eb7400c82ab5",
+    "id": "63bacd74142ef33d96b4bd5e53d9d060",
     "irregular": true
   },
   {
@@ -13533,7 +13509,7 @@
     "originals": [
       "verpassen"
     ],
-    "id": "23dffcec82d03fd85eba7ac49249695a"
+    "id": "aeeb49f91e448923f691e35d3667b9f3"
   },
   {
     "type": "verb",
@@ -14577,7 +14553,7 @@
     "originals": [
       "wissen"
     ],
-    "id": "9f751c80c80d6f0ec51dcc3a87eca5e0",
+    "id": "70ad5679549d54216ae05387e7b622a8",
     "irregular": true
   },
   {
@@ -15095,7 +15071,7 @@
     "originals": [
       "zusammen/fassen"
     ],
-    "id": "f7d2c75b3f422049d43d1d96748f1a82"
+    "id": "f1b11867cae0e3d778f6b405126e2ffc"
   },
   {
     "type": "verb",

@@ -452,7 +452,7 @@ const irregularVerbs = [
   ["meiden", "meidet", "mied", "hat gemieden", "избегать"],
   ["melken", "melkt", "melkte", "hat gemolken/gemelkt", "доить"],
   ["messen", "misst", "maß", "hat gemessen", "измерять"],
-  ["mißlingen", "mißlingt", "mißlang", "ist mißlungen", "не удаваться"],
+  ["misslingen", "misslingt", "misslang", "ist misslungen", "не удаваться"],
   ["mögen", "mag", "mochte", "hat gemocht", "любить; хотеть"],
   ["müssen", "muss", "musste", "hat gemusst", "долженствовать"],
   ["nehmen", "nimmt", "nahm", "hat genommen", "брать"],
