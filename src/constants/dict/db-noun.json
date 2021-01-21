@@ -997,6 +997,17 @@
   },
   {
     "type": "noun",
+    "base": "Artischocke",
+    "article": "die",
+    "translate": "артишок",
+    "context": [],
+    "originals": [
+      "die Artischocke"
+    ],
+    "id": "cfe3290ede75222a4d39b1e087032328"
+  },
+  {
+    "type": "noun",
     "base": "Arzt",
     "article": "der",
     "translate": "врач; доктор",
@@ -1044,6 +1055,17 @@
       "das Au-Pair-Mädchen"
     ],
     "id": "1c661ea054882d882ab8ae2eced397a4"
+  },
+  {
+    "type": "noun",
+    "base": "Aubergine",
+    "article": "die",
+    "translate": "баклажан",
+    "context": [],
+    "originals": [
+      "die Aubergine"
+    ],
+    "id": "56b2738882a2858e5a7f7b0ece3106e4"
   },
   {
     "type": "noun",
@@ -1431,6 +1453,17 @@
   },
   {
     "type": "noun",
+    "base": "Avocado",
+    "article": "die",
+    "translate": "авокадо",
+    "context": [],
+    "originals": [
+      "die Avocado"
+    ],
+    "id": "67cbd7ef53ab226e637a63a66eab175a"
+  },
+  {
+    "type": "noun",
     "base": "Baby",
     "article": "das",
     "translate": "младенец; новорожденный",
@@ -1652,6 +1685,17 @@
       "die Bartheke"
     ],
     "id": "6b53ecfec7f33f20ea1b770811ee3795"
+  },
+  {
+    "type": "noun",
+    "base": "Batate",
+    "article": "die",
+    "translate": "батат",
+    "context": [],
+    "originals": [
+      "die Batate"
+    ],
+    "id": "a5e2c21c71091a0720e6f509d8d709b8"
   },
   {
     "type": "noun",
@@ -2205,6 +2249,17 @@
   },
   {
     "type": "noun",
+    "base": "Blaukraut",
+    "article": "das",
+    "translate": "красная капуста",
+    "context": [],
+    "originals": [
+      "das Blaukraut"
+    ],
+    "id": "3142adab2d473bf4be9b3acbc80734ec"
+  },
+  {
+    "type": "noun",
     "base": "Bleistift",
     "article": "der",
     "translate": "карандаш; простой карандаш",
@@ -2272,6 +2327,17 @@
       "die Blume, -n"
     ],
     "id": "c0f145be5de0fdbcb81a54fe3d840627"
+  },
+  {
+    "type": "noun",
+    "base": "Blumenkohl",
+    "article": "der",
+    "translate": "цветная капуста",
+    "context": [],
+    "originals": [
+      "der Blumenkohl"
+    ],
+    "id": "bdd99522de87791d8dd4cdfa1a7b7157"
   },
   {
     "type": "noun",
@@ -2529,6 +2595,17 @@
       "die Brille, -n"
     ],
     "id": "f5904b875c9fd5aa2176658f89f0db07"
+  },
+  {
+    "type": "noun",
+    "base": "Brokkoli",
+    "article": "der",
+    "translate": "брокколи",
+    "context": [],
+    "originals": [
+      "der Brokkoli"
+    ],
+    "id": "80e686024247f5833edf2af125708202"
   },
   {
     "type": "noun",
@@ -3054,6 +3131,17 @@
   },
   {
     "type": "noun",
+    "base": "Champignon",
+    "article": "der",
+    "translate": "шампиньон",
+    "context": [],
+    "originals": [
+      "der Champignon"
+    ],
+    "id": "00007f0f3b5a2936fdb4e38963733ee6"
+  },
+  {
+    "type": "noun",
     "base": "Chance",
     "article": "die",
     "translate": "шанс; вероятность",
@@ -3111,6 +3199,17 @@
       "die Chiffoniere"
     ],
     "id": "09bb1324c4414233a24cd5b1d23a0a29"
+  },
+  {
+    "type": "noun",
+    "base": "Chinakohl",
+    "article": "der",
+    "translate": "пекинская капуста",
+    "context": [],
+    "originals": [
+      "der Chinakohl"
+    ],
+    "id": "a9f9e9a15adfd13fdb5c283786f7da58"
   },
   {
     "type": "noun",
@@ -3215,6 +3314,17 @@
       "der Container"
     ],
     "id": "d68a17f7fb1ce09d416b9bd72cced5d0"
+  },
+  {
+    "type": "noun",
+    "base": "Cornichon",
+    "article": "das",
+    "translate": "корнишон",
+    "context": [],
+    "originals": [
+      "das Cornichon"
+    ],
+    "id": "db56ff766dd0e07720719371268f8c62"
   },
   {
     "type": "noun",
@@ -4306,6 +4416,17 @@
   },
   {
     "type": "noun",
+    "base": "Eisbergsalat",
+    "article": "der",
+    "translate": "айсберг-салат",
+    "context": [],
+    "originals": [
+      "der Eisbergsalat"
+    ],
+    "id": "bd08ade1344c1edbfc864a1e4fe6f7eb"
+  },
+  {
+    "type": "noun",
     "base": "Eisbär",
     "article": "der",
     "translate": "белый медведь",
@@ -4526,6 +4647,17 @@
       "die Enttäuschung, -en"
     ],
     "id": "f84038a9b066d1a148fc8a3bbcbcdfee"
+  },
+  {
+    "type": "noun",
+    "base": "Erbse",
+    "article": "die",
+    "translate": "горошина",
+    "context": [],
+    "originals": [
+      "die Erbse"
+    ],
+    "id": "a015cf5fb2711cbda51dde5b264aad2d"
   },
   {
     "type": "noun",
@@ -6137,6 +6269,28 @@
   },
   {
     "type": "noun",
+    "base": "Gartenbohne",
+    "article": "die",
+    "translate": "фасоль",
+    "context": [],
+    "originals": [
+      "die Gartenbohne"
+    ],
+    "id": "c6231d347e3d3a32066a089ef232d225"
+  },
+  {
+    "type": "noun",
+    "base": "Gartenkresse",
+    "article": "die",
+    "translate": "кресс-салат",
+    "context": [],
+    "originals": [
+      "die Gartenkresse"
+    ],
+    "id": "d36c667801f63a74e3261ced81c927d2"
+  },
+  {
+    "type": "noun",
     "base": "Gartenmöbel",
     "article": "die",
     "translate": "садовая мебель",
@@ -7117,6 +7271,17 @@
       "die Größe, -n"
     ],
     "id": "93eeb6bb523ecf0fda3220cd78d7b73e"
+  },
+  {
+    "type": "noun",
+    "base": "Grünkohl",
+    "article": "der",
+    "translate": "грюнколь",
+    "context": [],
+    "originals": [
+      "der Grünkohl"
+    ],
+    "id": "ab69acb609c44df8606706ad3c86707a"
   },
   {
     "type": "noun",
@@ -8576,6 +8741,17 @@
   },
   {
     "type": "noun",
+    "base": "Karotte",
+    "article": "die",
+    "translate": "морковь",
+    "context": [],
+    "originals": [
+      "die Karotte"
+    ],
+    "id": "5e62f91d75c164561629f2bc19d1b731"
+  },
+  {
+    "type": "noun",
     "base": "Karte",
     "article": "die",
     "translate": "карта; билет; открытка; талон",
@@ -8793,6 +8969,17 @@
       "die Kette, -n"
     ],
     "id": "ebfd4b03e88c3b0cf25368094cca7251"
+  },
+  {
+    "type": "noun",
+    "base": "Kichererbse",
+    "article": "die",
+    "translate": "нут; турецкий горох",
+    "context": [],
+    "originals": [
+      "die Kichererbse"
+    ],
+    "id": "0b1c14790301fab657f1666f828ddce6"
   },
   {
     "type": "noun",
@@ -9172,6 +9359,28 @@
   },
   {
     "type": "noun",
+    "base": "Knoblauch",
+    "article": "der",
+    "translate": "чеснок",
+    "context": [],
+    "originals": [
+      "der Knoblauch"
+    ],
+    "id": "1f09bb19c6e78d66198b9e7a217e1a89"
+  },
+  {
+    "type": "noun",
+    "base": "Knoblauchzehe",
+    "article": "die",
+    "translate": "зубчик чеснока",
+    "context": [],
+    "originals": [
+      "die Knoblauchzehe"
+    ],
+    "id": "f00d32a2c3c6550640477513e0270d83"
+  },
+  {
+    "type": "noun",
     "base": "Knochen",
     "article": "der",
     "translate": "кость",
@@ -9235,6 +9444,28 @@
       "der Kofferraum"
     ],
     "id": "b39f54b6336c56e2c82fa649c06cc4aa"
+  },
+  {
+    "type": "noun",
+    "base": "Kohl",
+    "article": "der",
+    "translate": "капуста",
+    "context": [],
+    "originals": [
+      "der Kohl"
+    ],
+    "id": "82f35c2804cab1547c5219b79e836fc9"
+  },
+  {
+    "type": "noun",
+    "base": "Kohlrabi",
+    "article": "der",
+    "translate": "кольраби",
+    "context": [],
+    "originals": [
+      "der Kohlrabi"
+    ],
+    "id": "3675a84bc4b8feaebfa519f576be4d80"
   },
   {
     "type": "noun",
@@ -10008,6 +10239,17 @@
   },
   {
     "type": "noun",
+    "base": "Kürbis",
+    "article": "der",
+    "translate": "тыква",
+    "context": [],
+    "originals": [
+      "der Kürbis"
+    ],
+    "id": "212ad6ef87d88dab8b25d5bed9547994"
+  },
+  {
+    "type": "noun",
     "base": "Küste",
     "article": "die",
     "translate": "побережье; взморье; морской берег",
@@ -10182,6 +10424,17 @@
       "das Laub"
     ],
     "id": "e372e3d6ed5a1914e87d899f6e26c349"
+  },
+  {
+    "type": "noun",
+    "base": "Lauch",
+    "article": "der",
+    "translate": "зелёный лук; лук-порей",
+    "context": [],
+    "originals": [
+      "der Lauch"
+    ],
+    "id": "79a899e6a248c7cf7f10581d08f0c1a7"
   },
   {
     "type": "noun",
@@ -10901,6 +11154,17 @@
   },
   {
     "type": "noun",
+    "base": "Mais",
+    "article": "der",
+    "translate": "кукуруза",
+    "context": [],
+    "originals": [
+      "der Mais"
+    ],
+    "id": "c09a5f4e9ef0a806330f8e7e7173a6c2"
+  },
+  {
+    "type": "noun",
     "base": "Maler",
     "article": "der",
     "translate": "художник",
@@ -10909,6 +11173,17 @@
       "der Maler"
     ],
     "id": "76432f2a0cec3c5555b97a86eadba5c7"
+  },
+  {
+    "type": "noun",
+    "base": "Mangold",
+    "article": "der",
+    "translate": "мангольд; листовая свёкла",
+    "context": [],
+    "originals": [
+      "der Mangold"
+    ],
+    "id": "a13851fd403faac4139744190efe247f"
   },
   {
     "type": "noun",
@@ -11130,6 +11405,17 @@
       "das Meer, -e"
     ],
     "id": "629162b32bc93dac47a711843d038642"
+  },
+  {
+    "type": "noun",
+    "base": "Meerrettich",
+    "article": "der",
+    "translate": "хрен",
+    "context": [],
+    "originals": [
+      "der Meerrettich"
+    ],
+    "id": "90e7fc57696b5ef72c16d1de965ad044"
   },
   {
     "type": "noun",
@@ -11531,6 +11817,17 @@
   },
   {
     "type": "noun",
+    "base": "Mohrrübe",
+    "article": "die",
+    "translate": "морковь",
+    "context": [],
+    "originals": [
+      "die Mohrrübe"
+    ],
+    "id": "cd652e3fa9c02c2f5525235b516ce597"
+  },
+  {
+    "type": "noun",
     "base": "Moment",
     "article": "der",
     "translate": "момент; миг; мгновение",
@@ -11649,6 +11946,17 @@
       "der Mund, ü-er"
     ],
     "id": "e82844d85f99ce97c7ca5c4f6e8378d9"
+  },
+  {
+    "type": "noun",
+    "base": "Mungobohnen",
+    "article": "die",
+    "translate": "маш",
+    "context": [],
+    "originals": [
+      "die Mungobohnen"
+    ],
+    "id": "0b31ee90a9f1a32d5e9d3062dcb6ed88"
   },
   {
     "type": "noun",
@@ -11771,6 +12079,17 @@
       "die Möglichkeit, -en"
     ],
     "id": "aa4cd0ff1d867a1c416bd2e32026da78"
+  },
+  {
+    "type": "noun",
+    "base": "Möhre",
+    "article": "die",
+    "translate": "морковь",
+    "context": [],
+    "originals": [
+      "die Möhre"
+    ],
+    "id": "5456c10b7921045a95dc304ed6de0bf3"
   },
   {
     "type": "noun",
@@ -12408,6 +12727,17 @@
   },
   {
     "type": "noun",
+    "base": "Olive",
+    "article": "die",
+    "translate": "маслина; олива",
+    "context": [],
+    "originals": [
+      "die Olive"
+    ],
+    "id": "538508602dd3ad643e604bfcd458c24d"
+  },
+  {
+    "type": "noun",
     "base": "Olympiade",
     "article": "die",
     "translate": "Олимпиада",
@@ -12782,10 +13112,10 @@
     "type": "noun",
     "base": "Paprika",
     "article": "die",
-    "translate": "перец (сладкий)",
+    "translate": "перец (сладкий); перец овощной; паприка",
     "context": [],
     "originals": [
-      "die Paprika"
+      "der/die Paprika"
     ],
     "id": "74aa0f7cd9381bfb8f82e5da89f4d067"
   },
@@ -13386,6 +13716,17 @@
   },
   {
     "type": "noun",
+    "base": "Porree",
+    "article": "der",
+    "translate": "лук-порей",
+    "context": [],
+    "originals": [
+      "der Porree"
+    ],
+    "id": "16066b84fcf5ccfb73faa6a50817a149"
+  },
+  {
+    "type": "noun",
     "base": "Portemonnaie",
     "article": "das",
     "translate": "портмоне",
@@ -13903,6 +14244,17 @@
   },
   {
     "type": "noun",
+    "base": "Radieschen",
+    "article": "das",
+    "translate": "редис",
+    "context": [],
+    "originals": [
+      "das Radieschen"
+    ],
+    "id": "7fdb80bf623ccb8a166a33d296705ff3"
+  },
+  {
+    "type": "noun",
     "base": "Radio",
     "article": "das",
     "translate": "радио",
@@ -14354,6 +14706,17 @@
   },
   {
     "type": "noun",
+    "base": "Rhabarber",
+    "article": "der",
+    "translate": "ревень",
+    "context": [],
+    "originals": [
+      "der Rhabarber"
+    ],
+    "id": "9a25222d22f894222f696cc71e9a79ab"
+  },
+  {
+    "type": "noun",
     "base": "Riese",
     "article": "der",
     "translate": "великан",
@@ -14475,6 +14838,28 @@
   },
   {
     "type": "noun",
+    "base": "Rosenkohl",
+    "article": "der",
+    "translate": "брюссельская капуста",
+    "context": [],
+    "originals": [
+      "der Rosenkohl"
+    ],
+    "id": "db71071dffe4ec78d7208cd71ec64f1d"
+  },
+  {
+    "type": "noun",
+    "base": "Rotkohl",
+    "article": "der",
+    "translate": "капуста краснокочанная",
+    "context": [],
+    "originals": [
+      "der Rotkohl"
+    ],
+    "id": "745359a8ca1f3fba9c9ad3224fecc9bd"
+  },
+  {
+    "type": "noun",
     "base": "Ruder",
     "article": "das",
     "translate": "весло",
@@ -14549,6 +14934,17 @@
       "der Räuber"
     ],
     "id": "eccdbd42b0eeeec20e2d84c60a81c430"
+  },
+  {
+    "type": "noun",
+    "base": "Rübe",
+    "article": "die",
+    "translate": "репа",
+    "context": [],
+    "originals": [
+      "die Rübe"
+    ],
+    "id": "7de3f7080a037721a092297eee8e10e9"
   },
   {
     "type": "noun",
@@ -14664,7 +15060,7 @@
     "type": "noun",
     "base": "Salat",
     "article": "der",
-    "translate": "салат",
+    "translate": "салат; салат-латук",
     "context": [],
     "originals": [
       "der Salat, -e"
@@ -14729,6 +15125,17 @@
   },
   {
     "type": "noun",
+    "base": "Sauerampfer",
+    "article": "der",
+    "translate": "щавель",
+    "context": [],
+    "originals": [
+      "der Sauerampfer"
+    ],
+    "id": "0dde90bf49fabe51526d82c8f7c6e41a"
+  },
+  {
+    "type": "noun",
     "base": "Schachtel",
     "article": "die",
     "translate": "пачка; коробок",
@@ -14770,6 +15177,17 @@
       "die Schale"
     ],
     "id": "a1e500f0186a875e243c117e65617450"
+  },
+  {
+    "type": "noun",
+    "base": "Schalotte",
+    "article": "die",
+    "translate": "лук-шалот",
+    "context": [],
+    "originals": [
+      "die Schalotte"
+    ],
+    "id": "de78127b285f703026895c9d2dcc5a33"
   },
   {
     "type": "noun",
@@ -15133,6 +15551,17 @@
       "das Schnellheft"
     ],
     "id": "ba1e413e352c2e906783ad49ce450b22"
+  },
+  {
+    "type": "noun",
+    "base": "Schnittlauch",
+    "article": "der",
+    "translate": "лук-резанец",
+    "context": [],
+    "originals": [
+      "der Schnittlauch"
+    ],
+    "id": "e032a1203a4ec78d146e3a1247d5a542"
   },
   {
     "type": "noun",
@@ -15708,6 +16137,17 @@
   },
   {
     "type": "noun",
+    "base": "Sellerie",
+    "article": "der/die",
+    "translate": "сельдерей",
+    "context": [],
+    "originals": [
+      "der/die Sellerie"
+    ],
+    "id": "b3e4fdd1bfde9b5046b31d80c42e71b8"
+  },
+  {
+    "type": "noun",
     "base": "Semester",
     "article": "das",
     "translate": "семестр; полугодие",
@@ -16123,6 +16563,28 @@
       "Spanien"
     ],
     "id": "4ed8e0749769ab746cd9d3a9b8691c5d"
+  },
+  {
+    "type": "noun",
+    "base": "Spargel",
+    "article": "der",
+    "translate": "спаржа",
+    "context": [],
+    "originals": [
+      "der Spargel"
+    ],
+    "id": "c03e9d69580d14b4c47bd654a65c2dd6"
+  },
+  {
+    "type": "noun",
+    "base": "Spargelkohl",
+    "article": "der",
+    "translate": "брокколи",
+    "context": [],
+    "originals": [
+      "der Spargelkohl"
+    ],
+    "id": "469967cc50bb15cc0e7722e7416bda2f"
   },
   {
     "type": "noun",
@@ -16654,6 +17116,17 @@
   },
   {
     "type": "noun",
+    "base": "Steckrübe",
+    "article": "die",
+    "translate": "брюква; турнепс",
+    "context": [],
+    "originals": [
+      "die Steckrübe"
+    ],
+    "id": "46ced3df86fc2cd00d91e1fd4c3f975c"
+  },
+  {
+    "type": "noun",
     "base": "Stein",
     "article": "der",
     "translate": "камень; галька; порода",
@@ -17169,6 +17642,17 @@
       "der Süden"
     ],
     "id": "b36a76d7dd92f5629ac3ca84532ba6af"
+  },
+  {
+    "type": "noun",
+    "base": "Süßkartoffel",
+    "article": "die",
+    "translate": "батат",
+    "context": [],
+    "originals": [
+      "die Süßkartoffel"
+    ],
+    "id": "6a878df6cb370dab43625b63da977794"
   },
   {
     "type": "noun",
@@ -17899,6 +18383,17 @@
   },
   {
     "type": "noun",
+    "base": "Topinambur",
+    "article": "der/die",
+    "translate": "топинамбур; земляная груша",
+    "context": [],
+    "originals": [
+      "der/die Topinambur"
+    ],
+    "id": "fd9670ec23946d20c0ef8ceaae49f308"
+  },
+  {
+    "type": "noun",
     "base": "Tor",
     "article": "das",
     "translate": "ворота; гол",
@@ -18094,6 +18589,17 @@
       "die Träne"
     ],
     "id": "6b1c91c5c175add5dcb4e95b82efc7de"
+  },
+  {
+    "type": "noun",
+    "base": "Trüffel",
+    "article": "die",
+    "translate": "трюфель",
+    "context": [],
+    "originals": [
+      "die Trüffel"
+    ],
+    "id": "18f1d7646043315166eba62522107070"
   },
   {
     "type": "noun",
@@ -19216,6 +19722,17 @@
   },
   {
     "type": "noun",
+    "base": "Walzenkürbis",
+    "article": "der",
+    "translate": "кабачок",
+    "context": [],
+    "originals": [
+      "der Walzenkürbis"
+    ],
+    "id": "abedc4bd132e578e3b622335b5bc2b41"
+  },
+  {
+    "type": "noun",
     "base": "Wand",
     "article": "die",
     "translate": "стена; перегородка",
@@ -19378,6 +19895,17 @@
       "das Weinregal"
     ],
     "id": "2867e17f2e590157acac9a334a61ed5b"
+  },
+  {
+    "type": "noun",
+    "base": "Weißkohl",
+    "article": "der",
+    "translate": "белокочанная капуста",
+    "context": [],
+    "originals": [
+      "der Weißkohl"
+    ],
+    "id": "ce5b7e24d07c0816cc8c4d810e286b41"
   },
   {
     "type": "noun",
@@ -19620,6 +20148,17 @@
       "die Wirkung, -en"
     ],
     "id": "3127a2aa042894ddcfb90ccd607b2682"
+  },
+  {
+    "type": "noun",
+    "base": "Wirsing",
+    "article": "der",
+    "translate": "савойская капуста",
+    "context": [],
+    "originals": [
+      "der Wirsing"
+    ],
+    "id": "df7a2fe17712164e3499cbd4f6a0677c"
   },
   {
     "type": "noun",
@@ -20349,6 +20888,17 @@
   },
   {
     "type": "noun",
+    "base": "Zucchini",
+    "article": "die",
+    "translate": "кабачок",
+    "context": [],
+    "originals": [
+      "die Zucchini"
+    ],
+    "id": "073a63d70d1e37ea1246113cda2dc2e9"
+  },
+  {
+    "type": "noun",
     "base": "Zucker",
     "article": "der",
     "translate": "сахар",
@@ -20499,12 +21049,23 @@
     "type": "noun",
     "base": "Zwiebel",
     "article": "die",
-    "translate": "лук; луковица",
+    "translate": "лук; луковица; лук репчатый",
     "context": [],
     "originals": [
       "die Zwiebel, -n"
     ],
     "id": "41110089eb787c9a7f681ec9bb57c2fa"
+  },
+  {
+    "type": "noun",
+    "base": "Zwiebellauch",
+    "article": "der",
+    "translate": "зелёный лук",
+    "context": [],
+    "originals": [
+      "der Zwiebellauch"
+    ],
+    "id": "064e0bf0830bd8744db3d510f9d18a91"
   },
   {
     "type": "noun",

@@ -3195,6 +3195,50 @@
   },
   {
     "type": "*",
+    "base": "die gelbe Rübe",
+    "article": null,
+    "translate": "морковь",
+    "context": [],
+    "originals": [
+      "die gelbe Rübe"
+    ],
+    "id": "c5c93852cecea54f160e43f7d900a8f1"
+  },
+  {
+    "type": "*",
+    "base": "die rote Bete",
+    "article": null,
+    "translate": "свёкла",
+    "context": [],
+    "originals": [
+      "die rote Bete"
+    ],
+    "id": "6a67bb11ef2f95743265fe5a63d8b6c6"
+  },
+  {
+    "type": "*",
+    "base": "die rote Rübe",
+    "article": null,
+    "translate": "свёкла",
+    "context": [],
+    "originals": [
+      "die rote Rübe"
+    ],
+    "id": "4a2b8b9764737789824b74e4ecd32e91"
+  },
+  {
+    "type": "*",
+    "base": "die weiße Rübe",
+    "article": null,
+    "translate": "брюква; турнепс",
+    "context": [],
+    "originals": [
+      "die weiße Rübe"
+    ],
+    "id": "8e1c47a8b6e959c86f8d2b63c601f374"
+  },
+  {
+    "type": "*",
     "base": "dienstag",
     "article": null,
     "translate": "вторник",

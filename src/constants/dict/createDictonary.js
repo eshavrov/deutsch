@@ -30,6 +30,7 @@ const listDeutschB1Schritte = require("./in_data/other/a1/case1/deutsch-b1-schri
 const verbsIrregular = require("./in_data/other/verbs/irregular.json");
 const themeMobel = require("./in_data/other/themes/mobel.json");
 const themeEssenUndTrinken = require("./in_data/other/themes/Essen-und-Trinken.json");
+const themeGemuse = require("./in_data/other/themes/Gemuse.json");
 
 const getId = (uni) => {
   return createHash("md5").update(uni).digest("hex");
@@ -425,7 +426,7 @@ verbsIrregular.forEach((data) => {
   });
 });
 
-[...themeMobel, ...themeEssenUndTrinken].forEach(([p, t]) =>
+[...themeMobel, ...themeEssenUndTrinken, ...themeGemuse].forEach(([p, t]) =>
   add(dictonary, [removeOptional(p), t])
 );
 
