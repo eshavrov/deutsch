@@ -23,6 +23,17 @@
   },
   {
     "type": "noun",
+    "base": "Abendbrot",
+    "article": "das",
+    "translate": "ужин",
+    "context": [],
+    "originals": [
+      "das Abendbrot"
+    ],
+    "id": "5b72b9e5198399ce2569eb11acf62bb3"
+  },
+  {
+    "type": "noun",
     "base": "Abendessen",
     "article": "das",
     "translate": "ужин",
@@ -5820,6 +5831,17 @@
   },
   {
     "type": "noun",
+    "base": "Frischkäse",
+    "article": "der",
+    "translate": "творог",
+    "context": [],
+    "originals": [
+      "der Frischkäse"
+    ],
+    "id": "c4cb9a1870094c1bd6543f9cf7f4a749"
+  },
+  {
+    "type": "noun",
     "base": "Frist",
     "article": "die",
     "translate": "срок; время",
@@ -6447,12 +6469,23 @@
     "type": "noun",
     "base": "Gemüse",
     "article": "das",
-    "translate": "овощи; зелень",
+    "translate": "овощи; зелень; овощ",
     "context": [],
     "originals": [
       "das Gemüse, pl"
     ],
     "id": "4d66f10d0122e62b4993f66265ff57ac"
+  },
+  {
+    "type": "noun",
+    "base": "Gemüsesuppe",
+    "article": "die",
+    "translate": "овощной суп",
+    "context": [],
+    "originals": [
+      "die Gemüsesuppe"
+    ],
+    "id": "316f4317b23ed4eb3e88f067e4c04e97"
   },
   {
     "type": "noun",
@@ -7783,7 +7816,7 @@
     "type": "noun",
     "base": "Honig",
     "article": "der",
-    "translate": "мед",
+    "translate": "мед; мёд",
     "context": [],
     "originals": [
       "der Honig"
@@ -11421,6 +11454,17 @@
   },
   {
     "type": "noun",
+    "base": "Mittagsessen",
+    "article": "das",
+    "translate": "обед",
+    "context": [],
+    "originals": [
+      "das Mittagsessen"
+    ],
+    "id": "7607c451ec8155778585fb2f73da1966"
+  },
+  {
+    "type": "noun",
     "base": "Mitte",
     "article": "die",
     "translate": "середина; центр",
@@ -12481,6 +12525,17 @@
       "die Orange, -n"
     ],
     "id": "96c9f7c81845e88989e223d030425fc9"
+  },
+  {
+    "type": "noun",
+    "base": "Orangensaft",
+    "article": "der",
+    "translate": "апельсиновый сок",
+    "context": [],
+    "originals": [
+      "der Orangensaft"
+    ],
+    "id": "a592d1d4d1b58c5cc8815bdda93aa9c9"
   },
   {
     "type": "noun",
@@ -14652,6 +14707,17 @@
   },
   {
     "type": "noun",
+    "base": "Sandwich",
+    "article": "der/das",
+    "translate": "бутерброд; сэндвич",
+    "context": [],
+    "originals": [
+      "das/der Sandwich"
+    ],
+    "id": "273340e3d9ef7b8d39296f1009ca464b"
+  },
+  {
+    "type": "noun",
     "base": "Satz",
     "article": "der",
     "translate": "предложение; фраза",
@@ -15100,6 +15166,28 @@
       "die Schokolade, -n"
     ],
     "id": "f6134ee828c9af17ebd8613cd05828b8"
+  },
+  {
+    "type": "noun",
+    "base": "Schokoladeneis",
+    "article": "das",
+    "translate": "шоколадное мороженое",
+    "context": [],
+    "originals": [
+      "das Schokoladeneis"
+    ],
+    "id": "2f81c9ebd9ecbff74dfb5cd336974e8d"
+  },
+  {
+    "type": "noun",
+    "base": "Schokoladenkuchen",
+    "article": "der",
+    "translate": "шоколадный торт",
+    "context": [],
+    "originals": [
+      "der Schokoladenkuchen"
+    ],
+    "id": "1a1a13bdbe33f640b0221898105c6af0"
   },
   {
     "type": "noun",
@@ -16013,6 +16101,17 @@
       "der Spagat"
     ],
     "id": "dbce0c8ee10c66d0e473b09e28afecd8"
+  },
+  {
+    "type": "noun",
+    "base": "Spaghetti",
+    "article": "die",
+    "translate": "спагетти (в немецком языке во множественном числе)",
+    "context": [],
+    "originals": [
+      "die Spaghetti"
+    ],
+    "id": "afb3bb766bc9732a922ea960be0a0b23"
   },
   {
     "type": "noun",
@@ -17708,6 +17807,17 @@
       "der Titel"
     ],
     "id": "c14e046f3830c349b6cf8fd018afbc8e"
+  },
+  {
+    "type": "noun",
+    "base": "Toast",
+    "article": "der",
+    "translate": "тост",
+    "context": [],
+    "originals": [
+      "der Toast"
+    ],
+    "id": "a80c274e1b82c0d7f5d1e6899e48d527"
   },
   {
     "type": "noun",
@@ -19808,6 +19918,17 @@
       "der Würfel"
     ],
     "id": "430c62a7422d24cb259e721d8fd2ab06"
+  },
+  {
+    "type": "noun",
+    "base": "Würstchen",
+    "article": "das",
+    "translate": "сосиска",
+    "context": [],
+    "originals": [
+      "das Würstchen"
+    ],
+    "id": "94b3ebc151d6ed6ab7832a31198bc9ae"
   },
   {
     "type": "noun",
