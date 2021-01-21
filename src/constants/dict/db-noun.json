@@ -225,6 +225,17 @@
   },
   {
     "type": "noun",
+    "base": "Aktenschrank",
+    "article": "der",
+    "translate": "канцелярский шкаф",
+    "context": [],
+    "originals": [
+      "der Aktenschrank"
+    ],
+    "id": "2b3b17dff265a959efd60d669535b7ca"
+  },
+  {
+    "type": "noun",
     "base": "Alarm",
     "article": "der",
     "translate": "сигнал тревоги",
@@ -871,6 +882,17 @@
   },
   {
     "type": "noun",
+    "base": "Arbeitstisch",
+    "article": "der",
+    "translate": "рабочий стол",
+    "context": [],
+    "originals": [
+      "der Arbeitstisch"
+    ],
+    "id": "2ee89ab87bb262b6586efd9b62b2a30a"
+  },
+  {
+    "type": "noun",
     "base": "Arbeitszimmer",
     "article": "das",
     "translate": "рабочий кабинет; кабинет",
@@ -928,6 +950,17 @@
       "der Arm, -e"
     ],
     "id": "df0008f9016af16eaf00bef0e3109e9e"
+  },
+  {
+    "type": "noun",
+    "base": "Armlehne",
+    "article": "die",
+    "translate": "подлокотник",
+    "context": [],
+    "originals": [
+      "die Armlehne"
+    ],
+    "id": "6404ccbc2d0077ee9094dfcf44a382eb"
   },
   {
     "type": "noun",
@@ -1600,6 +1633,17 @@
   },
   {
     "type": "noun",
+    "base": "Bartheke",
+    "article": "die",
+    "translate": "барная стойка",
+    "context": [],
+    "originals": [
+      "die Bartheke"
+    ],
+    "id": "6b53ecfec7f33f20ea1b770811ee3795"
+  },
+  {
+    "type": "noun",
     "base": "Batterie",
     "article": "die",
     "translate": "батарея; аккумулятор; батарейка",
@@ -1745,6 +1789,17 @@
       "das Beispiel, -e"
     ],
     "id": "c9dd0e0956be8401f8a3cb1a091ec39f"
+  },
+  {
+    "type": "noun",
+    "base": "Beistelltisch",
+    "article": "der",
+    "translate": "приставной стол",
+    "context": [],
+    "originals": [
+      "der Beistelltisch"
+    ],
+    "id": "e55113d2adc09003e67a775623680221"
   },
   {
     "type": "noun",
@@ -1910,6 +1965,28 @@
   },
   {
     "type": "noun",
+    "base": "Bettcouch",
+    "article": "die",
+    "translate": "диван-кровать",
+    "context": [],
+    "originals": [
+      "die Bettcouch"
+    ],
+    "id": "441c23b046adfa64bf1a4f4341a44e8e"
+  },
+  {
+    "type": "noun",
+    "base": "Bettkasten",
+    "article": "der",
+    "translate": "ящик для постельного белья",
+    "context": [],
+    "originals": [
+      "der Bettkasten"
+    ],
+    "id": "1a996413b20ce75d26d2ad335514cfcf"
+  },
+  {
+    "type": "noun",
     "base": "Beule",
     "article": "die",
     "translate": "шишка; вмятина",
@@ -2049,6 +2126,17 @@
       "der Bildschirm, -e"
     ],
     "id": "2c0f0da90075e7c07e96164bcc382d8e"
+  },
+  {
+    "type": "noun",
+    "base": "Billardtisch",
+    "article": "der",
+    "translate": "бильярдный стол",
+    "context": [],
+    "originals": [
+      "der Billardtisch"
+    ],
+    "id": "139cd2d2d06a376ee6e4ce67e43523f2"
   },
   {
     "type": "noun",
@@ -2746,6 +2834,39 @@
   },
   {
     "type": "noun",
+    "base": "Bücherregal",
+    "article": "das",
+    "translate": "книжная полка",
+    "context": [],
+    "originals": [
+      "das Bücherregal"
+    ],
+    "id": "89546d90a5480f35ed6832bbb18f6b06"
+  },
+  {
+    "type": "noun",
+    "base": "Bücherschrank",
+    "article": "der",
+    "translate": "книжный шкаф",
+    "context": [],
+    "originals": [
+      "der Bücherschrank"
+    ],
+    "id": "802faf5a464abe4674326db1245754d4"
+  },
+  {
+    "type": "noun",
+    "base": "Büfett",
+    "article": "das",
+    "translate": "сервант",
+    "context": [],
+    "originals": [
+      "das Büfett"
+    ],
+    "id": "df7111b27fb2318b98b9e4ab3505e705"
+  },
+  {
+    "type": "noun",
     "base": "Bügel",
     "article": "der",
     "translate": "вешалка (плечики)",
@@ -2878,6 +2999,17 @@
   },
   {
     "type": "noun",
+    "base": "Campingliege",
+    "article": "die",
+    "translate": "раскладушка",
+    "context": [],
+    "originals": [
+      "die Campingliege"
+    ],
+    "id": "fb7c5c04f9d6d60e5a6d70f17ea25bd2"
+  },
+  {
+    "type": "noun",
     "base": "Campingplatz",
     "article": "der",
     "translate": "место для кемпинга",
@@ -2886,6 +3018,17 @@
       "der Campingplatz, ä-e"
     ],
     "id": "875ef2f7c9be00ce5292cd493fa1ccf6"
+  },
+  {
+    "type": "noun",
+    "base": "Causeuse",
+    "article": "die",
+    "translate": "козетка",
+    "context": [],
+    "originals": [
+      "die Causeuse"
+    ],
+    "id": "35c5942dc68b0887588bd799f77cd774"
   },
   {
     "type": "noun",
@@ -2946,6 +3089,17 @@
       "die Chemie"
     ],
     "id": "0d61052e7b1024f49f7f543311371902"
+  },
+  {
+    "type": "noun",
+    "base": "Chiffoniere",
+    "article": "die",
+    "translate": "шифоньер; комод",
+    "context": [],
+    "originals": [
+      "die Chiffoniere"
+    ],
+    "id": "09bb1324c4414233a24cd5b1d23a0a29"
   },
   {
     "type": "noun",
@@ -3031,6 +3185,17 @@
   },
   {
     "type": "noun",
+    "base": "Computertisch",
+    "article": "der",
+    "translate": "компьютерный стол",
+    "context": [],
+    "originals": [
+      "der Computertisch"
+    ],
+    "id": "1559095691f04a799ef823f54ed7f900"
+  },
+  {
+    "type": "noun",
     "base": "Container",
     "article": "der",
     "translate": "контейнер",
@@ -3050,6 +3215,17 @@
       "die Couch, -en"
     ],
     "id": "a8c7a5eddaf9b04b1f137fcdec2c5735"
+  },
+  {
+    "type": "noun",
+    "base": "Couchtisch",
+    "article": "der",
+    "translate": "журнальный столик",
+    "context": [],
+    "originals": [
+      "der Couchtisch"
+    ],
+    "id": "640bfe42ae18f30b25c7b2e91b658290"
   },
   {
     "type": "noun",
@@ -3493,6 +3669,17 @@
   },
   {
     "type": "noun",
+    "base": "Doppelbett",
+    "article": "das",
+    "translate": "двуспальная кровать",
+    "context": [],
+    "originals": [
+      "das Doppelbett"
+    ],
+    "id": "9578093fa16e78373841a5f9c5a530c3"
+  },
+  {
+    "type": "noun",
     "base": "Doppelzimmer",
     "article": "das",
     "translate": "двухместный номер",
@@ -3555,6 +3742,17 @@
       "der Drache"
     ],
     "id": "296d3638858a5deaabc7175dba49ae8e"
+  },
+  {
+    "type": "noun",
+    "base": "Drehstuhl",
+    "article": "der",
+    "translate": "вращающийся стул",
+    "context": [],
+    "originals": [
+      "der Drehstuhl"
+    ],
+    "id": "073406622beb61a69f05406e53cb37c1"
   },
   {
     "type": "noun",
@@ -3879,6 +4077,28 @@
   },
   {
     "type": "noun",
+    "base": "Einbauschrank",
+    "article": "der",
+    "translate": "встроенный шкаф",
+    "context": [],
+    "originals": [
+      "der Einbauschrank"
+    ],
+    "id": "f2d3200933589a4bd0896ee3e015e437"
+  },
+  {
+    "type": "noun",
+    "base": "Einbettcouch",
+    "article": "die",
+    "translate": "односпальный диван",
+    "context": [],
+    "originals": [
+      "die Einbettcouch"
+    ],
+    "id": "f4c4a037c1179984735852bc3dda79d8"
+  },
+  {
+    "type": "noun",
     "base": "Eindruck",
     "article": "der",
     "translate": "впечатление; переживание; отпечаток; вмятина",
@@ -4023,6 +4243,17 @@
       "der Einwohner"
     ],
     "id": "d7b9f2bb902e08312502b476bf0e13d7"
+  },
+  {
+    "type": "noun",
+    "base": "Einzelbett",
+    "article": "das",
+    "translate": "односпальная кровать",
+    "context": [],
+    "originals": [
+      "das Einzelbett"
+    ],
+    "id": "84fda6672771ddd6692a9cc6311990f0"
   },
   {
     "type": "noun",
@@ -4512,6 +4743,28 @@
   },
   {
     "type": "noun",
+    "base": "Esstisch",
+    "article": "der",
+    "translate": "обеденный стол",
+    "context": [],
+    "originals": [
+      "der Esstisch"
+    ],
+    "id": "4f7899f3de4e3fe5192b3b6ecdd85172"
+  },
+  {
+    "type": "noun",
+    "base": "Etagere",
+    "article": "die",
+    "translate": "этажерка",
+    "context": [],
+    "originals": [
+      "die Etagere"
+    ],
+    "id": "964cfbccba03f689134af78b9981f918"
+  },
+  {
+    "type": "noun",
     "base": "Eule",
     "article": "die",
     "translate": "сова",
@@ -4613,7 +4866,7 @@
     "type": "noun",
     "base": "Fach",
     "article": "das",
-    "translate": "отсек; отделение; предмет; дисциплина; отрасль",
+    "translate": "отсек; отделение; предмет; дисциплина; отрасль; ящик; полка",
     "context": [],
     "originals": [
       "das Fach, ä-er"
@@ -5671,6 +5924,17 @@
   },
   {
     "type": "noun",
+    "base": "Furnier",
+    "article": "das",
+    "translate": "фанера",
+    "context": [],
+    "originals": [
+      "das Furnier"
+    ],
+    "id": "bb546e51f8ca7cdd2e80c9ac20558ddb"
+  },
+  {
+    "type": "noun",
     "base": "Fuß",
     "article": "der",
     "translate": "стопа; ступня; подошва",
@@ -5851,6 +6115,17 @@
   },
   {
     "type": "noun",
+    "base": "Gartenmöbel",
+    "article": "die",
+    "translate": "садовая мебель",
+    "context": [],
+    "originals": [
+      "die Gartenmöbel"
+    ],
+    "id": "1a2116e85dbdab3c942c48003bd74ebe"
+  },
+  {
+    "type": "noun",
     "base": "Gartenschlauch",
     "article": "das",
     "translate": "садовый шланг",
@@ -5859,6 +6134,17 @@
       "das Gartenschlauch"
     ],
     "id": "5aaa0f857244f6ab1505540db3029c2d"
+  },
+  {
+    "type": "noun",
+    "base": "Gartenstuhl",
+    "article": "der",
+    "translate": "садовый стул",
+    "context": [],
+    "originals": [
+      "der Gartenstuhl"
+    ],
+    "id": "939d179e9d0926745a0f8aa4937d305a"
   },
   {
     "type": "noun",
@@ -6247,6 +6533,17 @@
   },
   {
     "type": "noun",
+    "base": "Geschirrschrank",
+    "article": "der",
+    "translate": "бюфет; шкаф для посуды",
+    "context": [],
+    "originals": [
+      "der Geschirrschrank"
+    ],
+    "id": "5c6dc6bbaa13e4ac8961c860da42b98c"
+  },
+  {
+    "type": "noun",
     "base": "Geschmack",
     "article": "der",
     "translate": "вкус; привкус",
@@ -6490,6 +6787,17 @@
   },
   {
     "type": "noun",
+    "base": "Gitterbett",
+    "article": "das",
+    "translate": "детская кроватка (с решёткой)",
+    "context": [],
+    "originals": [
+      "das Gitterbett"
+    ],
+    "id": "41d5248598f14563acbcd6f94be443c5"
+  },
+  {
+    "type": "noun",
     "base": "Glas",
     "article": "das",
     "translate": "стекло; стакан; рюмка; бокал; банка",
@@ -6499,6 +6807,17 @@
       "das Glas, ä-er"
     ],
     "id": "feabc7c19f2038a4dd718f5596adeb0a"
+  },
+  {
+    "type": "noun",
+    "base": "Glastisch",
+    "article": "der",
+    "translate": "стеклянный стол",
+    "context": [],
+    "originals": [
+      "der Glastisch"
+    ],
+    "id": "9a611de59c2f44cf3e13e8075651baf2"
   },
   {
     "type": "noun",
@@ -7341,6 +7660,17 @@
   },
   {
     "type": "noun",
+    "base": "Himmelbett",
+    "article": "das",
+    "translate": "кровать с балдахином",
+    "context": [],
+    "originals": [
+      "das Himmelbett"
+    ],
+    "id": "91dddb4a8ad3f4b5b6814db4165ef987"
+  },
+  {
+    "type": "noun",
     "base": "Hinduismus",
     "article": "der",
     "translate": "индуизм",
@@ -7404,6 +7734,17 @@
       "die Hochzeit, -en"
     ],
     "id": "7aa55457a8eebe6e4ac4b006429f0fa2"
+  },
+  {
+    "type": "noun",
+    "base": "Hocker",
+    "article": "der",
+    "translate": "табурет",
+    "context": [],
+    "originals": [
+      "der Hocker"
+    ],
+    "id": "23dc2791523cf2b48f4a0eb20caad8d2"
   },
   {
     "type": "noun",
@@ -8477,6 +8818,17 @@
   },
   {
     "type": "noun",
+    "base": "Kinderstuhl",
+    "article": "der",
+    "translate": "детский стул (для кормления)",
+    "context": [],
+    "originals": [
+      "der Kinderstuhl"
+    ],
+    "id": "a388bd6a70ab6341fb15b607c81a1345"
+  },
+  {
+    "type": "noun",
     "base": "Kinderwagen",
     "article": "der",
     "translate": "детская коляска",
@@ -8599,6 +8951,28 @@
   },
   {
     "type": "noun",
+    "base": "Klappbett",
+    "article": "das",
+    "translate": "раскладная кровать",
+    "context": [],
+    "originals": [
+      "das Klappbett"
+    ],
+    "id": "78fe6a010d604bdaedd57149b1fadf77"
+  },
+  {
+    "type": "noun",
+    "base": "Klapptisch",
+    "article": "der",
+    "translate": "раскладной стол",
+    "context": [],
+    "originals": [
+      "der Klapptisch"
+    ],
+    "id": "66070e0105bca55f3fc7d682d2e3ce98"
+  },
+  {
+    "type": "noun",
     "base": "Klasse",
     "article": "die",
     "translate": "класс; тип",
@@ -8619,6 +8993,17 @@
       "das Klavier, -e"
     ],
     "id": "b886c98174c5e546a713d277cd8cec53"
+  },
+  {
+    "type": "noun",
+    "base": "Klavierbank",
+    "article": "die",
+    "translate": "банкетка для пианино",
+    "context": [],
+    "originals": [
+      "die Klavierbank"
+    ],
+    "id": "f4ab3de78aaebe96355ecf778f24591b"
   },
   {
     "type": "noun",
@@ -8652,6 +9037,17 @@
       "das Kleid, -er"
     ],
     "id": "5ec841f03d2d3ffe0ef132d15e0c542e"
+  },
+  {
+    "type": "noun",
+    "base": "Kleiderschrank",
+    "article": "der",
+    "translate": "гардероб",
+    "context": [],
+    "originals": [
+      "der Kleiderschrank"
+    ],
+    "id": "be738db962d898dac2fba56bb11fb963"
   },
   {
     "type": "noun",
@@ -8831,6 +9227,17 @@
   },
   {
     "type": "noun",
+    "base": "Kommode",
+    "article": "die",
+    "translate": "комод",
+    "context": [],
+    "originals": [
+      "die Kommode"
+    ],
+    "id": "c2059d298bf7d492ad5dfd12c5dc7f2e"
+  },
+  {
+    "type": "noun",
     "base": "Kommunikation",
     "article": "die",
     "translate": "коммуникация; общение; связь; сообщение",
@@ -8927,6 +9334,17 @@
       "der Kopf, ö-e"
     ],
     "id": "d4b7e1286ef40c78624e39daf09ae8f1"
+  },
+  {
+    "type": "noun",
+    "base": "Kopfende",
+    "article": "das",
+    "translate": "изголовье",
+    "context": [],
+    "originals": [
+      "das Kopfende"
+    ],
+    "id": "ec4de0b730144b1747a737fa60e5b9e3"
   },
   {
     "type": "noun",
@@ -9491,6 +9909,28 @@
   },
   {
     "type": "noun",
+    "base": "Küchenschrank",
+    "article": "der",
+    "translate": "кухонный шкаф",
+    "context": [],
+    "originals": [
+      "der Küchenschrank"
+    ],
+    "id": "96de85ab1e9c7f1b592a935120423d86"
+  },
+  {
+    "type": "noun",
+    "base": "Küchentisch",
+    "article": "der",
+    "translate": "кухонный стол",
+    "context": [],
+    "originals": [
+      "der Küchentisch"
+    ],
+    "id": "840e2986af155810721721ecb53d98fb"
+  },
+  {
+    "type": "noun",
     "base": "Kühe",
     "article": "die",
     "translate": "коровы",
@@ -9800,6 +10240,61 @@
   },
   {
     "type": "noun",
+    "base": "Ledersessel",
+    "article": "der",
+    "translate": "кожаное кресло",
+    "context": [],
+    "originals": [
+      "der Ledersessel"
+    ],
+    "id": "e7d5ea8ce09f7e9f971daef8d995bdfd"
+  },
+  {
+    "type": "noun",
+    "base": "Ledersofa",
+    "article": "das",
+    "translate": "кожаный диван",
+    "context": [],
+    "originals": [
+      "das Ledersofa"
+    ],
+    "id": "1fd007fb111002c613deb26d8ce30109"
+  },
+  {
+    "type": "noun",
+    "base": "Lehne",
+    "article": "die",
+    "translate": "спинка",
+    "context": [],
+    "originals": [
+      "die Lehne"
+    ],
+    "id": "81c22b5b0e256dbcbcf38ddf3939a5e7"
+  },
+  {
+    "type": "noun",
+    "base": "Lehnsessel",
+    "article": "der",
+    "translate": "кресло с высокой спинкой",
+    "context": [],
+    "originals": [
+      "der Lehnsessel"
+    ],
+    "id": "9599b6e55b3610067e9833b0136bed3f"
+  },
+  {
+    "type": "noun",
+    "base": "Lehnstuhl",
+    "article": "der",
+    "translate": "кресло с высокой спинкой",
+    "context": [],
+    "originals": [
+      "der Lehnstuhl"
+    ],
+    "id": "ea647db31049f3323de57dfa5acb8fee"
+  },
+  {
+    "type": "noun",
     "base": "Lehre",
     "article": "die",
     "translate": "учение; доктрина; производственное обучение",
@@ -10018,6 +10513,28 @@
       "das Lied, -er"
     ],
     "id": "8e792e0513be60e0b54f726c646aecb6"
+  },
+  {
+    "type": "noun",
+    "base": "Liege",
+    "article": "die",
+    "translate": "лежак",
+    "context": [],
+    "originals": [
+      "die Liege"
+    ],
+    "id": "40b405e5f1f2b079e1866e9b2a3c7500"
+  },
+  {
+    "type": "noun",
+    "base": "Liegestuhl",
+    "article": "der",
+    "translate": "шезлонг",
+    "context": [],
+    "originals": [
+      "der Liegestuhl"
+    ],
+    "id": "308ac5517edc6bd3c3783a26ee3e9fcd"
   },
   {
     "type": "noun",
@@ -10459,6 +10976,17 @@
       "die Mathematik"
     ],
     "id": "7a64cd67c4e48d89bc2abb2616ce8d6a"
+  },
+  {
+    "type": "noun",
+    "base": "Matratze",
+    "article": "die",
+    "translate": "матрас",
+    "context": [],
+    "originals": [
+      "die Matratze"
+    ],
+    "id": "46587b863c9bad230f90b24e9f663a4e"
   },
   {
     "type": "noun",
@@ -11180,6 +11708,17 @@
   },
   {
     "type": "noun",
+    "base": "Möbelstück",
+    "article": "das",
+    "translate": "предмет мебели",
+    "context": [],
+    "originals": [
+      "das Möbelstück"
+    ],
+    "id": "883fbb1b7fa4a4eb128ea9f341af3a1b"
+  },
+  {
+    "type": "noun",
     "base": "Möglichkeit",
     "article": "die",
     "translate": "возможность; вариант; шанс",
@@ -11387,6 +11926,28 @@
       "der Nachtisch, -e"
     ],
     "id": "7a09cf3c34db003101265dddf4d4b67d"
+  },
+  {
+    "type": "noun",
+    "base": "Nachtschränkchen",
+    "article": "das",
+    "translate": "прикроватная тумбочка",
+    "context": [],
+    "originals": [
+      "das Nachtschränkchen"
+    ],
+    "id": "4bf641d959ee571dcbab8be317d8948b"
+  },
+  {
+    "type": "noun",
+    "base": "Nachttisch",
+    "article": "der",
+    "translate": "ночной столик",
+    "context": [],
+    "originals": [
+      "der Nachttisch"
+    ],
+    "id": "595b7941123e51acdcc5d17b30b8b6f8"
   },
   {
     "type": "noun",
@@ -11707,6 +12268,17 @@
       "die Nuss, ü-e"
     ],
     "id": "56bd7fbce3f6ea0f739a2e3eb113cb40"
+  },
+  {
+    "type": "noun",
+    "base": "Nähtisch",
+    "article": "der",
+    "translate": "стол для шитья",
+    "context": [],
+    "originals": [
+      "der Nähtisch"
+    ],
+    "id": "861563f8bf76e105c0b1d48a0de390cb"
   },
   {
     "type": "noun",
@@ -12032,6 +12604,17 @@
   },
   {
     "type": "noun",
+    "base": "Ottomane",
+    "article": "die",
+    "translate": "тахта",
+    "context": [],
+    "originals": [
+      "die Ottomane"
+    ],
+    "id": "492069f6f269719d26d1124dc826b868"
+  },
+  {
+    "type": "noun",
     "base": "PKW",
     "article": "der",
     "translate": "легковой автомобиль",
@@ -12150,6 +12733,17 @@
       "die Paprika"
     ],
     "id": "74aa0f7cd9381bfb8f82e5da89f4d067"
+  },
+  {
+    "type": "noun",
+    "base": "Paravent",
+    "article": "der/das",
+    "translate": "ширма",
+    "context": [],
+    "originals": [
+      "der/das Paravent"
+    ],
+    "id": "da7652f63823f2039f7b9d820c9e3d15"
   },
   {
     "type": "noun",
@@ -12392,6 +12986,17 @@
       "der Pfeil"
     ],
     "id": "556aebc17fd7c11dc4c84c11ae863266"
+  },
+  {
+    "type": "noun",
+    "base": "Pfeilerspiegel",
+    "article": "der",
+    "translate": "трюмо",
+    "context": [],
+    "originals": [
+      "der Pfeilerspiegel"
+    ],
+    "id": "8fc464feb129157a1e71c01d3683e947"
   },
   {
     "type": "noun",
@@ -12668,6 +13273,28 @@
       "der Polizist, -en"
     ],
     "id": "a922340b0a5d91834379967d7d84e2ba"
+  },
+  {
+    "type": "noun",
+    "base": "Polsterstuhl",
+    "article": "der",
+    "translate": "мягкий стул",
+    "context": [],
+    "originals": [
+      "der Polsterstuhl"
+    ],
+    "id": "3052672f778d593daa8f9e26b7df21dd"
+  },
+  {
+    "type": "noun",
+    "base": "Polsterung",
+    "article": "die",
+    "translate": "обивка",
+    "context": [],
+    "originals": [
+      "die Polsterung"
+    ],
+    "id": "5d56cf11cf819272b4ffc9a7ad53cf3a"
   },
   {
     "type": "noun",
@@ -12998,6 +13625,17 @@
       "der Pudel"
     ],
     "id": "4c1aebfb3493e4ebfef065f123ef2c11"
+  },
+  {
+    "type": "noun",
+    "base": "Puff",
+    "article": "der",
+    "translate": "пуфик",
+    "context": [],
+    "originals": [
+      "der Puff"
+    ],
+    "id": "fb7a827ac645602f457840aaf2d1d82a"
   },
   {
     "type": "noun",
@@ -13727,6 +14365,17 @@
   },
   {
     "type": "noun",
+    "base": "Rohrstuhl",
+    "article": "der",
+    "translate": "плетёный стул",
+    "context": [],
+    "originals": [
+      "der Rohrstuhl"
+    ],
+    "id": "34d517c7cc48a5ca61a162cb7a4622fd"
+  },
+  {
+    "type": "noun",
     "base": "Rolle",
     "article": "die",
     "translate": "роль; ролик; валик; колесико",
@@ -13867,6 +14516,17 @@
       "der Rückflug, ü-e"
     ],
     "id": "f3e6b65254e56f114d60e1166314b4f0"
+  },
+  {
+    "type": "noun",
+    "base": "Rücklehne",
+    "article": "die",
+    "translate": "спинка",
+    "context": [],
+    "originals": [
+      "die Rücklehne"
+    ],
+    "id": "8cab5da557d5ec4914de166145e5c850"
   },
   {
     "type": "noun",
@@ -14093,12 +14753,23 @@
     "type": "noun",
     "base": "Schaukel",
     "article": "die",
-    "translate": "качели",
+    "translate": "качели; качель",
     "context": [],
     "originals": [
       "die Schaukel"
     ],
     "id": "9a951670ba2fa663253d66e3d92d0047"
+  },
+  {
+    "type": "noun",
+    "base": "Schaukelstuhl",
+    "article": "der",
+    "translate": "кресло-качалка",
+    "context": [],
+    "originals": [
+      "der Schaukelstuhl"
+    ],
+    "id": "3ff4316c4d4431157f91122b21bbe95f"
   },
   {
     "type": "noun",
@@ -14143,6 +14814,17 @@
       "der Schein, -e"
     ],
     "id": "441e3e4dea8213c0568db10f475716f5"
+  },
+  {
+    "type": "noun",
+    "base": "Schemel",
+    "article": "der",
+    "translate": "табурет",
+    "context": [],
+    "originals": [
+      "der Schemel"
+    ],
+    "id": "5ea58ec060d6db9b69186ec4469f2824"
   },
   {
     "type": "noun",
@@ -14220,6 +14902,17 @@
       "der Schirm, -e"
     ],
     "id": "eec7396c019c5b05db26c92f8d2a0f7c"
+  },
+  {
+    "type": "noun",
+    "base": "Schlafcouch",
+    "article": "die",
+    "translate": "диван-кровать",
+    "context": [],
+    "originals": [
+      "die Schlafcouch"
+    ],
+    "id": "3cb0fe7ace492a2bb6ff8d0c44f984f0"
   },
   {
     "type": "noun",
@@ -14421,6 +15114,17 @@
   },
   {
     "type": "noun",
+    "base": "Schrankwand",
+    "article": "die",
+    "translate": "мебельная стенка",
+    "context": [],
+    "originals": [
+      "die Schrankwand"
+    ],
+    "id": "7869ecaa21b63fdc5ac46d37d4b240b2"
+  },
+  {
+    "type": "noun",
     "base": "Schreiben",
     "article": "das",
     "translate": "написание; письмо; писание",
@@ -14465,6 +15169,39 @@
   },
   {
     "type": "noun",
+    "base": "Schränkchen",
+    "article": "das",
+    "translate": "шкафчик",
+    "context": [],
+    "originals": [
+      "das Schränkchen"
+    ],
+    "id": "24d5d0b61956f4902b864b8cb31f9d38"
+  },
+  {
+    "type": "noun",
+    "base": "Schubfach",
+    "article": "das",
+    "translate": "выдвижной ящик",
+    "context": [],
+    "originals": [
+      "das Schubfach"
+    ],
+    "id": "896a5ec9d529fb48472b7f13c929d7b7"
+  },
+  {
+    "type": "noun",
+    "base": "Schubladen",
+    "article": "die",
+    "translate": "выдвижные ящики",
+    "context": [],
+    "originals": [
+      "die Schubladen"
+    ],
+    "id": "6183b042d0926395a682b442fda8953c"
+  },
+  {
+    "type": "noun",
     "base": "Schuh",
     "article": "der",
     "translate": "туфля; ботинок; обувь",
@@ -14473,6 +15210,28 @@
       "der Schuh, -e"
     ],
     "id": "93c86f722f3b1e7b516c97bdfe7bc7d3"
+  },
+  {
+    "type": "noun",
+    "base": "Schuhregal",
+    "article": "das",
+    "translate": "стеллаж для обуви",
+    "context": [],
+    "originals": [
+      "das Schuhregal"
+    ],
+    "id": "67728a23b7310a9ce3fa6a5b539fdf13"
+  },
+  {
+    "type": "noun",
+    "base": "Schuhschrank",
+    "article": "der",
+    "translate": "обувной шкаф",
+    "context": [],
+    "originals": [
+      "der Schuhschrank"
+    ],
+    "id": "042b458f3d4a5eac84614ce9ff537787"
   },
   {
     "type": "noun",
@@ -14828,6 +15587,17 @@
   },
   {
     "type": "noun",
+    "base": "Sekretär",
+    "article": "der",
+    "translate": "бюро; секретер",
+    "context": [],
+    "originals": [
+      "der Sekretär"
+    ],
+    "id": "cb626fa4faf67eeede1773161e6ab420"
+  },
+  {
+    "type": "noun",
     "base": "Sekretärin",
     "article": "die",
     "translate": "секретарша; секретарь",
@@ -15034,6 +15804,28 @@
       "die Sitze"
     ],
     "id": "cd8cce6a51983936fdc0091f78e9374b"
+  },
+  {
+    "type": "noun",
+    "base": "Sitzfläche",
+    "article": "die",
+    "translate": "сиденье",
+    "context": [],
+    "originals": [
+      "die Sitzfläche"
+    ],
+    "id": "8fda9c30f026f69cfbe9778c9e85857d"
+  },
+  {
+    "type": "noun",
+    "base": "Sitzsack",
+    "article": "der",
+    "translate": "кресло-мешок",
+    "context": [],
+    "originals": [
+      "der Sitzsack"
+    ],
+    "id": "bcf4d3ee4778e9fb3608067e697d39a9"
   },
   {
     "type": "noun",
@@ -15312,6 +16104,28 @@
   },
   {
     "type": "noun",
+    "base": "Spiegelkommode",
+    "article": "die",
+    "translate": "трельяж",
+    "context": [],
+    "originals": [
+      "die Spiegelkommode"
+    ],
+    "id": "5d75ae382582befa54e4a35ac74eaac6"
+  },
+  {
+    "type": "noun",
+    "base": "Spiegelschrank",
+    "article": "der",
+    "translate": "зеркальный шкаф",
+    "context": [],
+    "originals": [
+      "der Spiegelschrank"
+    ],
+    "id": "6c503545aca142ebfafb507e3d9d47cc"
+  },
+  {
+    "type": "noun",
     "base": "Spiel",
     "article": "das",
     "translate": "игра; матч",
@@ -15334,6 +16148,17 @@
   },
   {
     "type": "noun",
+    "base": "Spieltisch",
+    "article": "der",
+    "translate": "игровой стол",
+    "context": [],
+    "originals": [
+      "der Spieltisch"
+    ],
+    "id": "6686a29d5603bdd992c79e31ebdd62a9"
+  },
+  {
+    "type": "noun",
     "base": "Spielzeug",
     "article": "das",
     "translate": "игрушка; забава",
@@ -15353,6 +16178,17 @@
       "der Spinat"
     ],
     "id": "eb82577d87645cd29337219dc8a12eea"
+  },
+  {
+    "type": "noun",
+    "base": "Spind",
+    "article": "der/das",
+    "translate": "узкий (одностворчатый) шкаф",
+    "context": [],
+    "originals": [
+      "der/das Spind"
+    ],
+    "id": "faf57f20fe9188740736e03c485da0d7"
   },
   {
     "type": "noun",
@@ -16083,6 +16919,28 @@
   },
   {
     "type": "noun",
+    "base": "Stuhlbein",
+    "article": "das",
+    "translate": "ножка стула",
+    "context": [],
+    "originals": [
+      "das Stuhlbein"
+    ],
+    "id": "75ff60db90a232fffb5b7bf2aed0ae4f"
+  },
+  {
+    "type": "noun",
+    "base": "Stuhllehne",
+    "article": "die",
+    "translate": "спинка стула",
+    "context": [],
+    "originals": [
+      "die Stuhllehne"
+    ],
+    "id": "272664dd0e7e13aab86b8a4b23abd5d5"
+  },
+  {
+    "type": "noun",
     "base": "Stunde",
     "article": "die",
     "translate": "час; урок",
@@ -16410,6 +17268,17 @@
       "die Tat, -en"
     ],
     "id": "95901277ca260728540faec74c07a6d9"
+  },
+  {
+    "type": "noun",
+    "base": "Tatami",
+    "article": "die",
+    "translate": "татами",
+    "context": [],
+    "originals": [
+      "die Tatami"
+    ],
+    "id": "b37a758e48e4fa94d776ee4eec16126a"
   },
   {
     "type": "noun",
@@ -16787,6 +17656,39 @@
   },
   {
     "type": "noun",
+    "base": "Tischbein",
+    "article": "das",
+    "translate": "ножка стола",
+    "context": [],
+    "originals": [
+      "das Tischbein"
+    ],
+    "id": "265c533a12a37648770881f9c8507f3e"
+  },
+  {
+    "type": "noun",
+    "base": "Tischkante",
+    "article": "die",
+    "translate": "край стола",
+    "context": [],
+    "originals": [
+      "die Tischkante"
+    ],
+    "id": "3b244a92a31510594b8f800db405c937"
+  },
+  {
+    "type": "noun",
+    "base": "Tischplatte",
+    "article": "die",
+    "translate": "столешница",
+    "context": [],
+    "originals": [
+      "die Tischplatte"
+    ],
+    "id": "50a97a5eb4f14857828cead1c8366d18"
+  },
+  {
+    "type": "noun",
     "base": "Tischtennis",
     "article": "das",
     "translate": "настольный теннис",
@@ -16839,6 +17741,17 @@
       "die Toilette, -n"
     ],
     "id": "c4dc6caae7a6a37ab82b95e160978f6d"
+  },
+  {
+    "type": "noun",
+    "base": "Toilettentisch",
+    "article": "der",
+    "translate": "туалетный столик",
+    "context": [],
+    "originals": [
+      "der Toilettentisch"
+    ],
+    "id": "4f783f13409cffdbe5bb9f7554c0d8c0"
   },
   {
     "type": "noun",
@@ -17049,6 +17962,17 @@
       "der Tropfen, pl"
     ],
     "id": "bdf224ba4afceefefd39644296d80274"
+  },
+  {
+    "type": "noun",
+    "base": "Trumeau",
+    "article": "der",
+    "translate": "трюмо",
+    "context": [],
+    "originals": [
+      "der Trumeau"
+    ],
+    "id": "4b51dc72ef7b23825fc23b27fc9c0d82"
   },
   {
     "type": "noun",
@@ -18204,6 +19128,28 @@
   },
   {
     "type": "noun",
+    "base": "Wandschirm",
+    "article": "der",
+    "translate": "ширма",
+    "context": [],
+    "originals": [
+      "der Wandschirm"
+    ],
+    "id": "db1dfb72470a4589712b10ce6ddde888"
+  },
+  {
+    "type": "noun",
+    "base": "Wandschrank",
+    "article": "der",
+    "translate": "стенной шкаф",
+    "context": [],
+    "originals": [
+      "der Wandschrank"
+    ],
+    "id": "d6fb97794e2b27fe283d6b91706a8683"
+  },
+  {
+    "type": "noun",
     "base": "Ware",
     "article": "die",
     "translate": "товар; продукт; продукция",
@@ -18245,6 +19191,17 @@
       "das Wasser"
     ],
     "id": "c3e36b3b597dd25832dce0c80a6c4613"
+  },
+  {
+    "type": "noun",
+    "base": "Wasserbett",
+    "article": "das",
+    "translate": "водная кровать",
+    "context": [],
+    "originals": [
+      "das Wasserbett"
+    ],
+    "id": "a28d220ef728644c0ddb7fce4a3d81c6"
   },
   {
     "type": "noun",
@@ -18300,6 +19257,17 @@
       "der Wein"
     ],
     "id": "757611dd1ca0e757e202a7b6db32cec3"
+  },
+  {
+    "type": "noun",
+    "base": "Weinregal",
+    "article": "das",
+    "translate": "винная стойка",
+    "context": [],
+    "originals": [
+      "das Weinregal"
+    ],
+    "id": "2867e17f2e590157acac9a334a61ed5b"
   },
   {
     "type": "noun",
@@ -18421,6 +19389,28 @@
       "das Wettrennen"
     ],
     "id": "7486da68f604b4e1a82816b89e464141"
+  },
+  {
+    "type": "noun",
+    "base": "Wickelkommode",
+    "article": "die",
+    "translate": "пеленальный столик",
+    "context": [],
+    "originals": [
+      "die Wickelkommode"
+    ],
+    "id": "557f1ff590911cccbbf0f20036dab387"
+  },
+  {
+    "type": "noun",
+    "base": "Wickeltisch",
+    "article": "der",
+    "translate": "пеленальный столик",
+    "context": [],
+    "originals": [
+      "der Wickeltisch"
+    ],
+    "id": "3302ec30970072a9e73dcfedd174b71e"
   },
   {
     "type": "noun",
@@ -18785,6 +19775,17 @@
       "die Wäsche"
     ],
     "id": "926f8428159ad40ffdc75c15818544e1"
+  },
+  {
+    "type": "noun",
+    "base": "Wäschekommode",
+    "article": "die",
+    "translate": "комод для белья",
+    "context": [],
+    "originals": [
+      "die Wäschekommode"
+    ],
+    "id": "63bcfa56bb3da4a1688ee9f684d345b3"
   },
   {
     "type": "noun",

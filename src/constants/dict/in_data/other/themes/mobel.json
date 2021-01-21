@@ -1,0 +1,410 @@
+[
+	[
+		"der Aktenschrank (die Aktenschränke)",
+		"канцелярский шкаф"
+	],
+	[
+		"der Arbeitstisch (die Arbeitstische)",
+		"рабочий стол"
+	],
+	[
+		"die Armlehne (die Armlehnen)",
+		"подлокотник"
+	],
+	[
+		"die Bartheke (die Bartheken)",
+		"барная стойка"
+	],
+	[
+		"der Beistelltisch (die Beistelltische)",
+		"приставной стол"
+	],
+	[
+		"das Bett (die Betten)",
+		"кровать"
+	],
+	[
+		"die Bettcouch (die Bettcouchs)",
+		"диван-кровать"
+	],
+	[
+		"der Bettkasten (die Bettkästen)",
+		"ящик для постельного белья"
+	],
+	[
+		"der Billardtisch (die Billardtische)",
+		"бильярдный стол"
+	],
+	[
+		"das Bücherregal (die Bücherregale)",
+		"книжная полка"
+	],
+	[
+		"der Bücherschrank (die Bücherschränke)",
+		"книжный шкаф"
+	],
+	[
+		"das Büfett (die Büfetts)",
+		"сервант"
+	],
+	[
+		"die Campingliege (die Campingliegen)",
+		"раскладушка"
+	],
+	[
+		"die Causeuse",
+		"козетка"
+	],
+	[
+		"die Chiffoniere",
+		"шифоньер; комод"
+	],
+	[
+		"der Computertisch (die Computertische)",
+		"компьютерный стол"
+	],
+	[
+		"der Couchtisch (die Couchtische)",
+		"журнальный столик"
+	],
+	[
+		"das Doppelbett (die Doppelbetten)",
+		"двуспальная кровать"
+	],
+	[
+		"der Drehstuhl (die Drehstühle)",
+		"вращающийся стул"
+	],
+	[
+		"der Einbauschrank (die Einbauschränke)",
+		"встроенный шкаф"
+	],
+	[
+		"die Einbettcouch (die Einbettcouchs)",
+		"односпальный диван"
+	],
+	[
+		"das Einzelbett (die Einzelbetten)",
+		"односпальная кровать"
+	],
+	[
+		"der Esstisch (die Esstische)",
+		"обеденный стол"
+	],
+	[
+		"die Etagere (die Etageren)",
+		"этажерка"
+	],
+	[
+		"das Fach (die Fächer)",
+		"ящик; полка; отделение"
+	],
+	[
+		"das Furnier (die Furniere)",
+		"фанера"
+	],
+	[
+		"die Gartenmöbel",
+		"садовая мебель"
+	],
+	[
+		"der Gartenstuhl (die Gartenstühle)",
+		"садовый стул"
+	],
+	[
+		"der Geschirrschrank (die Geschirrschränke)",
+		"бюфет; шкаф для посуды"
+	],
+	[
+		"das Gitterbett (die Gitterbetten)",
+		"детская кроватка (с решёткой)"
+	],
+	[
+		"der Glastisch (die Glastische)",
+		"стеклянный стол"
+	],
+	[
+		"das Himmelbett (die Himmelbetten)",
+		"кровать с балдахином"
+	],
+	[
+		"der Hocker (die Hocker)",
+		"табурет"
+	],
+	[
+		"der Schemel (die Schemel)",
+		"табурет"
+	],
+	[
+		"der Kinderstuhl (die Kinderstühle)",
+		"детский стул (для кормления)"
+	],
+	[
+		"das Klappbett (die Klappbetten)",
+		"раскладная кровать"
+	],
+	[
+		"der Klapptisch (die Klapptische)",
+		"раскладной стол"
+	],
+	[
+		"die Klavierbank (die Klavierbänke)",
+		"банкетка для пианино"
+	],
+	[
+		"der Kleiderschrank (die Kleiderschränke)",
+		"гардероб"
+	],
+	[
+		"die Kommode (die Kommoden)",
+		"комод"
+	],
+	[
+		"das Kopfende (die Kopfenden)",
+		"изголовье"
+	],
+	[
+		"der Küchenschrank (die Küchenschränke)",
+		"кухонный шкаф"
+	],
+	[
+		"der Küchentisch (die Küchentische)",
+		"кухонный стол"
+	],
+	[
+		"der Ledersessel (die Ledersessel)",
+		"кожаное кресло"
+	],
+	[
+		"das Ledersofa (die Ledersofas)",
+		"кожаный диван"
+	],
+	[
+		"die Lehne (die Lehnen)",
+		"спинка"
+	],
+	[
+		"die Rücklehne (die Rücklehnen)",
+		"спинка"
+	],
+	[
+		"der Lehnsessel (die Lehnsessel)",
+		"кресло с высокой спинкой"
+	],
+	[
+		"der Lehnstuhl (die Lehnstühle)",
+		"кресло с высокой спинкой"
+	],
+	[
+		"die Liege (die Liegen)",
+		"лежак"
+	],
+	[
+		"der Liegestuhl (die Liegestühle)",
+		"шезлонг"
+	],
+	[
+		"die Matratze (die Matratzen)",
+		"матрас"
+	],
+	[
+		"das Möbel (die Möbel)",
+		"мебель"
+	],
+	[
+		"das Möbelstück (die Möbelstücke)",
+		"предмет мебели"
+	],
+	[
+		"das Nachtschränkchen (die Nachtschränken)",
+		"прикроватная тумбочка"
+	],
+	[
+		"der Nachttisch (die Nachttische)",
+		"ночной столик"
+	],
+	[
+		"der Nähtisch (die Nähtische)",
+		"стол для шитья"
+	],
+	[
+		"die Ottomane (die Ottomanen)",
+		"тахта"
+	],
+	[
+		"der/das Paravent (die Paravents)",
+		"ширма"
+	],
+	[
+		"der Pfeilerspiegel (die Pfeilerspiegel)",
+		"трюмо"
+	],
+	[
+		"der Polsterstuhl (die Polsterstühle)",
+		"мягкий стул"
+	],
+	[
+		"die Polsterung (die Polsterungen)",
+		"обивка"
+	],
+	[
+		"der Puff (die Püffe)",
+		"пуфик"
+	],
+	[
+		"das Regal (die Regale)",
+		"полка"
+	],
+	[
+		"der Rohrstuhl (die Rohrstühle)",
+		"плетёный стул"
+	],
+	[
+		"die Schaukel (die Schaukeln)",
+		"качель"
+	],
+	[
+		"der Schaukelstuhl (die Schaukelstühle)",
+		"кресло-качалка"
+	],
+	[
+		"die Schlafcouch (die Schlafcouchs)",
+		"диван-кровать"
+	],
+	[
+		"der Schrank (die Schränke)",
+		"шкаф"
+	],
+	[
+		"das Schränkchen (die Schränkchen)",
+		"шкафчик"
+	],
+	[
+		"die Schrankwand (die Schrankwände)",
+		"мебельная стенка"
+	],
+	[
+		"der Schreibtisch (die Schreibtische)",
+		"письменный стол"
+	],
+	[
+		"das Schubfach (die Schubfächer)",
+		"выдвижной ящик"
+	],
+	[
+		"die Schubladen",
+		"выдвижные ящики"
+	],
+	[
+		"das Schuhregal (die Schuhregale)",
+		"стеллаж для обуви"
+	],
+	[
+		"der Schuhschrank (die Schuhschränke)",
+		"обувной шкаф"
+	],
+	[
+		"der Sekretär (die Sekretäre)",
+		"бюро; секретер"
+	],
+	[
+		"der Sessel (die Sessel)",
+		"кресло"
+	],
+	[
+		"die Sitzfläche (die Sitzflächen)",
+		"сиденье"
+	],
+	[
+		"der Sitzsack (die Sitzsäcke)",
+		"кресло-мешок"
+	],
+	[
+		"das Sofa (die Sofas)",
+		"диван"
+	],
+	[
+		"der Spiegel (die Spiegel)",
+		"зеркало"
+	],
+	[
+		"die Spiegelkommode (die Spiegelkommoden)",
+		"трельяж"
+	],
+	[
+		"der Spiegelschrank (die Spiegelschränke)",
+		"зеркальный шкаф"
+	],
+	[
+		"der Spieltisch (die Spieltische)",
+		"игровой стол"
+	],
+	[
+		"der/das Spind (die Spinde)",
+		"узкий (одностворчатый) шкаф"
+	],
+	[
+		"das Stuhlbein (die Stuhlbeine)",
+		"ножка стула"
+	],
+	[
+		"die Stuhllehne (die Stuhllehnen)",
+		"спинка стула"
+	],
+	[
+		"die Tatami (die Tatami)",
+		"татами"
+	],
+	[
+		"der Tisch (die Tische)",
+		"стол"
+	],
+	[
+		"das Tischbein (die Tischbeine)",
+		"ножка стола"
+	],
+	[
+		"die Tischkante (die Tischkanten)",
+		"край стола"
+	],
+	[
+		"die Tischplatte (die Tischplatten)",
+		"столешница"
+	],
+	[
+		"der Toilettentisch (die Toilettentische)",
+		"туалетный столик"
+	],
+	[
+		"der Trumeau",
+		"трюмо"
+	],
+	[
+		"der Wandschirm (die Wandschirme)",
+		"ширма"
+	],
+	[
+		"der Wandschrank (die Wandschränke)",
+		"стенной шкаф"
+	],
+	[
+		"die Wäschekommode (die Wäschekommoden)",
+		"комод для белья"
+	],
+	[
+		"das Wasserbett (die Wasserbetten)",
+		"водная кровать"
+	],
+	[
+		"das Weinregal (die Weinregale)",
+		"винная стойка"
+	],
+	[
+		"die Wickelkommode (die Wickelkommoden)",
+		"пеленальный столик"
+	],
+	[
+		"der Wickeltisch (die Wickeltische) ",
+		"пеленальный столик"
+	]
+]

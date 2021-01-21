@@ -28,6 +28,7 @@ const listDeutschA2Schritte = require("./in_data/other/a1/case1/deutsch-a2-schri
 const listDeutschB1Schritte = require("./in_data/other/a1/case1/deutsch-b1-schritte.json");
 
 const verbsIrregular = require("./in_data/other/verbs/irregular.json");
+const themeMobel = require("./in_data/other/themes/mobel.json");
 
 const getId = (uni) => {
   return createHash("md5").update(uni).digest("hex");
@@ -138,7 +139,9 @@ const getEntryId = (entry) => {
 const REGEXP_DER = /^der\s+/i;
 const REGEXP_DIE = /^die\s+/i;
 const REGEXP_DAS = /^das\s+/i;
-const REGEXP_DIE_DER = /^(die\s*\/\s*der\s*|der\s*\/\s*die)\s+/i;
+const REGEXP_DER_DIE = /^(die\s*\/\s*der\s*|der\s*\/\s*die)\s+/i;
+const REGEXP_DER_DAS = /^(das\s*\/\s*der\s*|der\s*\/\s*das)\s+/i;
+
 const REGEXP_VERB = /en$/i;
 // , ä-er
 const REGEXP_END = /\,\s*[äöü¨]*-(|e|er|s|en|her|hin)$/i;
@@ -176,13 +179,15 @@ const parsePhrase = (text, options = {}) => {
       // @ts-ignore
       let die = REGEXP_DIE.test(phrase);
       // @ts-ignore
-      let dieDer = REGEXP_DIE_DER.test(phrase);
+      let derDie = REGEXP_DER_DIE.test(phrase);
+      // @ts-ignore
+      let derDas = REGEXP_DER_DAS.test(phrase);
       // @ts-ignore
       let das = REGEXP_DAS.test(phrase);
 
       const isCapitalize = /^[A-ZÄÖÜ]/.test(phrase);
 
-      const isNoun = der || die || das || dieDer || isCapitalize;
+      const isNoun = der || die || das || derDie || derDas || isCapitalize;
 
       // Существительные
       if (isNoun) {
@@ -199,7 +204,8 @@ const parsePhrase = (text, options = {}) => {
                   .replace(REGEXP_DER, "")
                   .replace(REGEXP_DIE, "")
                   .replace(REGEXP_DAS, "")
-                  .replace(REGEXP_DIE_DER, "")
+                  .replace(REGEXP_DER_DIE, "")
+                  .replace(REGEXP_DER_DAS, "")
               )
             )
           );
@@ -215,8 +221,11 @@ const parsePhrase = (text, options = {}) => {
           if (das) {
             article = "das";
           }
-          if (dieDer) {
+          if (derDie) {
             article = "der/die";
+          }
+          if (derDas) {
+            article = "der/das";
           }
           const isOneWord = w.split(/\s/).length === 1;
 
@@ -414,6 +423,8 @@ verbsIrregular.forEach((data) => {
     return { ...entry, config };
   });
 });
+
+[...themeMobel].forEach(([p, t]) => add(dictonary, [removeOptional(p), t]));
 
 // ------------------------------
 
