@@ -13,12 +13,17 @@ const TYPES = {
   SEPARATE: "separate",
 };
 
+const COMPONENT = {
+  INPUT: "input",
+  DROPDOWN: "dropdown",
+};
+
 const defaultSeparate = {
   type: TYPES.SEPARATE,
   value: " ",
 };
 
-const mapChunk = (text) => {
+const mapChunk = (component) => (text) => {
   if (/\[/i.test(text)) {
     console.log(">>", text);
     const before = text.replace(/\[.*$/gi, "");
@@ -26,15 +31,17 @@ const mapChunk = (text) => {
 
     const _arr = text.replace(/^.*\[/gi, "").replace(/\].*$/gi, "").split("|");
 
-    const variants = _arr.map((v) => {
-      const status = !/^\^/i.test(v);
-      const value = v.replace(/^\^/i, "");
+    const variants = _arr
+      .map((v) => {
+        const status = !/^\^/i.test(v);
+        const value = v.replace(/^\^/i, "");
 
-      return {
-        status,
-        value,
-      };
-    });
+        return {
+          status,
+          value,
+        };
+      })
+      .sort((_) => Math.random() - 0.5);
 
     const correct = variants
       .filter(({ status }) => status)
@@ -48,6 +55,7 @@ const mapChunk = (text) => {
         correct,
         before,
         after,
+        component,
       },
     ];
   }
@@ -77,7 +85,7 @@ const addSpeparate = (arr, separate = defaultSeparate) => {
 const addId = (items) =>
   items.map((data, index) => ({ ...data, id: `id-${index}` }));
 
-const getChunks = (text) => {
+const getChunks = (text, component) => {
   // Разделяем на части строку
   const chunks = text
     .replace(/\?/i, " ?")
@@ -89,17 +97,17 @@ const getChunks = (text) => {
     .match(/(\[.*?\]|[^\[\s]+)+(?=\s*|\s*$)/g);
 
   // Определяем части
-  const _chunks = chunks.flatMap(mapChunk);
+  const _chunks = chunks.flatMap(mapChunk(component));
 
   const result = addSpeparate(_chunks);
 
   return addId(result);
 };
 
-const projection = (data) => {
+const projection = (component) => (data) => {
   const [phrase] = data;
 
-  const chunks = getChunks(phrase);
+  const chunks = getChunks(phrase, component);
 
   return {
     phrase,
@@ -116,7 +124,7 @@ const mapData = (data) => {
 
   return {
     title,
-    items: list.map(projection),
+    items: list.map(projection(type)),
     content: _normalizeContent,
     type,
   };

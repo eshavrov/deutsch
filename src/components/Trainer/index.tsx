@@ -2,7 +2,7 @@ import React from "react";
 import cn from "classnames";
 
 import { LANGUAGE, LANGUAGE_REGION } from "constants/index";
-import { Logo, Button, Input } from "components/ui";
+import { Logo, Button, Input, DropDown } from "components/ui";
 
 import s from "./styles.module.css";
 const ITERATION = 2;
@@ -11,6 +11,25 @@ const TYPES = {
   TEXT: "text",
   ACTION: "action",
   SEPARATE: "separate",
+};
+
+const COMPONENT = {
+  INPUT: "input",
+  DROPDOWN: "dropdown",
+  DEFAULT: "default",
+};
+
+const getComponentType = (type) => {
+  console.log("***", type);
+  switch (type) {
+    case "write":
+    case "drag":
+      return COMPONENT.INPUT;
+    case "variants":
+      return COMPONENT.DROPDOWN;
+    default:
+      return COMPONENT.DEFAULT;
+  }
 };
 
 const TypeChunk = (props) => {
@@ -23,11 +42,55 @@ const TypeChunk = (props) => {
     before = "",
     after = "",
     correct,
+    variants,
+    rootType,
   } = props;
 
-  const userValue = state[id] || "";
+  const component = getComponentType(rootType);
 
-  if (type === TYPES.ACTION) {
+  // DropDown component
+  if (type === TYPES.ACTION && component === COMPONENT.DROPDOWN) {
+    const userValue = state[id] || variants[0].value;
+
+    const onChange = (nextValue) => {
+      setState((s) => ({ ...s, [id]: nextValue }));
+    };
+
+    const items = React.useMemo(() => {
+      return variants.map(({ value }) => ({
+        value,
+        label: value,
+      }));
+    }, [variants]);
+
+    React.useEffect(() => {
+      const nextValue = state[id] || variants[0].value;
+      setState((s) => ({ ...s, [id]: nextValue }));
+    }, []);
+
+    console.log("items:", items, variants);
+
+    return (
+      <>
+        {before}
+        <DropDown
+          className={cn(s.input, {
+            [s.before]: !!before,
+            [s.after]: !!after,
+          })}
+          value={userValue}
+          items={items}
+          onChange={onChange}
+        />
+        {after}
+      </>
+    );
+  }
+
+  // Input component
+  if (type === TYPES.ACTION && component === COMPONENT.INPUT) {
+    const userValue = state[id] || "";
+
     const onChange = (event) => {
       const nextValue = event.target.value;
 
@@ -70,6 +133,8 @@ const WrapperChunk = (props) => {
     before,
     after,
     correct,
+    variants,
+    rootType,
   } = props;
 
   return (
@@ -83,6 +148,8 @@ const WrapperChunk = (props) => {
         before={before}
         after={after}
         correct={correct}
+        variants={variants}
+        rootType={rootType}
       />
     </span>
   );
@@ -128,6 +195,7 @@ const Item = (props) => {
           <WrapperChunk
             key={`chunk-item=${index}`}
             {...data}
+            rootType={type}
             userValue={userValue}
             setUserValue={setUserValue}
           />

@@ -1,0 +1,24 @@
+.root {
+  /* @apply bg-primary py-2 px-6 w-full appearance-none transition duration-150 ease-in-out pr-10 border border-accents-3 text-accents-6; */
+  width: 100%;
+  appearance: none;
+
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  color: var(--accents-6);
+
+  background-color: var(--primary);
+
+  padding: 0.5rem 2.5rem 0.5rem 1.5rem;
+  border-width: 1px;
+  border-color: var(--accents-3);
+  color: var(--accents-6);
+}
+
+.root:focus {
+  /* @apply outline-none shadow-outline-gray; */
+  box-shadow: 0 0 0 3px var(--focus-gray);
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
