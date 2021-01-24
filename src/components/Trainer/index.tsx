@@ -187,9 +187,9 @@ const Item = (props) => {
 
   return (
     <div className={cn(s.line, { [s.good]: status, [s.error]: isError })}>
-      <p className={s.source}>
+      {/* <p className={s.source}>
         {phrase} ({type})
-      </p>
+      </p> */}
       <p>
         {chunks.map((data, index) => (
           <WrapperChunk

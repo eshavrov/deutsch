@@ -479,25 +479,245 @@
 		]
 	},
 	{
-		"title": "",
+		"title": "Schreiben Sie in Worten",
+		"type": "write",
 		"list": [
 			[
-				""
+				"1 - [eins]"
 			],
 			[
-				""
+				"21 - [einundzwanzig]"
 			],
 			[
-				""
+				"2 - [zwei]"
 			],
 			[
-				""
+				"32 - [zweiunddreißig]"
 			],
 			[
-				""
+				"3 - [drei]"
 			],
 			[
-				""
+				"43 - [dreiundvierzig]"
+			],
+			[
+				"4 - [vier]"
+			],
+			[
+				"54 - [fünfundvierzig]"
+			],
+			[
+				"5 - [fünf]"
+			],
+			[
+				"65 - [fünfundsechzig]"
+			],
+			[
+				"6 - [sechs]"
+			],
+			[
+				"76 - [sechsundsiebzig]"
+			],
+			[
+				"87 - [siebenundachtzig]"
+			],
+			[
+				"98 - [achtundneunzig]"
+			],
+			[
+				"114 - [einhundertvierzehn|hundertvierzehn]"
+			],
+			[
+				"125 - [einhundertfünfundzwanzig|hundertfünfundzwanzig]"
+			],
+			[
+				"238 - [zweihundertachtunddreißig]"
+			],
+			[
+				"341 - [dreihunderteinundvierzig]"
+			],
+			[
+				"456 - [vierhundertsechsundfünfzig]"
+			],
+			[
+				"1568 - [eintausendfünfhundertachtundsechzig]"
+			],
+			[
+				"1671 - [eintausendsechshunderteinundsiebzig]"
+			],
+			[
+				"1789 - [eintausendsiebenhundertneunundachtzig]"
+			],
+			[
+				"1812 - [eintausendachthundertzwölf]"
+			],
+			[
+				"2341 - [zweitausenddreihunderteinundvierzig]"
+			],
+			[
+				"3506 - [dreitausendfünfhundertsechs]"
+			],
+			[
+				"20 - [zwanzig]"
+			],
+			[
+				"21 - [einundzwanzig]"
+			],
+			[
+				"22 - [zweiundzwanzig]"
+			],
+			[
+				"23 - [dreiundzwanzig]"
+			],
+			[
+				"24 - [vierundzwanzig]"
+			],
+			[
+				"25 - [fünfundzwanzig]"
+			],
+			[
+				"26 - [sechsundzwanzig]"
+			],
+			[
+				"27 - [siebenundzwanzig]"
+			],
+			[
+				"28 - [achtundzwanzig]"
+			],
+			[
+				"29 - [neunundzwanzig]"
+			],
+			[
+				"30 - [dreißig]"
+			],
+			[
+				"31 - [einunddreißig]"
+			],
+			[
+				"32 - [zweiunddreißig]"
+			],
+			[
+				"33 - [dreiunddreißig]"
+			],
+			[
+				"34 - [vierunddreißig]"
+			],
+			[
+				"35 - [fünfunddreißig]"
+			],
+			[
+				"40 - [vierzig]"
+			],
+			[
+				"41 - [einundvierzig]"
+			],
+			[
+				"42 - [zweiundvierzig]"
+			],
+			[
+				"43 - [dreiundvierzig]"
+			],
+			[
+				"44 - [vierundvierzig]"
+			],
+			[
+				"45 - [fünfundvierzig]"
+			],
+			[
+				"50 - [fünfzig]"
+			],
+			[
+				"51 - [einundfünfzig]"
+			],
+			[
+				"52 - [zweiundfünfzig]"
+			],
+			[
+				"53 - [dreiundfünfzig]"
+			],
+			[
+				"54 - [vierundfünfzig]"
+			],
+			[
+				"55 - [fünfundfünfzig]"
+			],
+			[
+				"60 - [sechzig]"
+			],
+			[
+				"70 - [siebzig]"
+			],
+			[
+				"80 - [achtzig]"
+			],
+			[
+				"90 - [neunzig]"
+			],
+			[
+				"100 - [hundert|einhundert]"
+			],
+			[
+				"114 - [einhundertvierzehn|hundertvierzehn]"
+			],
+			[
+				"125 - [einhundertfünfundzwanzig|hundertfünfundzwanzig]"
+			],
+			[
+				"238 - [zweihundertachtunddreißig]"
+			],
+			[
+				"341 - [dreihunderteinundvierzig]"
+			],
+			[
+				"456 - [vierhundertsechsundfünfzig]"
+			],
+			[
+				"657 - [sechshundertsiebenundfünfzig]"
+			],
+			[
+				"819 - [achthundertneunzehn]"
+			],
+			[
+				"745 - [siebenhundertfünfundvierzig]"
+			],
+			[
+				"133 - [einhundertdreiunddreißig|hundertdreiunddreißig]"
+			],
+			[
+				"257 - [zweihundertsiebenundfünfzig]"
+			],
+			[
+				"389 - [dreihundertneunundachtzig]"
+			],
+			[
+				"1048 - [eintausendachtundvierzig]"
+			],
+			[
+				"1568 - [eintausendfünfhundertachtundsechzig]"
+			],
+			[
+				"7671 - [siebentausendsechshunderteinundsiebzig]"
+			],
+			[
+				"1789 - [eintausendsiebenhundertneunundachtzig]"
+			],
+			[
+				"1812 - [eintausendachthundertzwölf]"
+			],
+			[
+				"2341 - [zweitausenddreihunderteinundvierzig]"
+			],
+			[
+				"3506 - [dreitausendfünfhundertsechs]"
+			],
+			[
+				"4357 - [viertausenddreihundertsiebenundfünfzig]"
+			],
+			[
+				"5498 - [fünftausendvierhundertachtundneundzig]"
+			],
+			[
+				"4562 - [viertausendfünfhundertzweiundsechzig]"
 			]
 		]
 	},
