@@ -7847,6 +7847,17 @@
   },
   {
     "type": "noun",
+    "base": "Himbeere",
+    "article": "die",
+    "translate": "малина",
+    "context": [],
+    "originals": [
+      "die Himbeere, -n"
+    ],
+    "id": "8961685b869ca424772b93d6f00d3fcd"
+  },
+  {
+    "type": "noun",
     "base": "Himmel",
     "article": "der",
     "translate": "небо; небеса; небосвод",
@@ -13393,6 +13404,17 @@
       "das Pferd"
     ],
     "id": "c93cb6fa009fceb8619a3dd30d487a3a"
+  },
+  {
+    "type": "noun",
+    "base": "Pfirsich",
+    "article": "der",
+    "translate": "персик",
+    "context": [],
+    "originals": [
+      "der Pfirsich"
+    ],
+    "id": "47df6f8c98ffb1bad4f9481dd88b9864"
   },
   {
     "type": "noun",

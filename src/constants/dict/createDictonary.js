@@ -28,6 +28,9 @@ const listDeutschA2Schritte = require("./in_data/other/a1/case1/deutsch-a2-schri
 const listDeutschB1Schritte = require("./in_data/other/a1/case1/deutsch-b1-schritte.json");
 
 const verbsIrregular = require("./in_data/other/verbs/irregular.json");
+
+const nouns = require("./in_data/other/noun.json");
+
 const themeMobel = require("./in_data/other/themes/mobel.json");
 const themeEssenUndTrinken = require("./in_data/other/themes/Essen-und-Trinken.json");
 const themeGemuse = require("./in_data/other/themes/Gemuse.json");
@@ -393,6 +396,7 @@ irregularVerbs2.forEach((data) => {
 groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
 
 [
+  ...nouns,
   ...listA1,
   ...listA11L1,
   ...listA11L2,
