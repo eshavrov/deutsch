@@ -208,6 +208,14 @@ const Item = (props) => {
       >
         Проверить
       </Button>
+      {isError && (
+        <>
+          {chunks
+            .filter(({ correct }) => correct?.length > 0)
+            .map((data) => data?.correct[0])
+            .join(", ")}
+        </>
+      )}
     </div>
   );
 };

@@ -722,8 +722,302 @@
 		]
 	},
 	{
+		"title": "Sätze übersetzen",
+		"type": "write",
+		"list": [
+			[
+				"Я хороший. - [Ich bin gut]."
+			],
+			[
+				"Ты умный. - [Du bist klug]."
+			],
+			[
+				"Он старый. - [Er ist alt]."
+			],
+			[
+				"Она красивая. - [Sie ist schön]."
+			],
+			[
+				"Оно большое. - [Es ist groß]."
+			],
+			[
+				"Мы молодые. - [Wir sind jung]."
+			],
+			[
+				"Вы (Ihr) веселые. - [Ihr seid lustig]."
+			],
+			[
+				"Они глупые. - [Sie sind dumm]."
+			],
+			[
+				"Ты далеко. - [Du bist weit]."
+			],
+			[
+				"Она близко. - [Sie ist nah]."
+			],
+			[
+				"Он высокий. - [Er ist hoch]."
+			],
+			[
+				"Мы умные. - [Wir sind klug]."
+			],
+			[
+				"Вы (Sie) старые. = [Sie sind alt]."
+			],
+			[
+				"Я веселый. - [Ich bin lustig]."
+			],
+			[
+				"Ты высокий. - [Du bist hoch|Du bist groß]."
+			],
+			[
+				"Мы близко. - [Wir sind nah]."
+			],
+			[
+				"Ты веселый. - [Du bist lustig]."
+			],
+			[
+				"Она далеко. - [Sie ist weit]."
+			],
+			[
+				"Он скучный. - [Er ist langweilig]."
+			],
+			[
+				"Они старые. - [Sie sind alt]."
+			],
+			[
+				"Вы (Ihr) молодые. - [Ihr seid jung]."
+			],
+			[
+				"Ты большой. - [Du bist groß]."
+			],
+			[
+				"Я маленький. - [Ich bin klein]."
+			],
+			[
+				"Мы большие. - [Wir sind groß]."
+			],
+			[
+				"Я умный. - [Ich bin klug]."
+			],
+			[
+				"Ты низкий. - [Du bist niedrig]."
+			]
+		]
+	},
+	{
+		"title": "Sätze übersetzen. Vor Substantiven setzen wir den bestimmten Artikel (der, die, das)",
+		"type": "write",
+		"list": [
+			[
+				"Машина плохая. - [Das Auto ist schlecht]."
+			],
+			[
+				"Дом большой. - [Das Haus ist groß]."
+			],
+			[
+				"Квартира хорошая. - [Die Wohnung ist gut]."
+			],
+			[
+				"Комната маленькая. - [Das Zimmer ist klein]."
+			],
+			[
+				"Мужчина молодой. - [Der Mann ist jung]."
+			],
+			[
+				"Дом новый. - [Das Haus ist neu]."
+			],
+			[
+				"Бабушка старая. - [Die Oma ist alt]."
+			],
+			[
+				"Собака умная. - [Der Hund ist klug]."
+			],
+			[
+				"Кошка глупая. - [Die Katze ist dumm]."
+			],
+			[
+				"Мальчик веселый. - [Der Junge ist lustig]."
+			],
+			[
+				"Девочка грустная. - [Das Mädchen ist traurig]."
+			],
+			[
+				"Кошка толстая. - [Die Katze ist dick|Die Katze ist fett]."
+			],
+			[
+				"Собака худая. - [Der Hund ist dünn]."
+			],
+			[
+				"Мама красивая. - [Die Mutter ist schön]."
+			],
+			[
+				"Ребенок красивый. - [Das Kind ist schön]."
+			],
+			[
+				"Дом высокий. - [Das Haus ist hoch]."
+			],
+			[
+				"Мальчик низкий. - [Der Junge ist niedrig]."
+			],
+			[
+				"Дом близко. - [Das Haus ist nah]."
+			],
+			[
+				"Машина далеко. - [Das Auto ist weit]."
+			],
+			[
+				"Машина быстрая. - [Das Auto ist schnell]."
+			],
+			[
+				"Автобус медленный. - [Der Bus ist langsam]."
+			],
+			[
+				"Книга интересная. - [Das Buch ist interessant]."
+			],
+			[
+				"Фильм скучный. - [Der Film ist langweilig]."
+			],
+			[
+				"Машина тяжелая. - [Das Auto ist schwer]."
+			],
+			[
+				"Велосипед медленный. - [Das Fahrrad ist langsam]."
+			],
+			[
+				"Книга легкая. - [Das Buch ist leicht]."
+			],
+			[
+				"Комната большая. - [Das Zimmer ist groß]."
+			],
+			[
+				"Корабль быстрый. - [Das Schiff ist schnell]."
+			],
+			[
+				"Брат умный. - [Der Bruder ist klug]."
+			],
+			[
+				"Сестра веселая. - [Die Schwester ist lustig]."
+			]
+		]
+	},
+	{
+		"title": "Перевести предложения. Перед существительными ставим неопределенный артикль (ein, eine).",
+		"type": "write",
+		"list": [
+			[
+				"У меня есть сестра. - [Ich habe eine Schwester]."
+			],
+			[
+				"У тебя есть кошка. - [Du hast eine Katze]."
+			],
+			[
+				"У него есть машина. - [Er hat ein Auto]."
+			],
+			[
+				"У нее есть велосипед. - [Sie hat ein Fahrrad]."
+			],
+			[
+				"У нас есть дом. - [Wir haben ein Haus]."
+			],
+			[
+				"У Вас (Sie) есть машина. - [Sie haben ein Auto]."
+			],
+			[
+				"У вас (Ihr) есть ребенок. - [Ihr habt ein Kind]."
+			],
+			[
+				"У него есть комната. - [Er hat ein Zimmer]."
+			],
+			[
+				"У нее есть кошка. - [Sie hat eine Katze]."
+			],
+			[
+				"У меня есть книга. - [Ich habe ein Buch]."
+			],
+			[
+				"У тебя есть жена. - [Du hast eine Frau]."
+			],
+			[
+				"У нас есть корабль. - [Wir haben ein Schiff]."
+			],
+			[
+				"У них есть комната. - [Sie haben ein Zimmer]."
+			],
+			[
+				"У Вас (Sie) есть кошка. - [Sie haben eine Katze]."
+			],
+			[
+				"У тебя есть сестра. - [Du hast eine Schwester]."
+			],
+			[
+				"У них есть машина. - [Sie haben ein Auto]."
+			],
+			[
+				"У тебя есть бабушка. - [Du hast eine Oma]."
+			],
+			[
+				"У него есть квартира. - [Er hat eine Wohnung]."
+			],
+			[
+				"У нее есть дом. - [Sie hat ein Haus]."
+			],
+			[
+				"У тебя есть квартира. - [Du hast eine Wohnung]."
+			]
+		]
+	},
+	{
+		"title": "Следим за подходящим местоимением – может не совпадать с русским языком (die Katze – sie, das Auto – es, Das Kind – es).",
+		"type": "write",
+		"list": [
+			[
+				"У нас есть машина. Она новая. - [Wir haben ein Auto. Es ist neu]."
+			],
+			[
+				"У меня есть кошка. Она красивая. - [Ich habe eine Katze. Sie ist schön]."
+			],
+			[
+				"У тебя есть корабль. Он большой. - [Du hast ein Schiff. Es ist groß]."
+			],
+			[
+				"У вас (Ihr) есть бабушка. Она старая. - [Ihr habt eine Oma. Sie ist alt]."
+			],
+			[
+				"У него есть ребенок. Он маленький. - [Er hat ein Kind. Es ist klein]."
+			],
+			[
+				"У меня есть сестра. Она веселая. - [Ich habe eine Schwester. Sie ist lustig]."
+			],
+			[
+				"У нее есть корабль. Он медленный. - [Sie hat ein Schiff. Es ist langsam]."
+			],
+			[
+				"У нас есть квартира. Она большая. - [Wir haben eine Wohnung. Sie ist groß]."
+			],
+			[
+				"У меня есть дом. Он красивый. - [Ich habe ein Haus. Es ist schön]."
+			],
+			[
+				"У тебя есть комната. Она большая. - [Du hast ein Zimmer. Es ist groß]."
+			],
+			[
+				"У меня есть книга. Она интересная. - [Ich habe ein Buch. Es ist interessant]."
+			],
+			[
+				"У него есть велосипед. Он маленький. - [Er hat ein Rad. Es ist klein]."
+			],
+			[
+				"У них есть сестра. Она молодая. - [Sie haben eine Schwester. Sie ist jung]."
+			]
+		]
+	},
+	{
 		"title": "",
 		"list": [
+			[
+				""
+			],
 			[
 				""
 			],
@@ -747,6 +1041,191 @@
 	{
 		"title": "",
 		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
 			[
 				""
 			],
