@@ -968,7 +968,7 @@
 		]
 	},
 	{
-		"title": "Следим за подходящим местоимением – может не совпадать с русским языком (die Katze – sie, das Auto – es, Das Kind – es).",
+		"title": "Следим за подходящим местоимением - может не совпадать с русским языком (die Katze - sie, das Auto - es, Das Kind - es).",
 		"type": "write",
 		"list": [
 			[
@@ -1013,80 +1013,200 @@
 		]
 	},
 	{
-		"title": "",
+		"title": "Перевести, довести до автоматизма.",
+		"type": "write",
 		"list": [
 			[
-				""
+				"Я делаю - [Ich mache]."
 			],
 			[
-				""
+				"Ты играешь - [Du spielst]."
 			],
 			[
-				""
+				"Мы стоим. - [Wir stehen]."
 			],
 			[
-				""
+				"Вы (Sie) лежите - [Sie liegen]."
 			],
 			[
-				""
+				"Он идет - [Er geht]."
 			],
 			[
-				""
+				"Она сидит - [Sie sitzt]."
 			],
 			[
-				""
+				"Мы танцуем - [Wir tanzen]."
+			],
+			[
+				"Вы (Ihr) слышите - [Ihr hört]."
+			],
+			[
+				"Вы (Sie) поете - [Sie singen]."
+			],
+			[
+				"Они пишут - [Sie schreiben]."
+			],
+			[
+				"Я пью - [Ich trinke]."
+			],
+			[
+				"Ты заказываешь - [Du bestellst]."
+			],
+			[
+				"Он покупает - [Er kauft]."
+			],
+			[
+				"Она продает - [Sie verkauft]."
+			],
+			[
+				"Вы (Ihr) спрашиваете - [Ihr fragt]."
+			],
+			[
+				"Мы отвечаем - [Wir antworten]."
+			],
+			[
+				"Я играю - [Ich spiele]."
+			],
+			[
+				"Мы делаем - [Wir machen]."
+			],
+			[
+				"Ты стоишь - [Du stehst]."
+			],
+			[
+				"Они лежат - [Sie liegen]."
 			]
 		]
 	},
 	{
-		"title": "",
+		"title": "Перевести, довести до автоматизма.",
+		"type": "write",
 		"list": [
 			[
-				""
+				"Он танцует хорошо - [Er tanzt gut]."
 			],
 			[
-				""
+				"Вы (Sie) сидите далеко. - [Sie sitzen weit]."
 			],
 			[
-				""
+				"Она поет громко. - [Sie singt laut]."
 			],
 			[
-				""
+				"Вы (Sie) идете быстро. - [Sie gehen schnell]."
 			],
 			[
-				""
+				"Вы (Ihr) продаете хорошо. - [Ihr verkauft gut]."
 			],
 			[
-				""
+				"Они покупают машину. - [Sie kaufen das Auto]."
 			],
 			[
-				""
+				"Я пишу красиво. - [Ich schreibe schön]."
+			],
+			[
+				"Ты заказываешь книгу. - [Du bestellst das Buch]."
+			],
+			[
+				"Вы (Ihr) спрашиваете тихо. - [Ihr fragt leise]."
+			],
+			[
+				"Они отвечают громко. - [Sie antworten laut]."
+			],
+			[
+				"Ты получаешь много. - [Du bekommst viel]."
+			],
+			[
+				"Он получает мало. - [Er bekommt wenig]."
+			],
+			[
+				"Мы покупаем дешево. - [Wir kaufen billig]."
+			],
+			[
+				"Они продают дорого. - [Sie verkaufen teuer]."
+			],
+			[
+				"Вы (Ihr) играете хорошо. - [Ihr spielt gut]."
+			],
+			[
+				"Я пою громко. - [Ich singe laut]."
+			],
+			[
+				"Ты поешь тихо. - [Du singst leise]."
+			],
+			[
+				"Она отвечает быстро. - [Sie antwortet schnell]."
+			],
+			[
+				"Я играю хорошо. - [Ich spiele gut]."
+			],
+			[
+				"Мы много танцуем. - [Wir tanzen viel]."
 			]
 		]
 	},
 	{
-		"title": "",
+		"title": "Перевести, довести до автоматизма. Используем определенные артикли. Везде окончание третьего лица –t.",
+		"type": "write",
 		"list": [
 			[
-				""
+				"Папа пишет быстро - [Der Vater schreibt schnell]."
 			],
 			[
-				""
+				"Мама поет красиво - [Die Mutter singt schön]."
 			],
 			[
-				""
+				"Брат играет хорошо - [Der Bruder spielt gut]."
 			],
 			[
-				""
+				"Сестра танцует хорошо - [Die Schwester tanzt gut]."
 			],
 			[
-				""
+				"Бабушка лежит - [Die Oma liegt]."
 			],
 			[
-				""
+				"Дедушка сидит - [Der Opa sitzt]."
 			],
 			[
-				""
+				"Мужчина продает дорого - [Der Mann verkauft teuer]."
+			],
+			[
+				"Женщина покупает дешево - [Die Frau kauft billig]."
+			],
+			[
+				"Мальчик поет громко - [Der Junge singt laut]."
+			],
+			[
+				"Девочка танцует плохо - [Das Mädchen tanzt schlecht]."
+			],
+			[
+				"Кошка лежит - [Die Katze liegt]."
+			],
+			[
+				"Собака играет - [Der Hund spielt]."
+			],
+			[
+				"Мама заказывает книгу - [Die Mutter bestellt ein Buch]."
+			],
+			[
+				"Папа покупает машину - [Der Vater kauft ein Auto]."
+			],
+			[
+				"Дедушка спрашивает громко - [Der Opa fragt laut]."
+			],
+			[
+				"Бабушка отвечает тихо - [Die Oma antwortet leise]."
+			],
+			[
+				"Брат пишет медленно - [Der Bruder schreibt langsam]."
+			],
+			[
+				"Сестра слышит - [Die Schwester hört]."
+			],
+			[
+				"Собака пьет много - [Der Hund trinkt viel]."
+			],
+			[
+				"Кошка прыгает высоко - [Die Katze springt hoch]."
 			]
 		]
 	},
