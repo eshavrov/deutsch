@@ -1,0 +1,550 @@
+[
+	{
+		"title": "Wer, wie oder woher? Was passt? Ergänzen Sie.",
+		"type": "write",
+		"list": [
+			[
+				"[Wer] bist du?"
+			],
+			[
+				"[Wie] geht es dir?"
+			],
+			[
+				"[Woher] kommst du"
+			],
+			[
+				"[Wie] heißt du?"
+			],
+			[
+				"Und [wer] ist das?"
+			],
+			[
+				"[Wie] bitte?"
+			]
+		]
+	},
+	{
+		"title": "Was passt zusammen? Ordnen Sie zu.",
+		"type": "pair",
+		"list": [
+			[
+				"Vorname",
+				"Familienname"
+			],
+			[
+				"Hallo",
+				"Tschüs"
+			],
+			[
+				"Frau",
+				"Herr"
+			],
+			[
+				"Guten Morgen",
+				"Guten Abend"
+			],
+			[
+				"Alphabet",
+				"buchstabieren"
+			],
+			[
+				"ja",
+				"nein"
+			],
+			[
+				"Deutschland",
+				"Österreich"
+			]
+		]
+	},
+	{
+		"title": "Was passt? Ergänzen Sie.",
+		"type": "drag",
+		"list": [
+			[
+				"Und wer [bist] du?"
+			],
+			[
+				"Mein Name [ist] Gosia, Gosia Kowalczyk."
+			],
+			[
+				"Und woher [kommst] du, Gosia?"
+			],
+			[
+				"Aus Polen. Und wie [heißt] du?"
+			],
+			[
+				"Ich [heiße] Simon Hägi."
+			],
+			[
+				"Und du [kommst] aus Österreich."
+			],
+			[
+				"Nein, ich [komme] aus der Schweiz."
+			]
+		]
+	},
+	{
+		"title": "Schreiben Sie Sätze.",
+		"type": "make-up",
+		"list": [
+			[
+				"[Wie] [heißen] [Sie]?"
+			],
+			[
+				"[Ich] [bin] [Béatrice Collet]."
+			],
+			[
+				"[Woher] [kommen] [Sie]?"
+			],
+			[
+				"[Ich] [komme] [aus] [Frankreich]."
+			],
+			[
+				"[Und] [wie] [geht] [es] [Ihnen]?"
+			]
+		]
+	},
+	{
+		"title": "Lesen Sie die beiden Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: richtig oder falsch.",
+		"type": "yes/no",
+		"content": [
+			"Guten Tag, ich heiße Topalidou. Mein Vorname ist Ioanna. Ich komme aus Griechenland.",
+			"Hallo, ich bin Severin. Mein Familienname ist Kuhn. Ich komme aus Deutschland."
+		],
+		"list": [
+			[
+				"Sie heißt Ioanna.",
+				true
+			],
+			[
+				"Sie kommt aus Greichenland.",
+				true
+			],
+			[
+				"Der Vorname ist Topalidou.",
+				false
+			],
+			[
+				"Er heißt Severin Kuhn.",
+				true
+			],
+			[
+				"Er kommt auch aus Griechenland.",
+				false
+			]
+		]
+	},
+	{
+		"title": "Ergänzen Sie die Fragen.",
+		"type": "write",
+		"list": [
+			[
+				"[Wie heißt du]?; Ich heiße Sophie. Und du?"
+			],
+			[
+				"[Woher kommst du]?; Ich komme aus Frankreich. Und du?"
+			],
+			[
+				"[Wie heißen Sie]?; Ich heiße Sand, Martin Sand. Und Sie?"
+			],
+			[
+				"[Wie geht es Ihnen|Wie geht's]?; Gut, danke! Und Ihnen?"
+			]
+		]
+	},
+	{
+		"title": "Ordnen Sie und schreiben Sie zwei Gespräche.",
+		"type": "snake",
+		"list": [
+			[
+				"[Woher kommen Sie]?; [Aus Spanien]."
+			],
+			[
+				"[Wie geht es dir]?; - [Nicht so gut]."
+			]
+		]
+	},
+	{
+		"title": "Wie heißen die Berufe?",
+		"type": "confusion-of-words",
+		"list": [
+			[
+				"Lehrerin"
+			],
+			[
+				"Ingenieur"
+			],
+			[
+				"Journalistin"
+			],
+			[
+				"Mechatroniker"
+			],
+			[
+				"Ärztin"
+			],
+			[
+				"Friseur"
+			]
+		]
+	},
+	{
+		"title": "Ergänzen Sie die Verben in der richtigen Form.",
+		"type": "write",
+		"list": [
+			[
+				"Was [macht] (machen) ihr beruflich?"
+			],
+			[
+				"Ich [bin] (sein) Schauspielerin und Martin [ist] (sein) Architekt. Und du?"
+			],
+			[
+				"Ich [habe] (haben) einen Job als Kellnerin."
+			],
+			[
+				"Und wo [arbeitest] (arbeiten) du?"
+			],
+			[
+				"Im Café Rose in Dresden. Wo [lebt] (leben) ihr?"
+			],
+			[
+				"Wir [wohnen] (wohnen) in Leipzig."
+			]
+		]
+	},
+	{
+		"title": "Was ist richtig? Kreuzen Sie an.",
+		"type": "variants",
+		"list": [
+			[
+				"Ich glaube, sie kommt [aus|^in|^bei] Italien."
+			],
+			[
+				"Sie lebt nicht [in|^aus|^als] Stuttgart."
+			],
+			[
+				"Sie wohnt [in|^als|^aus] Marbach."
+			],
+			[
+				"Sie arbeitet nicht [als|^bei|^in] Krankenschwester."
+			],
+			[
+				"Sie arbeitet [bei|^als|^in] Superspar."
+			]
+		]
+	},
+	{
+		"title": "Lesen Sie den Text und ergänzen Sie dann den Steckbrief.",
+		"content": [
+			"Mein Name ist Natalia Kalinowska und ich bin 32 Jahre alt.; Ich komme aus Polen. Ich arbeite als Krankenschwester in Österreich.; Ich lebe jetzt schon vier Jahre in Granz. Ich bin geschieden, aber ich lebe nicht allein. Ich habe einen Partner. Er heißt Karl. Wir wohnen zusammen.; Ich habe zwei Kinder. Sie heißen Adrian und Kamila. Adrian ist sieben, Kamila ist fünf. Karl hat keine Kinder.;; **Steckbrief**"
+		],
+		"type": "write",
+		"list": [
+			[
+				"Vorname: [Natalia]"
+			],
+			[
+				"Familienname: [Kalinowska]"
+			],
+			[
+				"Herkunft: [Polen]"
+			],
+			[
+				"Wohnort: [Granz]"
+			],
+			[
+				"Alter: [32]"
+			],
+			[
+				"Beruf: [Krankenschwester]"
+			],
+			[
+				"Familienstand: [geschieden]"
+			],
+			[
+				"Kinder: [2|zwei]"
+			]
+		]
+	},
+	{
+		"title": "Welche Antwort passt? Ordnen Sie zu.",
+		"type": "pair",
+		"list": [
+			[
+				"Wo wohnst du?",
+				"Ich lebe in Bonn."
+			],
+			[
+				"Wo arbeitet ihr?",
+				"Wir arbeiten in Köln bei BigMedia."
+			],
+			[
+				"Und wie alt bist du?",
+				"Ich bin 28 Jahre alt."
+			],
+			[
+				"Was machts du beruflich?",
+				"Ich arbeite als Journalist."
+			],
+			[
+				"Wie alt seid ihr?",
+				"Sie ist 20 und ich bin 21."
+			]
+		]
+	},
+	{
+		"title": "Ergänzen Sie das Gespräch.",
+		"type": "write",
+		"list": [
+			[
+				"Und, w[as] b[ist] du v[on] Beruf?"
+			],
+			[
+				"Ich a[rbeite] a[ls] Architektin."
+			],
+			[
+				"Super."
+			],
+			[
+				"Und du? W[as] machst du b[eruflich]?"
+			],
+			[
+				"Ich m[ache] eine A[usbildung] als Verkäufer bei Superspar."
+			],
+			[
+				"Oh! Wie a[lt] bist du denn?"
+			],
+			[
+				"Ich bin 23 J[ahre] alt. Und ich bin Single ..."
+			],
+			[
+				"Ich bin v[erheiratet] und habe drei K[inder]."
+			]
+		]
+	},
+	{
+		"title": "Familie. Ergänzen Sie.",
+		"type": "write",
+		"list": [
+			[
+				"Das sind meine Eltern: meine Mutter und mein [Vater]."
+			],
+			[
+				"Ich habe drei Geschwister: zwei Brüder und eine [Schwester]."
+			],
+			[
+				"Ich bin verheiratet. Das ist mein [Ehemann|Mann]."
+			],
+			[
+				"Wir haben vier Kinder: zwei [Töchter] und zwei Söhne."
+			],
+			[
+				"Das sind meine Großeltern: meine [Oma] und mein Opa."
+			],
+			[
+				"Und wie viele [Enkel] und Enkelinnen haben meine Großeltern?"
+			]
+		]
+	},
+	{
+		"title": "Was ist richtig? Kreuzen Sie an.",
+		"type": "variants",
+		"list": [
+			[
+				"Wie heißt [dein|^deine] Großvater?"
+			],
+			[
+				"Sind das [deine|^dein] Geschwister?"
+			],
+			[
+				"Was macht [deine|^dein] Schwester beruflich?"
+			],
+			[
+				"Wo wohnen [deine|^dein] Eltern?"
+			],
+			[
+				"Spricht [dein|^deine] Vater Deutsch?"
+			]
+		]
+	},
+	{
+		"title": "Schreiben Sie Fragen.",
+		"type": "make-up",
+		"list": [
+			[
+				"[Sind] [Sie] [verheiratet]?"
+			],
+			[
+				"[welche] [Sprachen] [sprechen] [Sie]?"
+			],
+			[
+				"[kommen] [Sie] [aus der Türkei]?"
+			],
+			[
+				"[wo] [leben] [Sie]?"
+			]
+		]
+	},
+	{
+		"title": "Ergänzen Sie sprechen in der richtigen Form.",
+		"type": "write",
+		"list": [
+			[
+				"Wie viele Sprachen [sprechen] Sie?"
+			],
+			[
+				"Zwei: Russisch und Deutsch."
+			],
+			[
+				"Oh! Du [sprichst] aber sher gut Deutsch!"
+			],
+			[
+				"Danke!"
+			],
+			[
+				"Deine Kinder [sprechen] auch Deutsch, oder?"
+			],
+			[
+				"Ja, Deutsch und Polisch."
+			],
+			[
+				"Welche Sprachen [spricht] dein Mann?"
+			],
+			[
+				"Deutsch und Englisch."
+			]
+		]
+	},
+	{
+		"title": "Lesen Sie die vier Texte und die Aufgaben 1 bis 8. Wer macht was? Kreuzen Sie an: Malina, Tom, Max oder Teresa.",
+		"content": [
+			"Ich heiße **Malina** und komme aus St. Peterburg. Ich habe drei Geschwister. Ich lebe in Deutschland. Ich bin verheiratet. Mein Mann heißt Peter. Wir heben keine Kinder. Ich spreche Russisch und Deutsch und ein bisschen Polnisch. Ich bin Verkäuferin von Beruf.",
+			"Mein Name ist **Tom**. Ich komme aus den USA. Ich wohne in New York. Aber zurzeit bin ich in Deutschland, in Berlin. Ich mache einen Deutschkurs. Meine Schwester wohnt in Berlin. Wir wohnen jetzt zusammen. Sie ist gescheden und hat ein Kind.",
+			"Ich bin **Max**. Ich bin 43 Jahre alt. Ich komme aus Passau und lebe jetzt in München. Ich bin Friseur. Mein Bruder und ich habe viele Freunde. Mein Bruder hat eine Familie: eine Frau und vier Kinder.",
+			"Meun Name ist **Teresa** und ich komme aus Griechenland. Ich lebe in Freiburg und arbeite als Krankenschwester. Ich spreche Griechisch, Deutsch und Englisch. Ich bin nicht verheiratet, aber ich habe einen Freund. Er kommt aus Deutschland. Er hat zwei Kinder und er arbeitet in Freiburg."
+		],
+		"type": "variants",
+		"list": [
+			[
+				"[Teresa|^Malina|^Tom|^Max] arbeitet als Krankenschwester."
+			],
+			[
+				"[Malina|^Teresa|^Tom|^Max] spricht Russisch, Deutsch und Polnisch."
+			],
+			[
+				"[Tom|^Teresa|^Malina|^Max] macht einen Deutschkurs in Berlin."
+			],
+			[
+				"[Max|^Teresa|^Malina|^Tom] kommt aus Deutschland."
+			],
+			[
+				"[Teresa|^Malina|^Tom|^Max] spricht Griechisch, Deutsch und Englisch."
+			],
+			[
+				"[Tom|^Teresa|^Malina|^Max] kommt aus den USA."
+			],
+			[
+				"[Malina|^Teresa|^Tom|^Max] ist verheiratet und hat keine Kinder."
+			],
+			[
+				"[Max|^Teresa|^Malina|^Tom] lebt allein in München."
+			]
+		]
+	},
+	{
+		"title": "Welche Antwort passt? Ordnen Sie zu.",
+		"type": "pair",
+		"list": [
+			[
+				"Hast du Geschwister?",
+				"Ja, ich habe Geschwister."
+			],
+			[
+				"Sprichst du Englisch?",
+				"Ja, ich spreche sehr gut Englisch."
+			],
+			[
+				"Welche Sprachen sprichst du?",
+				"Ich spreche Englisch und Deutsch."
+			],
+			[
+				"Ist Oskar dein Bruder?",
+				"Nein, er ist mein Freund."
+			],
+			[
+				"Wie viele Geschwister hast du?",
+				"Zwei, ich habe zwei Schwestern."
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	},
+	{
+		"title": "",
+		"list": [
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			],
+			[
+				""
+			]
+		]
+	}
+]
