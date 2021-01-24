@@ -51,7 +51,12 @@ const Footer: FC<Props> = ({ className, pages }) => {
                   <a className={s["list-item-link"]}>Тест на слух!</a>
                 </Link>
               </li>
-
+              <li className={s["list-item"]}>
+                <Link href="/trainer">
+                  <a className={s["list-item-link"]}>Проверка!</a>
+                </Link>
+              </li>
+              
               {sitePages.map((page) => (
                 <li key={page.url} className={s["list-item"]}>
                   <Link href={page.url!}>
