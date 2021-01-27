@@ -1,5 +1,6 @@
 import React from "react";
 import cn from "classnames";
+import ReactMarkdown from "react-markdown";
 
 import { LANGUAGE, LANGUAGE_REGION } from "constants/index";
 import { Logo, Button, Input, DropDown } from "components/ui";
@@ -298,7 +299,9 @@ const Trainer = (props) => {
       {isContent && (
         <section className={s.content}>
           {content.map((p, index) => (
-            <p key={`content-p-${index}`}>{p}</p>
+            <div key={`content-p-${index}`}>
+                <ReactMarkdown source={p} />
+            </div>
           ))}
         </section>
       )}
