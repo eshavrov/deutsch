@@ -392,11 +392,23 @@ const addAdjective = (dictonary, data, options = {}, afterCb) => {
   add(dictonary, data, { options, cb });
 };
 
-adjectives1.forEach((data) => {
-  addAdjective(dictonary, data);
+const addA1 = (dictonary, data, options = {}, afterCb) => {
+  const cb = (_entry) => {
+    const entry = afterCb ? afterCb(_entry) : _entry;
+
+    return { ...entry, level: "A-1" };
+  };
+
+  add(dictonary, data, { options, cb });
+};
+
+list.forEach((data) => {
+  addA1(dictonary, data);
 });
 
-[...list, ...words200, ...verbs].forEach((data) => add(dictonary, data));
+
+
+[...words200, ...verbs].forEach((data) => add(dictonary, data));
 predlogi.forEach((data) => add(dictonary, data));
 
 datumGroups.forEach((g) => g.forEach((data) => add(dictonary, data)));
@@ -454,6 +466,10 @@ verbsIrregular.forEach((data) => {
 [...themeMobel, ...themeEssenUndTrinken, ...themeGemuse].forEach(([p, t]) =>
   add(dictonary, [removeOptional(p), t])
 );
+
+adjectives1.forEach((data) => {
+  addAdjective(dictonary, data);
+});
 
 // ------------------------------
 

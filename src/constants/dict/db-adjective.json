@@ -6,10 +6,6 @@
     "translate": "старый; пожилой; древний; старинный",
     "context": [
       [
-        "Seine alten Eltern leben auf dem Lande.",
-        "Его старые родители живут в деревне."
-      ],
-      [
         "Wie alt sind Sie?",
         ""
       ],
@@ -28,8 +24,13 @@
       [
         "Köln ist eine alte Stadt.",
         ""
+      ],
+      [
+        "Seine alten Eltern leben auf dem Lande.",
+        "Его старые родители живут в деревне."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "alt"
     ],
@@ -74,14 +75,15 @@
     "translate": "известный; знакомый",
     "context": [
       [
-        "Ein bekannter Schriftsteller fuhr nach Amerika.",
-        "Известный писатель уехал в Америку."
-      ],
-      [
         "Picasso ist sehr bekannt.",
         ""
+      ],
+      [
+        "Ein bekannter Schriftsteller fuhr nach Amerika.",
+        "Известный писатель уехал в Америку."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "bekannt"
     ],
@@ -94,14 +96,15 @@
     "translate": "широкий; обширный; широко",
     "context": [
       [
-        "In den 1. Stock führte eine breite Treppe.",
-        "На второй этаж вела широкая лестница."
-      ],
-      [
         "Wie breit ist der Schrank?",
         ""
+      ],
+      [
+        "In den 1. Stock führte eine breite Treppe.",
+        "На второй этаж вела широкая лестница."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "breit"
     ],
@@ -207,12 +210,8 @@
     "type": "adjective",
     "base": "einfach",
     "article": null,
-    "translate": "простой; просто; обычный; обыкновенный; просто так; обыкновенно",
+    "translate": "просто; простой; обычный; обыкновенный; просто так; обыкновенно",
     "context": [
-      [
-        "Das ist eine einfache Frage.",
-        "Это совсем простой вопрос."
-      ],
       [
         "Die Prüfung ist ganz einfach.",
         ""
@@ -224,8 +223,13 @@
       [
         "Ich brauche nur ein einfaches Zimmer.",
         ""
+      ],
+      [
+        "Das ist eine einfache Frage.",
+        "Это совсем простой вопрос."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "einfach"
     ],
@@ -251,7 +255,7 @@
     "type": "adjective",
     "base": "eng",
     "article": null,
-    "translate": "узкий; тесный; тугой; плотный; тесно; плотно",
+    "translate": "тесный; тугой; плотный; тесно; плотно; узкий",
     "context": [
       [
         "Durch einen schmalen Korridor gingen wir ins Zimmer. - По узкому коридору мы прошли в комнату.",
@@ -267,7 +271,7 @@
     "type": "adjective",
     "base": "ernst",
     "article": null,
-    "translate": "серьезный; серьезно; всерьез",
+    "translate": "серьезно; всерьез; серьезный",
     "context": [
       [
         "Der neue Kollege ist ein sehr ernster Mensch.",
@@ -302,18 +306,19 @@
     "translate": "готовый; готово; готов; умело; искусно",
     "context": [
       [
-        "Das Mittagessen ist schon fertig, setzt euch an den Tisch.",
-        "Обед уже готовый, садитесь за столом."
-      ],
-      [
         "Bist du fertig?",
         ""
       ],
       [
         "Ist mein Auto schon fertig?",
         ""
+      ],
+      [
+        "Das Mittagessen ist schon fertig, setzt euch an den Tisch.",
+        "Обед уже готовый, садитесь за столом."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "fertig"
     ],
@@ -422,13 +427,14 @@
     "translate": "счастливый; удачный; удачливый; счастливо",
     "context": [
       [
-        "Arbeit macht mich glücklich.",
-        "Работа делает меня счастливой."
+        "Meine Kinder sind glücklich verheiratet."
       ],
       [
-        "Meine Kinder sind glücklich verheiratet."
+        "Arbeit macht mich glücklich.",
+        "Работа делает меня счастливой."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "glücklich"
     ],
@@ -441,16 +447,17 @@
     "translate": "большой; крупный; высокий; крупно",
     "context": [
       [
-        "Unsere Familie bewohnt ein großes Haus.",
-        "Наша семья живет в большом доме."
-      ],
-      [
         "Mein Bruder und ich sind gleich groß."
       ],
       [
         "Frankfurt ist eine große Stadt."
+      ],
+      [
+        "Unsere Familie bewohnt ein großes Haus.",
+        "Наша семья живет в большом доме."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "groß"
     ],
@@ -476,12 +483,8 @@
     "type": "adjective",
     "base": "gut",
     "article": null,
-    "translate": "хороший; хорошо; добрый",
+    "translate": "хорошо; хороший; добрый",
     "context": [
-      [
-        "Trotz des Alters hat er ein gutes Gedächtnis.",
-        "Несмотря на возраст, у него хорошая память."
-      ],
       [
         "Das finde ich gut."
       ],
@@ -496,8 +499,13 @@
       ],
       [
         "Guten Appetit!"
+      ],
+      [
+        "Trotz des Alters hat er ein gutes Gedächtnis.",
+        "Несмотря на возраст, у него хорошая память."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "gut"
     ],
@@ -507,7 +515,7 @@
     "type": "adjective",
     "base": "hart",
     "article": null,
-    "translate": "твердый; трудный; тяжелый; жесткий; трудно; упорно; сурово",
+    "translate": "трудный; тяжелый; жесткий; твердый; трудно; упорно; сурово",
     "context": [
       [
         "Die Erde war hart wie Stein.",
@@ -523,7 +531,7 @@
     "type": "adjective",
     "base": "heiß",
     "article": null,
-    "translate": "горячий; жарко; жаркий; страстный; горячо",
+    "translate": "жарко; горячий; жаркий; страстный; горячо",
     "context": [
       [
         "Warum trinkst du den Kaffee nicht? - Er ist noch heiß.",
@@ -542,13 +550,14 @@
     "translate": "светлый; ясный; яркий; светло",
     "context": [
       [
-        "Ihre Tochter hat langes helles Haar.",
-        "У ее дочери длинные светлые волосы."
+        "Im Sommer ist es bis 21 Uhr hell."
       ],
       [
-        "Im Sommer ist es bis 21 Uhr hell."
+        "Ihre Tochter hat langes helles Haar.",
+        "У ее дочери длинные светлые волосы."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "hell"
     ],
@@ -561,13 +570,14 @@
     "translate": "высокий; высоко; рослый; благородный; почетный; вверх",
     "context": [
       [
-        "Ein hoch gewachsener Sportler betrat die Turnhalle.",
-        "В спортзал вошел высокий спортсмен."
+        "Der Mount Everest ist 8.880 Meter hoch."
       ],
       [
-        "Der Mount Everest ist 8.880 Meter hoch."
+        "Ein hoch gewachsener Sportler betrat die Turnhalle.",
+        "В спортзал вошел высокий спортсмен."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "hoch"
     ],
@@ -612,14 +622,15 @@
     "translate": "молодой; юный; молоденький",
     "context": [
       [
-        "Als junges Mädchen begann sie hier zu arbeiten.",
-        "Она начала здесь работать еще молодой девушкой."
-      ],
-      [
         "Claudia ist 21. – Was? Noch so jung?",
         ""
+      ],
+      [
+        "Als junges Mädchen begann sie hier zu arbeiten.",
+        "Она начала здесь работать еще молодой девушкой."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "jung"
     ],
@@ -629,7 +640,7 @@
     "type": "adjective",
     "base": "kalt",
     "article": null,
-    "translate": "холодный; холодно",
+    "translate": "холодно; холодный",
     "context": [
       [
         "Im Februar weht der kalte Nordwind.",
@@ -648,13 +659,14 @@
     "translate": "маленький; малый; небольшой; мелкий",
     "context": [
       [
-        "Aus den kleinen Äpfel habe ich Kompott gekocht.",
-        "Из мелких яблок я сварила компот."
+        "Eltville ist eine kleine Stadt am Rhein."
       ],
       [
-        "Eltville ist eine kleine Stadt am Rhein."
+        "Aus den kleinen Äpfel habe ich Kompott gekocht.",
+        "Из мелких яблок я сварила компот."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "klein"
     ],
@@ -664,7 +676,7 @@
     "type": "adjective",
     "base": "klug",
     "article": null,
-    "translate": "умный; мудрый; разумный; смышленый; толковый; умно; обдуманно",
+    "translate": "мудрый; умный; разумный; смышленый; толковый; умно; обдуманно",
     "context": [
       [
         "Die Studentin ist ziemlich klug.",
@@ -680,16 +692,17 @@
     "type": "adjective",
     "base": "krank",
     "article": null,
-    "translate": "больной; нездоровый; немощный",
+    "translate": "нездоровый; больной; немощный",
     "context": [
+      [
+        "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett."
+      ],
       [
         "Der kranke Junge weiß, dass seine Krankheit sehr gefährlich ist.",
         "Больной мальчик знает, что его болезнь очень опасная."
-      ],
-      [
-        "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "krank"
     ],
@@ -702,13 +715,14 @@
     "translate": "короткий; коротко",
     "context": [
       [
-        "Ich las den kurzen Brief von meinem Bruder schnell durch.",
-        "Я быстро прочитала короткое письмо брата."
+        "Ricardo hat kurzes Haar."
       ],
       [
-        "Ricardo hat kurzes Haar."
+        "Ich las den kurzen Brief von meinem Bruder schnell durch.",
+        "Я быстро прочитала короткое письмо брата."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "kurz"
     ],
@@ -721,13 +735,14 @@
     "translate": "длинный; долгий; высокий; длительный; вдоль",
     "context": [
       [
-        "Sie hatte eine langärmlige Bluse an.",
-        "На ней была блузки с длинным рукавом."
+        "Die Jeans ist zu lang."
       ],
       [
-        "Die Jeans ist zu lang."
+        "Sie hatte eine langärmlige Bluse an.",
+        "На ней была блузки с длинным рукавом."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "lang"
     ],
@@ -737,16 +752,17 @@
     "type": "adjective",
     "base": "langsam",
     "article": null,
-    "translate": "медленный; медленно; потихоньку; постепенно; неповоротливый",
+    "translate": "медленно; медленный; потихоньку; постепенно; неповоротливый",
     "context": [
+      [
+        "Könnten Sie bitte etwas langsamer sprechen?"
+      ],
       [
         "Das war ein sehr langsamer Zug.",
         "Это был очень медленный поезд."
-      ],
-      [
-        "Könnten Sie bitte etwas langsamer sprechen?"
       ]
     ],
+    "level": "A-1",
     "originals": [
       "langsam"
     ],
@@ -772,16 +788,17 @@
     "type": "adjective",
     "base": "laut",
     "article": null,
-    "translate": "громкий; громко; вслух; шумный; звучный; шумно; во всеуслышание",
+    "translate": "громко; громкий; вслух; шумный; звучный; шумно; во всеуслышание",
     "context": [
+      [
+        "Nicht so laut! Das Baby schläft."
+      ],
       [
         "Laute Musik stört mich beim Lesen.",
         "Громкая музыка мешает мне читать."
-      ],
-      [
-        "Nicht so laut! Das Baby schläft."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "laut"
     ],
@@ -826,16 +843,17 @@
     "translate": "легкий; легко; слабый; простой; нетрудный; просто; свободно; слегка",
     "context": [
       [
-        "Was für einen leichten Koffer du hast!",
-        "Какой у тебя легкий чемодан!"
-      ],
-      [
         "Der Koffer ist leicht."
       ],
       [
         "Deutsch ist nicht leicht."
+      ],
+      [
+        "Was für einen leichten Koffer du hast!",
+        "Какой у тебя легкий чемодан!"
       ]
     ],
+    "level": "A-1",
     "originals": [
       "leicht"
     ],
@@ -861,16 +879,17 @@
     "type": "adjective",
     "base": "lieber",
     "article": null,
-    "translate": "дорогой; охотнее; лучше; умнее; разумнее",
+    "translate": "охотнее; лучше; умнее; разумнее; дорогой",
     "context": [
+      [
+        "Sie fährt lieber mit der Bahn."
+      ],
       [
         "Liebe Papa! Ich gratuliere dir zum Geburtstag!",
         "Дорогой, папа! Я поздравляю тебя с днем рождения!"
-      ],
-      [
-        "Sie fährt lieber mit der Bahn."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "lieber"
     ],
@@ -880,16 +899,17 @@
     "type": "adjective",
     "base": "lustig",
     "article": null,
-    "translate": "смешной; весёлый; забавный; веселый; радостный; смешно; весело",
+    "translate": "весёлый; забавный; веселый; смешной; радостный; смешно; весело",
     "context": [
+      [
+        "Frau Mertens ist lustig. Sie lacht immer."
+      ],
       [
         "Dieser Schriftsteller schreibt lustige Erzählungen für Kinder.",
         "Этот писатель пишет смешные истории для детей"
-      ],
-      [
-        "Frau Mertens ist lustig. Sie lacht immer."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "lustig"
     ],
@@ -902,13 +922,14 @@
     "translate": "возможный; возможно; вероятный",
     "context": [
       [
-        "Man muss alle möglichen Varianten diskutieren.",
-        "Надо обсудить все возможные варианты."
+        "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."
       ],
       [
-        "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."
+        "Man muss alle möglichen Varianten diskutieren.",
+        "Надо обсудить все возможные варианты."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "möglich"
     ],
@@ -918,16 +939,17 @@
     "type": "adjective",
     "base": "müde",
     "article": null,
-    "translate": "усталый; уставший; утомленный",
+    "translate": "уставший; усталый; утомленный",
     "context": [
+      [
+        "Ich bin müde. Ich gehe schlafen."
+      ],
       [
         "Er schien sehr müde aus.",
         "Он казался очень усталым."
-      ],
-      [
-        "Ich bin müde. Ich gehe schlafen."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "müde"
     ],
@@ -940,16 +962,17 @@
     "translate": "новый; недавний; заново; снова",
     "context": [
       [
-        "Sie haben ein ganz neues Auto.",
-        "У них совсем новая машина."
-      ],
-      [
         "Ich bin der neue Kollege."
       ],
       [
         "Wir haben eine neue Wohnung."
+      ],
+      [
+        "Sie haben ein ganz neues Auto.",
+        "У них совсем новая машина."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "neu"
     ],
@@ -1039,19 +1062,20 @@
     "type": "adjective",
     "base": "richtig",
     "article": null,
-    "translate": "правильный; правильно; верно; верный",
+    "translate": "правильно; правильный; верно; верный",
     "context": [
-      [
-        "Er gab eine richtige Einschätzung der Ereignisse in Deutschland.",
-        "Он дал правильную оценку событиям, происходящим в Германии."
-      ],
       [
         "Habe ich das richtig verstanden?"
       ],
       [
         "Das ist richtig."
+      ],
+      [
+        "Er gab eine richtige Einschätzung der Ereignisse in Deutschland.",
+        "Он дал правильную оценку событиям, происходящим в Германии."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "richtig"
     ],
@@ -1064,13 +1088,14 @@
     "translate": "спокойный; тихий; спокойно",
     "context": [
       [
-        "Sei ruhig!",
-        "Будь спокойным!; Успокойся!"
+        "Ich möchte ein ruhiges Zimmer."
       ],
       [
-        "Ich möchte ein ruhiges Zimmer."
+        "Sei ruhig!",
+        "Будь спокойным!; Успокойся!"
       ]
     ],
+    "level": "A-1",
     "originals": [
       "ruhig"
     ],
@@ -1099,10 +1124,6 @@
     "translate": "плохой; плохо; нехороший; нехорошо",
     "context": [
       [
-        "Gestern hatte er schlechte Laune.",
-        "Вчера у него было плохое настроение."
-      ],
-      [
         "Mir ist schlecht!"
       ],
       [
@@ -1110,8 +1131,13 @@
       ],
       [
         "Wir haben schlechtes Wetter."
+      ],
+      [
+        "Gestern hatte er schlechte Laune.",
+        "Вчера у него было плохое настроение."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "schlecht"
     ],
@@ -1137,16 +1163,17 @@
     "type": "adjective",
     "base": "schnell",
     "article": null,
-    "translate": "быстрый; быстро; стремительный; скорый",
+    "translate": "быстро; быстрый; стремительный; скорый",
     "context": [
+      [
+        "Er fährt schnell."
+      ],
       [
         "Mein Herz schlägt schnell.",
         "Мое сердце бьется сильно."
-      ],
-      [
-        "Er fährt schnell."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "schnell"
     ],
@@ -1172,19 +1199,20 @@
     "type": "adjective",
     "base": "schwer",
     "article": null,
-    "translate": "трудный; тяжело; тяжелый; серьезный; увесистый; трудно",
+    "translate": "тяжело; тяжелый; серьезный; увесистый; трудно; трудный",
     "context": [
-      [
-        "Meine Großeltern lebten in einer schweren Zeit.",
-        "Мои бабушка с дедушкой жили в трудное время."
-      ],
       [
         "Ist Ihr Gepäck sehr schwer?"
       ],
       [
         "Das ist eine schwere Arbeit."
+      ],
+      [
+        "Meine Großeltern lebten in einer schweren Zeit.",
+        "Мои бабушка с дедушкой жили в трудное время."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "schwer"
     ],
@@ -1194,7 +1222,7 @@
     "type": "adjective",
     "base": "schwierig",
     "article": null,
-    "translate": "тяжелый; трудный; сложный; затруднительный; сложно",
+    "translate": "трудный; сложный; затруднительный; тяжелый; сложно",
     "context": [
       [
         "Die Frau trug eine schwierige Tasche mit Lebensmitteln.",
@@ -1213,16 +1241,17 @@
     "translate": "красивый; прекрасный; красиво; славно",
     "context": [
       [
-        "Wo hast du diesen schönen Ring gekauft.",
-        "Где ты купила это красивое кольцо?"
-      ],
-      [
         "Schönen Urlaub!"
       ],
       [
         "Das ist sehr schön."
+      ],
+      [
+        "Wo hast du diesen schönen Ring gekauft.",
+        "Где ты купила это красивое кольцо?"
       ]
     ],
+    "level": "A-1",
     "originals": [
       "schön"
     ],
@@ -1276,7 +1305,7 @@
     "type": "adjective",
     "base": "stark",
     "article": null,
-    "translate": "сильный; сильно; мощный; крепко",
+    "translate": "сильно; сильный; мощный; крепко",
     "context": [
       [
         "Der Kranke wird seine starken Kopfschmerzen nicht los.",
@@ -1295,13 +1324,14 @@
     "translate": "дорогой; дорого; дорогостоящий",
     "context": [
       [
-        "Sie kaufte sich einen teuren Ring.",
-        "Она купила себе дорогое кольцо."
+        "Das ist mir zu teuer."
       ],
       [
-        "Das ist mir zu teuer."
+        "Sie kaufte sich einen teuren Ring.",
+        "Она купила себе дорогое кольцо."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "teuer"
     ],
@@ -1327,7 +1357,7 @@
     "type": "adjective",
     "base": "toll",
     "article": null,
-    "translate": "прекрасный; потрясающий; классный; клевый",
+    "translate": "потрясающий; классный; клевый; прекрасный",
     "context": [
       [
         "Meine Freundin ist eine großartige Mutter.",
@@ -1335,7 +1365,9 @@
       ]
     ],
     "originals": [
-      "toll; großartig; wunderschön"
+      "toll",
+      " großartig",
+      " wunderschön"
     ],
     "id": "6a3c17db57c15b3fc929fd10c26a5527"
   },
@@ -1343,16 +1375,17 @@
     "type": "adjective",
     "base": "tot",
     "article": null,
-    "translate": "мертвый; мёртвый; неживой; дохлый; безжизненный; умерший",
+    "translate": "мёртвый; неживой; мертвый; дохлый; безжизненный; умерший",
     "context": [
+      [
+        "Sein Vater ist schon lange tot."
+      ],
       [
         "Die Kinder fanden im Garten eine tote Katze.",
         "Дети нашли в саду мертвую кошку."
-      ],
-      [
-        "Sein Vater ist schon lange tot."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "tot"
     ],
@@ -1422,7 +1455,7 @@
     "type": "adjective",
     "base": "warm",
     "article": null,
-    "translate": "теплый; тепло",
+    "translate": "тепло; теплый",
     "context": [
       [
         "Es wehte ein warmer Wind und der Schnee begann zu schmelzen.",
@@ -1441,13 +1474,14 @@
     "translate": "важный; важно; значимый",
     "context": [
       [
-        "Das ist eine sehr wichtige Frage.",
-        "Это очень важный вопрос."
+        "Dieses Formular ist sehr wichtig."
       ],
       [
-        "Dieses Formular ist sehr wichtig."
+        "Das ist eine sehr wichtige Frage.",
+        "Это очень важный вопрос."
       ]
     ],
+    "level": "A-1",
     "originals": [
       "wichtig"
     ],
