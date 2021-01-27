@@ -528,12 +528,12 @@
   },
   {
     "type": "*",
-    "base": "Sinn haben, hatte Sinn, hat Sinn gehabt",
+    "base": "Sinn haben, (hatte Sinn, hat Sinn gehabt)",
     "article": null,
     "translate": "иметь смысл",
     "context": [],
     "originals": [
-      "Sinn haben, hatte Sinn, hat Sinn gehabt"
+      "Sinn haben, (hatte Sinn, hat Sinn gehabt)"
     ],
     "id": "145488a7b910e7cbe0d3972ee002d39c"
   },
@@ -677,50 +677,6 @@
   },
   {
     "type": "*",
-    "base": "ab/biegen, bog ab, ist abgebogen",
-    "article": null,
-    "translate": "сворачивать; поворачивать; свернуть в сторону",
-    "context": [],
-    "originals": [
-      "ab/biegen, bog ab, ist abgebogen"
-    ],
-    "id": "860e89c063a374561b4a1df7c36290a8"
-  },
-  {
-    "type": "*",
-    "base": "ab/fahren, fuhr ab, ist abgefahren",
-    "article": null,
-    "translate": "отъезжать; отправляться; выезжать; поехать",
-    "context": [],
-    "originals": [
-      "ab/fahren, fuhr ab, ist abgefahren"
-    ],
-    "id": "d118c1ae3237071f00b27a4750d9cf72"
-  },
-  {
-    "type": "*",
-    "base": "ab/fliegen, flog ab, ist abgeflogen",
-    "article": null,
-    "translate": "вылетать; улетать",
-    "context": [],
-    "originals": [
-      "ab/fliegen, flog ab, ist abgeflogen"
-    ],
-    "id": "5c460e68cee8fc1f19211cc2d0d478f0"
-  },
-  {
-    "type": "*",
-    "base": "ab/geben, , gab ab, hat abgegeben",
-    "article": null,
-    "translate": "сдавать; отдавать",
-    "context": [],
-    "originals": [
-      "ab/geben, , gab ab, hat abgegeben"
-    ],
-    "id": "8ac96c61dfcb13ef710ea78e193c2b23"
-  },
-  {
-    "type": "*",
     "base": "ab/hängen von+D",
     "article": null,
     "translate": "зависеть от чего-л.; кого-л.",
@@ -729,28 +685,6 @@
       "ab/hängen von+D"
     ],
     "id": "f976ac0596470283a0cec420f47532e0"
-  },
-  {
-    "type": "*",
-    "base": "ab/nehmen, nahm ab, hat abgenommen",
-    "article": null,
-    "translate": "уменьшаться; снижаться; убывать; понижать; ослабевать; худеть; отбирать",
-    "context": [],
-    "originals": [
-      "ab/nehmen, nahm ab, hat abgenommen"
-    ],
-    "id": "15492b604168ce6ac858e9f48527c70e"
-  },
-  {
-    "type": "*",
-    "base": "ab/schließen, schloss ab, hat abgeschlossen",
-    "article": null,
-    "translate": "оканчивать; заключать; завершать; заканчивать; запирать",
-    "context": [],
-    "originals": [
-      "ab/schließen, schloss ab, hat abgeschlossen"
-    ],
-    "id": "18e57ed734e6b9738b79d115a166fd61"
   },
   {
     "type": "*",
@@ -1140,102 +1074,14 @@
   },
   {
     "type": "*",
-    "base": "an/bieten, bot an, hat angeboten",
+    "base": "an/kommen auf+A, (kam auf+A an, ist auf+A angekommen)",
     "article": null,
-    "translate": "предлагать; подавать; напрашиваться; вызываться",
+    "translate": "зависеть от чего-л.",
     "context": [],
     "originals": [
-      "an/bieten, bot an, hat angeboten"
+      "an/kommen auf+A, (kam auf+A an, ist auf+A angekommen)"
     ],
-    "id": "ced59c4e89f819e388a8fcf3cc3bae4c"
-  },
-  {
-    "type": "*",
-    "base": "an/fangen, fing an, hat angefangen",
-    "article": null,
-    "translate": "начинать; приступать",
-    "context": [],
-    "originals": [
-      "an/fangen, fing an, hat angefangen"
-    ],
-    "id": "9f6f97e837e0746c81d0b26539d45050"
-  },
-  {
-    "type": "*",
-    "base": "an/gehen, ging an, ist angegangen",
-    "article": null,
-    "translate": "действовать; выступать; зажигаться; включаться; приниматься; приняться",
-    "context": [],
-    "originals": [
-      "an/gehen, ging an, ist angegangen"
-    ],
-    "id": "5b53ebfdd89f060ad0f13a9aeccbd276"
-  },
-  {
-    "type": "*",
-    "base": "an/halten, hielt an, hat angehalten",
-    "article": null,
-    "translate": "приостанавливать; останавливать; удерживать; делать остановку",
-    "context": [],
-    "originals": [
-      "an/halten, hielt an, hat angehalten"
-    ],
-    "id": "d18e42d795dbe58f63e5c8efcd073fb1"
-  },
-  {
-    "type": "*",
-    "base": "an/kommen, kam an, ist angekommen",
-    "article": null,
-    "translate": "прибывать; прилетать; приезжать; приходить; быть принятым",
-    "context": [],
-    "originals": [
-      "an/kommen, kam an, ist angekommen"
-    ],
-    "id": "f9f3a4da88f6f0543ef4edf9d148ffbf"
-  },
-  {
-    "type": "*",
-    "base": "an/nehmen, nahm an, hat angenommen",
-    "article": null,
-    "translate": "принимать; приобретать; воспринимать; допускать",
-    "context": [],
-    "originals": [
-      "an/nehmen, nahm an, hat angenommen"
-    ],
-    "id": "e52220f73ac7e686878d6475a7f1f9ba"
-  },
-  {
-    "type": "*",
-    "base": "an/rufen, rief an, hat angerufen",
-    "article": null,
-    "translate": "звонить по телефону; вызвать по телефону",
-    "context": [],
-    "originals": [
-      "an/rufen, rief an, hat angerufen"
-    ],
-    "id": "fbbd457875fb4b8c6e4df83b7e98225f"
-  },
-  {
-    "type": "*",
-    "base": "an/schreien, schrie an, hat angeschrien",
-    "article": null,
-    "translate": "накричать; прикрикнуть",
-    "context": [],
-    "originals": [
-      "an/schreien, schrie an, hat angeschrien"
-    ],
-    "id": "610abafa57994f102699ac059ecf7c86"
-  },
-  {
-    "type": "*",
-    "base": "an/sehen, sah an, hat angesehen",
-    "article": null,
-    "translate": "смотреть; глядеть; взирать; рассматривать",
-    "context": [],
-    "originals": [
-      "an/sehen, sah an, hat angesehen"
-    ],
-    "id": "d735133731344d0a36d80fd8272ff75b"
+    "id": "a1d5ac9dc50a7da1f2ab86f7a0f8f408"
   },
   {
     "type": "*",
@@ -1326,17 +1172,6 @@
   },
   {
     "type": "*",
-    "base": "ankommen auf+A, kam auf+A an, ist auf+A angekommen",
-    "article": null,
-    "translate": "зависеть от чего-л.",
-    "context": [],
-    "originals": [
-      "ankommen auf+A, kam auf+A an, ist auf+A angekommen"
-    ],
-    "id": "e7079d881ad1b4e53d9fa7a12713f48a"
-  },
-  {
-    "type": "*",
     "base": "anscheinend",
     "article": null,
     "translate": "по-видимому; вероятный; кажущийся; видимо",
@@ -1367,17 +1202,6 @@
       "anwesend sein"
     ],
     "id": "4dc981585a0407630d738c384a54b0ff"
-  },
-  {
-    "type": "*",
-    "base": "anziehen, zog an, ist angezogen",
-    "article": null,
-    "translate": "привлекать; одеваться; надевать; тянуть",
-    "context": [],
-    "originals": [
-      "anziehen, zog an, ist angezogen"
-    ],
-    "id": "1142c0762db0e89063e4c18623f650d8"
   },
   {
     "type": "*",
@@ -1559,39 +1383,6 @@
   },
   {
     "type": "*",
-    "base": "auf/heben, hob auf, hat aufgehoben",
-    "article": null,
-    "translate": "упразднять; снимать; устранять; приподнимать; поднимать",
-    "context": [],
-    "originals": [
-      "auf/heben, hob auf, hat aufgehoben"
-    ],
-    "id": "5b6f8ae3f6031e0050141536986ef49c"
-  },
-  {
-    "type": "*",
-    "base": "auf/schreiben, schrieb auf, hat aufgeschrieben",
-    "article": null,
-    "translate": "записать; записывать; отмечать",
-    "context": [],
-    "originals": [
-      "auf/schreiben, schrieb auf, hat aufgeschrieben"
-    ],
-    "id": "7349e29ff2acd8b201549f3ff9a6a314"
-  },
-  {
-    "type": "*",
-    "base": "auf/stehen, stand auf, ist aufgestanden",
-    "article": null,
-    "translate": "вставать; вставать с постели",
-    "context": [],
-    "originals": [
-      "auf/stehen, stand auf, ist aufgestanden"
-    ],
-    "id": "ee60c9315cc541eff64ad611d44dd2f8"
-  },
-  {
-    "type": "*",
     "base": "aufgeregt",
     "article": null,
     "translate": "взволнованный; возбужденный; тревожный",
@@ -1674,83 +1465,6 @@
   },
   {
     "type": "*",
-    "base": "aus/geben, gab aus, hat ausgegeben",
-    "article": null,
-    "translate": "тратить; расходовать; затрачивать; растрачивать; выдавать; выпускать",
-    "context": [],
-    "originals": [
-      "aus/geben, gab aus, hat ausgegeben"
-    ],
-    "id": "ca3d858ae08d71338cc0827ee92e4004"
-  },
-  {
-    "type": "*",
-    "base": "aus/gehen, ging aus, ist ausgegangen",
-    "article": null,
-    "translate": "исходить; гаснуть; выходить; заканчиваться; иссякать",
-    "context": [],
-    "originals": [
-      "aus/gehen, ging aus, ist ausgegangen"
-    ],
-    "id": "3cac6f719308529a9c8ad71a89049ea5"
-  },
-  {
-    "type": "*",
-    "base": "aus/leihen, lieh aus, hat ausgeliehen",
-    "article": null,
-    "translate": "давать напрокат; давать взаймы; давать во временное пользование; ссужать",
-    "context": [],
-    "originals": [
-      "aus/leihen, lieh aus, hat ausgeliehen"
-    ],
-    "id": "428f22439f67856633fcc54be15df24b"
-  },
-  {
-    "type": "*",
-    "base": "aus/schließen, schloss aus, hat ausgeschlossen",
-    "article": null,
-    "translate": "исключать; отчислять; отстранять; исключать себя",
-    "context": [],
-    "originals": [
-      "aus/schließen, schloss aus, hat ausgeschlossen"
-    ],
-    "id": "26fd80d6d7832dd6a3a3a707db1fbca3"
-  },
-  {
-    "type": "*",
-    "base": "aus/sehen, sah aus, hat ausgesehen",
-    "article": null,
-    "translate": "выглядеть; смотреться; казаться; быть похожим; иметь вид",
-    "context": [],
-    "originals": [
-      "aus/sehen, sah aus, hat ausgesehen"
-    ],
-    "id": "29aaa5cc20123b0875f85e31f0932cb7"
-  },
-  {
-    "type": "*",
-    "base": "aus/sprechen, sprach aus, hat ausgesprochen",
-    "article": null,
-    "translate": "произносить; выговаривать; высказывать; высказываться",
-    "context": [],
-    "originals": [
-      "aus/sprechen, sprach aus, hat ausgesprochen"
-    ],
-    "id": "7e898905190b17b5fe958f5bc9ef5c1a"
-  },
-  {
-    "type": "*",
-    "base": "aus/steigen, stieg aus, ist ausgestiegen",
-    "article": null,
-    "translate": "высаживаться; выходить; вылезать; покидать",
-    "context": [],
-    "originals": [
-      "aus/steigen, stieg aus, ist ausgestiegen"
-    ],
-    "id": "043f460351c6c4be427a14fad763a086"
-  },
-  {
-    "type": "*",
     "base": "ausgerechnet",
     "article": null,
     "translate": "именно; как раз; как будто (бы) специально; как нарочно; как назло",
@@ -1762,12 +1476,12 @@
   },
   {
     "type": "*",
-    "base": "ausgeschlossen sein, war ausgeschlossen, ist ausgeschlossen gewesen",
+    "base": "ausgeschlossen sein, (war ausgeschlossen, ist ausgeschlossen gewesen)",
     "article": null,
     "translate": "быть исключенным",
     "context": [],
     "originals": [
-      "ausgeschlossen sein, war ausgeschlossen, ist ausgeschlossen gewesen"
+      "ausgeschlossen sein, (war ausgeschlossen, ist ausgeschlossen gewesen)"
     ],
     "id": "f260aa36fe19743f5cad97c573ff52a1"
   },
@@ -1873,17 +1587,6 @@
   },
   {
     "type": "*",
-    "base": "backen, backte, hat gebacken",
-    "article": null,
-    "translate": "выпекать; запекать; печь; выпекать хлеб",
-    "context": [],
-    "originals": [
-      "backen, backte, hat gebacken"
-    ],
-    "id": "8d554b7b89c1531bafa1816e4b7ec27a"
-  },
-  {
-    "type": "*",
     "base": "bald",
     "article": null,
     "translate": "скоро; вскоре; в скором времени; почти",
@@ -1959,17 +1662,6 @@
       "befinden sich"
     ],
     "id": "89b4c4ed3c9429bbfdfd0007b06d7974"
-  },
-  {
-    "type": "*",
-    "base": "beginnen, begann, hat begonnen",
-    "article": null,
-    "translate": "начинать; приняться; приступать",
-    "context": [],
-    "originals": [
-      "beginnen, begann, hat begonnen"
-    ],
-    "id": "50b04abe1077a52b595add945dd6bccf"
   },
   {
     "type": "*",
@@ -2067,17 +1759,6 @@
   },
   {
     "type": "*",
-    "base": "bekommen, bekam, hat bekommen",
-    "article": null,
-    "translate": "получать; принять",
-    "context": [],
-    "originals": [
-      "bekommen, bekam, hat bekommen"
-    ],
-    "id": "97768a6cbaf0a26301fc4d27fb80a547"
-  },
-  {
-    "type": "*",
     "base": "beleidigt",
     "article": null,
     "translate": "оскорбленный; обиженный",
@@ -2097,17 +1778,6 @@
       "beliebt"
     ],
     "id": "f8735019fdb37dd6102de91bc4802957"
-  },
-  {
-    "type": "*",
-    "base": "beraten, beriet, hat beraten",
-    "article": null,
-    "translate": "советовать; консультировать; давать совет; давать консультацию",
-    "context": [],
-    "originals": [
-      "beraten, beriet, hat beraten"
-    ],
-    "id": "1255f8bbb008d71ae37c6430bcb8b616"
   },
   {
     "type": "*",
@@ -2144,28 +1814,6 @@
   },
   {
     "type": "*",
-    "base": "beschließen, beschloss, hat beschlossen",
-    "article": null,
-    "translate": "постановлять; решать; принимать решение",
-    "context": [],
-    "originals": [
-      "beschließen, beschloss, hat beschlossen"
-    ],
-    "id": "f7d8c343945d86787425fa5154eef631"
-  },
-  {
-    "type": "*",
-    "base": "beschreiben, beschrieb, hat beschrieben",
-    "article": null,
-    "translate": "описывать; расписать",
-    "context": [],
-    "originals": [
-      "beschreiben, beschrieb, hat beschrieben"
-    ],
-    "id": "40d48aef6510e20301b3cf116674f5b1"
-  },
-  {
-    "type": "*",
     "base": "beschäftigen sich",
     "article": null,
     "translate": "заниматься",
@@ -2195,17 +1843,6 @@
       "besetzt"
     ],
     "id": "36d1be690627391bc09073f888286a96"
-  },
-  {
-    "type": "*",
-    "base": "besitzen, besaß, hat besessen",
-    "article": null,
-    "translate": "владеть; обладать; иметь; иметься; пользоваться",
-    "context": [],
-    "originals": [
-      "besitzen, besaß, hat besessen"
-    ],
-    "id": "708dae97c8e4be1653bf176778e9e267"
   },
   {
     "type": "*",
@@ -2276,39 +1913,6 @@
   },
   {
     "type": "*",
-    "base": "betragen, betrug, hat betragen",
-    "article": null,
-    "translate": "составлять; равняться; обходиться; вести себя",
-    "context": [],
-    "originals": [
-      "betragen, betrug, hat betragen"
-    ],
-    "id": "2dc9cffc4eeb832c13a4c8d204bf5726"
-  },
-  {
-    "type": "*",
-    "base": "betrügen, betrog, hat betrogen",
-    "article": null,
-    "translate": "обманывать; мошенничать; изменять; совершить мошенничество",
-    "context": [],
-    "originals": [
-      "betrügen, betrog, hat betrogen"
-    ],
-    "id": "d1976c03009e653446bb697331a4c224"
-  },
-  {
-    "type": "*",
-    "base": "beweisen, bewies, hat bewiesen",
-    "article": null,
-    "translate": "доказывать; свидетельствовать; говорить; заявлять; служить доказательством; аргументировать",
-    "context": [],
-    "originals": [
-      "beweisen, bewies, hat bewiesen"
-    ],
-    "id": "92a2a95eabf4f8404a2ba5029a94ea1a"
-  },
-  {
-    "type": "*",
     "base": "bewundern",
     "article": null,
     "translate": "восхищаться",
@@ -2339,28 +1943,6 @@
       "bibbern"
     ],
     "id": "3e718f3f305cd99040076b0bc9b227fd"
-  },
-  {
-    "type": "*",
-    "base": "biegen (nach links)",
-    "article": null,
-    "translate": "повернуть налево",
-    "context": [],
-    "originals": [
-      "biegen (nach links)"
-    ],
-    "id": "9799be9312557ad567177547d60785d9"
-  },
-  {
-    "type": "*",
-    "base": "bieten, bot, hat geboten",
-    "article": null,
-    "translate": "предлагать; предоставлять",
-    "context": [],
-    "originals": [
-      "bieten, bot, hat geboten"
-    ],
-    "id": "b1a93e19b6f72f72a93e064b1a86696b"
   },
   {
     "type": "*",
@@ -2434,17 +2016,6 @@
   },
   {
     "type": "*",
-    "base": "bitten, bat, hat gebeten",
-    "article": null,
-    "translate": "просить; упрашивать",
-    "context": [],
-    "originals": [
-      "bitten, bat, hat gebeten"
-    ],
-    "id": "6faaf01f060e19d1097c09db46ebec9d"
-  },
-  {
-    "type": "*",
     "base": "bitter",
     "article": null,
     "translate": "горький; страшный; сильный; горько; едкий",
@@ -2484,17 +2055,6 @@
   },
   {
     "type": "*",
-    "base": "bleiben, blieb, hat geblieben",
-    "article": null,
-    "translate": "оставаться; пребывать",
-    "context": [],
-    "originals": [
-      "bleiben, blieb, hat geblieben"
-    ],
-    "id": "abf3b2f8e5ea7a3db12ab60a546b00bc"
-  },
-  {
-    "type": "*",
     "base": "blind",
     "article": null,
     "translate": "слепой; незрячий; невидящий; безрассудный; опрометчивый; слепо; вслепую",
@@ -2528,17 +2088,6 @@
   },
   {
     "type": "*",
-    "base": "braten, briet, hat gebraten",
-    "article": null,
-    "translate": "жарить; поджарить; зажарить; печь",
-    "context": [],
-    "originals": [
-      "braten, briet, hat gebraten"
-    ],
-    "id": "228510f5539a912b0b50abe81be34b16"
-  },
-  {
-    "type": "*",
     "base": "braun",
     "article": null,
     "translate": "коричневый",
@@ -2547,17 +2096,6 @@
       "braun"
     ],
     "id": "91ff0e989da33bee08859c99ee96e03d"
-  },
-  {
-    "type": "*",
-    "base": "brennen, brannte, hat gebrannt",
-    "article": null,
-    "translate": "гореть; сгорать; пылать; сжигать; жечь; обжигать; палить",
-    "context": [],
-    "originals": [
-      "brennen, brannte, hat gebrannt"
-    ],
-    "id": "8b82725a553cc427d9509c89356364df"
   },
   {
     "type": "*",
@@ -3662,17 +3200,6 @@
   },
   {
     "type": "*",
-    "base": "ein/fallen, fiel ein, ist eingefallen",
-    "article": null,
-    "translate": "приходить на ум; вторгаться; нападать; вздумать; проникать",
-    "context": [],
-    "originals": [
-      "ein/fallen, fiel ein, ist eingefallen"
-    ],
-    "id": "ea2fa208f0e1f197d1e0d3f54424fcea"
-  },
-  {
-    "type": "*",
     "base": "ein/laden, lud ein, hat eingeladen, приглашать, зазывать, созывать",
     "article": null,
     "translate": "",
@@ -3681,39 +3208,6 @@
       "ein/laden, lud ein, hat eingeladen, приглашать, зазывать, созывать"
     ],
     "id": "02190d78ee91a9d451b91785f5b77737"
-  },
-  {
-    "type": "*",
-    "base": "ein/schlafen, schlief ein, ist eingeschlafen",
-    "article": null,
-    "translate": "засыпать; затекать; угасать",
-    "context": [],
-    "originals": [
-      "ein/schlafen, schlief ein, ist eingeschlafen"
-    ],
-    "id": "620c51916002814c88ea0d068073e63e"
-  },
-  {
-    "type": "*",
-    "base": "ein/steigen, stieg ein, ist eingestiegen",
-    "article": null,
-    "translate": "входить; садиться; залезать",
-    "context": [],
-    "originals": [
-      "ein/steigen, stieg ein, ist eingestiegen"
-    ],
-    "id": "7719dd9485169f1b2e3c1f3607d05aee"
-  },
-  {
-    "type": "*",
-    "base": "ein/ziehen, zog ein, ist eingezogen",
-    "article": null,
-    "translate": "втягивать; втянуть; вселяться; въезжать; протягивать",
-    "context": [],
-    "originals": [
-      "ein/ziehen, zog ein, ist eingezogen"
-    ],
-    "id": "74e2d75bf5a4c9ba35d6c1a1a90e9a3c"
   },
   {
     "type": "*",
@@ -3855,17 +3349,6 @@
   },
   {
     "type": "*",
-    "base": "empfehlen, empfahl, hat empfohlen",
-    "article": null,
-    "translate": "рекомендовать; советовать",
-    "context": [],
-    "originals": [
-      "empfehlen, empfahl, hat empfohlen"
-    ],
-    "id": "8fd3d70ad5a841700987a10b0172457c"
-  },
-  {
-    "type": "*",
     "base": "endgültig",
     "article": null,
     "translate": "окончательный; бесповоротный",
@@ -3899,17 +3382,6 @@
   },
   {
     "type": "*",
-    "base": "enthalten, enthielt, hat enthalten",
-    "article": null,
-    "translate": "содержать; содержаться; удерживаться; заключать; заключать в себе",
-    "context": [],
-    "originals": [
-      "enthalten, enthielt, hat enthalten"
-    ],
-    "id": "83c498a5e681f509e6a0c8cb3c6a2944"
-  },
-  {
-    "type": "*",
     "base": "entlang",
     "article": null,
     "translate": "вдоль; в течение",
@@ -3921,23 +3393,12 @@
   },
   {
     "type": "*",
-    "base": "entscheiden, entschied, hat entschieden",
-    "article": null,
-    "translate": "решать; решаться",
-    "context": [],
-    "originals": [
-      "entscheiden, entschied, hat entschieden"
-    ],
-    "id": "4f78b06a22a906fa388380a3810f3833"
-  },
-  {
-    "type": "*",
-    "base": "entschlossen sein, war entschlossen, ist entschlossen gewesen",
+    "base": "entschlossen sein, (war entschlossen, ist entschlossen gewesen)",
     "article": null,
     "translate": "решиться на что-то",
     "context": [],
     "originals": [
-      "entschlossen sein, war entschlossen, ist entschlossen gewesen"
+      "entschlossen sein, (war entschlossen, ist entschlossen gewesen)"
     ],
     "id": "b8dd4759640714c4d48d806d57b82ffe"
   },
@@ -4098,39 +3559,6 @@
   },
   {
     "type": "*",
-    "base": "erfahren, erfuhr, hat erfahren",
-    "article": null,
-    "translate": "узнавать; познавать",
-    "context": [],
-    "originals": [
-      "erfahren, erfuhr, hat erfahren"
-    ],
-    "id": "6bcc84c09f0e40bc1de783d9669ae983"
-  },
-  {
-    "type": "*",
-    "base": "erfinden, erfand, hat erfunden",
-    "article": null,
-    "translate": "изобретать; выдумывать; придумывать; выдумать",
-    "context": [],
-    "originals": [
-      "erfinden, erfand, hat erfunden"
-    ],
-    "id": "8f4a36e50228fad9fe8d9f272112d56f"
-  },
-  {
-    "type": "*",
-    "base": "erhalten, erhielt, hat erhalten",
-    "article": null,
-    "translate": "получать; сохраняться; сохранять; поддерживать; обеспечивать",
-    "context": [],
-    "originals": [
-      "erhalten, erhielt, hat erhalten"
-    ],
-    "id": "077e84e5866d35e0472acb5fa6d7410b"
-  },
-  {
-    "type": "*",
     "base": "erholen sich",
     "article": null,
     "translate": "отдыхать",
@@ -4161,28 +3589,6 @@
       "erlaubt"
     ],
     "id": "6ba7ebc0376d4a592354ea5d26684a0c"
-  },
-  {
-    "type": "*",
-    "base": "erscheinen, erschien, ist erschienen",
-    "article": null,
-    "translate": "появляться; показаться; являться; выйти в свет",
-    "context": [],
-    "originals": [
-      "erscheinen, erschien, ist erschienen"
-    ],
-    "id": "d022f08b6af23692a64d2eca1309706c"
-  },
-  {
-    "type": "*",
-    "base": "erschrecken, erschrak, ist erschrocken",
-    "article": null,
-    "translate": "пугать; запугивать; ужасать; ужасаться",
-    "context": [],
-    "originals": [
-      "erschrecken, erschrak, ist erschrocken"
-    ],
-    "id": "8be857f329de2dc9d4416b34c5ba2757"
   },
   {
     "type": "*",
@@ -4335,17 +3741,6 @@
   },
   {
     "type": "*",
-    "base": "essen, aß, hat gegessen",
-    "article": null,
-    "translate": "кушать; есть; питаться",
-    "context": [],
-    "originals": [
-      "essen, aß, hat gegessen"
-    ],
-    "id": "a79958210ee757071a9448bb767de9f4"
-  },
-  {
-    "type": "*",
     "base": "etwa",
     "article": null,
     "translate": "около; приблизительно; разве; примерно; почти",
@@ -4368,14 +3763,14 @@
   },
   {
     "type": "*",
-    "base": "etwas ab/machen",
+    "base": "etwas abmachen",
     "article": null,
     "translate": "c чем-то разделаться/закончить",
     "context": [],
     "originals": [
-      "etwas ab/machen"
+      "etwas abmachen"
     ],
-    "id": "18d37d1bbd8af812681d32c1985d67d3"
+    "id": "827b6d0a71f2bcd058f4175cb65411d5"
   },
   {
     "type": "*",
@@ -4448,17 +3843,6 @@
       "exakt"
     ],
     "id": "f43ee52032b961ffd14e2e5ca2047890"
-  },
-  {
-    "type": "*",
-    "base": "fahren, fuhr, ist gefahren",
-    "article": null,
-    "translate": "ездить; ехать; водить",
-    "context": [],
-    "originals": [
-      "fahren, fuhr, ist gefahren"
-    ],
-    "id": "30c2d9ffc98427163936e4476fffa07f"
   },
   {
     "type": "*",
@@ -4562,17 +3946,6 @@
   },
   {
     "type": "*",
-    "base": "fern/sehen, sah fern, hat ferngesehen",
-    "article": null,
-    "translate": "смотреть телевизор",
-    "context": [],
-    "originals": [
-      "fern/sehen, sah fern, hat ferngesehen"
-    ],
-    "id": "ff12ed59d6a94a4a2c89d0116148e64b"
-  },
-  {
-    "type": "*",
     "base": "fest",
     "article": null,
     "translate": "крепкий; прочный; твердый",
@@ -4617,17 +3990,6 @@
   },
   {
     "type": "*",
-    "base": "finden, fand, hat gefunden",
-    "article": null,
-    "translate": "находить; обнаруживать",
-    "context": [],
-    "originals": [
-      "finden, fand, hat gefunden"
-    ],
-    "id": "91db93839aaf9aa2caec9e3cbbc572a1"
-  },
-  {
-    "type": "*",
     "base": "fit",
     "article": null,
     "translate": "в форме; здоровый; бодрый",
@@ -4658,28 +4020,6 @@
       "fleißig"
     ],
     "id": "f18b874857e8fce069be392da989ff16"
-  },
-  {
-    "type": "*",
-    "base": "fliegen, flog, ist geflogen",
-    "article": null,
-    "translate": "лететь; пролетать; совершать полет",
-    "context": [],
-    "originals": [
-      "fliegen, flog, ist geflogen"
-    ],
-    "id": "5d7ebd6bc33bcb9b32757cdade7fb629"
-  },
-  {
-    "type": "*",
-    "base": "fließen, floss, ist geflossen",
-    "article": null,
-    "translate": "протекать; течь; литься; струиться; растекаться",
-    "context": [],
-    "originals": [
-      "fließen, floss, ist geflossen"
-    ],
-    "id": "508aed2c8338a85f53520092a716873f"
   },
   {
     "type": "*",
@@ -4791,17 +4131,6 @@
       "freundlich"
     ],
     "id": "5dece968802b108a165ccaa39a84f1e6"
-  },
-  {
-    "type": "*",
-    "base": "frieren, fror, hat gefroren",
-    "article": null,
-    "translate": "замерзать; промерзать; покрываться льдом",
-    "context": [],
-    "originals": [
-      "frieren, fror, hat gefroren"
-    ],
-    "id": "a5297657b27a92e39108095570376dff"
   },
   {
     "type": "*",
@@ -4968,17 +4297,6 @@
   },
   {
     "type": "*",
-    "base": "geben, gab, hat gegeben",
-    "article": null,
-    "translate": "давать; оказывать; предоставлять",
-    "context": [],
-    "originals": [
-      "geben, gab, hat gegeben"
-    ],
-    "id": "e098e38cca96c16ca882f9ecf4cd9137"
-  },
-  {
-    "type": "*",
     "base": "geboren sein",
     "article": null,
     "translate": "родиться",
@@ -4990,23 +4308,12 @@
   },
   {
     "type": "*",
-    "base": "gebären, gebar, hat geboren",
-    "article": null,
-    "translate": "рождать; производить на свет",
-    "context": [],
-    "originals": [
-      "gebären, gebar, hat geboren"
-    ],
-    "id": "b8e8edc735b376739aceef48f99bd8a0"
-  },
-  {
-    "type": "*",
-    "base": "geeignet sein für, war für geeignet, ist geeignet für gewesen",
+    "base": "geeignet sein für, (war für geeignet, ist geeignet für gewesen)",
     "article": null,
     "translate": "подходить для",
     "context": [],
     "originals": [
-      "geeignet sein für, war für geeignet, ist geeignet für gewesen"
+      "geeignet sein für, (war für geeignet, ist geeignet für gewesen)"
     ],
     "id": "b1413d497436ac67aa4a32b3873429ec"
   },
@@ -5034,28 +4341,6 @@
   },
   {
     "type": "*",
-    "base": "gehen (entlang)",
-    "article": null,
-    "translate": "идти вдоль",
-    "context": [],
-    "originals": [
-      "gehen (entlang)"
-    ],
-    "id": "738096a25ae9f6fbc10ec1abffd5505e"
-  },
-  {
-    "type": "*",
-    "base": "gehen, ging, ist gegangen",
-    "article": null,
-    "translate": "идти; ходить",
-    "context": [],
-    "originals": [
-      "gehen, ging, ist gegangen"
-    ],
-    "id": "7e388d8b4e10270b272ad1ee9a0c6ebb"
-  },
-  {
-    "type": "*",
     "base": "gelb",
     "article": null,
     "translate": "желтый",
@@ -5064,28 +4349,6 @@
       "gelb"
     ],
     "id": "41a2a914b81475b71771ed054ebc4782"
-  },
-  {
-    "type": "*",
-    "base": "gelingen, gelang, ist gelungen",
-    "article": null,
-    "translate": "удаться; удаваться; получаться",
-    "context": [],
-    "originals": [
-      "gelingen, gelang, ist gelungen"
-    ],
-    "id": "5582d2c0cf8bf597d38455b7145c333b"
-  },
-  {
-    "type": "*",
-    "base": "gelten, galt, hat gegolten",
-    "article": null,
-    "translate": "действовать; относиться; иметь силу; значить",
-    "context": [],
-    "originals": [
-      "gelten, galt, hat gegolten"
-    ],
-    "id": "eea4ecaa0457ea15fa377ccf00445fb3"
   },
   {
     "type": "*",
@@ -5176,17 +4439,6 @@
   },
   {
     "type": "*",
-    "base": "geraten, geriet, ist geraten",
-    "article": null,
-    "translate": "впадать; приходить; попадать",
-    "context": [],
-    "originals": [
-      "geraten, geriet, ist geraten"
-    ],
-    "id": "4484ac23056c38f55bc26f263df04e78"
-  },
-  {
-    "type": "*",
     "base": "gern",
     "article": null,
     "translate": "охотно; с удовольствием; просто; легко",
@@ -5252,17 +4504,6 @@
   },
   {
     "type": "*",
-    "base": "gewinnen, gewann, hat gewonnen",
-    "article": null,
-    "translate": "выигрывать; побеждать; завоевывать; извлекать прибыль; завоевать; получать прибыль",
-    "context": [],
-    "originals": [
-      "gewinnen, gewann, hat gewonnen"
-    ],
-    "id": "ea8a7adfb6857983308bfc1a80458717"
-  },
-  {
-    "type": "*",
     "base": "gewittrig",
     "article": null,
     "translate": "грозовой",
@@ -5321,17 +4562,6 @@
       "gibt es"
     ],
     "id": "aa225666ec7bc1d1399b176991cee916"
-  },
-  {
-    "type": "*",
-    "base": "gießen, goss, hat gegossen",
-    "article": null,
-    "translate": "наливать; вливать; заливать; поливать",
-    "context": [],
-    "originals": [
-      "gießen, goss, hat gegossen"
-    ],
-    "id": "888eab2e5b940b086e06df0f8e84e962"
   },
   {
     "type": "*",
@@ -5559,50 +4789,6 @@
   },
   {
     "type": "*",
-    "base": "heben, hob, hat gehoben",
-    "article": null,
-    "translate": "поднимать; собирать; подниматься; повышаться",
-    "context": [],
-    "originals": [
-      "heben, hob, hat gehoben"
-    ],
-    "id": "41ecc2cb04ef78198dd7b36b22837773"
-  },
-  {
-    "type": "*",
-    "base": "heißen, hieß, hat geheißen",
-    "article": null,
-    "translate": "значить; называться",
-    "context": [],
-    "originals": [
-      "heißen, hieß, hat geheißen"
-    ],
-    "id": "65c3e246467fdc1d55ce9507fd15afb0"
-  },
-  {
-    "type": "*",
-    "base": "helfen, half, hat geholfen",
-    "article": null,
-    "translate": "помогать; выручать",
-    "context": [],
-    "originals": [
-      "helfen, half, hat geholfen"
-    ],
-    "id": "9e838d49cca819a4972495668ec876e7"
-  },
-  {
-    "type": "*",
-    "base": "heraus/kommen, kam heraus, ist herausgekommen",
-    "article": null,
-    "translate": "выходить; выезжать",
-    "context": [],
-    "originals": [
-      "heraus/kommen, kam heraus, ist herausgekommen"
-    ],
-    "id": "50f7261ee00473465626ad6bdc90f7ad"
-  },
-  {
-    "type": "*",
     "base": "herrlich",
     "article": null,
     "translate": "великолепный; прекрасный; чудесный; великолепно; прекрасно; замечательно",
@@ -5789,17 +4975,6 @@
       "hunger haben"
     ],
     "id": "9a59160a197460ed7e03626d6a249502"
-  },
-  {
-    "type": "*",
-    "base": "hängen, hing, hat gehangen",
-    "article": null,
-    "translate": "висеть; повисать; вешать; подвешивать",
-    "context": [],
-    "originals": [
-      "hängen, hing, hat gehangen"
-    ],
-    "id": "885880eee9f35b357de9bb8995fd2870"
   },
   {
     "type": "*",
@@ -6904,28 +6079,6 @@
   },
   {
     "type": "*",
-    "base": "lassen, ließ, hat gelassen",
-    "article": null,
-    "translate": "оставлять; покидать; давать; позволять; допускать; разрешать; велеть",
-    "context": [],
-    "originals": [
-      "lassen, ließ, hat gelassen"
-    ],
-    "id": "611ec9dae8bb8427c334acad40afa688"
-  },
-  {
-    "type": "*",
-    "base": "laufen, lief, ist gelaufen",
-    "article": null,
-    "translate": "бежать; работать; бегать; убегать; пробегать",
-    "context": [],
-    "originals": [
-      "laufen, lief, ist gelaufen"
-    ],
-    "id": "b3929c7873d71b4b2b2725b5067a8fa9"
-  },
-  {
-    "type": "*",
     "base": "lebendig",
     "article": null,
     "translate": "живой; полный жизни; оживленный; заживо; живьем; оживленно",
@@ -6972,17 +6125,6 @@
       "leer sein"
     ],
     "id": "d6524a6dcb35d8a26fb124dd6d096692"
-  },
-  {
-    "type": "*",
-    "base": "leiden, litt, hat gelitten",
-    "article": null,
-    "translate": "страдать; пострадать; болеть; терпеть; допускать",
-    "context": [],
-    "originals": [
-      "leiden, litt, hat gelitten"
-    ],
-    "id": "7e610ac394267f17f93a1e21ab1c7676"
   },
   {
     "type": "*",
@@ -7083,17 +6225,6 @@
   },
   {
     "type": "*",
-    "base": "liegen, lag, hat gelegen",
-    "article": null,
-    "translate": "находиться; лежать",
-    "context": [],
-    "originals": [
-      "liegen, lag, hat gelegen"
-    ],
-    "id": "fb7c15f534adfff141669c8e7f3518c7"
-  },
-  {
-    "type": "*",
     "base": "lila",
     "article": null,
     "translate": "лиловый; сиреневый",
@@ -7140,17 +6271,6 @@
       "lächeln"
     ],
     "id": "b84393d24c3845dd863c26a4e42e8d7b"
-  },
-  {
-    "type": "*",
-    "base": "lügen, log, hat gelogen",
-    "article": null,
-    "translate": "лгать; врать; говорить неправду",
-    "context": [],
-    "originals": [
-      "lügen, log, hat gelogen"
-    ],
-    "id": "afced061488dc53dc42e76f9273aad6d"
   },
   {
     "type": "*",
@@ -7317,17 +6437,6 @@
   },
   {
     "type": "*",
-    "base": "messen, maß, hat gemessen",
-    "article": null,
-    "translate": "измерять; мерить; обмерять",
-    "context": [],
-    "originals": [
-      "messen, maß, hat gemessen"
-    ],
-    "id": "967ad507d50847567133433572548ffb"
-  },
-  {
-    "type": "*",
     "base": "mindestens",
     "article": null,
     "translate": "по крайней мере; не менее; крайний; минимальный; по меньшей мере",
@@ -7374,17 +6483,6 @@
       "mit/bringen, brachte mit, hat mitgebracht"
     ],
     "id": "bc92b70c611232269cf98ea908a259b7"
-  },
-  {
-    "type": "*",
-    "base": "mit/kommen, kam mit, ist mitgekommen",
-    "article": null,
-    "translate": "идти вместе; прибывать; приходить",
-    "context": [],
-    "originals": [
-      "mit/kommen, kam mit, ist mitgekommen"
-    ],
-    "id": "face300bbd04d927124aff82838a7855"
   },
   {
     "type": "*",
@@ -7613,17 +6711,6 @@
   },
   {
     "type": "*",
-    "base": "nach/denken, dachte nach, hat nachgedacht",
-    "article": null,
-    "translate": "размышлять; задумываться; думать; поразмыслить; обдумывать; раздумывать",
-    "context": [],
-    "originals": [
-      "nach/denken, dachte nach, hat nachgedacht"
-    ],
-    "id": "7ae9cceef8c55a4a311532e9f844930c"
-  },
-  {
-    "type": "*",
     "base": "nachdem",
     "article": null,
     "translate": "после того как",
@@ -7742,17 +6829,6 @@
       "negativ"
     ],
     "id": "243c9603b247416f4e68ad876c8f2951"
-  },
-  {
-    "type": "*",
-    "base": "nehmen, nahm, hat genommen",
-    "article": null,
-    "translate": "взять; брать",
-    "context": [],
-    "originals": [
-      "nehmen, nahm, hat genommen"
-    ],
-    "id": "a5f69017c4d930b682ba84843ec5fdb7"
   },
   {
     "type": "*",
@@ -8417,17 +7493,6 @@
   },
   {
     "type": "*",
-    "base": "raten, riet, hat geraten",
-    "article": null,
-    "translate": "советовать; рекомендовать",
-    "context": [],
-    "originals": [
-      "raten, riet, hat geraten"
-    ],
-    "id": "140cc979fb48c69a764208607c711f2e"
-  },
-  {
-    "type": "*",
     "base": "raue Haut",
     "article": null,
     "translate": "грубая кожа",
@@ -8439,17 +7504,6 @@
   },
   {
     "type": "*",
-    "base": "raufkommen, kam rauf, ist raufgekommen",
-    "article": null,
-    "translate": "подниматься наверх; подниматься вверх",
-    "context": [],
-    "originals": [
-      "raufkommen, kam rauf, ist raufgekommen"
-    ],
-    "id": "cce1e4ccc26459dc9351fac5e13c426e"
-  },
-  {
-    "type": "*",
     "base": "raus",
     "article": null,
     "translate": "наружу; вон",
@@ -8458,17 +7512,6 @@
       "raus"
     ],
     "id": "ecbec99cec86eb2248f9e2838cd2569e"
-  },
-  {
-    "type": "*",
-    "base": "raus/kommen, kam raus, ist rausgekommen",
-    "article": null,
-    "translate": "выходить наружу",
-    "context": [],
-    "originals": [
-      "raus/kommen, kam raus, ist rausgekommen"
-    ],
-    "id": "15120744e72710b4aee9f7cd6f84b875"
   },
   {
     "type": "*",
@@ -8560,17 +7603,6 @@
   },
   {
     "type": "*",
-    "base": "rein/kommen, kam rein, ist reingekommen",
-    "article": null,
-    "translate": "входить внутрь",
-    "context": [],
-    "originals": [
-      "rein/kommen, kam rein, ist reingekommen"
-    ],
-    "id": "8c3c40586998959cf0236a4767b9171d"
-  },
-  {
-    "type": "*",
     "base": "richtig gehen, ging richtig, ist richtig gegangen",
     "article": null,
     "translate": "идти по правильному пути",
@@ -8579,17 +7611,6 @@
       "richtig gehen, ging richtig, ist richtig gegangen"
     ],
     "id": "18be2e1cde6ca72a92c53caf51645b45"
-  },
-  {
-    "type": "*",
-    "base": "riechen, roch, hat gerochen",
-    "article": null,
-    "translate": "пахнуть; чувствовать запах; чуять; нюхать",
-    "context": [],
-    "originals": [
-      "riechen, roch, hat gerochen"
-    ],
-    "id": "08655fadd63e2a47efcf9d27d1f08f92"
   },
   {
     "type": "*",
@@ -8626,17 +7647,6 @@
   },
   {
     "type": "*",
-    "base": "rufen, rief, hat gerufen",
-    "article": null,
-    "translate": "призывать; взывать; звать; кричать; выкрикивать",
-    "context": [],
-    "originals": [
-      "rufen, rief, hat gerufen"
-    ],
-    "id": "eef9bafaf095d407f9f98a1ebc02fb56"
-  },
-  {
-    "type": "*",
     "base": "rund",
     "article": null,
     "translate": "круглый; округлый; приблизительный; кругом; приблизительно; около; вокруг",
@@ -8659,17 +7669,6 @@
   },
   {
     "type": "*",
-    "base": "runter/kommen, kam runter, ist runtergekommen",
-    "article": null,
-    "translate": "спуститься вниз",
-    "context": [],
-    "originals": [
-      "runter/kommen, kam runter, ist runtergekommen"
-    ],
-    "id": "51acf7087d6258ef55f74f10f033455f"
-  },
-  {
-    "type": "*",
     "base": "rätseln",
     "article": null,
     "translate": "гадать",
@@ -8689,17 +7688,6 @@
       "rüber"
     ],
     "id": "86d40e915c797759e4b7de2b60435ea1"
-  },
-  {
-    "type": "*",
-    "base": "rüberkommen, kam rüber, ist rübergekommen",
-    "article": null,
-    "translate": "перейти через что-то",
-    "context": [],
-    "originals": [
-      "rüberkommen, kam rüber, ist rübergekommen"
-    ],
-    "id": "cdd8520d67e80b32692b6cadd6d09b37"
   },
   {
     "type": "*",
@@ -8835,17 +7823,6 @@
   },
   {
     "type": "*",
-    "base": "scheinen, schien, hat geschienen",
-    "article": null,
-    "translate": "казаться; светить; сиять",
-    "context": [],
-    "originals": [
-      "scheinen, schien, hat geschienen"
-    ],
-    "id": "d9d7f46f6fc52b7836cbff26d4763ee9"
-  },
-  {
-    "type": "*",
     "base": "schick",
     "article": null,
     "translate": "шикарный; фешенебельный",
@@ -8854,39 +7831,6 @@
       "schick"
     ],
     "id": "bef3290c1bbb09ce9cee53c02672ab89"
-  },
-  {
-    "type": "*",
-    "base": "schieben, schob, ist geschoben",
-    "article": null,
-    "translate": "сдвигать; толкать; подталкивать; проталкивать; двигать",
-    "context": [],
-    "originals": [
-      "schieben, schob, ist geschoben"
-    ],
-    "id": "72e7687085024a0ec956f25b84c9eb68"
-  },
-  {
-    "type": "*",
-    "base": "schlafen, schlief, hat geschlafen",
-    "article": null,
-    "translate": "спать",
-    "context": [],
-    "originals": [
-      "schlafen, schlief, hat geschlafen"
-    ],
-    "id": "77dd90a8d7e24b202899497f7c620e8d"
-  },
-  {
-    "type": "*",
-    "base": "schlagen, schlug, hat geschlagen",
-    "article": null,
-    "translate": "бить; биться; хлопать; ударять; взбивать",
-    "context": [],
-    "originals": [
-      "schlagen, schlug, hat geschlagen"
-    ],
-    "id": "0a64061d277d2bc1beafac409394be73"
   },
   {
     "type": "*",
@@ -8909,17 +7853,6 @@
       "schlau"
     ],
     "id": "20b0e7c570124b757ec3c05df59e5f8a"
-  },
-  {
-    "type": "*",
-    "base": "schließen, schloss, hat geschlossen",
-    "article": null,
-    "translate": "закрывать; замыкать; запирать; заключать; заканчивать",
-    "context": [],
-    "originals": [
-      "schließen, schloss, hat geschlossen"
-    ],
-    "id": "5181a788f6270e4be163ac75b1e48ec4"
   },
   {
     "type": "*",
@@ -8967,17 +7900,6 @@
   },
   {
     "type": "*",
-    "base": "schneiden, schnitt, hat geschnitten",
-    "article": null,
-    "translate": "резать; разрезать; шинковать",
-    "context": [],
-    "originals": [
-      "schneiden, schnitt, hat geschnitten"
-    ],
-    "id": "bb7fb0be6864aa38d9bac750865f2c77"
-  },
-  {
-    "type": "*",
     "base": "schon",
     "article": null,
     "translate": "уже; ну же; уж; по-видимому",
@@ -9016,17 +7938,6 @@
   },
   {
     "type": "*",
-    "base": "schreiben, schrieb, geschrieben",
-    "article": null,
-    "translate": "писать; записывать",
-    "context": [],
-    "originals": [
-      "schreiben, schrieb, geschrieben"
-    ],
-    "id": "11a1d938e5917d16a1fd4d5398739647"
-  },
-  {
-    "type": "*",
     "base": "schriftlich",
     "article": null,
     "translate": "в письменной форме; письменный",
@@ -9038,12 +7949,12 @@
   },
   {
     "type": "*",
-    "base": "schuld sein, war schuld, ist schuld gewesen",
+    "base": "schuld sein, (war schuld, ist schuld gewesen)",
     "article": null,
     "translate": "быть виноватым",
     "context": [],
     "originals": [
-      "schuld sein, war schuld, ist schuld gewesen"
+      "schuld sein, (war schuld, ist schuld gewesen)"
     ],
     "id": "07fe20736ece286fb7be1667f7cbc99c"
   },
@@ -9071,17 +7982,6 @@
   },
   {
     "type": "*",
-    "base": "schwimmen, schwamm, ist geschwommen",
-    "article": null,
-    "translate": "плавать; заниматься плаванием; проплывать",
-    "context": [],
-    "originals": [
-      "schwimmen, schwamm, ist geschwommen"
-    ],
-    "id": "e8eb02fc1f006cdb2bc78d937caa9185"
-  },
-  {
-    "type": "*",
     "base": "schöne Ostern",
     "article": null,
     "translate": "желать счастливой пасхи",
@@ -9090,17 +7990,6 @@
       "schöne Ostern"
     ],
     "id": "c5d79c45df77592b45e4bc22bc468613"
-  },
-  {
-    "type": "*",
-    "base": "sehen, sah, hat gesehen",
-    "article": null,
-    "translate": "видеть; смотреть",
-    "context": [],
-    "originals": [
-      "sehen, sah, hat gesehen"
-    ],
-    "id": "6487dceb8be79eee9fbf6e1ec2237d4f"
   },
   {
     "type": "*",
@@ -9446,12 +8335,12 @@
   },
   {
     "type": "*",
-    "base": "sich bewerben, bewarb sich, hat sich beworben",
+    "base": "sich bewerben, (bewarb sich, hat sich beworben)",
     "article": null,
     "translate": "претендовать на должность",
     "context": [],
     "originals": [
-      "sich bewerben, bewarb sich, hat sich beworben"
+      "sich bewerben, (bewarb sich, hat sich beworben)"
     ],
     "id": "a95a12072c33824d6db8f7b7ec0b111e"
   },
@@ -9557,12 +8446,12 @@
   },
   {
     "type": "*",
-    "base": "sich etwas brechen, brach sich etwas, hat sich etwas gebrochen",
+    "base": "sich etwas brechen, (brach sich etwas, hat sich etwas gebrochen)",
     "article": null,
     "translate": "себе что-нибудь сломать",
     "context": [],
     "originals": [
-      "sich etwas brechen, brach sich etwas, hat sich etwas gebrochen"
+      "sich etwas brechen, (brach sich etwas, hat sich etwas gebrochen)"
     ],
     "id": "ec24a11e25647f546bda1a2351ba3692"
   },
@@ -9612,12 +8501,12 @@
   },
   {
     "type": "*",
-    "base": "sich gefallen lassen, ließ sich gefallen, hat sich gefallen gelassen",
+    "base": "sich gefallen lassen, (ließ sich gefallen, hat sich gefallen gelassen)",
     "article": null,
     "translate": "допускать; терпеливо сносить; терпеть; мириться (с чем-л.); позволять (что-л.)",
     "context": [],
     "originals": [
-      "sich gefallen lassen, ließ sich gefallen, hat sich gefallen gelassen"
+      "sich gefallen lassen, (ließ sich gefallen, hat sich gefallen gelassen)"
     ],
     "id": "40e79104f7dd1b49a188ff76bf8bd273"
   },
@@ -9738,12 +8627,12 @@
   },
   {
     "type": "*",
-    "base": "sich scheiden lassen, ließ sich scheiden, hat sich scheiden gelassen",
+    "base": "sich scheiden lassen, (ließ sich scheiden, hat sich scheiden gelassen)",
     "article": null,
     "translate": "развестись; разводить; разводиться",
     "context": [],
     "originals": [
-      "sich scheiden lassen, ließ sich scheiden, hat sich scheiden gelassen"
+      "sich scheiden lassen, (ließ sich scheiden, hat sich scheiden gelassen)"
     ],
     "id": "b21929b0aaa9ddad59898d207b6a25a2"
   },
@@ -9782,12 +8671,12 @@
   },
   {
     "type": "*",
-    "base": "sich verhalten, verhielt sich, hat sich verhalten",
+    "base": "sich verhalten, (verhielt sich, hat sich verhalten)",
     "article": null,
     "translate": "относиться; поступать; вести себя; держать себя; обстоять",
     "context": [],
     "originals": [
-      "sich verhalten, verhielt sich, hat sich verhalten"
+      "sich verhalten, (verhielt sich, hat sich verhalten)"
     ],
     "id": "16a22c5c7f17dfc0e644b332eaf5fa4d"
   },
@@ -9938,28 +8827,6 @@
       "sie"
     ],
     "id": "968308951fb0e3e7f3cc090401ed2dd5"
-  },
-  {
-    "type": "*",
-    "base": "singen, sang, hat gesungen",
-    "article": null,
-    "translate": "петь; распевать",
-    "context": [],
-    "originals": [
-      "singen, sang, hat gesungen"
-    ],
-    "id": "f496226dafd051f45b43b3ff654036e7"
-  },
-  {
-    "type": "*",
-    "base": "sitzen, saß, hat gesessen",
-    "article": null,
-    "translate": "сидеть; восседать; заседать",
-    "context": [],
-    "originals": [
-      "sitzen, saß, hat gesessen"
-    ],
-    "id": "7e8dc9d6183e8df48cc35bdc7292a93a"
   },
   {
     "type": "*",
@@ -10246,17 +9113,6 @@
   },
   {
     "type": "*",
-    "base": "springen, sprang, ist gesprungen",
-    "article": null,
-    "translate": "прыгать; перепрыгивать; скакать; подпрыгивать; спрыгивать; запрыгать",
-    "context": [],
-    "originals": [
-      "springen, sprang, ist gesprungen"
-    ],
-    "id": "005d5ed2530e204cf97b3c09627f570e"
-  },
-  {
-    "type": "*",
     "base": "spät",
     "article": null,
     "translate": "поздний; поздно; запоздалый",
@@ -10300,17 +9156,6 @@
   },
   {
     "type": "*",
-    "base": "statt/finden, fand statt, hat stattgefunden",
-    "article": null,
-    "translate": "состоиться; происходить; идти",
-    "context": [],
-    "originals": [
-      "statt/finden, fand statt, hat stattgefunden"
-    ],
-    "id": "ad214f473e49361933ef093d15d18526"
-  },
-  {
-    "type": "*",
     "base": "stehen bleiben, blieb stehen, ist stehen geblieben",
     "article": null,
     "translate": "останавливаться",
@@ -10319,39 +9164,6 @@
       "stehen bleiben, blieb stehen, ist stehen geblieben"
     ],
     "id": "e18630a0a38f7ce944f03e8b7c0badf3"
-  },
-  {
-    "type": "*",
-    "base": "stehen, stand, hat gestanden",
-    "article": null,
-    "translate": "стоять; иметься; быть; находиться; быть в наличии",
-    "context": [],
-    "originals": [
-      "stehen, stand, hat gestanden"
-    ],
-    "id": "8980a2be18945aba6606db1e3e44818b"
-  },
-  {
-    "type": "*",
-    "base": "stehlen, stahl, hat gestohlen",
-    "article": null,
-    "translate": "воровать; красть; похищать; угонять",
-    "context": [],
-    "originals": [
-      "stehlen, stahl, hat gestohlen"
-    ],
-    "id": "cb1f1ae0978c40edfcfabac1e18930df"
-  },
-  {
-    "type": "*",
-    "base": "steigen, stieg, ist gestiegen",
-    "article": null,
-    "translate": "подниматься; восходить; увеличиваться; повышаться; расти; лезть",
-    "context": [],
-    "originals": [
-      "steigen, stieg, ist gestiegen"
-    ],
-    "id": "17ca47b1e57ef7ceca5cb0561d2c5da1"
   },
   {
     "type": "*",
@@ -10366,17 +9178,6 @@
   },
   {
     "type": "*",
-    "base": "sterben, starb, ist gestorben",
-    "article": null,
-    "translate": "умирать",
-    "context": [],
-    "originals": [
-      "sterben, starb, ist gestorben"
-    ],
-    "id": "aa1850fba3c32361922c492889b540f7"
-  },
-  {
-    "type": "*",
     "base": "still",
     "article": null,
     "translate": "тихо; безмолвный; тихий; спокойный; неподвижный; смирный; безмятежный; спокойно; смирно",
@@ -10385,17 +9186,6 @@
       "still"
     ],
     "id": "95ccd866c2b621c2a07a0bd0ecd876c1"
-  },
-  {
-    "type": "*",
-    "base": "stinken, stank, hat gestunken",
-    "article": null,
-    "translate": "вонять; смердеть; дурно пахнуть",
-    "context": [],
-    "originals": [
-      "stinken, stank, hat gestunken"
-    ],
-    "id": "1193282bf1b3004b6986a348b2fc7e8b"
   },
   {
     "type": "*",
@@ -10418,17 +9208,6 @@
       "streiten sich"
     ],
     "id": "b34ad1635dc5349380203a45018d8f6e"
-  },
-  {
-    "type": "*",
-    "base": "streiten, stritt, hat gestritten",
-    "article": null,
-    "translate": "ссориться; препираться; спорить",
-    "context": [],
-    "originals": [
-      "streiten, stritt, hat gestritten"
-    ],
-    "id": "914ca4dfb2f08ace9ee029b9928f5fcc"
   },
   {
     "type": "*",
@@ -10531,17 +9310,6 @@
   },
   {
     "type": "*",
-    "base": "teil/nehmen, nahm teil, hat teilgenommen",
-    "article": null,
-    "translate": "участвовать; состязаться; принимать участие",
-    "context": [],
-    "originals": [
-      "teil/nehmen, nahm teil, hat teilgenommen"
-    ],
-    "id": "572484dbc5455c974da2a985f5b7a706"
-  },
-  {
-    "type": "*",
     "base": "tolerant",
     "article": null,
     "translate": "толерантный; терпимый; снисходительный",
@@ -10550,17 +9318,6 @@
       "tolerant"
     ],
     "id": "c8405c0e741e59a3f18eadce3ddaa205"
-  },
-  {
-    "type": "*",
-    "base": "tragen, trug, hat getragen",
-    "article": null,
-    "translate": "носить; нести; понести; одеваться; быть одетым; вынашивать",
-    "context": [],
-    "originals": [
-      "tragen, trug, hat getragen"
-    ],
-    "id": "77b248a0a50a2263a59610f47cbd4983"
   },
   {
     "type": "*",
@@ -10575,17 +9332,6 @@
   },
   {
     "type": "*",
-    "base": "treffen, traf, hat getroffen",
-    "article": null,
-    "translate": "встречать; встречаться",
-    "context": [],
-    "originals": [
-      "treffen, traf, hat getroffen"
-    ],
-    "id": "de8d44a92e129d5f22b491e385f619ad"
-  },
-  {
-    "type": "*",
     "base": "treiben Sport",
     "article": null,
     "translate": "заниматься спортом",
@@ -10594,28 +9340,6 @@
       "treiben Sport"
     ],
     "id": "17b3c70cfc464611cea6e343e862fdba"
-  },
-  {
-    "type": "*",
-    "base": "treiben, trieb, hat getrieben",
-    "article": null,
-    "translate": "гнать; заниматься; вести; приводить в движение; дрейфовать; плыть по течению",
-    "context": [],
-    "originals": [
-      "treiben, trieb, hat getrieben"
-    ],
-    "id": "3113641f1c1ce2e2212c5df4a5339235"
-  },
-  {
-    "type": "*",
-    "base": "trinken, trank, hat getrunken",
-    "article": null,
-    "translate": "пить; выпить",
-    "context": [],
-    "originals": [
-      "trinken, trank, hat getrunken"
-    ],
-    "id": "4986c9c203b593f2aa8a871a731de4cc"
   },
   {
     "type": "*",
@@ -10783,28 +9507,6 @@
   },
   {
     "type": "*",
-    "base": "um/steigen, stieg um, ist umgestiegen",
-    "article": null,
-    "translate": "сделать пересадку; пересаживать; пересаживаться",
-    "context": [],
-    "originals": [
-      "um/steigen, stieg um, ist umgestiegen"
-    ],
-    "id": "3cea1b6f0be649470ddee01858e44aec"
-  },
-  {
-    "type": "*",
-    "base": "um/ziehen, zog um, ist umgezogen",
-    "article": null,
-    "translate": "переезжать; переодеваться",
-    "context": [],
-    "originals": [
-      "um/ziehen, zog um, ist umgezogen"
-    ],
-    "id": "a6d34729515ef6ca8bdaea6ac35d794a"
-  },
-  {
-    "type": "*",
     "base": "unbedingt",
     "article": null,
     "translate": "обязательный; обязательно; непременно",
@@ -10886,28 +9588,6 @@
   },
   {
     "type": "*",
-    "base": "unterscheiden, unterschied, hat unterschieden",
-    "article": null,
-    "translate": "отличаться; различаться; отличать; различать",
-    "context": [],
-    "originals": [
-      "unterscheiden, unterschied, hat unterschieden"
-    ],
-    "id": "dd9a0a352417d382118a31f18a6008b9"
-  },
-  {
-    "type": "*",
-    "base": "unterschreiben, unterschrieb, hat unterschrieben",
-    "article": null,
-    "translate": "подписывать; подписываться",
-    "context": [],
-    "originals": [
-      "unterschreiben, unterschrieb, hat unterschrieben"
-    ],
-    "id": "388519fb898dea04c15fc9362c8aa3fd"
-  },
-  {
-    "type": "*",
     "base": "unterwegs",
     "article": null,
     "translate": "в дороге; в пути; попутный",
@@ -10952,17 +9632,6 @@
   },
   {
     "type": "*",
-    "base": "verbinden, verband, hat verbunden",
-    "article": null,
-    "translate": "соединять; связывать; сочетать; совмещать; перевязывать",
-    "context": [],
-    "originals": [
-      "verbinden, verband, hat verbunden"
-    ],
-    "id": "83b7d470910872262e28e02645b8f88b"
-  },
-  {
-    "type": "*",
     "base": "verbringen, verbrachte, hat verbracht",
     "article": null,
     "translate": "проводить; коротать; пребывать",
@@ -10982,17 +9651,6 @@
       "vergeblich"
     ],
     "id": "c1fa62c9264b251431779e5a36cfbfd8"
-  },
-  {
-    "type": "*",
-    "base": "vergessen, vergaß, hat vergessen",
-    "article": null,
-    "translate": "забывать; запамятовать",
-    "context": [],
-    "originals": [
-      "vergessen, vergaß, hat vergessen"
-    ],
-    "id": "204d1bef63c9905c76de23133ac1e391"
   },
   {
     "type": "*",
@@ -11035,17 +9693,6 @@
   },
   {
     "type": "*",
-    "base": "verlassen, verließ, hat verlassen",
-    "article": null,
-    "translate": "покидать; оставлять; уезжать",
-    "context": [],
-    "originals": [
-      "verlassen, verließ, hat verlassen"
-    ],
-    "id": "958ebf70ed00339a4a6f1420c027e3a3"
-  },
-  {
-    "type": "*",
     "base": "verletzt",
     "article": null,
     "translate": "раненый; пострадавший; поврежденный; оскорбленный",
@@ -11065,17 +9712,6 @@
       "verliebt"
     ],
     "id": "fa924c4f39325a9469cee20d2817fbe6"
-  },
-  {
-    "type": "*",
-    "base": "verlieren, verlor, hat verloren",
-    "article": null,
-    "translate": "терять; упускать; растерять; утрачивать; лишаться",
-    "context": [],
-    "originals": [
-      "verlieren, verlor, hat verloren"
-    ],
-    "id": "44851cba6d6f196ab8e52eb67f6d1e10"
   },
   {
     "type": "*",
@@ -11101,17 +9737,6 @@
   },
   {
     "type": "*",
-    "base": "verraten, verriet, hat verraten",
-    "article": null,
-    "translate": "предавать; разглашать",
-    "context": [],
-    "originals": [
-      "verraten, verriet, hat verraten"
-    ],
-    "id": "e4256969fd87ff40680cb19451dd80fc"
-  },
-  {
-    "type": "*",
     "base": "verrückt",
     "article": null,
     "translate": "сумасшедший; сдвинутый; ненормальный",
@@ -11131,17 +9756,6 @@
       "verschidene"
     ],
     "id": "9618a62261032767dfbe1b730fe7812f"
-  },
-  {
-    "type": "*",
-    "base": "verschieben, verschob, hat verschoben",
-    "article": null,
-    "translate": "перемещать; передвигать; смещать",
-    "context": [],
-    "originals": [
-      "verschieben, verschob, hat verschoben"
-    ],
-    "id": "016ee88242987af164bcbad1e099c0d6"
   },
   {
     "type": "*",
@@ -11167,39 +9781,6 @@
   },
   {
     "type": "*",
-    "base": "versprechen, versprach, hat versprochen",
-    "article": null,
-    "translate": "обещать; сулить; предвещать; дать обещание",
-    "context": [],
-    "originals": [
-      "versprechen, versprach, hat versprochen"
-    ],
-    "id": "a795c1f9f1ce07d7d7bab1cf33dea243"
-  },
-  {
-    "type": "*",
-    "base": "verstehen, verstand, hat verstanden",
-    "article": null,
-    "translate": "понимать; усвоить; сообразить",
-    "context": [],
-    "originals": [
-      "verstehen, verstand, hat verstanden"
-    ],
-    "id": "3889bbd563740b8a70649c5c68476b3e"
-  },
-  {
-    "type": "*",
-    "base": "vertreten, vertrat, hat vertreten",
-    "article": null,
-    "translate": "представлять; замещать; заменять; защищать",
-    "context": [],
-    "originals": [
-      "vertreten, vertrat, hat vertreten"
-    ],
-    "id": "7f6d89bdc9f779f5b2d48c5217aec272"
-  },
-  {
-    "type": "*",
     "base": "verwechseln",
     "article": null,
     "translate": "путать; смешивать; мешать",
@@ -11219,17 +9800,6 @@
       "verwitwet"
     ],
     "id": "d52c93175ad499a62acc8d4762a1d714"
-  },
-  {
-    "type": "*",
-    "base": "verzeihen, verzieh, hat verziehen",
-    "article": null,
-    "translate": "прощать; извинять",
-    "context": [],
-    "originals": [
-      "verzeihen, verzieh, hat verziehen"
-    ],
-    "id": "0093faaac13cfdf451f483d7529979a3"
   },
   {
     "type": "*",
@@ -11430,50 +10000,6 @@
   },
   {
     "type": "*",
-    "base": "vor/haben, hatte vor, hat vorgehabt",
-    "article": null,
-    "translate": "планировать; намереваться; замышлять; иметь намерение",
-    "context": [],
-    "originals": [
-      "vor/haben, hatte vor, hat vorgehabt"
-    ],
-    "id": "b867734ef455b16a9de170001e3b9fcc"
-  },
-  {
-    "type": "*",
-    "base": "vor/kommen, kam vor, ist vorgekommen",
-    "article": null,
-    "translate": "происходить; иметь место; случаться; встречаться; произрастать",
-    "context": [],
-    "originals": [
-      "vor/kommen, kam vor, ist vorgekommen"
-    ],
-    "id": "bd46f6f22d3964281fff68cd35bd828b"
-  },
-  {
-    "type": "*",
-    "base": "vor/schlagen, schlug vor, hat vorgeschlagen",
-    "article": null,
-    "translate": "предлагать; выдвигать; представлять",
-    "context": [],
-    "originals": [
-      "vor/schlagen, schlug vor, hat vorgeschlagen"
-    ],
-    "id": "afe9811e67c1dc16270522e773112306"
-  },
-  {
-    "type": "*",
-    "base": "vor/ziehen, zog vor, hat vorgezogen",
-    "article": null,
-    "translate": "предпочитать; выдвигать",
-    "context": [],
-    "originals": [
-      "vor/ziehen, zog vor, hat vorgezogen"
-    ],
-    "id": "f2ca218c8ec6c0477d79c752194abcbc"
-  },
-  {
-    "type": "*",
     "base": "voraus",
     "article": null,
     "translate": "впереди; вперед; раньше",
@@ -11493,17 +10019,6 @@
       "vorbei"
     ],
     "id": "04b61f21c7e11e6333a846be15a863e6"
-  },
-  {
-    "type": "*",
-    "base": "vorbei/rennen, rannte vorbei, ist vorbeigerannt",
-    "article": null,
-    "translate": "бежать мимо; пробегать",
-    "context": [],
-    "originals": [
-      "vorbei/rennen, rannte vorbei, ist vorbeigerannt"
-    ],
-    "id": "31040e0e7576f7455c1ffae2ebeec59e"
   },
   {
     "type": "*",
@@ -11603,17 +10118,6 @@
       "wach"
     ],
     "id": "cb70228fb4e64a18310b006da271e349"
-  },
-  {
-    "type": "*",
-    "base": "wachsen, wuchs, ist gewachsen",
-    "article": null,
-    "translate": "расти; вырастать; произрастать; возрастать; нарастать; увеличиваться; развиваться; расширяться",
-    "context": [],
-    "originals": [
-      "wachsen, wuchs, ist gewachsen"
-    ],
-    "id": "7cfe80af44d5e146cb2261a37d81aa9d"
   },
   {
     "type": "*",
@@ -11750,28 +10254,6 @@
   },
   {
     "type": "*",
-    "base": "waschen (Wäsche)",
-    "article": null,
-    "translate": "стирать",
-    "context": [],
-    "originals": [
-      "waschen (Wäsche)"
-    ],
-    "id": "2b6094aa6d6b2989bbbcfb414e567ddf"
-  },
-  {
-    "type": "*",
-    "base": "waschen, wusch, hat gewaschen",
-    "article": null,
-    "translate": "мыть; стирать; промывать; обмывать; отмывать",
-    "context": [],
-    "originals": [
-      "waschen, wusch, hat gewaschen"
-    ],
-    "id": "20c7151c567689ded6d3b10215a0b6a0"
-  },
-  {
-    "type": "*",
     "base": "wechseln",
     "article": null,
     "translate": "менять(ся); обменивать; разменивать; менять; сменять; менять место; чередоваться; чередовать; сменяться; перемежаться",
@@ -11818,17 +10300,6 @@
       "weg sein, war weg, ist weg gewesen"
     ],
     "id": "a8f388d6e987c5a8eb8e5893a310fcdb"
-  },
-  {
-    "type": "*",
-    "base": "weg/werfen, warf weg, hat weggeworfen",
-    "article": null,
-    "translate": "выбрасывать; выкидывать; бросать; забрасывать; отбрасывать",
-    "context": [],
-    "originals": [
-      "weg/werfen, warf weg, hat weggeworfen"
-    ],
-    "id": "0944aa6ed27538d4d2c6c38deae02658"
   },
   {
     "type": "*",
@@ -12035,17 +10506,6 @@
   },
   {
     "type": "*",
-    "base": "werden, wurde, ist geworden",
-    "article": null,
-    "translate": "быть; стать; делаться",
-    "context": [],
-    "originals": [
-      "werden, wurde, ist geworden"
-    ],
-    "id": "50346ecfe86e1d14cdbf99b86b8c750c"
-  },
-  {
-    "type": "*",
     "base": "werktags",
     "article": null,
     "translate": "по рабочим дням",
@@ -12065,17 +10525,6 @@
       "weshalb"
     ],
     "id": "9aa04c90d25c30dbf2ac9639e0d06a1c"
-  },
-  {
-    "type": "*",
-    "base": "widersprechen, widersprach, hat widersprochen",
-    "article": null,
-    "translate": "противоречить; возражать",
-    "context": [],
-    "originals": [
-      "widersprechen, widersprach, hat widersprochen"
-    ],
-    "id": "9c1c7dd0af5ce3157ab0046e98076aa5"
   },
   {
     "type": "*",
@@ -12449,17 +10898,6 @@
   },
   {
     "type": "*",
-    "base": "ziehen, zog, ist gezogen",
-    "article": null,
-    "translate": "тянуть; вытягивать; вытаскивать; тащить; дергать; натягивать; перетаскивать; перетягивать",
-    "context": [],
-    "originals": [
-      "ziehen, zog, ist gezogen"
-    ],
-    "id": "f4ad4705a7315dcf2af594cbce11f3da"
-  },
-  {
-    "type": "*",
     "base": "ziemlich",
     "article": null,
     "translate": "довольно; достаточно; изрядно; примерно; приблизительно; порядочный",
@@ -12589,17 +11027,6 @@
   },
   {
     "type": "*",
-    "base": "zu/nehmen, nahm zu, hat zugenommen",
-    "article": null,
-    "translate": "увеличиваться; возрастать; нарастать; расти; прибавлять в весе; прибавлять",
-    "context": [],
-    "originals": [
-      "zu/nehmen, nahm zu, hat zugenommen"
-    ],
-    "id": "d4f302678dfb2872cf3e8eb23213cda6"
-  },
-  {
-    "type": "*",
     "base": "zu/senden, sandte zu, hat zugesandt",
     "article": null,
     "translate": "высылать; присылать; доставлять",
@@ -12687,17 +11114,6 @@
   },
   {
     "type": "*",
-    "base": "zurecht/kommen, kam zurecht, ist zurechtgekommen",
-    "article": null,
-    "translate": "справляться; успевать; устраивать",
-    "context": [],
-    "originals": [
-      "zurecht/kommen, kam zurecht, ist zurechtgekommen"
-    ],
-    "id": "fcdd8fd8e9a3dba71cf26b6f15cdab5a"
-  },
-  {
-    "type": "*",
     "base": "zurzeit",
     "article": null,
     "translate": "в настоящее время; в настоящий момент; на данный момент",
@@ -12736,39 +11152,6 @@
   },
   {
     "type": "*",
-    "base": "zurück/fahren, fuhr zurück, ist zurückgefahren",
-    "article": null,
-    "translate": "ехать обратно; возвращаться",
-    "context": [],
-    "originals": [
-      "zurück/fahren, fuhr zurück, ist zurückgefahren"
-    ],
-    "id": "6a2d3b63980171e998b9d25eef1c9205"
-  },
-  {
-    "type": "*",
-    "base": "zurück/kommen, kam zurück, ist zurückgekommen",
-    "article": null,
-    "translate": "возвращаться",
-    "context": [],
-    "originals": [
-      "zurück/kommen, kam zurück, ist zurückgekommen"
-    ],
-    "id": "74225976f4ea5cfdfad25d6a02742d22"
-  },
-  {
-    "type": "*",
-    "base": "zurück/rufen, rief zurück, hat zurückgerufen",
-    "article": null,
-    "translate": "перезванивать; отзывать",
-    "context": [],
-    "originals": [
-      "zurück/rufen, rief zurück, hat zurückgerufen"
-    ],
-    "id": "6057f37f6fbeaf0c145900fdf38cb59c"
-  },
-  {
-    "type": "*",
     "base": "zwar...aber",
     "article": null,
     "translate": "хотя...но",
@@ -12799,17 +11182,6 @@
       "zweifeln"
     ],
     "id": "b5078f6e62e67c7816237db32c46b0c7"
-  },
-  {
-    "type": "*",
-    "base": "zwingen, zwang, hat gezwungen",
-    "article": null,
-    "translate": "заставлять; вынуждать; принуждать; понуждать",
-    "context": [],
-    "originals": [
-      "zwingen, zwang, hat gezwungen"
-    ],
-    "id": "d89dca1afc387b5c2f0874dad514de7c"
   },
   {
     "type": "*",
@@ -12975,17 +11347,6 @@
       "überhaupt"
     ],
     "id": "a7bd38067125dfecb8af196bc4b8b4cb"
-  },
-  {
-    "type": "*",
-    "base": "übernehmen, übernahm, hat übernommen",
-    "article": null,
-    "translate": "брать на себя; браться; взяться; перенимать",
-    "context": [],
-    "originals": [
-      "übernehmen, übernahm, hat übernommen"
-    ],
-    "id": "ef25898cf698e4d997e94ed04e739068"
   },
   {
     "type": "*",

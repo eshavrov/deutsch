@@ -1,6 +1,30 @@
 [
   {
     "type": "verb",
+    "base": "abbiegen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "ab",
+      "_form": {
+        "base": "bieg",
+        "ich": "biege ab",
+        "du": "biegst ab",
+        "er,sie,es": "biegt ab",
+        "wir": "biegen ab",
+        "ihr": "biegt ab",
+        "sie,Sie": "biegen ab"
+      }
+    },
+    "translate": "сворачивать; поворачивать; свернуть в сторону",
+    "context": [],
+    "originals": [
+      "ab/biegen, bog ab, ist abgebogen"
+    ],
+    "id": "78d778906ac4fa21edd6453c8a7ac982"
+  },
+  {
+    "type": "verb",
     "base": "abfahren",
     "article": null,
     "config": {
@@ -16,7 +40,7 @@
         "sie,Sie": "fahren ab"
       }
     },
-    "translate": "отправляться; уезжать; уйти; отъезжать",
+    "translate": "отправляться; уезжать; уйти; отъезжать; выезжать; поехать",
     "context": [
       [
         "Wir fahren um zwölf Uhr ab.",
@@ -25,7 +49,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "abfahren"
+      "ab/fahren, fuhr ab, ist abgefahren"
     ],
     "id": "8dfd9e821f154b4898224c32b6d60635"
   },
@@ -55,7 +79,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "abfliegen"
+      "ab/fliegen, flog ab, ist abgeflogen"
     ],
     "id": "d19b0831cdaf5b9377e16960a3fa858e"
   },
@@ -85,7 +109,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "abgeben"
+      "ab/geben, , gab ab, hat abgegeben"
     ],
     "id": "b67540747542fef8a3252023c020cb04"
   },
@@ -166,13 +190,13 @@
         "sie,Sie": "nehmen ab"
       }
     },
-    "translate": "худеть",
+    "translate": "уменьшаться; снижаться; убывать; понижать; ослабевать; худеть; отбирать",
     "context": [],
-    "irregular": true,
     "originals": [
-      "abnehmen"
+      "ab/nehmen, (nahm ab, hat abgenommen)"
     ],
-    "id": "79cab906e230d323f506528d9c2c5434"
+    "id": "79cab906e230d323f506528d9c2c5434",
+    "irregular": true
   },
   {
     "type": "verb",
@@ -197,6 +221,30 @@
       "absagen"
     ],
     "id": "f7aedd94749d91838b48d6afd576b333"
+  },
+  {
+    "type": "verb",
+    "base": "abschließen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "ab",
+      "_form": {
+        "base": "schließ",
+        "ich": "schließe ab",
+        "du": "schließt ab",
+        "er,sie,es": "schließt ab",
+        "wir": "schließen ab",
+        "ihr": "schließt ab",
+        "sie,Sie": "schließen ab"
+      }
+    },
+    "translate": "оканчивать; заключать; завершать; заканчивать; запирать",
+    "context": [],
+    "originals": [
+      "ab/schließen, schloss ab, hat abgeschlossen"
+    ],
+    "id": "f0cd851938cec3dfcf396f7371163e29"
   },
   {
     "type": "verb",
@@ -381,7 +429,7 @@
         "sie,Sie": "bieten an"
       }
     },
-    "translate": "предлагать; предложить; угощать; угостить",
+    "translate": "предлагать; предложить; угощать; угостить; подавать; напрашиваться; вызываться",
     "context": [
       [
         "Was darf ich dir anbieten?",
@@ -390,7 +438,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "anbieten"
+      "an/bieten, bot an, hat angeboten"
     ],
     "id": "7b249c2eb6a0b3ddf453026914a66d35"
   },
@@ -448,7 +496,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "anfangen"
+      "an/fangen, fing an, hat angefangen"
     ],
     "id": "bd00d5781422009a82dc4d8050d302ce"
   },
@@ -475,6 +523,30 @@
       "angeboten"
     ],
     "id": "66688f3b18ef65a24f5fc6be40bc4902"
+  },
+  {
+    "type": "verb",
+    "base": "angehen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "an",
+      "_form": {
+        "base": "geh",
+        "ich": "gehe an",
+        "du": "gehst an",
+        "er,sie,es": "geht an",
+        "wir": "gehen an",
+        "ihr": "geht an",
+        "sie,Sie": "gehen an"
+      }
+    },
+    "translate": "действовать; выступать; зажигаться; включаться; приниматься; приняться",
+    "context": [],
+    "originals": [
+      "an/gehen, (ging an, ist angegangen)"
+    ],
+    "id": "fcf89499cf25ca3d20062c85afc4f4b7"
   },
   {
     "type": "verb",
@@ -527,6 +599,30 @@
   },
   {
     "type": "verb",
+    "base": "anhalten",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "an",
+      "_form": {
+        "base": "halt",
+        "ich": "halte an",
+        "du": "haltest an",
+        "er,sie,es": "haltet an",
+        "wir": "halten an",
+        "ihr": "haltet an",
+        "sie,Sie": "halten an"
+      }
+    },
+    "translate": "приостанавливать; останавливать; удерживать; делать остановку",
+    "context": [],
+    "originals": [
+      "an/halten, (hielt an, hat angehalten)"
+    ],
+    "id": "74eb9286d9100dc2bd8e467f69f3df6c"
+  },
+  {
+    "type": "verb",
     "base": "anklicken",
     "article": null,
     "config": {
@@ -572,7 +668,7 @@
         "sie,Sie": "kommen an"
       }
     },
-    "translate": "прибывать; приезжать",
+    "translate": "прибывать; приезжать; прилетать; приходить; быть принятым",
     "context": [
       [
         "Wann kommt dieser Zug in Hamburg an?",
@@ -581,7 +677,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "ankommen"
+      "an/kommen, kam an, ist angekommen"
     ],
     "id": "729b4417c7e27a2046f0cb29d7bea158"
   },
@@ -716,10 +812,10 @@
         "sie,Sie": "nehmen an"
       }
     },
-    "translate": "принимать; допускать",
+    "translate": "принимать; допускать; приобретать; воспринимать",
     "context": [],
     "originals": [
-      "annehmen"
+      "an/nehmen, (nahm an, hat angenommen)"
     ],
     "id": "5adfa6238d669b737dea86d6831b85d5"
   },
@@ -764,7 +860,7 @@
         "sie,Sie": "rufen an"
       }
     },
-    "translate": "звонить (по телефону); звонить по телефону; окликать; звать; звонить",
+    "translate": "звонить (по телефону); звонить по телефону; окликать; звать; звонить; вызвать по телефону",
     "context": [
       [
         "Kann man Sie anrufen?",
@@ -777,7 +873,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "anrufen"
+      "an/rufen, rief an, hat angerufen"
     ],
     "id": "1b53caaad1c81465f5aa6fbf30a4d7b7"
   },
@@ -855,6 +951,30 @@
   },
   {
     "type": "verb",
+    "base": "anschreien",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "an",
+      "_form": {
+        "base": "schrei",
+        "ich": "schreie an",
+        "du": "schreist an",
+        "er,sie,es": "schreit an",
+        "wir": "schreien an",
+        "ihr": "schreit an",
+        "sie,Sie": "schreien an"
+      }
+    },
+    "translate": "накричать; прикрикнуть",
+    "context": [],
+    "originals": [
+      "an/schreien, (schrie an, hat angeschrien)"
+    ],
+    "id": "b255aa4217db3b9b218503f2d237aa06"
+  },
+  {
+    "type": "verb",
     "base": "anschuldigen",
     "article": null,
     "config": {
@@ -876,6 +996,30 @@
       "anschuldigen"
     ],
     "id": "da921e8f1f6a346aba57598aaee51b53"
+  },
+  {
+    "type": "verb",
+    "base": "ansehen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "an",
+      "_form": {
+        "base": "seh",
+        "ich": "sehe an",
+        "du": "sehst an",
+        "er,sie,es": "seht an",
+        "wir": "sehen an",
+        "ihr": "seht an",
+        "sie,Sie": "sehen an"
+      }
+    },
+    "translate": "смотреть; глядеть; взирать; рассматривать",
+    "context": [],
+    "originals": [
+      "an/sehen, (sah an, hat angesehen)"
+    ],
+    "id": "ebb8afc2704d44517e19869ad7116d26"
   },
   {
     "type": "verb",
@@ -924,7 +1068,7 @@
         "sie,Sie": "ziehen an"
       }
     },
-    "translate": "надевать (одежду); надевать",
+    "translate": "надевать (одежду); надевать; привлекать; одеваться; тянуть",
     "context": [
       [
         "Ich muss mich noch anziehen.",
@@ -933,7 +1077,8 @@
     ],
     "level": "A-1",
     "originals": [
-      "(sich) anziehen"
+      "(sich) anziehen",
+      "anziehen, zog an, ist angezogen"
     ],
     "id": "f4ab2a609ec2764a3f1632867225563b"
   },
@@ -1012,6 +1157,30 @@
       "auffallen"
     ],
     "id": "8e1d8cb9361448a860787b8ea57061d7"
+  },
+  {
+    "type": "verb",
+    "base": "aufheben",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "auf",
+      "_form": {
+        "base": "heb",
+        "ich": "hebe auf",
+        "du": "hebst auf",
+        "er,sie,es": "hebt auf",
+        "wir": "heben auf",
+        "ihr": "hebt auf",
+        "sie,Sie": "heben auf"
+      }
+    },
+    "translate": "упразднять; снимать; устранять; приподнимать; поднимать",
+    "context": [],
+    "originals": [
+      "auf/heben, (hob auf, hat aufgehoben)"
+    ],
+    "id": "d7ed1cca6067662755700bff50f7a273"
   },
   {
     "type": "verb",
@@ -1145,6 +1314,30 @@
   },
   {
     "type": "verb",
+    "base": "aufschreiben",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "auf",
+      "_form": {
+        "base": "schreib",
+        "ich": "schreibe auf",
+        "du": "schreibst auf",
+        "er,sie,es": "schreibt auf",
+        "wir": "schreiben auf",
+        "ihr": "schreibt auf",
+        "sie,Sie": "schreiben auf"
+      }
+    },
+    "translate": "записать; записывать; отмечать",
+    "context": [],
+    "originals": [
+      "auf/schreiben, schrieb auf, hat aufgeschrieben"
+    ],
+    "id": "c273b754965a0b4c0c5cdf0c6153c943"
+  },
+  {
+    "type": "verb",
     "base": "aufstehen",
     "article": null,
     "config": {
@@ -1160,7 +1353,7 @@
         "sie,Sie": "stehen auf"
       }
     },
-    "translate": "вставать; подниматься; просыпаться",
+    "translate": "вставать; подниматься; просыпаться; вставать с постели",
     "context": [
       [
         "Ich muss immer um vier Uhr aufstehen.",
@@ -1173,7 +1366,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "aufstehen"
+      "auf/stehen, stand auf, ist aufgestanden"
     ],
     "id": "38135a5594c6b115439b0fa67b06b5c2"
   },
@@ -1297,12 +1490,36 @@
         "sie,Sie": "geben aus"
       }
     },
-    "translate": "тратить",
+    "translate": "тратить; расходовать; затрачивать; растрачивать; выдавать; выпускать",
     "context": [],
     "originals": [
-      "ausgeben"
+      "aus/geben, gab aus, hat ausgegeben"
     ],
     "id": "abaec0be69a3db2ba320f3a50ee43cdb"
+  },
+  {
+    "type": "verb",
+    "base": "ausgehen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "aus",
+      "_form": {
+        "base": "geh",
+        "ich": "gehe aus",
+        "du": "gehst aus",
+        "er,sie,es": "geht aus",
+        "wir": "gehen aus",
+        "ihr": "geht aus",
+        "sie,Sie": "gehen aus"
+      }
+    },
+    "translate": "исходить; гаснуть; выходить; заканчиваться; иссякать",
+    "context": [],
+    "originals": [
+      "aus/gehen, ging aus, ist ausgegangen"
+    ],
+    "id": "6afd7da74c35419cae1dc1a49d40eb3f"
   },
   {
     "type": "verb",
@@ -1351,6 +1568,30 @@
       "auskommen"
     ],
     "id": "378afda09ced14a2571950cee44902db"
+  },
+  {
+    "type": "verb",
+    "base": "ausleihen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "aus",
+      "_form": {
+        "base": "leih",
+        "ich": "leihe aus",
+        "du": "leihst aus",
+        "er,sie,es": "leiht aus",
+        "wir": "leihen aus",
+        "ihr": "leiht aus",
+        "sie,Sie": "leihen aus"
+      }
+    },
+    "translate": "давать напрокат; давать взаймы; давать во временное пользование; ссужать",
+    "context": [],
+    "originals": [
+      "aus/leihen, lieh aus, hat ausgeliehen"
+    ],
+    "id": "5743fae86026678f6e1f8f3ee0bde5e9"
   },
   {
     "type": "verb",
@@ -1495,10 +1736,10 @@
         "sie,Sie": "schließen aus"
       }
     },
-    "translate": "исключать",
+    "translate": "исключать; отчислять; отстранять; исключать себя",
     "context": [],
     "originals": [
-      "ausschließen"
+      "aus/schließen, (schloss aus, hat ausgeschlossen)"
     ],
     "id": "ad470b812ac9a378e3f5b81bf2eea79c"
   },
@@ -1519,7 +1760,7 @@
         "sie,Sie": "sehen aus"
       }
     },
-    "translate": "выглядеть; иметь вид",
+    "translate": "выглядеть; иметь вид; смотреться; казаться; быть похожим",
     "context": [
       [
         "Das sieht schön aus.",
@@ -1528,9 +1769,33 @@
     ],
     "level": "A-1",
     "originals": [
-      "aussehen"
+      "aus/sehen, sah aus, hat ausgesehen"
     ],
     "id": "b83c4754a5fccd748c8ae9ed06ee51cc"
+  },
+  {
+    "type": "verb",
+    "base": "aussprechen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "aus",
+      "_form": {
+        "base": "sprech",
+        "ich": "spreche aus",
+        "du": "sprechst aus",
+        "er,sie,es": "sprecht aus",
+        "wir": "sprechen aus",
+        "ihr": "sprecht aus",
+        "sie,Sie": "sprechen aus"
+      }
+    },
+    "translate": "произносить; выговаривать; высказывать; высказываться",
+    "context": [],
+    "originals": [
+      "aus/sprechen, (sprach aus, hat ausgesprochen)"
+    ],
+    "id": "f7f2aaa8381bbec12ebc76a86c788675"
   },
   {
     "type": "verb",
@@ -1549,7 +1814,7 @@
         "sie,Sie": "steigen aus"
       }
     },
-    "translate": "выходить; высаживаться; выходить из транспорта",
+    "translate": "выходить; высаживаться; выходить из транспорта; вылезать; покидать",
     "context": [
       [
         "Wo muss ich aussteigen?",
@@ -1558,7 +1823,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "aussteigen"
+      "aus/steigen, stieg aus, ist ausgestiegen"
     ],
     "id": "18c5e0bab0ac9d434a3264081484f53a"
   },
@@ -1657,10 +1922,10 @@
         "sie,Sie": "backen"
       }
     },
-    "translate": "печь; выпекать; запекать",
+    "translate": "печь; выпекать; запекать; выпекать хлеб",
     "context": [],
     "originals": [
-      "backen"
+      "backen, backte, hat gebacken"
     ],
     "id": "ef8b780af414fd74bd06543b325483fb",
     "irregular": true
@@ -1925,7 +2190,7 @@
         "sie,Sie": "beginnen"
       }
     },
-    "translate": "затевать; начинать; предпринимать; делать; начинаться",
+    "translate": "затевать; начинать; предпринимать; делать; начинаться; приняться; приступать",
     "context": [
       [
         "Das Spiel beginnt um 15.30 Uhr.",
@@ -1934,7 +2199,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "beginnen"
+      "beginnen, begann, hat begonnen"
     ],
     "id": "89fc952f2701de16d41197b11bb75f6f",
     "irregular": true
@@ -2119,7 +2384,7 @@
         "sie,Sie": "bekommen"
       }
     },
-    "translate": "получать; приобретать; получить",
+    "translate": "получать; приобретать; получить; принять",
     "context": [
       [
         "Haben Sie meinen Brief bekommen?",
@@ -2136,7 +2401,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "bekommen"
+      "bekommen, bekam, hat bekommen"
     ],
     "id": "e12f4b53c938f231ac370302fcfbd16f"
   },
@@ -2332,6 +2597,29 @@
   },
   {
     "type": "verb",
+    "base": "beraten",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "berat",
+        "ich": "berate",
+        "du": "beratest",
+        "er,sie,es": "beratet",
+        "wir": "beraten",
+        "ihr": "beratet",
+        "sie,Sie": "beraten"
+      }
+    },
+    "translate": "советовать; консультировать; давать совет; давать консультацию",
+    "context": [],
+    "originals": [
+      "beraten, (beriet, hat beraten)"
+    ],
+    "id": "f1a80afd5712e3b791990892ca13ba01"
+  },
+  {
+    "type": "verb",
     "base": "bergen",
     "article": null,
     "config": {
@@ -2463,12 +2751,36 @@
         "sie,Sie": "beschließen"
       }
     },
-    "translate": "решать",
+    "translate": "решать; постановлять; принимать решение",
     "context": [],
     "originals": [
-      "entscheiden; beschließen"
+      "entscheiden; beschließen",
+      "beschließen, (beschloss, hat beschlossen)"
     ],
     "id": "a29adec5664582304368d4268874fba4"
+  },
+  {
+    "type": "verb",
+    "base": "beschreiben",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "beschreib",
+        "ich": "beschreibe",
+        "du": "beschreibst",
+        "er,sie,es": "beschreibt",
+        "wir": "beschreiben",
+        "ihr": "beschreibt",
+        "sie,Sie": "beschreiben"
+      }
+    },
+    "translate": "описывать; расписать",
+    "context": [],
+    "originals": [
+      "beschreiben, beschrieb, hat beschrieben"
+    ],
+    "id": "6e5667d40b8c6b643fcee76953a823e8"
   },
   {
     "type": "verb",
@@ -2538,10 +2850,10 @@
         "sie,Sie": "besitzen"
       }
     },
-    "translate": "владеть; обладать",
+    "translate": "владеть; обладать; иметь; иметься; пользоваться",
     "context": [],
     "originals": [
-      "besitzen"
+      "besitzen, (besaß, hat besessen)"
     ],
     "id": "69fa3f5a23acab07191e1783cde0b8a7"
   },
@@ -2724,6 +3036,29 @@
   },
   {
     "type": "verb",
+    "base": "betragen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "betrag",
+        "ich": "betrage",
+        "du": "betragst",
+        "er,sie,es": "betragt",
+        "wir": "betragen",
+        "ihr": "betragt",
+        "sie,Sie": "betragen"
+      }
+    },
+    "translate": "составлять; равняться; обходиться; вести себя",
+    "context": [],
+    "originals": [
+      "betragen, (betrug, hat betragen)"
+    ],
+    "id": "b801240b269c58c7221871cce6d1c23d"
+  },
+  {
+    "type": "verb",
     "base": "betreuen",
     "article": null,
     "config": {
@@ -2784,10 +3119,10 @@
         "sie,Sie": "betrügen"
       }
     },
-    "translate": "обманывать; дурачить",
+    "translate": "обманывать; дурачить; мошенничать; изменять; совершить мошенничество",
     "context": [],
     "originals": [
-      "betrügen"
+      "betrügen, (betrog, hat betrogen)"
     ],
     "id": "73032127c9d6884bcf70a977052aa1d4"
   },
@@ -2840,6 +3175,29 @@
   },
   {
     "type": "verb",
+    "base": "beweisen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "beweis",
+        "ich": "beweise",
+        "du": "beweist",
+        "er,sie,es": "beweist",
+        "wir": "beweisen",
+        "ihr": "beweist",
+        "sie,Sie": "beweisen"
+      }
+    },
+    "translate": "доказывать; свидетельствовать; говорить; заявлять; служить доказательством; аргументировать",
+    "context": [],
+    "originals": [
+      "beweisen, (bewies, hat bewiesen)"
+    ],
+    "id": "5637d7fb3e9d4caecab8f4ddaea65754"
+  },
+  {
+    "type": "verb",
     "base": "bezahlen",
     "article": null,
     "config": {
@@ -2883,10 +3241,10 @@
         "sie,Sie": "biegen"
       }
     },
-    "translate": "гнуть; сгибать; изгибать",
+    "translate": "гнуть; сгибать; изгибать; повернуть налево",
     "context": [],
     "originals": [
-      "biegen"
+      "biegen (nach links)"
     ],
     "id": "dc0cb489e5249e941f68bb72e5384c47",
     "irregular": true
@@ -2907,10 +3265,10 @@
         "sie,Sie": "bieten"
       }
     },
-    "translate": "предлагать; давать; предоставлять возможность",
+    "translate": "предлагать; давать; предоставлять возможность; предоставлять",
     "context": [],
     "originals": [
-      "bieten"
+      "bieten, bot, hat geboten"
     ],
     "id": "370c061682bed0c83fd72d59f6740c52",
     "irregular": true
@@ -3007,7 +3365,7 @@
         "sie,Sie": "bitten"
       }
     },
-    "translate": "просить; ходатайствовать; выражать просьбу",
+    "translate": "просить; ходатайствовать; выражать просьбу; упрашивать",
     "context": [
       [
         "Darf ich Sie um etwas bitten?",
@@ -3016,7 +3374,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "bitten"
+      "bitten, bat, hat gebeten"
     ],
     "id": "97a0298d351d070301ae566f5381604a",
     "irregular": true
@@ -3064,7 +3422,7 @@
         "sie,Sie": "bleiben"
       }
     },
-    "translate": "оставаться; остаться",
+    "translate": "оставаться; остаться; пребывать",
     "context": [
       [
         "Ich bleibe heute zu Hause.",
@@ -3077,7 +3435,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "bleiben"
+      "bleiben, blieb, hat geblieben"
     ],
     "id": "444c7c4a303931389f41e5572220c24d",
     "irregular": true
@@ -3213,10 +3571,10 @@
         "sie,Sie": "braten"
       }
     },
-    "translate": "жарить; обжигать; жариться",
+    "translate": "жарить; обжигать; жариться; поджарить; зажарить; печь",
     "context": [],
     "originals": [
-      "braten"
+      "braten, briet, hat gebraten"
     ],
     "id": "8ec419ee6b4a3662e3c2c67a9bb92747",
     "irregular": true
@@ -3360,10 +3718,10 @@
         "sie,Sie": "brennen"
       }
     },
-    "translate": "гореть; жечь; сжигать; пылать",
+    "translate": "гореть; жечь; сжигать; пылать; сгорать; обжигать; палить",
     "context": [],
     "originals": [
-      "brennen"
+      "brennen, (brannte, hat gebrannt)"
     ],
     "id": "e809345ba1a4b788263a276f25db3549",
     "irregular": true
@@ -4064,6 +4422,30 @@
   },
   {
     "type": "verb",
+    "base": "einfallen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "ein",
+      "_form": {
+        "base": "fall",
+        "ich": "falle ein",
+        "du": "fallst ein",
+        "er,sie,es": "fallt ein",
+        "wir": "fallen ein",
+        "ihr": "fallt ein",
+        "sie,Sie": "fallen ein"
+      }
+    },
+    "translate": "приходить на ум; вторгаться; нападать; вздумать; проникать",
+    "context": [],
+    "originals": [
+      "ein/fallen, fiel ein, ist eingefallen"
+    ],
+    "id": "17155b90a9d2c079c3994ba4198e4082"
+  },
+  {
+    "type": "verb",
     "base": "einkaufen",
     "article": null,
     "config": {
@@ -4209,6 +4591,31 @@
   },
   {
     "type": "verb",
+    "base": "einschlafen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "ein",
+      "_form": {
+        "base": "schlaf",
+        "ich": "schlafe ein",
+        "du": "schlafst ein",
+        "er,sie,es": "schlaft ein",
+        "wir": "schlafen ein",
+        "ihr": "schlaft ein",
+        "sie,Sie": "schlafen ein"
+      }
+    },
+    "translate": "засыпать; затекать; угасать",
+    "context": [],
+    "originals": [
+      "ein/schlafen, schlief ein, ist eingeschlafen",
+      "ein/schlafen, (schlief ein, ist eingeschlafen)"
+    ],
+    "id": "334a0d27bc594301cfb3c868252ba458"
+  },
+  {
+    "type": "verb",
     "base": "einsteigen",
     "article": null,
     "config": {
@@ -4224,7 +4631,7 @@
         "sie,Sie": "steigen ein"
       }
     },
-    "translate": "входить; садиться в транспорт",
+    "translate": "входить; садиться в транспорт; садиться; залезать",
     "context": [
       [
         "Schnell, steig ein, der Zug fährt gleich.",
@@ -4233,7 +4640,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "einsteigen"
+      "ein/steigen, stieg ein, ist eingestiegen"
     ],
     "id": "d79ef3d2505bad89dba98e90c74cfc7d"
   },
@@ -4311,6 +4718,30 @@
   },
   {
     "type": "verb",
+    "base": "einziehen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "ein",
+      "_form": {
+        "base": "zieh",
+        "ich": "ziehe ein",
+        "du": "ziehst ein",
+        "er,sie,es": "zieht ein",
+        "wir": "ziehen ein",
+        "ihr": "zieht ein",
+        "sie,Sie": "ziehen ein"
+      }
+    },
+    "translate": "втягивать; втянуть; вселяться; въезжать; протягивать",
+    "context": [],
+    "originals": [
+      "ein/ziehen, zog ein, ist eingezogen"
+    ],
+    "id": "4e1e5dc2e8726e03b52e8d5a356965f6"
+  },
+  {
+    "type": "verb",
     "base": "empfangen",
     "article": null,
     "config": {
@@ -4359,7 +4790,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "empfehlen"
+      "empfehlen, empfahl, hat empfohlen"
     ],
     "id": "da4007704bcdb5050a2b523216ff2a6f",
     "irregular": true
@@ -4432,10 +4863,10 @@
         "sie,Sie": "enthalten"
       }
     },
-    "translate": "содержать",
+    "translate": "содержать; содержаться; удерживаться; заключать; заключать в себе",
     "context": [],
     "originals": [
-      "enthalten"
+      "enthalten, (enthielt, hat enthalten)"
     ],
     "id": "f266c6146a6a44337cea511cee5985e9"
   },
@@ -4455,10 +4886,11 @@
         "sie,Sie": "entscheiden"
       }
     },
-    "translate": "решать",
+    "translate": "решать; решаться",
     "context": [],
     "originals": [
-      "entscheiden; beschließen"
+      "entscheiden; beschließen",
+      "entscheiden, entschied, hat entschieden"
     ],
     "id": "ee35f7d278f65ac9b7ce84381e00676d"
   },
@@ -4531,10 +4963,10 @@
         "sie,Sie": "erfahren"
       }
     },
-    "translate": "узнавать",
+    "translate": "узнавать; познавать",
     "context": [],
     "originals": [
-      "erfahren"
+      "erfahren, (erfuhr, hat erfahren)"
     ],
     "id": "a5e1e48238243a39ce584b1a026ba0d5"
   },
@@ -4554,10 +4986,10 @@
         "sie,Sie": "erfinden"
       }
     },
-    "translate": "изобретать",
+    "translate": "изобретать; выдумывать; придумывать; выдумать",
     "context": [],
     "originals": [
-      "erfinden"
+      "erfinden, (erfand, hat erfunden)"
     ],
     "id": "cb7507de72f883d3beb774950f396fef"
   },
@@ -4606,6 +5038,29 @@
       "ergänzen"
     ],
     "id": "efed0146a325c34d5268ed76bd109a8e"
+  },
+  {
+    "type": "verb",
+    "base": "erhalten",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "erhalt",
+        "ich": "erhalte",
+        "du": "erhaltest",
+        "er,sie,es": "erhaltet",
+        "wir": "erhalten",
+        "ihr": "erhaltet",
+        "sie,Sie": "erhalten"
+      }
+    },
+    "translate": "получать; сохраняться; сохранять; поддерживать; обеспечивать",
+    "context": [],
+    "originals": [
+      "erhalten, (erhielt, hat erhalten)"
+    ],
+    "id": "5445a8dcb0dba48daa2692e4ef977f92"
   },
   {
     "type": "verb",
@@ -4844,10 +5299,10 @@
         "sie,Sie": "erscheinen"
       }
     },
-    "translate": "появляться",
+    "translate": "появляться; показаться; являться; выйти в свет",
     "context": [],
     "originals": [
-      "erscheinen"
+      "erscheinen, (erschien, ist erschienen)"
     ],
     "id": "97fcfd89cd47b96f2899cb3e6b849599"
   },
@@ -4868,11 +5323,11 @@
         "sie,Sie": "erschrecken"
       }
     },
-    "translate": "пугаться; пугать; испугать",
+    "translate": "пугаться; пугать; испугать; запугивать; ужасать; ужасаться",
     "context": [],
     "irregular": true,
     "originals": [
-      "erschrecken"
+      "erschrecken, (erschrak, ist erschrocken)"
     ],
     "id": "1a5c560b4bee27615338ef18195b4e34"
   },
@@ -5016,7 +5471,7 @@
         "sie,Sie": "essen"
       }
     },
-    "translate": "есть; кушать",
+    "translate": "есть; кушать; питаться",
     "context": [
       [
         "Was gibt es zu essen?",
@@ -5025,7 +5480,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "essen"
+      "essen, aß, hat gegessen"
     ],
     "id": "7882e71830f0988fc30308d9b67e33ea",
     "irregular": true
@@ -5070,7 +5525,7 @@
         "sie,Sie": "fahren"
       }
     },
-    "translate": "ехать; ездить; кататься; везти; катать",
+    "translate": "ехать; ездить; кататься; везти; катать; водить",
     "context": [
       [
         "Ich fahre mit dem Auto zur Arbeit.",
@@ -5079,7 +5534,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "fahren"
+      "fahren, fuhr, ist gefahren"
     ],
     "id": "48e9cad6b55d72c83350ba67596c0ac9",
     "irregular": true
@@ -5192,6 +5647,29 @@
   },
   {
     "type": "verb",
+    "base": "fern/sehen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "fern/seh",
+        "ich": "fern/sehe",
+        "du": "fern/sehst",
+        "er,sie,es": "fern/seht",
+        "wir": "fern/sehen",
+        "ihr": "fern/seht",
+        "sie,Sie": "fern/sehen"
+      }
+    },
+    "translate": "смотреть телевизор",
+    "context": [],
+    "originals": [
+      "fern/sehen, sah fern, hat ferngesehen"
+    ],
+    "id": "276d270faa8d2ae50626c49241616434"
+  },
+  {
+    "type": "verb",
     "base": "fernsehen",
     "article": null,
     "config": {
@@ -5259,7 +5737,7 @@
         "sie,Sie": "finden"
       }
     },
-    "translate": "находить; отыскать; найти",
+    "translate": "находить; отыскать; найти; обнаруживать",
     "context": [
       [
         "Wir müssen den Schlüssel finden.",
@@ -5268,7 +5746,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "finden"
+      "finden, fand, hat gefunden"
     ],
     "id": "5a6648c314b997feb3016af965dfdd13",
     "irregular": true
@@ -5336,7 +5814,7 @@
         "sie,Sie": "fliegen"
       }
     },
-    "translate": "летать; лететь",
+    "translate": "летать; лететь; пролетать; совершать полет",
     "context": [
       [
         "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
@@ -5345,7 +5823,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "fliegen"
+      "fliegen, flog, ist geflogen"
     ],
     "id": "fa8c7080d3d55ed0a20542a167db4a5e",
     "irregular": true
@@ -5390,11 +5868,11 @@
         "sie,Sie": "fließen"
       }
     },
-    "translate": "течь; литься; струиться",
+    "translate": "течь; литься; струиться; протекать; растекаться",
     "context": [],
     "irregular": true,
     "originals": [
-      "fließen"
+      "fließen, (floss, ist geflossen)"
     ],
     "id": "220d3e618dc1478d642025752c513185"
   },
@@ -5568,10 +6046,10 @@
         "sie,Sie": "frieren"
       }
     },
-    "translate": "мёрзнуть; замерзать; зябнуть",
+    "translate": "мёрзнуть; замерзать; зябнуть; промерзать; покрываться льдом",
     "context": [],
     "originals": [
-      "frieren"
+      "frieren, (fror, hat gefroren)"
     ],
     "id": "6ed65da2967965884c3a43d10ecddf74",
     "irregular": true
@@ -5760,7 +6238,7 @@
         "sie,Sie": "geben"
       }
     },
-    "translate": "давать; подавать; дать",
+    "translate": "давать; подавать; дать; оказывать; предоставлять",
     "context": [
       [
         "Kannst du mir bitte deinen Kugelschreiber geben?"
@@ -5771,7 +6249,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "geben"
+      "geben, gab, hat gegeben"
     ],
     "id": "f9f9683e5840cc55d2dd811a431b8e3b",
     "irregular": true
@@ -5843,10 +6321,10 @@
         "sie,Sie": "gebären"
       }
     },
-    "translate": "рождаться; родить; рожать",
+    "translate": "рождаться; родить; рожать; рождать; производить на свет",
     "context": [],
     "originals": [
-      "gebären"
+      "gebären, gebar, hat geboren"
     ],
     "id": "93cb1ea08beaa1cbf9f0d960dd77d8e6",
     "irregular": true
@@ -5953,7 +6431,7 @@
         "sie,Sie": "gehen"
       }
     },
-    "translate": "идти; ходить; уходить",
+    "translate": "идти; ходить; уходить; идти вдоль",
     "context": [
       [
         "Ich weiß nicht, wie das geht."
@@ -5973,7 +6451,8 @@
     ],
     "level": "A-1",
     "originals": [
-      "gehen"
+      "gehen (entlang)",
+      "gehen, ging, ist gegangen"
     ],
     "id": "a133a740ad2c0f5f0a5bcbc547ecffbd",
     "irregular": true
@@ -6022,11 +6501,11 @@
         "sie,Sie": "gelingen"
       }
     },
-    "translate": "удаваться",
+    "translate": "удаваться; удаться; получаться",
     "context": [],
     "irregular": true,
     "originals": [
-      "gelingen"
+      "gelingen, (gelang, ist gelungen)"
     ],
     "id": "49fa42a33e358e98e9dfffa55e7c8bac"
   },
@@ -6048,11 +6527,11 @@
         "sie,Sie": "gelten"
       }
     },
-    "translate": "стоить; цениться; годиться; быть действительным; быть действительным (н-р, проездной)",
+    "translate": "стоить; цениться; годиться; быть действительным; действовать; относиться; иметь силу; значить; быть действительным (н-р, проездной)",
     "context": [],
     "irregular": true,
     "originals": [
-      "gelten"
+      "gelten, galt, hat gegolten"
     ],
     "id": "33397690b841e77a62d153d42f96a914"
   },
@@ -6167,11 +6646,11 @@
         "sie,Sie": "geraten"
       }
     },
-    "translate": "попасть",
+    "translate": "попасть; впадать; приходить; попадать",
     "context": [],
     "irregular": true,
     "originals": [
-      "geraten"
+      "geraten, (geriet, ist geraten)"
     ],
     "id": "c6c872042138c3c59074a238e3400e9c"
   },
@@ -6296,7 +6775,7 @@
         "sie,Sie": "gewinnen"
       }
     },
-    "translate": "выигрывать; добывать; получать; выиграть; побеждать",
+    "translate": "выигрывать; добывать; получать; выиграть; побеждать; завоевывать; извлекать прибыль; завоевать; получать прибыль",
     "context": [
       [
         "Wer gewinnt das Spiel?"
@@ -6304,7 +6783,8 @@
     ],
     "level": "A-1",
     "originals": [
-      "gewinnen"
+      "gewinnen, gewann, hat gewonnen",
+      "gewinnen, (gewann, hat gewonnen)"
     ],
     "id": "86ef4e12d088b2c1c3a8937fa43fd887",
     "irregular": true
@@ -6325,10 +6805,10 @@
         "sie,Sie": "gießen"
       }
     },
-    "translate": "поливать; лить; наливать; обливать",
+    "translate": "поливать; лить; наливать; обливать; вливать; заливать",
     "context": [],
     "originals": [
-      "gießen"
+      "gießen, goss, hat gegossen"
     ],
     "id": "83d700b377033fb8c815f87ea2a04544",
     "irregular": true
@@ -6758,11 +7238,11 @@
         "sie,Sie": "heben"
       }
     },
-    "translate": "поднимать; повышать",
+    "translate": "поднимать; повышать; собирать; подниматься; повышаться",
     "context": [],
     "irregular": true,
     "originals": [
-      "heben"
+      "heben, (hob, hat gehoben)"
     ],
     "id": "8370bdfde4a742dd8e3ec2b8305c5285"
   },
@@ -6856,13 +7336,13 @@
         "sie,Sie": "heißen"
       }
     },
-    "translate": "называть; зваться; называться; означать",
+    "translate": "называть; зваться; называться; означать; значить",
     "context": [
       null
     ],
     "level": "A-1",
     "originals": [
-      "heißen"
+      "heißen, hieß, hat geheißen"
     ],
     "id": "ff1a073301b668e60d6c2ab3bc6b2275",
     "irregular": true
@@ -6884,7 +7364,7 @@
         "sie,Sie": "helfen"
       }
     },
-    "translate": "помогать; помочь",
+    "translate": "помогать; помочь; выручать",
     "context": [
       [
         "Können Sie mir helfen, bitte?"
@@ -6892,10 +7372,34 @@
     ],
     "level": "A-1",
     "originals": [
-      "helfen"
+      "helfen, half, hat geholfen"
     ],
     "id": "aa82ef9a49c27e6e77d43e484166a0f0",
     "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "herauskommen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "heraus",
+      "_form": {
+        "base": "komm",
+        "ich": "komme heraus",
+        "du": "kommst heraus",
+        "er,sie,es": "kommt heraus",
+        "wir": "kommen heraus",
+        "ihr": "kommt heraus",
+        "sie,Sie": "kommen heraus"
+      }
+    },
+    "translate": "выходить; выезжать",
+    "context": [],
+    "originals": [
+      "heraus/kommen, (kam heraus, ist herausgekommen)"
+    ],
+    "id": "3ae989f3ec4c39e920392589dacc3f2e"
   },
   {
     "type": "verb",
@@ -7110,10 +7614,10 @@
         "sie,Sie": "hängen"
       }
     },
-    "translate": "висеть; вешать",
+    "translate": "висеть; вешать; повисать; подвешивать",
     "context": [],
     "originals": [
-      "hängen"
+      "hängen, hing, hat gehangen"
     ],
     "id": "cb140880ab086341a09c60224f039d3c",
     "irregular": true
@@ -7920,10 +8424,10 @@
         "sie,Sie": "lassen"
       }
     },
-    "translate": "оставлять; позволять; велеть; пускать; разрешать",
+    "translate": "оставлять; позволять; велеть; пускать; покидать; давать; допускать; разрешать",
     "context": [],
     "originals": [
-      "lassen"
+      "lassen, ließ, hat gelassen"
     ],
     "id": "44061670af8aa9b4740b0a5ac8b55fe9",
     "irregular": true
@@ -7945,7 +8449,7 @@
         "sie,Sie": "laufen"
       }
     },
-    "translate": "бегать; бежать; убегать",
+    "translate": "бегать; бежать; убегать; работать; пробегать",
     "context": [
       [
         "Ich möchte nicht Auto fahren, ich möchte laufen."
@@ -7953,7 +8457,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "laufen"
+      "laufen, lief, ist gelaufen"
     ],
     "id": "1092a728d38c360e2ca9f5b65ce76f41",
     "irregular": true
@@ -8033,11 +8537,11 @@
         "sie,Sie": "leiden"
       }
     },
-    "translate": "страдать; терпеть",
+    "translate": "страдать; терпеть; пострадать; болеть; допускать",
     "context": [],
     "irregular": true,
     "originals": [
-      "leiden"
+      "leiden, (litt, hat gelitten)"
     ],
     "id": "b5a6dc9d9cd5b21448bd1f0ee018768c"
   },
@@ -8203,7 +8707,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "liegen"
+      "liegen, lag, hat gelegen"
     ],
     "id": "fefcf7e4b6f23af14fb88f857a80156a",
     "irregular": true
@@ -8364,11 +8868,11 @@
         "sie,Sie": "lügen"
       }
     },
-    "translate": "лгать; врать",
+    "translate": "лгать; врать; говорить неправду",
     "context": [],
     "irregular": true,
     "originals": [
-      "lügen"
+      "lügen, (log, hat gelogen)"
     ],
     "id": "ca490df2289fd536dfd8950f6905ca5f"
   },
@@ -8638,11 +9142,11 @@
         "sie,Sie": "messen"
       }
     },
-    "translate": "измерять; мерить",
+    "translate": "измерять; мерить; обмерять",
     "context": [],
     "irregular": true,
     "originals": [
-      "messen"
+      "messen, (maß, hat gemessen)"
     ],
     "id": "0878c455a014ced8475a1fc27ad676bc"
   },
@@ -8767,7 +9271,7 @@
         "sie,Sie": "kommen mit"
       }
     },
-    "translate": "пойти вместе; идти вместе",
+    "translate": "пойти вместе; идти вместе; прибывать; приходить",
     "context": [
       [
         "Ich gehe ins Kino. Kommst du mit?"
@@ -8775,7 +9279,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "mitkommen"
+      "mit/kommen, kam mit, ist mitgekommen"
     ],
     "id": "74cf36d577192b4c687bcfef13c1c8ed"
   },
@@ -9046,6 +9550,30 @@
   },
   {
     "type": "verb",
+    "base": "nachdenken",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "nach",
+      "_form": {
+        "base": "denk",
+        "ich": "denke nach",
+        "du": "denkst nach",
+        "er,sie,es": "denkt nach",
+        "wir": "denken nach",
+        "ihr": "denkt nach",
+        "sie,Sie": "denken nach"
+      }
+    },
+    "translate": "размышлять; задумываться; думать; поразмыслить; обдумывать; раздумывать",
+    "context": [],
+    "originals": [
+      "nach/denken, (dachte nach, hat nachgedacht)"
+    ],
+    "id": "48b33c4ae3744e1c245a8cc91e4d8ab6"
+  },
+  {
+    "type": "verb",
     "base": "nachgeben",
     "article": null,
     "config": {
@@ -9121,7 +9649,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "nehmen"
+      "nehmen, nahm, hat genommen"
     ],
     "id": "f0fc3ea1294619e47cf30648f4d85cde",
     "irregular": true
@@ -9867,10 +10395,10 @@
         "sie,Sie": "raten"
       }
     },
-    "translate": "советовать; гадать; отгадывать; угадывать",
+    "translate": "советовать; гадать; отгадывать; угадывать; рекомендовать",
     "context": [],
     "originals": [
-      "raten"
+      "raten, riet, hat geraten"
     ],
     "id": "73cb0fb91124b1597569f761490b94be",
     "irregular": true
@@ -9902,6 +10430,52 @@
       "rauchen"
     ],
     "id": "a10cbd6178d95006ccb8f42cfa8d5fb6"
+  },
+  {
+    "type": "verb",
+    "base": "raufkommen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "raufkomm",
+        "ich": "raufkomme",
+        "du": "raufkommst",
+        "er,sie,es": "raufkommt",
+        "wir": "raufkommen",
+        "ihr": "raufkommt",
+        "sie,Sie": "raufkommen"
+      }
+    },
+    "translate": "подниматься наверх; подниматься вверх",
+    "context": [],
+    "originals": [
+      "raufkommen, kam rauf, ist raufgekommen"
+    ],
+    "id": "9861944e92882466dc6b531866c04ac6"
+  },
+  {
+    "type": "verb",
+    "base": "raus/kommen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "raus/komm",
+        "ich": "raus/komme",
+        "du": "raus/kommst",
+        "er,sie,es": "raus/kommt",
+        "wir": "raus/kommen",
+        "ihr": "raus/kommt",
+        "sie,Sie": "raus/kommen"
+      }
+    },
+    "translate": "выходить наружу",
+    "context": [],
+    "originals": [
+      "raus/kommen, kam raus, ist rausgekommen"
+    ],
+    "id": "54269a63e802303da94c64c7e16a6fcf"
   },
   {
     "type": "verb",
@@ -10092,6 +10666,29 @@
       "reichen"
     ],
     "id": "af0cb9b43ad45f011a4054536bf35524"
+  },
+  {
+    "type": "verb",
+    "base": "rein/kommen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "rein/komm",
+        "ich": "rein/komme",
+        "du": "rein/kommst",
+        "er,sie,es": "rein/kommt",
+        "wir": "rein/kommen",
+        "ihr": "rein/kommt",
+        "sie,Sie": "rein/kommen"
+      }
+    },
+    "translate": "входить внутрь",
+    "context": [],
+    "originals": [
+      "rein/kommen, kam rein, ist reingekommen"
+    ],
+    "id": "9aee8139671717a7f178dcf4ff631105"
   },
   {
     "type": "verb",
@@ -10306,7 +10903,7 @@
         "sie,Sie": "riechen"
       }
     },
-    "translate": "нюхать; пахнуть",
+    "translate": "нюхать; пахнуть; чувствовать запах; чуять",
     "context": [
       [
         "Dieser Wein riecht gut."
@@ -10314,7 +10911,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "riechen"
+      "riechen, roch, hat gerochen"
     ],
     "id": "a8a4091c9bf1aff71ea1ad647a622ec4",
     "irregular": true
@@ -10406,13 +11003,59 @@
         "sie,Sie": "rufen"
       }
     },
-    "translate": "кричать; звать; вызывать",
+    "translate": "кричать; звать; вызывать; призывать; взывать; выкрикивать",
     "context": [],
     "originals": [
-      "rufen"
+      "rufen, (rief, hat gerufen)"
     ],
     "id": "fd3e9f09dbdcb9adb8e781acc2dff882",
     "irregular": true
+  },
+  {
+    "type": "verb",
+    "base": "runter/kommen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "runter/komm",
+        "ich": "runter/komme",
+        "du": "runter/kommst",
+        "er,sie,es": "runter/kommt",
+        "wir": "runter/kommen",
+        "ihr": "runter/kommt",
+        "sie,Sie": "runter/kommen"
+      }
+    },
+    "translate": "спуститься вниз",
+    "context": [],
+    "originals": [
+      "runter/kommen, kam runter, ist runtergekommen"
+    ],
+    "id": "419fcf06a16a3417a0c9664c0cba41ff"
+  },
+  {
+    "type": "verb",
+    "base": "rüberkommen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "rüberkomm",
+        "ich": "rüberkomme",
+        "du": "rüberkommst",
+        "er,sie,es": "rüberkommt",
+        "wir": "rüberkommen",
+        "ihr": "rüberkommt",
+        "sie,Sie": "rüberkommen"
+      }
+    },
+    "translate": "перейти через что-то",
+    "context": [],
+    "originals": [
+      "rüberkommen, kam rüber, ist rübergekommen"
+    ],
+    "id": "f59ef94dbd7c5d7362b151ac81152301"
   },
   {
     "type": "verb",
@@ -10657,7 +11300,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "scheinen"
+      "scheinen, schien, hat geschienen"
     ],
     "id": "8a24ea632345cfc64669dbbb37620cdc",
     "irregular": true
@@ -10777,11 +11420,11 @@
         "sie,Sie": "schieben"
       }
     },
-    "translate": "двигать; толкать",
+    "translate": "двигать; толкать; сдвигать; подталкивать; проталкивать",
     "context": [],
     "irregular": true,
     "originals": [
-      "schieben"
+      "schieben, (schob, ist geschoben)"
     ],
     "id": "cd7d44acd36c05e5d26a64e36bd54710"
   },
@@ -10881,7 +11524,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "schlafen"
+      "schlafen, schlief, hat geschlafen"
     ],
     "id": "d561c499e2086b2114d5f84f3b99b265",
     "irregular": true
@@ -10903,11 +11546,11 @@
         "sie,Sie": "schlagen"
       }
     },
-    "translate": "бить; ударить; стучать; ударять",
+    "translate": "бить; ударить; стучать; биться; хлопать; ударять; взбивать",
     "context": [],
     "irregular": true,
     "originals": [
-      "schlagen"
+      "schlagen, (schlug, hat geschlagen)"
     ],
     "id": "d4922b381e5801602395b128f19b05c7"
   },
@@ -10975,7 +11618,7 @@
         "sie,Sie": "schließen"
       }
     },
-    "translate": "закрывать; запирать; завершать; заключать; закрыть; завершить",
+    "translate": "закрывать; запирать; завершать; заключать; закрыть; завершить; замыкать; заканчивать",
     "context": [
       [
         "Bitte, schließen Sie die Tür."
@@ -10983,7 +11626,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "schließen"
+      "schließen, schloss, hat geschlossen"
     ],
     "id": "14c74d576fad60e741f5fff19e6170cd",
     "irregular": true
@@ -11199,11 +11842,11 @@
         "sie,Sie": "schneiden"
       }
     },
-    "translate": "резать; разрезать; стричь",
+    "translate": "резать; разрезать; стричь; шинковать",
     "context": [],
     "irregular": true,
     "originals": [
-      "schneiden"
+      "schneiden, schnitt, hat geschnitten"
     ],
     "id": "44dcb1d11e55a98461f04f523edd28d3"
   },
@@ -11278,7 +11921,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "schreiben"
+      "schreiben, schrieb, geschrieben"
     ],
     "id": "7f3656963b8e24d8322a48e9d603b36c",
     "irregular": true
@@ -11395,7 +12038,7 @@
         "sie,Sie": "schwimmen"
       }
     },
-    "translate": "плавать; плыть",
+    "translate": "плавать; плыть; заниматься плаванием; проплывать",
     "context": [
       [
         "Ich schwimme jeden Tag einen Kilometer."
@@ -11403,7 +12046,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "schwimmen"
+      "schwimmen, schwamm, ist geschwommen"
     ],
     "id": "5ac384883bcf4958e0e6f33cac1b1032",
     "irregular": true
@@ -11577,7 +12220,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "sehen"
+      "sehen, sah, hat gesehen"
     ],
     "id": "efee1c82ea055a0fa1837387035e9e0a",
     "irregular": true
@@ -11705,10 +12348,10 @@
         "sie,Sie": "singen"
       }
     },
-    "translate": "петь",
+    "translate": "петь; распевать",
     "context": [],
     "originals": [
-      "singen"
+      "singen, sang, hat gesungen"
     ],
     "id": "3608cf768340af9eef682317fe34d9f8",
     "irregular": true
@@ -11777,7 +12420,7 @@
         "sie,Sie": "sitzen"
       }
     },
-    "translate": "сидеть; сижу; сидишь; сидят",
+    "translate": "сидеть; сижу; сидишь; сидят; восседать; заседать",
     "context": [
       [
         "Wo sitzen Sie?"
@@ -11785,7 +12428,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "sitzen"
+      "sitzen, saß, hat gesessen"
     ],
     "id": "6c02d78c3bd48a3d3bf7e282c07db156",
     "irregular": true
@@ -12087,10 +12730,10 @@
         "sie,Sie": "springen"
       }
     },
-    "translate": "прыгать; скакать",
+    "translate": "прыгать; скакать; перепрыгивать; подпрыгивать; спрыгивать; запрыгать",
     "context": [],
     "originals": [
-      "springen"
+      "springen, (sprang, ist gesprungen)"
     ],
     "id": "046ca6dbda53c56eeb160009180c1444",
     "irregular": true
@@ -12189,6 +12832,29 @@
   },
   {
     "type": "verb",
+    "base": "statt/finden",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "statt/find",
+        "ich": "statt/finde",
+        "du": "statt/findest",
+        "er,sie,es": "statt/findet",
+        "wir": "statt/finden",
+        "ihr": "statt/findet",
+        "sie,Sie": "statt/finden"
+      }
+    },
+    "translate": "состоиться; происходить; идти",
+    "context": [],
+    "originals": [
+      "statt/finden, fand statt, hat stattgefunden"
+    ],
+    "id": "d9f503964aebe940566b5ad6f01b517d"
+  },
+  {
+    "type": "verb",
     "base": "stechen",
     "article": null,
     "config": {
@@ -12252,7 +12918,7 @@
         "sie,Sie": "stehen"
       }
     },
-    "translate": "стоять; находиться",
+    "translate": "стоять; находиться; иметься; быть; быть в наличии",
     "context": [
       [
         "Ich glaube es nicht, aber es steht in der Zeitung."
@@ -12263,7 +12929,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "stehen"
+      "stehen, stand, hat gestanden"
     ],
     "id": "948ae9c6281d3e2e8eb3e21347215460",
     "irregular": true
@@ -12308,11 +12974,11 @@
         "sie,Sie": "stehlen"
       }
     },
-    "translate": "воровать; красть",
+    "translate": "воровать; красть; похищать; угонять",
     "context": [],
     "irregular": true,
     "originals": [
-      "stehlen"
+      "stehlen, (stahl, hat gestohlen)"
     ],
     "id": "5328673fb54edf6b9fe67d7b1779b8c6"
   },
@@ -12332,11 +12998,11 @@
         "sie,Sie": "steigen"
       }
     },
-    "translate": "подниматься; взбираться",
+    "translate": "подниматься; взбираться; восходить; увеличиваться; повышаться; расти; лезть",
     "context": [],
     "irregular": true,
     "originals": [
-      "steigen"
+      "steigen, stieg, ist gestiegen"
     ],
     "id": "60232feaa854732ef5b7681c5e9bf239"
   },
@@ -12388,7 +13054,7 @@
     "translate": "умирать",
     "context": [],
     "originals": [
-      "sterben"
+      "sterben, starb, ist gestorben"
     ],
     "id": "3c33ab10298f85f6f4696f5b819a13b5",
     "irregular": true
@@ -12456,11 +13122,11 @@
         "sie,Sie": "stinken"
       }
     },
-    "translate": "вонять",
+    "translate": "вонять; смердеть; дурно пахнуть",
     "context": [],
     "irregular": true,
     "originals": [
-      "stinken"
+      "stinken, stank, hat gestunken"
     ],
     "id": "0c0e9cb58d7d72c39112130ae6a40820"
   },
@@ -12551,11 +13217,11 @@
         "sie,Sie": "streiten"
       }
     },
-    "translate": "спорить; ссориться",
+    "translate": "спорить; ссориться; препираться",
     "context": [],
     "irregular": true,
     "originals": [
-      "streiten"
+      "streiten, stritt, hat gestritten"
     ],
     "id": "8a19fd157ff29bb494edeb67ccb47093"
   },
@@ -12737,6 +13403,29 @@
   },
   {
     "type": "verb",
+    "base": "teil/nehmen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "teil/nehm",
+        "ich": "teil/nehme",
+        "du": "teil/nehmst",
+        "er,sie,es": "teil/nehmt",
+        "wir": "teil/nehmen",
+        "ihr": "teil/nehmt",
+        "sie,Sie": "teil/nehmen"
+      }
+    },
+    "translate": "участвовать; состязаться; принимать участие",
+    "context": [],
+    "originals": [
+      "teil/nehmen, nahm teil, hat teilgenommen"
+    ],
+    "id": "91517cd2fe3f742788eb50814423672d"
+  },
+  {
+    "type": "verb",
     "base": "teilen",
     "article": null,
     "config": {
@@ -12872,11 +13561,11 @@
         "sie,Sie": "tragen"
       }
     },
-    "translate": "носить; нести",
+    "translate": "носить; нести; понести; одеваться; быть одетым; вынашивать",
     "context": [],
     "originals": [
-      "tragen",
-      " anhaben"
+      " anhaben",
+      "tragen, trug, hat getragen"
     ],
     "id": "0437adea912d1ff65003b23df05efe53",
     "irregular": true
@@ -12955,7 +13644,8 @@
     ],
     "level": "A-1",
     "originals": [
-      "(sich) treffen"
+      "(sich) treffen",
+      "treffen, traf, hat getroffen"
     ],
     "id": "9f3def066bdf9877b79365d01a9a6bdf",
     "irregular": true
@@ -12976,11 +13666,11 @@
         "sie,Sie": "treiben"
       }
     },
-    "translate": "гнать; приводить в движение",
+    "translate": "гнать; приводить в движение; заниматься; вести; дрейфовать; плыть по течению",
     "context": [],
     "irregular": true,
     "originals": [
-      "treiben"
+      "treiben, (trieb, hat getrieben)"
     ],
     "id": "f2773cf9ba4978341e1ae8901f7444df"
   },
@@ -13074,7 +13764,7 @@
         "sie,Sie": "trinken"
       }
     },
-    "translate": "пить",
+    "translate": "пить; выпить",
     "context": [
       [
         "Möchtest du etwas trinken?"
@@ -13082,7 +13772,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "trinken"
+      "trinken, trank, hat getrunken"
     ],
     "id": "47daef852288fab9c9774164f17da9ed",
     "irregular": true
@@ -13332,6 +14022,30 @@
   },
   {
     "type": "verb",
+    "base": "umsteigen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "um",
+      "_form": {
+        "base": "steig",
+        "ich": "steige um",
+        "du": "steigst um",
+        "er,sie,es": "steigt um",
+        "wir": "steigen um",
+        "ihr": "steigt um",
+        "sie,Sie": "steigen um"
+      }
+    },
+    "translate": "сделать пересадку; пересаживать; пересаживаться",
+    "context": [],
+    "originals": [
+      "um/steigen, stieg um, ist umgestiegen"
+    ],
+    "id": "1beffed7e65ee86da009a75fb6907a37"
+  },
+  {
+    "type": "verb",
     "base": "umtauschen",
     "article": null,
     "config": {
@@ -13393,7 +14107,7 @@
         "sie,Sie": "umziehen"
       }
     },
-    "translate": "переезжать; переехать",
+    "translate": "переезжать; переехать; переодеваться",
     "context": [
       [
         "Nächsten Monat ziehen wir um."
@@ -13401,7 +14115,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "umziehen"
+      "um/ziehen, zog um, ist umgezogen"
     ],
     "id": "619c3a0cfdd3da6d1839667a4919fc51"
   },
@@ -13472,10 +14186,10 @@
         "sie,Sie": "unterscheiden"
       }
     },
-    "translate": "различать",
+    "translate": "различать; отличаться; различаться; отличать",
     "context": [],
     "originals": [
-      "unterscheiden"
+      "unterscheiden, (unterschied, hat unterschieden)"
     ],
     "id": "c249942f2d8d27bd81c2662ef1385b2b"
   },
@@ -13495,7 +14209,7 @@
         "sie,Sie": "unterschreiben"
       }
     },
-    "translate": "подписать; подписаться",
+    "translate": "подписать; подписаться; подписывать; подписываться",
     "context": [
       [
         "Wo muss ich unterschreiben?"
@@ -13503,7 +14217,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "unterschreiben"
+      "unterschreiben, unterschrieb, hat unterschrieben"
     ],
     "id": "ad80af672d6f5460ed806008f32ac379"
   },
@@ -13615,10 +14329,10 @@
         "sie,Sie": "verbinden"
       }
     },
-    "translate": "соединить",
+    "translate": "соединить; соединять; связывать; сочетать; совмещать; перевязывать",
     "context": [],
     "originals": [
-      "verbinden"
+      "verbinden, verband, hat verbunden"
     ],
     "id": "db73f1f682a71b50aab895c8a29b7a40"
   },
@@ -13817,10 +14531,10 @@
         "sie,Sie": "vergessen"
       }
     },
-    "translate": "забывать",
+    "translate": "забывать; запамятовать",
     "context": [],
     "originals": [
-      "vergessen"
+      "vergessen, vergaß, hat vergessen"
     ],
     "id": "63bacd74142ef33d96b4bd5e53d9d060",
     "irregular": true
@@ -13902,6 +14616,29 @@
   },
   {
     "type": "verb",
+    "base": "verlassen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "verlass",
+        "ich": "verlasse",
+        "du": "verlasst",
+        "er,sie,es": "verlasst",
+        "wir": "verlassen",
+        "ihr": "verlasst",
+        "sie,Sie": "verlassen"
+      }
+    },
+    "translate": "покидать; оставлять; уезжать",
+    "context": [],
+    "originals": [
+      "verlassen, (verließ, hat verlassen)"
+    ],
+    "id": "8addd62d892d449a80050029eb031a18"
+  },
+  {
+    "type": "verb",
     "base": "verleihen",
     "article": null,
     "config": {
@@ -13939,11 +14676,11 @@
         "sie,Sie": "verlieren"
       }
     },
-    "translate": "терять; проигрывать",
+    "translate": "терять; проигрывать; упускать; растерять; утрачивать; лишаться",
     "context": [],
     "irregular": true,
     "originals": [
-      "verlieren"
+      "verlieren, verlor, hat verloren"
     ],
     "id": "0edb5b0b10892f5f5902330f039d3614"
   },
@@ -14024,6 +14761,29 @@
   },
   {
     "type": "verb",
+    "base": "verraten",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "verrat",
+        "ich": "verrate",
+        "du": "verratest",
+        "er,sie,es": "verratet",
+        "wir": "verraten",
+        "ihr": "verratet",
+        "sie,Sie": "verraten"
+      }
+    },
+    "translate": "предавать; разглашать",
+    "context": [],
+    "originals": [
+      "verraten, (verriet, hat verraten)"
+    ],
+    "id": "7615a65b759cbaaa24d9a92a103f1819"
+  },
+  {
+    "type": "verb",
     "base": "verreisen",
     "article": null,
     "config": {
@@ -14084,10 +14844,10 @@
         "sie,Sie": "verschieben"
       }
     },
-    "translate": "откладывать; переносить; передвигать",
+    "translate": "откладывать; переносить; передвигать; перемещать; смещать",
     "context": [],
     "originals": [
-      "verschieben"
+      "verschieben, verschob, hat verschoben"
     ],
     "id": "f7a397aa1dac99e315eec4298e02a54a"
   },
@@ -14162,6 +14922,29 @@
   },
   {
     "type": "verb",
+    "base": "versprechen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "versprech",
+        "ich": "verspreche",
+        "du": "versprechst",
+        "er,sie,es": "versprecht",
+        "wir": "versprechen",
+        "ihr": "versprecht",
+        "sie,Sie": "versprechen"
+      }
+    },
+    "translate": "обещать; сулить; предвещать; дать обещание",
+    "context": [],
+    "originals": [
+      "versprechen, versprach, hat versprochen"
+    ],
+    "id": "becd96f4f82be9ae4e2cf66efbfad7e4"
+  },
+  {
+    "type": "verb",
     "base": "verstecken",
     "article": null,
     "config": {
@@ -14199,7 +14982,7 @@
         "sie,Sie": "verstehen"
       }
     },
-    "translate": "понимать; понять",
+    "translate": "понимать; понять; усвоить; сообразить",
     "context": [
       [
         "önnen Sie mich verstehen?",
@@ -14208,7 +14991,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "verstehen"
+      "verstehen, verstand, hat verstanden"
     ],
     "id": "a6a0f17f22054624cf445da9ce4355a8"
   },
@@ -14329,6 +15112,29 @@
   },
   {
     "type": "verb",
+    "base": "vertreten",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "vertret",
+        "ich": "vertrete",
+        "du": "vertretest",
+        "er,sie,es": "vertretet",
+        "wir": "vertreten",
+        "ihr": "vertretet",
+        "sie,Sie": "vertreten"
+      }
+    },
+    "translate": "представлять; замещать; заменять; защищать",
+    "context": [],
+    "originals": [
+      "vertreten, (vertrat, hat vertreten)"
+    ],
+    "id": "a3e9b8896d70eb7106e8ed8aa5700096"
+  },
+  {
+    "type": "verb",
     "base": "verursachen",
     "article": null,
     "config": {
@@ -14435,11 +15241,11 @@
         "sie,Sie": "verzeihen"
       }
     },
-    "translate": "прощать",
+    "translate": "прощать; извинять",
     "context": [],
     "irregular": true,
     "originals": [
-      "verzeihen"
+      "verzeihen, (verzieh, hat verziehen)"
     ],
     "id": "85407e2abf5b982bfc3bdee29a30faaf"
   },
@@ -14468,6 +15274,30 @@
   },
   {
     "type": "verb",
+    "base": "vorbei/rennen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "vor",
+      "_form": {
+        "base": "bei/renn",
+        "ich": "bei/renne vor",
+        "du": "bei/rennst vor",
+        "er,sie,es": "bei/rennt vor",
+        "wir": "bei/rennen vor",
+        "ihr": "bei/rennt vor",
+        "sie,Sie": "bei/rennen vor"
+      }
+    },
+    "translate": "бежать мимо; пробегать",
+    "context": [],
+    "originals": [
+      "vorbei/rennen, (rannte vorbei, ist vorbeigerannt)"
+    ],
+    "id": "666c32171b10a1949e3f6fc75c177e45"
+  },
+  {
+    "type": "verb",
     "base": "vorbereiten",
     "article": null,
     "config": {
@@ -14489,6 +15319,78 @@
       "vorbereiten"
     ],
     "id": "524a478ab36e4aad44ed368089e44a0b"
+  },
+  {
+    "type": "verb",
+    "base": "vorhaben",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "vor",
+      "_form": {
+        "base": "hab",
+        "ich": "habe vor",
+        "du": "habst vor",
+        "er,sie,es": "habt vor",
+        "wir": "haben vor",
+        "ihr": "habt vor",
+        "sie,Sie": "haben vor"
+      }
+    },
+    "translate": "планировать; намереваться; замышлять; иметь намерение",
+    "context": [],
+    "originals": [
+      "vor/haben, (hatte vor, hat vorgehabt)"
+    ],
+    "id": "616763674ef62d1bee57c6e12ab75a93"
+  },
+  {
+    "type": "verb",
+    "base": "vorkommen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "vor",
+      "_form": {
+        "base": "komm",
+        "ich": "komme vor",
+        "du": "kommst vor",
+        "er,sie,es": "kommt vor",
+        "wir": "kommen vor",
+        "ihr": "kommt vor",
+        "sie,Sie": "kommen vor"
+      }
+    },
+    "translate": "происходить; иметь место; случаться; встречаться; произрастать",
+    "context": [],
+    "originals": [
+      "vor/kommen, (kam vor, ist vorgekommen)"
+    ],
+    "id": "8db362dbe5f575bf02f3595f9e38d64f"
+  },
+  {
+    "type": "verb",
+    "base": "vorschlagen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "vor",
+      "_form": {
+        "base": "schlag",
+        "ich": "schlage vor",
+        "du": "schlagst vor",
+        "er,sie,es": "schlagt vor",
+        "wir": "schlagen vor",
+        "ihr": "schlagt vor",
+        "sie,Sie": "schlagen vor"
+      }
+    },
+    "translate": "предлагать; выдвигать; представлять",
+    "context": [],
+    "originals": [
+      "vor/schlagen, schlug vor, hat vorgeschlagen"
+    ],
+    "id": "53903f3a2ecf80364ce953913c4975a5"
   },
   {
     "type": "verb",
@@ -14537,10 +15439,10 @@
         "sie,Sie": "ziehen vor"
       }
     },
-    "translate": "предпочитать",
+    "translate": "предпочитать; выдвигать",
     "context": [],
     "originals": [
-      "vorziehen"
+      "vor/ziehen, (zog vor, hat vorgezogen)"
     ],
     "id": "919c29948c15b90a2dbf3f942f7355a4"
   },
@@ -14586,10 +15488,10 @@
         "sie,Sie": "wachsen"
       }
     },
-    "translate": "расти",
+    "translate": "расти; вырастать; произрастать; возрастать; нарастать; увеличиваться; развиваться; расширяться",
     "context": [],
     "originals": [
-      "wachsen"
+      "wachsen, (wuchs, ist gewachsen)"
     ],
     "id": "07e6dfa8807ec8a985317d2988825a49",
     "irregular": true
@@ -14665,7 +15567,7 @@
         "sie,Sie": "waschen"
       }
     },
-    "translate": "мыть; стирать; промывать; мыть, стирать",
+    "translate": "мыть; стирать; промывать; обмывать; отмывать; мыть, стирать",
     "context": [
       [
         "Wo kann ich mir die Hände waschen?"
@@ -14676,7 +15578,9 @@
     ],
     "level": "A-1",
     "originals": [
-      "(sich) waschen"
+      "(sich) waschen",
+      "waschen (Wäsche)",
+      "waschen, wusch, hat gewaschen"
     ],
     "id": "4774a29edb020544a6ee913b0efd3bb5",
     "irregular": true
@@ -14751,6 +15655,30 @@
       "wegen"
     ],
     "id": "f8875af9394fa3050b15565f2f6e2f36"
+  },
+  {
+    "type": "verb",
+    "base": "wegwerfen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "weg",
+      "_form": {
+        "base": "werf",
+        "ich": "werfe weg",
+        "du": "werfst weg",
+        "er,sie,es": "werft weg",
+        "wir": "werfen weg",
+        "ihr": "werft weg",
+        "sie,Sie": "werfen weg"
+      }
+    },
+    "translate": "выбрасывать; выкидывать; бросать; забрасывать; отбрасывать",
+    "context": [],
+    "originals": [
+      "weg/werfen, warf weg, hat weggeworfen"
+    ],
+    "id": "78d715f42abcd7acc9e9d45c49936655"
   },
   {
     "type": "verb",
@@ -14887,7 +15815,7 @@
         "sie,Sie": "werden"
       }
     },
-    "translate": "становиться; делаться",
+    "translate": "становиться; делаться; быть; стать",
     "context": [
       [
         "Mein Sohn will Arzt werden."
@@ -14895,7 +15823,7 @@
     ],
     "level": "A-1",
     "originals": [
-      "werden"
+      "werden, wurde, ist geworden"
     ],
     "id": "e0f8ba1efa017c8d6b8db8d551d6e358",
     "irregular": true
@@ -14924,6 +15852,29 @@
       "werfen"
     ],
     "id": "c21ad6d226f02052e119692e69328481"
+  },
+  {
+    "type": "verb",
+    "base": "widersprechen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "widersprech",
+        "ich": "widerspreche",
+        "du": "widersprechst",
+        "er,sie,es": "widersprecht",
+        "wir": "widersprechen",
+        "ihr": "widersprecht",
+        "sie,Sie": "widersprechen"
+      }
+    },
+    "translate": "противоречить; возражать",
+    "context": [],
+    "originals": [
+      "widersprechen, (widersprach, hat widersprochen)"
+    ],
+    "id": "91176b1a38a98be3ddda1574bd20c388"
   },
   {
     "type": "verb",
@@ -15370,11 +16321,11 @@
         "sie,Sie": "ziehen"
       }
     },
-    "translate": "тащить; тянуть",
+    "translate": "тащить; тянуть; вытягивать; вытаскивать; дергать; натягивать; перетаскивать; перетягивать",
     "context": [],
     "irregular": true,
     "originals": [
-      "ziehen"
+      "ziehen, (zog, ist gezogen)"
     ],
     "id": "3275590b507058c41cef3b71ffdb6e7a"
   },
@@ -15498,13 +16449,13 @@
         "sie,Sie": "nehmen zu"
       }
     },
-    "translate": "набирать в весе",
+    "translate": "увеличиваться; возрастать; нарастать; расти; прибавлять в весе; прибавлять; набирать в весе",
     "context": [],
-    "irregular": true,
     "originals": [
-      "zunehmen"
+      "zu/nehmen, (nahm zu, hat zugenommen)"
     ],
-    "id": "775698684f31cece18de6725677d8b77"
+    "id": "775698684f31cece18de6725677d8b77",
+    "irregular": true
   },
   {
     "type": "verb",
@@ -15529,6 +16480,54 @@
       "zuordnen"
     ],
     "id": "34c37a0a6ad9406e8d916af2a239bfeb"
+  },
+  {
+    "type": "verb",
+    "base": "zurecht/kommen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "zu",
+      "_form": {
+        "base": "recht/komm",
+        "ich": "recht/komme zu",
+        "du": "recht/kommst zu",
+        "er,sie,es": "recht/kommt zu",
+        "wir": "recht/kommen zu",
+        "ihr": "recht/kommt zu",
+        "sie,Sie": "recht/kommen zu"
+      }
+    },
+    "translate": "справляться; успевать; устраивать",
+    "context": [],
+    "originals": [
+      "zurecht/kommen, kam zurecht, ist zurechtgekommen"
+    ],
+    "id": "ec6be235c91d03d92f3ef95889dca51e"
+  },
+  {
+    "type": "verb",
+    "base": "zurückfahren",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "zurück",
+      "_form": {
+        "base": "fahr",
+        "ich": "fahre zurück",
+        "du": "fahrst zurück",
+        "er,sie,es": "fahrt zurück",
+        "wir": "fahren zurück",
+        "ihr": "fahrt zurück",
+        "sie,Sie": "fahren zurück"
+      }
+    },
+    "translate": "ехать обратно; возвращаться",
+    "context": [],
+    "originals": [
+      "zurück/fahren, fuhr zurück, ist zurückgefahren"
+    ],
+    "id": "822814c343af4db05676a2b6d158e8cb"
   },
   {
     "type": "verb",
@@ -15574,9 +16573,33 @@
     "translate": "возвращаться",
     "context": [],
     "originals": [
-      "zurückkommen"
+      "zurück/kommen, kam zurück, ist zurückgekommen"
     ],
     "id": "ecfcd0ee7a26dfad0aab80dc135be1a9"
+  },
+  {
+    "type": "verb",
+    "base": "zurückrufen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "prefixSeparate": "zurück",
+      "_form": {
+        "base": "ruf",
+        "ich": "rufe zurück",
+        "du": "rufst zurück",
+        "er,sie,es": "ruft zurück",
+        "wir": "rufen zurück",
+        "ihr": "ruft zurück",
+        "sie,Sie": "rufen zurück"
+      }
+    },
+    "translate": "перезванивать; отзывать",
+    "context": [],
+    "originals": [
+      "zurück/rufen, rief zurück, hat zurückgerufen"
+    ],
+    "id": "5f81b8d223ed6c425d85f3d0d6825181"
   },
   {
     "type": "verb",
@@ -15699,11 +16722,11 @@
         "sie,Sie": "zwingen"
       }
     },
-    "translate": "принуждать; заставлять",
+    "translate": "принуждать; заставлять; вынуждать; понуждать",
     "context": [],
     "irregular": true,
     "originals": [
-      "zwingen"
+      "zwingen, (zwang, hat gezwungen)"
     ],
     "id": "04b0b91a6e560761f7a274d11b5e3cd8"
   },
@@ -15912,6 +16935,29 @@
       "übernachten"
     ],
     "id": "35472497f5706cf8436a63b186d1276f"
+  },
+  {
+    "type": "verb",
+    "base": "übernehmen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "übernehm",
+        "ich": "übernehme",
+        "du": "übernehmst",
+        "er,sie,es": "übernehmt",
+        "wir": "übernehmen",
+        "ihr": "übernehmt",
+        "sie,Sie": "übernehmen"
+      }
+    },
+    "translate": "брать на себя; браться; взяться; перенимать",
+    "context": [],
+    "originals": [
+      "übernehmen, übernahm, hat übernommen"
+    ],
+    "id": "79855c13f0a0365978dea11d487c14e6"
   },
   {
     "type": "verb",

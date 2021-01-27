@@ -256,9 +256,16 @@ const parsePhrase = (text, options = {}) => {
         }
       }
 
-      const isVerb = REGEXP_VERB.test(phrase);
+      const isVerb =
+        REGEXP_VERB.test(phrase) ||
+        REGEXP_VERB.test(
+          removeAdv(removeOptional(removeOptionalPlural(phrase)))
+        );
+
       if (isVerb) {
-        const base = removeAdv(removeOptional(removeOptionalPlural(phrase)));
+        const base = removeAdv(
+          removeOptional(removeOptionalPlural(phrase.split(",")[0]))
+        );
 
         // только если одно слово, иначе отбраковываем (возможно фраза)
         if (base.split(/\s/).length === 1) {
@@ -286,6 +293,7 @@ const parsePhrase = (text, options = {}) => {
           }
         }
       }
+      console.log("---", phrase, isVerb);
 
       const entry = {
         type: "*", // остальное
@@ -406,8 +414,6 @@ list.forEach((data) => {
   addA1(dictonary, data);
 });
 
-
-
 [...words200, ...verbs].forEach((data) => add(dictonary, data));
 predlogi.forEach((data) => add(dictonary, data));
 
@@ -512,8 +518,8 @@ console.log("---------------- end test --------------");
   // );
 });
 
-dictonary.forEach(({ base, translate }) => {
-  if (translate === "") {
-    console.log("base", base);
+dictonary.forEach(({ base, translate, level }) => {
+  if (level === "A-1") {
+    // console.log("base", base, "-", translate);
   }
 });

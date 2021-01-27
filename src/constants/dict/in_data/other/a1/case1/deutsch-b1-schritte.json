@@ -16,7 +16,7 @@
 		"отклонять, отвергать, отрицать, отказывать, не принимать"
 	],
 	[
-		"ab/nehmen, nahm ab, hat abgenommen",
+		"ab/nehmen, (nahm ab, hat abgenommen)",
 		"уменьшаться, снижаться, убывать, понижать, ослабевать, худеть, отбирать"
 	],
 	[
@@ -80,7 +80,7 @@
 		"якобы, предполагаемый"
 	],
 	[
-		"an/gehen, ging an, ist angegangen",
+		"an/gehen, (ging an, ist angegangen)",
 		"действовать, выступать, зажигаться, включаться, приниматься, приняться"
 	],
 	[
@@ -92,11 +92,11 @@
 		"боязливый, пугливый, трусливый, робко, в страхе"
 	],
 	[
-		"an/halten, hielt an, hat angehalten",
+		"an/halten, (hielt an, hat angehalten)",
 		"приостанавливать, останавливать, удерживать, делать остановку"
 	],
 	[
-		"ankommen auf+A, kam auf+A an, ist auf+A angekommen",
+		"an/kommen auf+A, (kam auf+A an, ist auf+A angekommen)",
 		"зависеть от чего-л."
 	],
 	[
@@ -104,7 +104,7 @@
 		"инструкция, руководство, пособие, инструктаж"
 	],
 	[
-		"an/nehmen, nahm an, hat angenommen",
+		"an/nehmen, (nahm an, hat angenommen)",
 		"принимать, приобретать, воспринимать, допускать"
 	],
 	[
@@ -120,11 +120,11 @@
 		"смотреть, взирать, рассматривать, глядеть, созерцать"
 	],
 	[
-		"an/schreien, schrie an, hat angeschrien",
+		"an/schreien, (schrie an, hat angeschrien)",
 		"накричать, прикрикнуть"
 	],
 	[
-		"an/sehen, sah an, hat angesehen",
+		"an/sehen, (sah an, hat angesehen)",
 		"смотреть, глядеть, взирать, рассматривать"
 	],
 	[
@@ -148,7 +148,7 @@
 		"взволнованный, возбужденный, тревожный"
 	],
 	[
-		"auf/heben, hob auf, hat aufgehoben",
+		"auf/heben, (hob auf, hat aufgehoben)",
 		"упразднять, снимать, устранять, приподнимать, поднимать"
 	],
 	[
@@ -188,7 +188,7 @@
 		"именно, как раз, как будто (бы) специально, как нарочно, как назло"
 	],
 	[
-		"ausgeschlossen sein, war ausgeschlossen, ist ausgeschlossen gewesen",
+		"ausgeschlossen sein, (war ausgeschlossen, ist ausgeschlossen gewesen)",
 		"быть исключенным"
 	],
 	[
@@ -204,7 +204,7 @@
 		"быть достаточным, хватать, доставать"
 	],
 	[
-		"aus/schließen, schloss aus, hat ausgeschlossen",
+		"aus/schließen, (schloss aus, hat ausgeschlossen)",
 		"исключать, отчислять, отстранять, исключать себя"
 	],
 	[
@@ -212,7 +212,7 @@
 		"за исключением, кроме, помимо"
 	],
 	[
-		"aus/sprechen, sprach aus, hat ausgesprochen",
+		"aus/sprechen, (sprach aus, hat ausgesprochen)",
 		"произносить, выговаривать, высказывать, высказываться"
 	],
 	[
@@ -284,7 +284,7 @@
 		"отмечать, замечать, подмечать, усматривать"
 	],
 	[
-		"beraten, beriet, hat beraten",
+		"beraten, (beriet, hat beraten)",
 		"советовать, консультировать, давать совет, давать консультацию"
 	],
 	[
@@ -316,11 +316,11 @@
 		"повреждать, портить, получать повреждения"
 	],
 	[
-		"beschließen, beschloss, hat beschlossen",
+		"beschließen, (beschloss, hat beschlossen)",
 		"постановлять, решать, принимать решение"
 	],
 	[
-		"besitzen, besaß, hat besessen",
+		"besitzen, (besaß, hat besessen)",
 		"владеть, обладать, иметь, иметься, пользоваться"
 	],
 	[
@@ -340,7 +340,7 @@
 		"наказывать, карать, штрафовать"
 	],
 	[
-		"betragen, betrug, hat betragen",
+		"betragen, (betrug, hat betragen)",
 		"составлять, равняться, обходиться, вести себя"
 	],
 	[
@@ -352,7 +352,7 @@
 		"эксплуатация, функционирование, привод"
 	],
 	[
-		"betrügen, betrog, hat betrogen",
+		"betrügen, (betrog, hat betrogen)",
 		"обманывать, мошенничать, изменять, совершить мошенничество"
 	],
 	[
@@ -364,7 +364,7 @@
 		"доказательство, улика, свидетельство, подтверждение"
 	],
 	[
-		"beweisen, bewies, hat bewiesen",
+		"beweisen, (bewies, hat bewiesen)",
 		"доказывать, свидетельствовать, говорить, заявлять, служить доказательством, аргументировать"
 	],
 	[
@@ -412,7 +412,7 @@
 		"ширина, широта, ширь"
 	],
 	[
-		"brennen, brannte, hat gebrannt",
+		"brennen, (brannte, hat gebrannt)",
 		"гореть, сгорать, пылать, сжигать, жечь, обжигать, палить"
 	],
 	[
@@ -584,7 +584,7 @@
 		"доход, заработок"
 	],
 	[
-		"ein/schlafen, schlief ein, ist eingeschlafen",
+		"ein/schlafen, (schlief ein, ist eingeschlafen)",
 		"засыпать, затекать"
 	],
 	[
@@ -612,11 +612,11 @@
 		"расстояние, дальность, отдаление, отдаленность"
 	],
 	[
-		"enthalten, enthielt, hat enthalten",
+		"enthalten, (enthielt, hat enthalten)",
 		"содержать, содержаться, удерживаться, заключать, заключать в себе"
 	],
 	[
-		"entschlossen sein, war entschlossen, ist entschlossen gewesen",
+		"entschlossen sein, (war entschlossen, ist entschlossen gewesen)",
 		"решиться на что-то"
 	],
 	[
@@ -640,11 +640,11 @@
 		"событие, происшествие, случай"
 	],
 	[
-		"erfahren, erfuhr, hat erfahren",
+		"erfahren, (erfuhr, hat erfahren)",
 		"узнавать, познавать"
 	],
 	[
-		"erfinden, erfand, hat erfunden",
+		"erfinden, (erfand, hat erfunden)",
 		"изобретать, выдумывать, придумывать, выдумать"
 	],
 	[
@@ -652,7 +652,7 @@
 		"удовлетворять, выполнять, исполнять, соблюдать"
 	],
 	[
-		"erhalten, erhielt, hat erhalten",
+		"erhalten, (erhielt, hat erhalten)",
 		"получать, сохраняться, сохранять, поддерживать, обеспечивать"
 	],
 	[
@@ -680,11 +680,11 @@
 		"урожай, жатва, уборка урожая"
 	],
 	[
-		"erscheinen, erschien, ist erschienen",
+		"erscheinen, (erschien, ist erschienen)",
 		"появляться, показаться, являться, выйти в свет"
 	],
 	[
-		"erschrecken, erschrak, ist erschrocken",
+		"erschrecken, (erschrak, ist erschrocken)",
 		"пугать, запугивать, ужасать, ужасаться"
 	],
 	[
@@ -700,7 +700,7 @@
 		"около, примерно, приблизительно, почти"
 	],
 	[
-		"etwas ab/machen",
+		"etwas abmachen",
 		"c чем-то разделаться/закончить"
 	],
 	[
@@ -760,7 +760,7 @@
 		"финансовый, денежный, материально"
 	],
 	[
-		"fließen, floss, ist geflossen",
+		"fließen, (floss, ist geflossen)",
 		"протекать, течь, литься, струиться, растекаться"
 	],
 	[
@@ -800,7 +800,7 @@
 		"мир, спокойствие"
 	],
 	[
-		"frieren, fror, hat gefroren",
+		"frieren, (fror, hat gefroren)",
 		"замерзать, промерзать, покрываться льдом"
 	],
 	[
@@ -844,7 +844,7 @@
 		"рождение, роды"
 	],
 	[
-		"geeignet sein für, war für geeignet, ist geeignet für gewesen",
+		"geeignet sein für, (war für geeignet, ist geeignet für gewesen)",
 		"подходить для"
 	],
 	[
@@ -872,7 +872,7 @@
 		"возможность"
 	],
 	[
-		"gelingen, gelang, ist gelungen",
+		"gelingen, (gelang, ist gelungen)",
 		"удаться, удаваться, получаться"
 	],
 	[
@@ -888,7 +888,7 @@
 		"утверждение, одобрение, позволение"
 	],
 	[
-		"geraten, geriet, ist geraten",
+		"geraten, (geriet, ist geraten)",
 		"впадать, приходить, попадать"
 	],
 	[
@@ -912,7 +912,7 @@
 		"зерновые, зерно, зерновые культуры"
 	],
 	[
-		"gewinnen, gewann, hat gewonnen",
+		"gewinnen, (gewann, hat gewonnen)",
 		"выигрывать, завоевать, побеждать, получать прибыль"
 	],
 	[
@@ -980,7 +980,7 @@
 		"торговля, сделка, торг, спор, торговая операция"
 	],
 	[
-		"heben, hob, hat gehoben",
+		"heben, (hob, hat gehoben)",
 		"поднимать, собирать, подниматься, повышаться"
 	],
 	[
@@ -1000,7 +1000,7 @@
 		"нагревать, отапливать, обогревать, подогревать, греть, топить, давать тепло"
 	],
 	[
-		"heraus/kommen, kam heraus, ist herausgekommen",
+		"heraus/kommen, (kam heraus, ist herausgekommen)",
 		"выходить, выезжать"
 	],
 	[
@@ -1336,7 +1336,7 @@
 		"кожа, выделанная кожа"
 	],
 	[
-		"leiden, litt, hat gelitten",
+		"leiden, (litt, hat gelitten)",
 		"страдать, пострадать, болеть, терпеть, допускать"
 	],
 	[
@@ -1376,7 +1376,7 @@
 		"ложь, неправда, лживость"
 	],
 	[
-		"lügen, log, hat gelogen",
+		"lügen, (log, hat gelogen)",
 		"лгать, врать, говорить неправду"
 	],
 	[
@@ -1436,7 +1436,7 @@
 		"странный, диковинный, особенный, странно, удивительно, необычайно"
 	],
 	[
-		"messen, maß, hat gemessen",
+		"messen, (maß, hat gemessen)",
 		"измерять, мерить, обмерять"
 	],
 	[
@@ -1504,7 +1504,7 @@
 		"после того как"
 	],
 	[
-		"nach/denken, dachte nach, hat nachgedacht",
+		"nach/denken, (dachte nach, hat nachgedacht)",
 		"размышлять, задумываться, думать, поразмыслить, обдумывать, раздумывать,"
 	],
 	[
@@ -1772,7 +1772,7 @@
 		"обратный полет"
 	],
 	[
-		"rufen, rief, hat gerufen",
+		"rufen, (rief, hat gerufen)",
 		"призывать, взывать, звать, кричать, выкрикивать"
 	],
 	[
@@ -1796,7 +1796,7 @@
 		"шикарный, фешенебельный"
 	],
 	[
-		"schieben, schob, ist geschoben",
+		"schieben, (schob, ist geschoben)",
 		"сдвигать, толкать, подталкивать, проталкивать, двигать"
 	],
 	[
@@ -1804,7 +1804,7 @@
 		"ругать, ругаться, поносить, браниться, хаять"
 	],
 	[
-		"schlagen, schlug, hat geschlagen",
+		"schlagen, (schlug, hat geschlagen)",
 		"бить, биться, хлопать, ударять, взбивать"
 	],
 	[
@@ -1828,7 +1828,7 @@
 		"задолженность, долг, вина"
 	],
 	[
-		"schuld sein, war schuld, ist schuld gewesen",
+		"schuld sein, (war schuld, ist schuld gewesen)",
 		"быть виноватым"
 	],
 	[
@@ -1876,7 +1876,7 @@
 		"стараться, пытаться, трудиться, хлопотать"
 	],
 	[
-		"sich bewerben, bewarb sich, hat sich beworben",
+		"sich bewerben, (bewarb sich, hat sich beworben)",
 		"претендовать на должность"
 	],
 	[
@@ -1900,11 +1900,11 @@
 		"осведомиться, спросить, справиться"
 	],
 	[
-		"sich etwas brechen, brach sich etwas, hat sich etwas gebrochen",
+		"sich etwas brechen, (brach sich etwas, hat sich etwas gebrochen)",
 		"себе что-нибудь сломать"
 	],
 	[
-		"sich gefallen lassen, ließ sich gefallen, hat sich gefallen gelassen",
+		"sich gefallen lassen, (ließ sich gefallen, hat sich gefallen gelassen)",
 		"допускать, терпеливо сносить, терпеть, мириться (с чем-л.), позволять (что-л.)"
 	],
 	[
@@ -1928,11 +1928,11 @@
 		"бриться"
 	],
 	[
-		"sich scheiden lassen, ließ sich scheiden, hat sich scheiden gelassen",
+		"sich scheiden lassen, (ließ sich scheiden, hat sich scheiden gelassen)",
 		"развестись, разводить, разводиться"
 	],
 	[
-		"sich verhalten, verhielt sich, hat sich verhalten",
+		"sich verhalten, (verhielt sich, hat sich verhalten)",
 		"относиться, поступать, вести себя, держать себя, обстоять"
 	],
 	[
@@ -1956,7 +1956,7 @@
 		"смысл, понимание, значение, суть"
 	],
 	[
-		"Sinn haben, hatte Sinn, hat Sinn gehabt",
+		"Sinn haben, (hatte Sinn, hat Sinn gehabt)",
 		"иметь смысл"
 	],
 	[
@@ -2016,7 +2016,7 @@
 		"пословица, поговорка"
 	],
 	[
-		"springen, sprang, ist gesprungen",
+		"springen, (sprang, ist gesprungen)",
 		"прыгать, перепрыгивать, скакать, подпрыгивать, спрыгивать, запрыгать"
 	],
 	[
@@ -2052,7 +2052,7 @@
 		"вилка, штекер, штепсель"
 	],
 	[
-		"stehlen, stahl, hat gestohlen",
+		"stehlen, (stahl, hat gestohlen)",
 		"воровать, красть, похищать, угонять"
 	],
 	[
@@ -2200,7 +2200,7 @@
 		"транспортировка, транспорт, перевозка"
 	],
 	[
-		"treiben, trieb, hat getrieben",
+		"treiben, (trieb, hat getrieben)",
 		"гнать, заниматься, вести, приводить в движение, дрейфовать, плыть по течению"
 	],
 	[
@@ -2268,7 +2268,7 @@
 		"развлечение, беседа"
 	],
 	[
-		"unterscheiden, unterschied, hat unterschieden",
+		"unterscheiden, (unterschied, hat unterschieden)",
 		"отличаться, различаться, отличать, различать"
 	],
 	[
@@ -2344,7 +2344,7 @@
 		"потребовать, требовать, просить, запрашивать, желать, стремиться"
 	],
 	[
-		"verlassen, verließ, hat verlassen",
+		"verlassen, (verließ, hat verlassen)",
 		"покидать, оставлять, уезжать"
 	],
 	[
@@ -2368,7 +2368,7 @@
 		"публиковать, опубликовывать, выпускать, предавать гласности"
 	],
 	[
-		"verraten, verriet, hat verraten",
+		"verraten, (verriet, hat verraten)",
 		"предавать, разглашать"
 	],
 	[
@@ -2396,7 +2396,7 @@
 		"доверие, уверенность, вера"
 	],
 	[
-		"vertreten, vertrat, hat vertreten",
+		"vertreten, (vertrat, hat vertreten)",
 		"представлять, замещать, заменять, защищать"
 	],
 	[
@@ -2424,7 +2424,7 @@
 		"использовать, применять, пользоваться, употреблять"
 	],
 	[
-		"verzeihen, verzieh, hat verziehen",
+		"verzeihen, (verzieh, hat verziehen)",
 		"прощать, извинять"
 	],
 	[
@@ -2448,7 +2448,7 @@
 		"впереди, вперед, раньше"
 	],
 	[
-		"vorbei/rennen, rannte vorbei, ist vorbeigerannt",
+		"vorbei/rennen, (rannte vorbei, ist vorbeigerannt)",
 		"бежать мимо, пробегать"
 	],
 	[
@@ -2456,7 +2456,7 @@
 		"готовиться, приготовлять, готовить, подготавливать, подготовлять, заготавливать"
 	],
 	[
-		"vor/haben, hatte vor, hat vorgehabt",
+		"vor/haben, (hatte vor, hat vorgehabt)",
 		"планировать, намереваться, замышлять, иметь намерение"
 	],
 	[
@@ -2472,7 +2472,7 @@
 		"предыдущий, прошлый, истекший, прошедший"
 	],
 	[
-		"vor/kommen, kam vor, ist vorgekommen",
+		"vor/kommen, (kam vor, ist vorgekommen)",
 		"происходить, иметь место, случаться, встречаться, произрастать"
 	],
 	[
@@ -2496,11 +2496,11 @@
 		"лекция, доклад, реферат"
 	],
 	[
-		"vor/ziehen, zog vor, hat vorgezogen",
+		"vor/ziehen, (zog vor, hat vorgezogen)",
 		"предпочитать, выдвигать"
 	],
 	[
-		"wachsen, wuchs, ist gewachsen",
+		"wachsen, (wuchs, ist gewachsen)",
 		"расти, вырастать, произрастать, возрастать, нарастать, увеличиваться, развиваться, расширяться"
 	],
 	[
@@ -2548,7 +2548,7 @@
 		"почему, за что, зачем, чего, отчего"
 	],
 	[
-		"widersprechen, widersprach, hat widersprochen",
+		"widersprechen, (widersprach, hat widersprochen)",
 		"противоречить, возражать"
 	],
 	[
@@ -2624,7 +2624,7 @@
 		"свидетель, очевидец, понятой"
 	],
 	[
-		"ziehen, zog, ist gezogen",
+		"ziehen, (zog, ist gezogen)",
 		"тянуть, вытягивать, вытаскивать, тащить, дергать, натягивать, перетаскивать, перетягивать"
 	],
 	[
@@ -2640,7 +2640,7 @@
 		"гневный, сердитый, злой"
 	],
 	[
-		"zu/nehmen, nahm zu, hat zugenommen",
+		"zu/nehmen, (nahm zu, hat zugenommen)",
 		"увеличиваться, возрастать, нарастать, расти, прибавлять в весе, прибавлять"
 	],
 	[
@@ -2688,7 +2688,7 @@
 		"лук, луковица"
 	],
 	[
-		"zwingen, zwang, hat gezwungen",
+		"zwingen, (zwang, hat gezwungen)",
 		"заставлять, вынуждать, принуждать, понуждать"
 	]
 ]
