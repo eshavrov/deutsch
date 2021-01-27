@@ -1,0 +1,772 @@
+[
+	[
+		"groß",
+		"большой",
+		[
+			[
+				"Unsere Familie bewohnt ein großes Haus.",
+				"Наша семья живет в большом доме."
+			]
+		]
+	],
+	[
+		"schnell",
+		"быстрый",
+		[
+			[
+				"Mein Herz schlägt schnell.",
+				"Мое сердце бьется сильно."
+			]
+		]
+	],
+	[
+		"lecker",
+		"вкусный",
+		[
+			[
+				"Die Großmutter kocht zu Mittag einen leckeren Borschtsch.",
+				"Бабушка готовит на обед вкусный борщ."
+			]
+		]
+	],
+	[
+		"hoch",
+		"высокий",
+		[
+			[
+				"Ein hoch gewachsener Sportler betrat die Turnhalle.",
+				"В спортзал вошел высокий спортсмен."
+			]
+		]
+	],
+	[
+		"tief",
+		"глубокий",
+		[
+			[
+				"In den Bergen fanden wir einen tiefen See",
+				"В горах мы нашли глубокое озеро."
+			]
+		]
+	],
+	[
+		"dumm",
+		"глупый",
+		[
+			[
+				"Stell mir keine dummen Fragen.",
+				"Не задавай мне глупых вопросов."
+			]
+		]
+	],
+	[
+		"hungrig",
+		"голодный",
+		[
+			[
+				"Mein Sohn ist sehr hungrig",
+				"Мой сын очень голодный."
+			]
+		]
+	],
+	[
+		"reich",
+		"богатый",
+		[
+			[
+				"Sie hat reiche Eltern.",
+				"У нее богатые родители."
+			]
+		]
+	],
+	[
+		"arm",
+		"бедный",
+		[
+			[
+				"Der Schriftsteller wurde in einer armen Bauernfamilie geboren.",
+				"Писатель родился в бедной крестьянской семье."
+			]
+		]
+	],
+	[
+		"heiß",
+		"горячий",
+		[
+			[
+				"Warum trinkst du den Kaffee nicht? - Er ist noch heiß.",
+				"Почему ты не поешь кофе? - Он еще горячий."
+			]
+		]
+	],
+	[
+		"laut",
+		"громкий",
+		[
+			[
+				"Laute Musik stört mich beim Lesen.",
+				"Громкая музыка мешает мне читать."
+			]
+		]
+	],
+	[
+		"fertig",
+		"готовый",
+		[
+			[
+				"Das Mittagessen ist schon fertig, setzt euch an den Tisch.",
+				"Обед уже готовый, садитесь за столом."
+			]
+		]
+	],
+	[
+		"traurig",
+		"грустный",
+		[
+			[
+				"Abends hört sie gern traurige Lieder über eine unglückliche Liebe.",
+				"По вечерам она любит слушать грустные песни о несчастной любви."
+			]
+		]
+	],
+	[
+		"schmutzig",
+		"грязный",
+		[
+			[
+				"Wasch dir deine Hände, sie sind schmutzig.",
+				"Помой руки, они у тебя грязные."
+			]
+		]
+	],
+	[
+		"lang",
+		"длинный",
+		[
+			[
+				"Sie hatte eine langärmlige Bluse an.",
+				"На ней была блузки с длинным рукавом."
+			]
+		]
+	],
+	[
+		"geizig",
+		"жадный",
+		[
+			[
+				"Mir gefällt dein Freund nicht, er ist geizig.",
+				"Мне не нравится твой друг, он жадный."
+			]
+		]
+	],
+	[
+		"flüssig",
+		"жидкий",
+		[
+			[
+				"Erdöl ist ein flüssiger Brennstoff.",
+				"Нефть является жидким топливом."
+			]
+		]
+	],
+	[
+		"gesund",
+		"здоровый",
+		[
+			[
+				"Mir scheint, du bist noch nicht völlig gesund.",
+				"Мне кажется, ты еще не совсем здоров."
+			]
+		]
+	],
+	[
+		"interessant",
+		"интересный",
+		[
+			[
+				"Im Fernsehen lief eine interessante Sendung.",
+				"По телевизору шла интересная передача."
+			]
+		]
+	],
+	[
+		"krank",
+		"больной",
+		[
+			[
+				"Der kranke Junge weiß, dass seine Krankheit sehr gefährlich ist.",
+				"Больной мальчик знает, что его болезнь очень опасная."
+			]
+		]
+	],
+	[
+		"kurz",
+		"короткий",
+		[
+			[
+				"Ich las den kurzen Brief von meinem Bruder schnell durch.",
+				"Я быстро прочитала короткое письмо брата."
+			]
+		]
+	],
+	[
+		"schön",
+		"красивый",
+		[
+			[
+				"Wo hast du diesen schönen Ring gekauft.",
+				"Где ты купила это красивое кольцо?"
+			]
+		]
+	],
+	[
+		"leicht",
+		"легкий",
+		[
+			[
+				"Was für einen leichten Koffer du hast!",
+				"Какой у тебя легкий чемодан!"
+			]
+		]
+	],
+	[
+		"faul",
+		"ленивый",
+		[
+			[
+				"Sascha war zwar ein begabter, aber fauler Schüler.",
+				"Саша был способным, но ленивым учеником."
+			]
+		]
+	],
+	[
+		"neugirig",
+		"любопытный",
+		[
+			[
+				"Sie haben aber ein neugieriges Kind!",
+				"Какой у вас любопытный ребенок!"
+			]
+		]
+	],
+	[
+		"klein",
+		"маленький",
+		[
+			[
+				"Aus den kleinen Äpfel habe ich Kompott gekocht.",
+				"Из мелких яблок я сварила компот."
+			]
+		]
+	],
+	[
+		"langsam",
+		"медленный",
+		[
+			[
+				"Das war ein sehr langsamer Zug.",
+				"Это был очень медленный поезд."
+			]
+		]
+	],
+	[
+		"jung",
+		"молодой",
+		[
+			[
+				"Als junges Mädchen begann sie hier zu arbeiten.",
+				"Она начала здесь работать еще молодой девушкой."
+			]
+		]
+	],
+	[
+		"neu",
+		"новый",
+		[
+			[
+				"Sie haben ein ganz neues Auto.",
+				"У них совсем новая машина."
+			]
+		]
+	],
+	[
+		"gefährlich",
+		"опасный",
+		[
+			[
+				"Die Reise nach Afrika war gefährlich.",
+				"Путешествие в Африку было опасным."
+			]
+		]
+	],
+	[
+		"schlecht",
+		"плохой",
+		[
+			[
+				"Gestern hatte er schlechte Laune.",
+				"Вчера у него было плохое настроение."
+			]
+		]
+	],
+	[
+		"richtig",
+		"правильный",
+		[
+			[
+				"Er gab eine richtige Einschätzung der Ereignisse in Deutschland.",
+				"Он дал правильную оценку событиям, происходящим в Германии."
+			]
+		]
+	],
+	[
+		"einfach",
+		"простой",
+		[
+			[
+				"Das ist eine einfache Frage.",
+				"Это совсем простой вопрос."
+			]
+		]
+	],
+	[
+		"leer",
+		"пустой",
+		[
+			[
+				"Sie fürchtete sich in dem leeren Haus.",
+				"Ей было страшно в пустом доме."
+			]
+		]
+	],
+	[
+		"früh",
+		"ранний",
+		[
+			[
+				"Mir gefallen die früheren Erzählungen von Lermontov.",
+				"Мне нравятся ранние рассказы Лермонтова."
+			]
+		]
+	],
+	[
+		"selten; rar",
+		"редкий",
+		[
+			[
+				"Mein Bekannter hat einen seltenen Namen.",
+				"У моего знакомого редкое имя."
+			]
+		]
+	],
+	[
+		"frisch",
+		"свежий",
+		[
+			[
+				"In diesem  Laden ist das Gemüse immer frisch.",
+				"В этом магазине овощи всегда свежие."
+			]
+		]
+	],
+	[
+		"hell",
+		"светлый",
+		[
+			[
+				"Ihre Tochter hat langes helles Haar.",
+				"У ее дочери длинные светлые волосы."
+			]
+		]
+	],
+	[
+		"ernst",
+		"серьезный",
+		[
+			[
+				"Der neue Kollege ist ein sehr ernster Mensch.",
+				"Новый коллега очень серьезный человек."
+			]
+		]
+	],
+	[
+		"langweilig",
+		"скучный",
+		[
+			[
+				"Dieses langweilige Buch habe ich nicht bis zum Ende gelesen.",
+				"Эту вкусную книгу я до конца не дочитал."
+			]
+		]
+	],
+	[
+		"schwach",
+		"слабый",
+		[
+			[
+				"Der Patient  ist nach der Operation  noch sehr schwach.",
+				"Пациент  после операции  еще очень  слаб."
+			]
+		]
+	],
+	[
+		"ruhig",
+		"спокойный",
+		[
+			[
+				"Sei ruhig!",
+				"Будь спокойным!; Успокойся!"
+			]
+		]
+	],
+	[
+		"trocken",
+		"сухой",
+		[
+			[
+				"Der Sommer war trocken und niederschlagsfrei.",
+				"Лето было сухое, без осадков."
+			]
+		]
+	],
+	[
+		"glücklich",
+		"счастливый",
+		[
+			[
+				"Arbeit macht mich glücklich.",
+				"Работа делает меня счастливой."
+			]
+		]
+	],
+	[
+		"hart",
+		"твердый",
+		[
+			[
+				"Die Erde war hart wie Stein.",
+				"Земля была твердая, как камень."
+			]
+		]
+	],
+	[
+		"dunkel",
+		"темный",
+		[
+			[
+				"Zu dieser hellen Bluse passt ein dunkler Rock.",
+				"К этой светлой блузке подойдет темная юбка."
+			]
+		]
+	],
+	[
+		"warm",
+		"теплый",
+		[
+			[
+				"Es wehte ein warmer Wind und der Schnee begann zu schmelzen.",
+				"Подул теплый ветер и снег начал таять."
+			]
+		]
+	],
+	[
+		"dick",
+		"толстый",
+		[
+			[
+				"Obst macht nicht dick.",
+				"От фруктов не толстеют."
+			]
+		]
+	],
+	[
+		"dünn",
+		"тонкий",
+		[
+			[
+				"Das Mädchen hat dünne Arme und Beine.",
+				"У девочки тонкие руки и ноги."
+			]
+		]
+	],
+	[
+		"schwer",
+		"трудный",
+		[
+			[
+				"Meine Großeltern lebten in einer schweren Zeit.",
+				"Мои бабушка с дедушкой жили в трудное время."
+			]
+		]
+	],
+	[
+		"schwierig",
+		"тяжелый",
+		[
+			[
+				"Die Frau trug eine schwierige Tasche mit Lebensmitteln.",
+				"Женщина несла тяжелую сумку с продуктами."
+			]
+		]
+	],
+	[
+		"eng",
+		"узкий",
+		[
+			[
+				"Durch einen schmalen Korridor gingen wir ins Zimmer. - По узкому коридору мы прошли в комнату.",
+				""
+			]
+		]
+	],
+	[
+		"klug",
+		"умный",
+		[
+			[
+				"Die Studentin ist ziemlich klug.",
+				"Студентка довольно умна."
+			]
+		]
+	],
+	[
+		"müde",
+		"усталый",
+		[
+			[
+				"Er schien sehr müde aus.",
+				"Он казался очень усталым."
+			]
+		]
+	],
+	[
+		"kalt",
+		"холодный",
+		[
+			[
+				"Im Februar weht der kalte Nordwind.",
+				"В феврале дует холодный северный ветер."
+			]
+		]
+	],
+	[
+		"gut",
+		"хороший",
+		[
+			[
+				"Trotz des Alters hat er ein gutes Gedächtnis.",
+				"Несмотря на возраст, у него хорошая память."
+			]
+		]
+	],
+	[
+		"ehrlich",
+		"честный",
+		[
+			[
+				"Alle hielten ihn für einen ehrlichen Menschen.",
+				"Все считали его честным человеком."
+			]
+		]
+	],
+	[
+		"sauber",
+		"чистый",
+		[
+			[
+				"Bring mir bitte ein sauberes Glas.",
+				"Принеси мне, пожалуйста, чистый стакан."
+			]
+		]
+	],
+	[
+		"breit",
+		"широкий",
+		[
+			[
+				"In den 1. Stock führte eine breite Treppe.",
+				"На второй этаж вела широкая лестница."
+			]
+		]
+	],
+	[
+		"wichtig",
+		"важный",
+		[
+			[
+				"Das ist eine sehr wichtige Frage.",
+				"Это очень важный вопрос."
+			]
+		]
+	],
+	[
+		"treu",
+		"верный",
+		[
+			[
+				"Ein treuer Freund lässt dich nicht im Stich.",
+				"Верный друг не оставит тебя в беде."
+			]
+		]
+	],
+	[
+		"möglich",
+		"возможный",
+		[
+			[
+				"Man muss alle möglichen Varianten diskutieren.",
+				"Надо обсудить все возможные варианты."
+			]
+		]
+	],
+	[
+		"lieber",
+		"дорогой",
+		[
+			[
+				"Liebe Papa! Ich gratuliere dir zum Geburtstag!",
+				"Дорогой, папа! Я поздравляю тебя с днем рождения!"
+			]
+		]
+	],
+	[
+		"teuer",
+		"дорогой",
+		[
+			[
+				"Sie kaufte sich einen teuren Ring.",
+				"Она купила себе дорогое кольцо."
+			]
+		]
+	],
+	[
+		"bekannt",
+		"известный",
+		[
+			[
+				"Ein bekannter Schriftsteller fuhr nach Amerika.",
+				"Известный писатель уехал в Америку."
+			]
+		]
+	],
+	[
+		"tot",
+		"мертвый",
+		[
+			[
+				"Die Kinder fanden im Garten eine tote Katze.",
+				"Дети нашли в саду мертвую кошку."
+			]
+		]
+	],
+	[
+		"niedrig",
+		"низкий",
+		[
+			[
+				"Die Gäste saßen an einem niedrigen Tisch.",
+				"Гости сидели за низким столом."
+			]
+		]
+	],
+	[
+		"notwengig",
+		"необходимый",
+		[
+			[
+				"Die notwendigen Bücher könnt ihr in der Bibliothek bekommen.",
+				"Необходимые книги вы можете взять в библиотеке"
+			]
+		]
+	],
+	[
+		"einsam",
+		"одинокий",
+		[
+			[
+				"In einer Großstadt fühlt er sich einsam.",
+				"В большом городе он чувствует себя одиноким."
+			]
+		]
+	],
+	[
+		"letzter",
+		"последний",
+		[
+			[
+				"Der Student beantwortete die letzte Frage richtig.",
+				"Студент правильно ответил на последний вопрос."
+			]
+		]
+	],
+	[
+		"toll; großartig; wunderschön",
+		"прекрасный",
+		[
+			[
+				"Meine Freundin ist eine großartige Mutter.",
+				"Моя подруга - прекрасная мать."
+			]
+		]
+	],
+	[
+		"angenehm",
+		"приятный",
+		[
+			[
+				"Deine Frau hat eine angenehme Stimme.",
+				"У твоей жены очень приятный голос."
+			]
+		]
+	],
+	[
+		"stark",
+		"сильный",
+		[
+			[
+				"Der Kranke wird seine starken Kopfschmerzen nicht los.",
+				"У больного не проходят сильные головные боли"
+			]
+		]
+	],
+	[
+		"lustig",
+		"смешной",
+		[
+			[
+				"Dieser Schriftsteller schreibt lustige Erzählungen für Kinder.",
+				"Этот писатель пишет смешные истории для детей"
+			]
+		]
+	],
+	[
+		"alt",
+		"старый",
+		[
+			[
+				"Seine alten Eltern leben auf dem Lande.",
+				"Его старые родители живут в деревне."
+			]
+		]
+	],
+	[
+		"dringend",
+		"срочный",
+		[
+			[
+				"Er bekam ein dringendes Telegramm von seiner Frau.",
+				"Он получил срочную телеграмму от своей жены."
+			]
+		]
+	],
+	[
+		"seltsam",
+		"странный",
+		[
+			[
+				"Der Film hat bei mir einen seltsamen Eindruck hinterlassen.",
+				"От фильма у меня осталось странное впечатление."
+			]
+		]
+	]
+]

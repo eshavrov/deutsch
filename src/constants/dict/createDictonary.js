@@ -2,6 +2,7 @@ const fs = require("fs");
 const { createHash } = require("crypto");
 const { sp, normalizeVerb } = require("./verbs");
 
+const adjectives1 = require("./in_data/other/adjectives/1.json");
 const predlogi = require("./in_data/other/predlogi.json");
 const words200 = require("./in_data/de-online_ru/200words.json");
 const verbs = require("./in_data/other/verbs.json");
@@ -137,8 +138,14 @@ const cc = (text) => {
 
 const getEntryId = (entry) => {
   const { type, base } = entry;
+  let _tmp = "*";
+  if (["verb", "noun"].includes(type)) {
+    _tmp = type + cc(base);
+  } else {
+    _tmp = "*" + cc(base);
+  }
 
-  return getId(type + cc(base));
+  return getId(_tmp);
 };
 
 const REGEXP_DER = /^der\s+/i;
@@ -375,6 +382,20 @@ const addVerb = (dictonary, data, options = {}, afterCb) => {
   add(dictonary, data, { options, cb });
 };
 
+const addAdjective = (dictonary, data, options = {}, afterCb) => {
+  const cb = (_entry) => {
+    const entry = afterCb ? afterCb(_entry) : _entry;
+
+    return { ...entry, type: "adjective" };
+  };
+
+  add(dictonary, data, { options, cb });
+};
+
+adjectives1.forEach((data) => {
+  addAdjective(dictonary, data);
+});
+
 [...list, ...words200, ...verbs].forEach((data) => add(dictonary, data));
 predlogi.forEach((data) => add(dictonary, data));
 
@@ -464,7 +485,7 @@ console.log("---------------- end test --------------");
 
 // console.log(dictonary);
 
-["*", "verb", "noun"].forEach((t) => {
+["*", "verb", "noun", "adjective"].forEach((t) => {
   const db = dictonary.filter(({ type }) => type === t);
   const fileName = `db-${t}.json`;
   fs.writeFileSync(`./${fileName}`, JSON.stringify(db, null, "  "));

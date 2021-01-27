@@ -970,38 +970,6 @@
   },
   {
     "type": "*",
-    "base": "alt",
-    "article": null,
-    "translate": "старый; пожилой; древний; старинный",
-    "context": [
-      [
-        "Wie alt sind Sie?",
-        ""
-      ],
-      [
-        "Sie sehen aber nicht so alt aus.",
-        ""
-      ],
-      [
-        "Mein Auto ist schon sehr alt.",
-        ""
-      ],
-      [
-        "Wir wohnen in einem sehr alten Haus.",
-        ""
-      ],
-      [
-        "Köln ist eine alte Stadt.",
-        ""
-      ]
-    ],
-    "originals": [
-      "alt"
-    ],
-    "id": "246dd96ac22057d7d3650636a22dbe36"
-  },
-  {
-    "type": "*",
     "base": "am Apparat",
     "article": null,
     "translate": "у аппарата; слушаю",
@@ -1315,17 +1283,6 @@
   },
   {
     "type": "*",
-    "base": "angenehm",
-    "article": null,
-    "translate": "приятный; симпатичный; угодный; приятно",
-    "context": [],
-    "originals": [
-      "angenehm"
-    ],
-    "id": "7fc3d7518d88c720bafe2474180703de"
-  },
-  {
-    "type": "*",
     "base": "angestellt",
     "article": null,
     "translate": "штатный; постоянно работающий; служащий; нанятый",
@@ -1416,17 +1373,6 @@
       "arbeitslos"
     ],
     "id": "addcc62301522a306a367d87662883be"
-  },
-  {
-    "type": "*",
-    "base": "arm",
-    "article": null,
-    "translate": "бедный",
-    "context": [],
-    "originals": [
-      "arm"
-    ],
-    "id": "47d5783b5dff497a847375b0bfb21eff"
   },
   {
     "type": "*",
@@ -2063,22 +2009,6 @@
   },
   {
     "type": "*",
-    "base": "bekannt",
-    "article": null,
-    "translate": "известный; знакомый",
-    "context": [
-      [
-        "Picasso ist sehr bekannt.",
-        ""
-      ]
-    ],
-    "originals": [
-      "bekannt"
-    ],
-    "id": "5999bb5ca407ec1c94cb82e1d8ef3e80"
-  },
-  {
-    "type": "*",
     "base": "bekannt sein",
     "article": null,
     "translate": "быть знакомым",
@@ -2563,22 +2493,6 @@
       "braun"
     ],
     "id": "91ff0e989da33bee08859c99ee96e03d"
-  },
-  {
-    "type": "*",
-    "base": "breit",
-    "article": null,
-    "translate": "широкий; обширный; широко",
-    "context": [
-      [
-        "Wie breit ist der Schrank?",
-        ""
-      ]
-    ],
-    "originals": [
-      "breit"
-    ],
-    "id": "3923a7e5b0405b8fc626848169f96f03"
   },
   {
     "type": "*",
@@ -3140,17 +3054,6 @@
   },
   {
     "type": "*",
-    "base": "dick",
-    "article": null,
-    "translate": "толстый; жирный; полный; тучный",
-    "context": [],
-    "originals": [
-      "dick"
-    ],
-    "id": "0741b41a97561961e71d208a2f36c2ad"
-  },
-  {
-    "type": "*",
     "base": "die Arztpraxis, Arztpraxen",
     "article": null,
     "translate": "кабинет врача",
@@ -3412,17 +3315,6 @@
   },
   {
     "type": "*",
-    "base": "dringend",
-    "article": null,
-    "translate": "срочный; неотложный; экстренный; срочно; спешно",
-    "context": [],
-    "originals": [
-      "dringend"
-    ],
-    "id": "08baffed543740c73e49189199e4ad05"
-  },
-  {
-    "type": "*",
     "base": "du",
     "article": null,
     "translate": "ты",
@@ -3511,28 +3403,6 @@
   },
   {
     "type": "*",
-    "base": "dumm",
-    "article": null,
-    "translate": "глупый; дурацкий; нелепый; глупо",
-    "context": [],
-    "originals": [
-      "dumm"
-    ],
-    "id": "852fa6b3f855c07a108c797ffc17ead2"
-  },
-  {
-    "type": "*",
-    "base": "dunkel",
-    "article": null,
-    "translate": "темный; мрачный; темно",
-    "context": [],
-    "originals": [
-      "dunkel"
-    ],
-    "id": "42d89e0f5c8515bf02cabc88c390d183"
-  },
-  {
-    "type": "*",
     "base": "durch",
     "article": null,
     "translate": "через; сквозь; благодаря; вследствие",
@@ -3582,17 +3452,6 @@
   },
   {
     "type": "*",
-    "base": "dünn",
-    "article": null,
-    "translate": "тонкий; худой; мелкий; нежный",
-    "context": [],
-    "originals": [
-      "dünn"
-    ],
-    "id": "53a1b72050ad2b5d2f24dfe2bfd6b75a"
-  },
-  {
-    "type": "*",
     "base": "dürfen, durfte, hat gedurft",
     "article": null,
     "translate": "иметь право; иметь разрешение",
@@ -3634,17 +3493,6 @@
       "egal"
     ],
     "id": "f2845af5e89db2aa48336b71916516c5"
-  },
-  {
-    "type": "*",
-    "base": "ehrlich",
-    "article": null,
-    "translate": "честный; порядочный",
-    "context": [],
-    "originals": [
-      "ehrlich"
-    ],
-    "id": "82814ed7510a12893f544a615f543cfc"
   },
   {
     "type": "*",
@@ -3838,30 +3686,6 @@
   },
   {
     "type": "*",
-    "base": "einfach",
-    "article": null,
-    "translate": "просто; простой; обычный; обыкновенный; просто так; обыкновенно",
-    "context": [
-      [
-        "Die Prüfung ist ganz einfach.",
-        ""
-      ],
-      [
-        "Hin und zurück? – Nein, bitte nur einfach.",
-        ""
-      ],
-      [
-        "Ich brauche nur ein einfaches Zimmer.",
-        ""
-      ]
-    ],
-    "originals": [
-      "einfach"
-    ],
-    "id": "51d1833abe684145b73d5c19c87e3d52"
-  },
-  {
-    "type": "*",
     "base": "einige",
     "article": null,
     "translate": "некоторые; кое-кто; немногие",
@@ -3886,17 +3710,6 @@
       "einmal"
     ],
     "id": "c5d3a2abd5b049687812aeeceeb603d0"
-  },
-  {
-    "type": "*",
-    "base": "einsam",
-    "article": null,
-    "translate": "одинокий; уединенный; укромный",
-    "context": [],
-    "originals": [
-      "einsam"
-    ],
-    "id": "38089c3af70e34f0b4dd1b33f58941ee"
   },
   {
     "type": "*",
@@ -3985,17 +3798,6 @@
       "endlich"
     ],
     "id": "4eb3ffbe40c6d1f70b83e2035064bc91"
-  },
-  {
-    "type": "*",
-    "base": "eng",
-    "article": null,
-    "translate": "тесный; тугой; плотный; тесно; плотно",
-    "context": [],
-    "originals": [
-      "eng"
-    ],
-    "id": "9d88f2ec2b729c7ec88456eddf4a1072"
   },
   {
     "type": "*",
@@ -4270,17 +4072,6 @@
       "erlaubt"
     ],
     "id": "6ba7ebc0376d4a592354ea5d26684a0c"
-  },
-  {
-    "type": "*",
-    "base": "ernst",
-    "article": null,
-    "translate": "серьезно; всерьез; серьезный",
-    "context": [],
-    "originals": [
-      "ernst"
-    ],
-    "id": "3931ecd44931ae39e9761596c67f6e49"
   },
   {
     "type": "*",
@@ -4640,17 +4431,6 @@
   },
   {
     "type": "*",
-    "base": "faul",
-    "article": null,
-    "translate": "ленивый; тухлый; нерадивый; протухший",
-    "context": [],
-    "originals": [
-      "faul"
-    ],
-    "id": "2caaab69b5236544cc59b1195715dcda"
-  },
-  {
-    "type": "*",
     "base": "feiern",
     "article": null,
     "translate": "праздновать; отмечать; справлять; чествовать; торжествовать",
@@ -4697,26 +4477,6 @@
       "fern/sehen, sah fern, hat ferngesehen"
     ],
     "id": "ff12ed59d6a94a4a2c89d0116148e64b"
-  },
-  {
-    "type": "*",
-    "base": "fertig",
-    "article": null,
-    "translate": "готовый; готово; готов; умело; искусно",
-    "context": [
-      [
-        "Bist du fertig?",
-        ""
-      ],
-      [
-        "Ist mein Auto schon fertig?",
-        ""
-      ]
-    ],
-    "originals": [
-      "fertig"
-    ],
-    "id": "4c6744b6fce13734365597952b4a201d"
   },
   {
     "type": "*",
@@ -4827,17 +4587,6 @@
       "fließen, floss, ist geflossen"
     ],
     "id": "508aed2c8338a85f53520092a716873f"
-  },
-  {
-    "type": "*",
-    "base": "flüssig",
-    "article": null,
-    "translate": "жидкий",
-    "context": [],
-    "originals": [
-      "flüssig"
-    ],
-    "id": "15df7b626d7657d58c60afa9e8c67479"
   },
   {
     "type": "*",
@@ -4961,17 +4710,6 @@
   },
   {
     "type": "*",
-    "base": "frisch",
-    "article": null,
-    "translate": "свежий; чистый; бодрый; бодро",
-    "context": [],
-    "originals": [
-      "frisch"
-    ],
-    "id": "ad58a489c1a4a80ad76b3868acc3e3b9"
-  },
-  {
-    "type": "*",
     "base": "frohe Ostern",
     "article": null,
     "translate": "желать счастливой пасхи",
@@ -5002,17 +4740,6 @@
       "fröhlich"
     ],
     "id": "3f8ff9f269fe0b57b5ddee72823530d8"
-  },
-  {
-    "type": "*",
-    "base": "früh",
-    "article": null,
-    "translate": "ранний; рано",
-    "context": [],
-    "originals": [
-      "früh"
-    ],
-    "id": "267a9e785229ce52b1dc6377b0e61b96"
   },
   {
     "type": "*",
@@ -5188,17 +4915,6 @@
   },
   {
     "type": "*",
-    "base": "gefährlich",
-    "article": null,
-    "translate": "опасный; рискованный; опасно",
-    "context": [],
-    "originals": [
-      "gefährlich"
-    ],
-    "id": "863def51a43313cceaf676f6c3490ba1"
-  },
-  {
-    "type": "*",
     "base": "gegenüber",
     "article": null,
     "translate": "напротив; в противовес; против",
@@ -5240,17 +4956,6 @@
       "gehen, ging, ist gegangen"
     ],
     "id": "7e388d8b4e10270b272ad1ee9a0c6ebb"
-  },
-  {
-    "type": "*",
-    "base": "geizig",
-    "article": null,
-    "translate": "жадный",
-    "context": [],
-    "originals": [
-      "geizig"
-    ],
-    "id": "d6e40c509e576180c321393a783530fc"
   },
   {
     "type": "*",
@@ -5405,17 +5110,6 @@
       "gestern"
     ],
     "id": "e1cd12c73b2ee9162e3517aa0e15b3bc"
-  },
-  {
-    "type": "*",
-    "base": "gesund",
-    "article": null,
-    "translate": "здоровый; полезный для здоровья",
-    "context": [],
-    "originals": [
-      "gesund"
-    ],
-    "id": "342118211cb6ed9f8d467aa218aa2a06"
   },
   {
     "type": "*",
@@ -5589,17 +5283,6 @@
   },
   {
     "type": "*",
-    "base": "glücklich",
-    "article": null,
-    "translate": "счастливый; удачный; удачливый; счастливо",
-    "context": [],
-    "originals": [
-      "glücklich"
-    ],
-    "id": "6bc2c6d7a8c0dd23384cf23fb8bf3574"
-  },
-  {
-    "type": "*",
     "base": "gratis",
     "article": null,
     "translate": "бесплатно; безвозмездно",
@@ -5619,17 +5302,6 @@
       "grau"
     ],
     "id": "a1b677703d8d08b72d436167508d3038"
-  },
-  {
-    "type": "*",
-    "base": "groß",
-    "article": null,
-    "translate": "большой; крупный; высокий; крупно",
-    "context": [],
-    "originals": [
-      "groß"
-    ],
-    "id": "601eddbb3725451c521e7dfd86ae60df"
   },
   {
     "type": "*",
@@ -5663,17 +5335,6 @@
       "grün"
     ],
     "id": "b413b289d085067342d2a284cba07ab4"
-  },
-  {
-    "type": "*",
-    "base": "gut",
-    "article": null,
-    "translate": "хорошо; хороший; добрый",
-    "context": [],
-    "originals": [
-      "gut"
-    ],
-    "id": "0151133aa92e0d6a6010f25e278b3e64"
   },
   {
     "type": "*",
@@ -5754,17 +5415,6 @@
   },
   {
     "type": "*",
-    "base": "hart",
-    "article": null,
-    "translate": "трудный; тяжелый; жесткий; твердый; трудно; упорно; сурово",
-    "context": [],
-    "originals": [
-      "hart"
-    ],
-    "id": "2f9130e3cc4a5b0c317aed0efd4ca156"
-  },
-  {
-    "type": "*",
     "base": "heben, hob, hat gehoben",
     "article": null,
     "translate": "поднимать; собирать; подниматься; повышаться",
@@ -5773,17 +5423,6 @@
       "heben, hob, hat gehoben"
     ],
     "id": "41ecc2cb04ef78198dd7b36b22837773"
-  },
-  {
-    "type": "*",
-    "base": "heiß",
-    "article": null,
-    "translate": "жарко; горячий; жаркий; страстный; горячо",
-    "context": [],
-    "originals": [
-      "heiß"
-    ],
-    "id": "567e0520e8f36af9723a8d4db8514768"
   },
   {
     "type": "*",
@@ -5806,17 +5445,6 @@
       "helfen, half, hat geholfen"
     ],
     "id": "9e838d49cca819a4972495668ec876e7"
-  },
-  {
-    "type": "*",
-    "base": "hell",
-    "article": null,
-    "translate": "светлый; ясный; яркий; светло",
-    "context": [],
-    "originals": [
-      "hell"
-    ],
-    "id": "26d841e9d2f61c268ee8e721f9d745ac"
   },
   {
     "type": "*",
@@ -5974,17 +5602,6 @@
   },
   {
     "type": "*",
-    "base": "hoch",
-    "article": null,
-    "translate": "высокий; высоко; рослый; благородный; почетный; вверх",
-    "context": [],
-    "originals": [
-      "hoch"
-    ],
-    "id": "889830cbde59ceb9aea0cd50bba17d7d"
-  },
-  {
-    "type": "*",
     "base": "hoffentlich",
     "article": null,
     "translate": "надо надеяться; надеюсь",
@@ -6015,17 +5632,6 @@
       "hunger haben"
     ],
     "id": "9a59160a197460ed7e03626d6a249502"
-  },
-  {
-    "type": "*",
-    "base": "hungrig",
-    "article": null,
-    "translate": "голодный",
-    "context": [],
-    "originals": [
-      "hungrig"
-    ],
-    "id": "3583fa276785e66c8898e4103d53786b"
   },
   {
     "type": "*",
@@ -6549,17 +6155,6 @@
   },
   {
     "type": "*",
-    "base": "interessant",
-    "article": null,
-    "translate": "интересный; интересно",
-    "context": [],
-    "originals": [
-      "interessant"
-    ],
-    "id": "ca98bfafc4d6ba4237983a62bb4fc741"
-  },
-  {
-    "type": "*",
     "base": "international",
     "article": null,
     "translate": "международный; интернациональный",
@@ -6822,33 +6417,6 @@
   },
   {
     "type": "*",
-    "base": "jung",
-    "article": null,
-    "translate": "молодой; юный; молоденький",
-    "context": [
-      [
-        "Claudia ist 21. – Was? Noch so jung?",
-        ""
-      ]
-    ],
-    "originals": [
-      "jung"
-    ],
-    "id": "da29f7df97dab5efe8a10f4110cf7ce6"
-  },
-  {
-    "type": "*",
-    "base": "kalt",
-    "article": null,
-    "translate": "холодно; холодный",
-    "context": [],
-    "originals": [
-      "kalt"
-    ],
-    "id": "b52286e796f55ccea5c5f2b7b50cd1ed"
-  },
-  {
-    "type": "*",
     "base": "kaputt",
     "article": null,
     "translate": "разбитый; сломанный; испорченный; поломанный; разорванный; погибший",
@@ -6926,17 +6494,6 @@
   },
   {
     "type": "*",
-    "base": "klein",
-    "article": null,
-    "translate": "маленький; малый; небольшой; мелкий",
-    "context": [],
-    "originals": [
-      "klein"
-    ],
-    "id": "1f44ea0b07781049178e900baff29322"
-  },
-  {
-    "type": "*",
     "base": "klettern",
     "article": null,
     "translate": "карабкаться; взбираться; лезть; залезать; лазать; забираться",
@@ -6956,17 +6513,6 @@
       "klingeln"
     ],
     "id": "b4ba345389a8a1e4a241b96fc40d9006"
-  },
-  {
-    "type": "*",
-    "base": "klug",
-    "article": null,
-    "translate": "мудрый; умный; разумный; смышленый; толковый; умно; обдуманно",
-    "context": [],
-    "originals": [
-      "klug"
-    ],
-    "id": "05d81f4a71ddeea32ecc859f7705928b"
   },
   {
     "type": "*",
@@ -7047,17 +6593,6 @@
   },
   {
     "type": "*",
-    "base": "krank",
-    "article": null,
-    "translate": "нездоровый; больной; немощный",
-    "context": [],
-    "originals": [
-      "krank"
-    ],
-    "id": "37fc800973e11b0058f5c629cfbca14d"
-  },
-  {
-    "type": "*",
     "base": "krank sein",
     "article": null,
     "translate": "болеть",
@@ -7110,17 +6645,6 @@
       "kulturell"
     ],
     "id": "ccce5c254843b5733ea899fe74f70c08"
-  },
-  {
-    "type": "*",
-    "base": "kurz",
-    "article": null,
-    "translate": "короткий; коротко",
-    "context": [],
-    "originals": [
-      "kurz"
-    ],
-    "id": "acb353ce3e2100f1a5c95397ef01257b"
   },
   {
     "type": "*",
@@ -7179,17 +6703,6 @@
   },
   {
     "type": "*",
-    "base": "lang",
-    "article": null,
-    "translate": "длинный; долгий; высокий; длительный; вдоль",
-    "context": [],
-    "originals": [
-      "lang"
-    ],
-    "id": "68441b7aca1d3d027846092d242bbc9e"
-  },
-  {
-    "type": "*",
     "base": "lange",
     "article": null,
     "translate": "долго; давно; длинный; долгий; высокий",
@@ -7198,28 +6711,6 @@
       "lange"
     ],
     "id": "d89317bacc23e061c5509403c9fed562"
-  },
-  {
-    "type": "*",
-    "base": "langsam",
-    "article": null,
-    "translate": "медленно; медленный; потихоньку; постепенно; неповоротливый",
-    "context": [],
-    "originals": [
-      "langsam"
-    ],
-    "id": "d76ef11e9de74921de596fed01b5441f"
-  },
-  {
-    "type": "*",
-    "base": "langweilig",
-    "article": null,
-    "translate": "скучный; нудный; тоскливый; скучно",
-    "context": [],
-    "originals": [
-      "langweilig"
-    ],
-    "id": "9798e5c8d9e6fe65aa6d7f14377f577c"
   },
   {
     "type": "*",
@@ -7245,17 +6736,6 @@
   },
   {
     "type": "*",
-    "base": "laut",
-    "article": null,
-    "translate": "громко; громкий; вслух; шумный; звучный; шумно; во всеуслышание",
-    "context": [],
-    "originals": [
-      "laut"
-    ],
-    "id": "59f737d918571ee247ce27cfef37e491"
-  },
-  {
-    "type": "*",
     "base": "lebendig",
     "article": null,
     "translate": "живой; полный жизни; оживленный; заживо; живьем; оживленно",
@@ -7278,17 +6758,6 @@
   },
   {
     "type": "*",
-    "base": "lecker",
-    "article": null,
-    "translate": "вкусный; вкусно; аппетитный; лакомый",
-    "context": [],
-    "originals": [
-      "lecker"
-    ],
-    "id": "fb572eab72c549e54f04a6a94bd61ec8"
-  },
-  {
-    "type": "*",
     "base": "ledig",
     "article": null,
     "translate": "холостой; незамужняя",
@@ -7300,17 +6769,6 @@
   },
   {
     "type": "*",
-    "base": "leer",
-    "article": null,
-    "translate": "пустой; порожний; свободный; порожняком",
-    "context": [],
-    "originals": [
-      "leer"
-    ],
-    "id": "2f88988f9391cc4f3af146fe0e411ea1"
-  },
-  {
-    "type": "*",
     "base": "leer sein",
     "article": null,
     "translate": "быть пустым",
@@ -7319,17 +6777,6 @@
       "leer sein"
     ],
     "id": "d6524a6dcb35d8a26fb124dd6d096692"
-  },
-  {
-    "type": "*",
-    "base": "leicht",
-    "article": null,
-    "translate": "легкий; легко; слабый; простой; нетрудный; просто; свободно; слегка",
-    "context": [],
-    "originals": [
-      "leicht"
-    ],
-    "id": "5863b3129c2a01a121fcf95ddab692e5"
   },
   {
     "type": "*",
@@ -7399,17 +6846,6 @@
   },
   {
     "type": "*",
-    "base": "lieber",
-    "article": null,
-    "translate": "охотнее; лучше; умнее; разумнее; дорогой",
-    "context": [],
-    "originals": [
-      "lieber"
-    ],
-    "id": "bffc4899bc60012763ccdd67eec4699b"
-  },
-  {
-    "type": "*",
     "base": "liefern",
     "article": null,
     "translate": "поставлять; подавать; доставлять",
@@ -7462,17 +6898,6 @@
       "los"
     ],
     "id": "6d585b9f734db2bc66552345a10f14b6"
-  },
-  {
-    "type": "*",
-    "base": "lustig",
-    "article": null,
-    "translate": "весёлый; забавный; веселый; смешной; радостный; смешно; весело",
-    "context": [],
-    "originals": [
-      "lustig"
-    ],
-    "id": "ac1103bdd1fa9ff429af32d44669adab"
   },
   {
     "type": "*",
@@ -7850,17 +7275,6 @@
   },
   {
     "type": "*",
-    "base": "möglich",
-    "article": null,
-    "translate": "возможный; возможно; вероятный",
-    "context": [],
-    "originals": [
-      "möglich"
-    ],
-    "id": "5739cd536bcd367c294813e14c830880"
-  },
-  {
-    "type": "*",
     "base": "möglichst",
     "article": null,
     "translate": "как можно; по возможности; возможно больший",
@@ -7869,17 +7283,6 @@
       "möglichst"
     ],
     "id": "f11aab57883dbeb23a603735ff8144e7"
-  },
-  {
-    "type": "*",
-    "base": "müde",
-    "article": null,
-    "translate": "уставший; усталый; утомленный",
-    "context": [],
-    "originals": [
-      "müde"
-    ],
-    "id": "b3bbda5ca090894d0be81bf17cf60477"
   },
   {
     "type": "*",
@@ -8125,17 +7528,6 @@
   },
   {
     "type": "*",
-    "base": "neu",
-    "article": null,
-    "translate": "новый; недавний; заново; снова",
-    "context": [],
-    "originals": [
-      "neu"
-    ],
-    "id": "198d87ec862ca508bba7ccef4644de31"
-  },
-  {
-    "type": "*",
     "base": "neugierig",
     "article": null,
     "translate": "любопытный; с любопытством",
@@ -8144,17 +7536,6 @@
       "neugierig"
     ],
     "id": "709052ba8565119d478c991aee02f34b"
-  },
-  {
-    "type": "*",
-    "base": "neugirig",
-    "article": null,
-    "translate": "любопытный",
-    "context": [],
-    "originals": [
-      "neugirig"
-    ],
-    "id": "06661575af40d34648d11221d98da8ff"
   },
   {
     "type": "*",
@@ -8232,17 +7613,6 @@
       "nie"
     ],
     "id": "440302abd47c3adb062e8910d529eb48"
-  },
-  {
-    "type": "*",
-    "base": "niedrig",
-    "article": null,
-    "translate": "низкий; невысокий; небольшой; недорогой; низко; низменный",
-    "context": [],
-    "originals": [
-      "niedrig"
-    ],
-    "id": "7fd0106d3262ac11440664976ea337cc"
   },
   {
     "type": "*",
@@ -8822,17 +8192,6 @@
   },
   {
     "type": "*",
-    "base": "reich",
-    "article": null,
-    "translate": "богатый; щедрый; изобильный; роскошный; богато; обильно",
-    "context": [],
-    "originals": [
-      "reich"
-    ],
-    "id": "cd75b8ac45f39abfd8d320d9e821726d"
-  },
-  {
-    "type": "*",
     "base": "reif",
     "article": null,
     "translate": "созревший; назревший; спелый",
@@ -8863,17 +8222,6 @@
       "rein/kommen, kam rein, ist reingekommen"
     ],
     "id": "8c3c40586998959cf0236a4767b9171d"
-  },
-  {
-    "type": "*",
-    "base": "richtig",
-    "article": null,
-    "translate": "правильно; правильный; верно; верный",
-    "context": [],
-    "originals": [
-      "richtig"
-    ],
-    "id": "b1f7c49c86ad0aafa9c8bcc23f566a03"
   },
   {
     "type": "*",
@@ -8940,17 +8288,6 @@
       "rufen, rief, hat gerufen"
     ],
     "id": "eef9bafaf095d407f9f98a1ebc02fb56"
-  },
-  {
-    "type": "*",
-    "base": "ruhig",
-    "article": null,
-    "translate": "спокойный; тихий; спокойно",
-    "context": [],
-    "originals": [
-      "ruhig"
-    ],
-    "id": "4240624e8837ed325d62211320fddc12"
   },
   {
     "type": "*",
@@ -9097,17 +8434,6 @@
   },
   {
     "type": "*",
-    "base": "sauber",
-    "article": null,
-    "translate": "чистый; безупречный; аккуратный; опрятный; чисто; аккуратно; опрятно",
-    "context": [],
-    "originals": [
-      "sauber"
-    ],
-    "id": "b355c449dec69f5d202df351ad33166c"
-  },
-  {
-    "type": "*",
     "base": "sauber machen",
     "article": null,
     "translate": "вычистить; протереть",
@@ -9240,17 +8566,6 @@
   },
   {
     "type": "*",
-    "base": "schlecht",
-    "article": null,
-    "translate": "плохой; плохо; нехороший; нехорошо",
-    "context": [],
-    "originals": [
-      "schlecht"
-    ],
-    "id": "fcf012118374ab48a13562192f4a0df7"
-  },
-  {
-    "type": "*",
     "base": "schließen, schloss, hat geschlossen",
     "article": null,
     "translate": "закрывать; замыкать; запирать; заключать; заканчивать",
@@ -9306,17 +8621,6 @@
   },
   {
     "type": "*",
-    "base": "schmutzig",
-    "article": null,
-    "translate": "грязный; нечистый; мерзкий; поганый; запачканный; неопрятный",
-    "context": [],
-    "originals": [
-      "schmutzig"
-    ],
-    "id": "3148ec71da18472a5aebdae72fe64db5"
-  },
-  {
-    "type": "*",
     "base": "schneiden, schnitt, hat geschnitten",
     "article": null,
     "translate": "резать; разрезать; шинковать",
@@ -9325,17 +8629,6 @@
       "schneiden, schnitt, hat geschnitten"
     ],
     "id": "bb7fb0be6864aa38d9bac750865f2c77"
-  },
-  {
-    "type": "*",
-    "base": "schnell",
-    "article": null,
-    "translate": "быстро; быстрый; стремительный; скорый",
-    "context": [],
-    "originals": [
-      "schnell"
-    ],
-    "id": "adea37a5c16444e9f0b6d5883af4369d"
   },
   {
     "type": "*",
@@ -9405,17 +8698,6 @@
   },
   {
     "type": "*",
-    "base": "schwach",
-    "article": null,
-    "translate": "слабый; легкий; немощный; беспомощный; бессильный; слабо",
-    "context": [],
-    "originals": [
-      "schwach"
-    ],
-    "id": "395936a7ef5aea24122a31bf7f4ab773"
-  },
-  {
-    "type": "*",
     "base": "schwanger",
     "article": null,
     "translate": "беременная",
@@ -9438,28 +8720,6 @@
   },
   {
     "type": "*",
-    "base": "schwer",
-    "article": null,
-    "translate": "тяжело; тяжелый; серьезный; увесистый; трудно",
-    "context": [],
-    "originals": [
-      "schwer"
-    ],
-    "id": "2313357a7fa742826ac818ba25e2cbc9"
-  },
-  {
-    "type": "*",
-    "base": "schwierig",
-    "article": null,
-    "translate": "трудный; сложный; затруднительный; тяжелый; сложно",
-    "context": [],
-    "originals": [
-      "schwierig"
-    ],
-    "id": "e7b99f0df71bc355d07e2dd1f06f19b1"
-  },
-  {
-    "type": "*",
     "base": "schwimmen, schwamm, ist geschwommen",
     "article": null,
     "translate": "плавать; заниматься плаванием; проплывать",
@@ -9468,17 +8728,6 @@
       "schwimmen, schwamm, ist geschwommen"
     ],
     "id": "e8eb02fc1f006cdb2bc78d937caa9185"
-  },
-  {
-    "type": "*",
-    "base": "schön",
-    "article": null,
-    "translate": "красивый; прекрасный; красиво; славно",
-    "context": [],
-    "originals": [
-      "schön"
-    ],
-    "id": "5b1db47a3b0aa80ee6c88a2344ad3348"
   },
   {
     "type": "*",
@@ -9611,17 +8860,6 @@
       "selbstverständlich"
     ],
     "id": "dd400d166b55715d8e79a8043c37e6c4"
-  },
-  {
-    "type": "*",
-    "base": "seltsam",
-    "article": null,
-    "translate": "странный; диковинный; причудливый; необычайный; странно",
-    "context": [],
-    "originals": [
-      "seltsam"
-    ],
-    "id": "ad427ae25518feb93751d1313d5ccf76"
   },
   {
     "type": "*",
@@ -10627,17 +9865,6 @@
   },
   {
     "type": "*",
-    "base": "stark",
-    "article": null,
-    "translate": "сильно; сильный; мощный; крепко",
-    "context": [],
-    "originals": [
-      "stark"
-    ],
-    "id": "83999e74923e6891056e4ce85f63e5a5"
-  },
-  {
-    "type": "*",
     "base": "statt...zu",
     "article": null,
     "translate": "вместо того; чтобы...",
@@ -10891,28 +10118,6 @@
   },
   {
     "type": "*",
-    "base": "teuer",
-    "article": null,
-    "translate": "дорогой; дорого; дорогостоящий",
-    "context": [],
-    "originals": [
-      "teuer"
-    ],
-    "id": "2e88733643c5ea605dbb8660aa2a259a"
-  },
-  {
-    "type": "*",
-    "base": "tief",
-    "article": null,
-    "translate": "глубокий; низко; глубоко; интенсивный; густой",
-    "context": [],
-    "originals": [
-      "tief"
-    ],
-    "id": "dcb20f8211b69c89006b3aea15752adb"
-  },
-  {
-    "type": "*",
     "base": "tolerant",
     "article": null,
     "translate": "толерантный; терпимый; снисходительный",
@@ -10924,28 +10129,6 @@
   },
   {
     "type": "*",
-    "base": "toll",
-    "article": null,
-    "translate": "потрясающий; классный; клевый",
-    "context": [],
-    "originals": [
-      "toll"
-    ],
-    "id": "6a3c17db57c15b3fc929fd10c26a5527"
-  },
-  {
-    "type": "*",
-    "base": "tot",
-    "article": null,
-    "translate": "мёртвый; неживой; мертвый; дохлый; безжизненный; умерший",
-    "context": [],
-    "originals": [
-      "tot"
-    ],
-    "id": "76396639027bda55e043eb5de27bb917"
-  },
-  {
-    "type": "*",
     "base": "tragen, trug, hat getragen",
     "article": null,
     "translate": "носить; нести; понести; одеваться; быть одетым; вынашивать",
@@ -10954,17 +10137,6 @@
       "tragen, trug, hat getragen"
     ],
     "id": "77b248a0a50a2263a59610f47cbd4983"
-  },
-  {
-    "type": "*",
-    "base": "traurig",
-    "article": null,
-    "translate": "грустный; печальный; скорбный; тоскливый; унылый; грустно",
-    "context": [],
-    "originals": [
-      "traurig"
-    ],
-    "id": "b6a05dd6dba94d4f9bf1889e41907a41"
   },
   {
     "type": "*",
@@ -11009,17 +10181,6 @@
       "treiben, trieb, hat getrieben"
     ],
     "id": "3113641f1c1ce2e2212c5df4a5339235"
-  },
-  {
-    "type": "*",
-    "base": "treu",
-    "article": null,
-    "translate": "верный; преданный; надежный",
-    "context": [],
-    "originals": [
-      "treu"
-    ],
-    "id": "b3d648b89936e472a297e5d8816bbcb5"
   },
   {
     "type": "*",
@@ -12046,17 +11207,6 @@
   },
   {
     "type": "*",
-    "base": "warm",
-    "article": null,
-    "translate": "тепло; теплый",
-    "context": [],
-    "originals": [
-      "warm"
-    ],
-    "id": "59f89dc1a2a3b051a9b60ec411db018c"
-  },
-  {
-    "type": "*",
     "base": "warten auf+A",
     "article": null,
     "translate": "ждать; ожидать; дожидаться (кого-л.; чего-л.)",
@@ -12373,17 +11523,6 @@
       "weshalb"
     ],
     "id": "9aa04c90d25c30dbf2ac9639e0d06a1c"
-  },
-  {
-    "type": "*",
-    "base": "wichtig",
-    "article": null,
-    "translate": "важный; важно; значимый",
-    "context": [],
-    "originals": [
-      "wichtig"
-    ],
-    "id": "95637456344787ebbe70435c7d1d0d7a"
   },
   {
     "type": "*",

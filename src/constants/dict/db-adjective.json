@@ -1,0 +1,1358 @@
+[
+  {
+    "type": "adjective",
+    "base": "alt",
+    "article": null,
+    "translate": "старый; пожилой; древний; старинный",
+    "context": [
+      [
+        "Seine alten Eltern leben auf dem Lande.",
+        "Его старые родители живут в деревне."
+      ],
+      [
+        "Wie alt sind Sie?",
+        ""
+      ],
+      [
+        "Sie sehen aber nicht so alt aus.",
+        ""
+      ],
+      [
+        "Mein Auto ist schon sehr alt.",
+        ""
+      ],
+      [
+        "Wir wohnen in einem sehr alten Haus.",
+        ""
+      ],
+      [
+        "Köln ist eine alte Stadt.",
+        ""
+      ]
+    ],
+    "originals": [
+      "alt"
+    ],
+    "id": "246dd96ac22057d7d3650636a22dbe36"
+  },
+  {
+    "type": "adjective",
+    "base": "angenehm",
+    "article": null,
+    "translate": "приятный; симпатичный; угодный; приятно",
+    "context": [
+      [
+        "Deine Frau hat eine angenehme Stimme.",
+        "У твоей жены очень приятный голос."
+      ]
+    ],
+    "originals": [
+      "angenehm"
+    ],
+    "id": "7fc3d7518d88c720bafe2474180703de"
+  },
+  {
+    "type": "adjective",
+    "base": "arm",
+    "article": null,
+    "translate": "бедный",
+    "context": [
+      [
+        "Der Schriftsteller wurde in einer armen Bauernfamilie geboren.",
+        "Писатель родился в бедной крестьянской семье."
+      ]
+    ],
+    "originals": [
+      "arm"
+    ],
+    "id": "47d5783b5dff497a847375b0bfb21eff"
+  },
+  {
+    "type": "adjective",
+    "base": "bekannt",
+    "article": null,
+    "translate": "известный; знакомый",
+    "context": [
+      [
+        "Ein bekannter Schriftsteller fuhr nach Amerika.",
+        "Известный писатель уехал в Америку."
+      ],
+      [
+        "Picasso ist sehr bekannt.",
+        ""
+      ]
+    ],
+    "originals": [
+      "bekannt"
+    ],
+    "id": "5999bb5ca407ec1c94cb82e1d8ef3e80"
+  },
+  {
+    "type": "adjective",
+    "base": "breit",
+    "article": null,
+    "translate": "широкий; обширный; широко",
+    "context": [
+      [
+        "In den 1. Stock führte eine breite Treppe.",
+        "На второй этаж вела широкая лестница."
+      ],
+      [
+        "Wie breit ist der Schrank?",
+        ""
+      ]
+    ],
+    "originals": [
+      "breit"
+    ],
+    "id": "3923a7e5b0405b8fc626848169f96f03"
+  },
+  {
+    "type": "adjective",
+    "base": "dick",
+    "article": null,
+    "translate": "толстый; жирный; полный; тучный",
+    "context": [
+      [
+        "Obst macht nicht dick.",
+        "От фруктов не толстеют."
+      ]
+    ],
+    "originals": [
+      "dick"
+    ],
+    "id": "0741b41a97561961e71d208a2f36c2ad"
+  },
+  {
+    "type": "adjective",
+    "base": "dringend",
+    "article": null,
+    "translate": "срочный; неотложный; экстренный; срочно; спешно",
+    "context": [
+      [
+        "Er bekam ein dringendes Telegramm von seiner Frau.",
+        "Он получил срочную телеграмму от своей жены."
+      ]
+    ],
+    "originals": [
+      "dringend"
+    ],
+    "id": "08baffed543740c73e49189199e4ad05"
+  },
+  {
+    "type": "adjective",
+    "base": "dumm",
+    "article": null,
+    "translate": "глупый; дурацкий; нелепый; глупо",
+    "context": [
+      [
+        "Stell mir keine dummen Fragen.",
+        "Не задавай мне глупых вопросов."
+      ]
+    ],
+    "originals": [
+      "dumm"
+    ],
+    "id": "852fa6b3f855c07a108c797ffc17ead2"
+  },
+  {
+    "type": "adjective",
+    "base": "dunkel",
+    "article": null,
+    "translate": "темный; мрачный; темно",
+    "context": [
+      [
+        "Zu dieser hellen Bluse passt ein dunkler Rock.",
+        "К этой светлой блузке подойдет темная юбка."
+      ]
+    ],
+    "originals": [
+      "dunkel"
+    ],
+    "id": "42d89e0f5c8515bf02cabc88c390d183"
+  },
+  {
+    "type": "adjective",
+    "base": "dünn",
+    "article": null,
+    "translate": "тонкий; худой; мелкий; нежный",
+    "context": [
+      [
+        "Das Mädchen hat dünne Arme und Beine.",
+        "У девочки тонкие руки и ноги."
+      ]
+    ],
+    "originals": [
+      "dünn"
+    ],
+    "id": "53a1b72050ad2b5d2f24dfe2bfd6b75a"
+  },
+  {
+    "type": "adjective",
+    "base": "ehrlich",
+    "article": null,
+    "translate": "честный; порядочный",
+    "context": [
+      [
+        "Alle hielten ihn für einen ehrlichen Menschen.",
+        "Все считали его честным человеком."
+      ]
+    ],
+    "originals": [
+      "ehrlich"
+    ],
+    "id": "82814ed7510a12893f544a615f543cfc"
+  },
+  {
+    "type": "adjective",
+    "base": "einfach",
+    "article": null,
+    "translate": "простой; просто; обычный; обыкновенный; просто так; обыкновенно",
+    "context": [
+      [
+        "Das ist eine einfache Frage.",
+        "Это совсем простой вопрос."
+      ],
+      [
+        "Die Prüfung ist ganz einfach.",
+        ""
+      ],
+      [
+        "Hin und zurück? – Nein, bitte nur einfach.",
+        ""
+      ],
+      [
+        "Ich brauche nur ein einfaches Zimmer.",
+        ""
+      ]
+    ],
+    "originals": [
+      "einfach"
+    ],
+    "id": "51d1833abe684145b73d5c19c87e3d52"
+  },
+  {
+    "type": "adjective",
+    "base": "einsam",
+    "article": null,
+    "translate": "одинокий; уединенный; укромный",
+    "context": [
+      [
+        "In einer Großstadt fühlt er sich einsam.",
+        "В большом городе он чувствует себя одиноким."
+      ]
+    ],
+    "originals": [
+      "einsam"
+    ],
+    "id": "38089c3af70e34f0b4dd1b33f58941ee"
+  },
+  {
+    "type": "adjective",
+    "base": "eng",
+    "article": null,
+    "translate": "узкий; тесный; тугой; плотный; тесно; плотно",
+    "context": [
+      [
+        "Durch einen schmalen Korridor gingen wir ins Zimmer. - По узкому коридору мы прошли в комнату.",
+        ""
+      ]
+    ],
+    "originals": [
+      "eng"
+    ],
+    "id": "9d88f2ec2b729c7ec88456eddf4a1072"
+  },
+  {
+    "type": "adjective",
+    "base": "ernst",
+    "article": null,
+    "translate": "серьезный; серьезно; всерьез",
+    "context": [
+      [
+        "Der neue Kollege ist ein sehr ernster Mensch.",
+        "Новый коллега очень серьезный человек."
+      ]
+    ],
+    "originals": [
+      "ernst"
+    ],
+    "id": "3931ecd44931ae39e9761596c67f6e49"
+  },
+  {
+    "type": "adjective",
+    "base": "faul",
+    "article": null,
+    "translate": "ленивый; тухлый; нерадивый; протухший",
+    "context": [
+      [
+        "Sascha war zwar ein begabter, aber fauler Schüler.",
+        "Саша был способным, но ленивым учеником."
+      ]
+    ],
+    "originals": [
+      "faul"
+    ],
+    "id": "2caaab69b5236544cc59b1195715dcda"
+  },
+  {
+    "type": "adjective",
+    "base": "fertig",
+    "article": null,
+    "translate": "готовый; готово; готов; умело; искусно",
+    "context": [
+      [
+        "Das Mittagessen ist schon fertig, setzt euch an den Tisch.",
+        "Обед уже готовый, садитесь за столом."
+      ],
+      [
+        "Bist du fertig?",
+        ""
+      ],
+      [
+        "Ist mein Auto schon fertig?",
+        ""
+      ]
+    ],
+    "originals": [
+      "fertig"
+    ],
+    "id": "4c6744b6fce13734365597952b4a201d"
+  },
+  {
+    "type": "adjective",
+    "base": "flüssig",
+    "article": null,
+    "translate": "жидкий",
+    "context": [
+      [
+        "Erdöl ist ein flüssiger Brennstoff.",
+        "Нефть является жидким топливом."
+      ]
+    ],
+    "originals": [
+      "flüssig"
+    ],
+    "id": "15df7b626d7657d58c60afa9e8c67479"
+  },
+  {
+    "type": "adjective",
+    "base": "frisch",
+    "article": null,
+    "translate": "свежий; чистый; бодрый; бодро",
+    "context": [
+      [
+        "In diesem  Laden ist das Gemüse immer frisch.",
+        "В этом магазине овощи всегда свежие."
+      ]
+    ],
+    "originals": [
+      "frisch"
+    ],
+    "id": "ad58a489c1a4a80ad76b3868acc3e3b9"
+  },
+  {
+    "type": "adjective",
+    "base": "früh",
+    "article": null,
+    "translate": "ранний; рано",
+    "context": [
+      [
+        "Mir gefallen die früheren Erzählungen von Lermontov.",
+        "Мне нравятся ранние рассказы Лермонтова."
+      ]
+    ],
+    "originals": [
+      "früh"
+    ],
+    "id": "267a9e785229ce52b1dc6377b0e61b96"
+  },
+  {
+    "type": "adjective",
+    "base": "gefährlich",
+    "article": null,
+    "translate": "опасный; рискованный; опасно",
+    "context": [
+      [
+        "Die Reise nach Afrika war gefährlich.",
+        "Путешествие в Африку было опасным."
+      ]
+    ],
+    "originals": [
+      "gefährlich"
+    ],
+    "id": "863def51a43313cceaf676f6c3490ba1"
+  },
+  {
+    "type": "adjective",
+    "base": "geizig",
+    "article": null,
+    "translate": "жадный",
+    "context": [
+      [
+        "Mir gefällt dein Freund nicht, er ist geizig.",
+        "Мне не нравится твой друг, он жадный."
+      ]
+    ],
+    "originals": [
+      "geizig"
+    ],
+    "id": "d6e40c509e576180c321393a783530fc"
+  },
+  {
+    "type": "adjective",
+    "base": "gesund",
+    "article": null,
+    "translate": "здоровый; полезный для здоровья",
+    "context": [
+      [
+        "Mir scheint, du bist noch nicht völlig gesund.",
+        "Мне кажется, ты еще не совсем здоров."
+      ]
+    ],
+    "originals": [
+      "gesund"
+    ],
+    "id": "342118211cb6ed9f8d467aa218aa2a06"
+  },
+  {
+    "type": "adjective",
+    "base": "glücklich",
+    "article": null,
+    "translate": "счастливый; удачный; удачливый; счастливо",
+    "context": [
+      [
+        "Arbeit macht mich glücklich.",
+        "Работа делает меня счастливой."
+      ]
+    ],
+    "originals": [
+      "glücklich"
+    ],
+    "id": "6bc2c6d7a8c0dd23384cf23fb8bf3574"
+  },
+  {
+    "type": "adjective",
+    "base": "groß",
+    "article": null,
+    "translate": "большой; крупный; высокий; крупно",
+    "context": [
+      [
+        "Unsere Familie bewohnt ein großes Haus.",
+        "Наша семья живет в большом доме."
+      ]
+    ],
+    "originals": [
+      "groß"
+    ],
+    "id": "601eddbb3725451c521e7dfd86ae60df"
+  },
+  {
+    "type": "adjective",
+    "base": "großartig",
+    "article": null,
+    "translate": "прекрасный",
+    "context": [
+      [
+        "Meine Freundin ist eine großartige Mutter.",
+        "Моя подруга - прекрасная мать."
+      ]
+    ],
+    "originals": [
+      "toll; großartig; wunderschön"
+    ],
+    "id": "56516db4f0afc566a32cd6aa861a142e"
+  },
+  {
+    "type": "adjective",
+    "base": "gut",
+    "article": null,
+    "translate": "хороший; хорошо; добрый",
+    "context": [
+      [
+        "Trotz des Alters hat er ein gutes Gedächtnis.",
+        "Несмотря на возраст, у него хорошая память."
+      ]
+    ],
+    "originals": [
+      "gut"
+    ],
+    "id": "0151133aa92e0d6a6010f25e278b3e64"
+  },
+  {
+    "type": "adjective",
+    "base": "hart",
+    "article": null,
+    "translate": "твердый; трудный; тяжелый; жесткий; трудно; упорно; сурово",
+    "context": [
+      [
+        "Die Erde war hart wie Stein.",
+        "Земля была твердая, как камень."
+      ]
+    ],
+    "originals": [
+      "hart"
+    ],
+    "id": "2f9130e3cc4a5b0c317aed0efd4ca156"
+  },
+  {
+    "type": "adjective",
+    "base": "heiß",
+    "article": null,
+    "translate": "горячий; жарко; жаркий; страстный; горячо",
+    "context": [
+      [
+        "Warum trinkst du den Kaffee nicht? - Er ist noch heiß.",
+        "Почему ты не поешь кофе? - Он еще горячий."
+      ]
+    ],
+    "originals": [
+      "heiß"
+    ],
+    "id": "567e0520e8f36af9723a8d4db8514768"
+  },
+  {
+    "type": "adjective",
+    "base": "hell",
+    "article": null,
+    "translate": "светлый; ясный; яркий; светло",
+    "context": [
+      [
+        "Ihre Tochter hat langes helles Haar.",
+        "У ее дочери длинные светлые волосы."
+      ]
+    ],
+    "originals": [
+      "hell"
+    ],
+    "id": "26d841e9d2f61c268ee8e721f9d745ac"
+  },
+  {
+    "type": "adjective",
+    "base": "hoch",
+    "article": null,
+    "translate": "высокий; высоко; рослый; благородный; почетный; вверх",
+    "context": [
+      [
+        "Ein hoch gewachsener Sportler betrat die Turnhalle.",
+        "В спортзал вошел высокий спортсмен."
+      ]
+    ],
+    "originals": [
+      "hoch"
+    ],
+    "id": "889830cbde59ceb9aea0cd50bba17d7d"
+  },
+  {
+    "type": "adjective",
+    "base": "hungrig",
+    "article": null,
+    "translate": "голодный",
+    "context": [
+      [
+        "Mein Sohn ist sehr hungrig",
+        "Мой сын очень голодный."
+      ]
+    ],
+    "originals": [
+      "hungrig"
+    ],
+    "id": "3583fa276785e66c8898e4103d53786b"
+  },
+  {
+    "type": "adjective",
+    "base": "interessant",
+    "article": null,
+    "translate": "интересный; интересно",
+    "context": [
+      [
+        "Im Fernsehen lief eine interessante Sendung.",
+        "По телевизору шла интересная передача."
+      ]
+    ],
+    "originals": [
+      "interessant"
+    ],
+    "id": "ca98bfafc4d6ba4237983a62bb4fc741"
+  },
+  {
+    "type": "adjective",
+    "base": "jung",
+    "article": null,
+    "translate": "молодой; юный; молоденький",
+    "context": [
+      [
+        "Als junges Mädchen begann sie hier zu arbeiten.",
+        "Она начала здесь работать еще молодой девушкой."
+      ],
+      [
+        "Claudia ist 21. – Was? Noch so jung?",
+        ""
+      ]
+    ],
+    "originals": [
+      "jung"
+    ],
+    "id": "da29f7df97dab5efe8a10f4110cf7ce6"
+  },
+  {
+    "type": "adjective",
+    "base": "kalt",
+    "article": null,
+    "translate": "холодный; холодно",
+    "context": [
+      [
+        "Im Februar weht der kalte Nordwind.",
+        "В феврале дует холодный северный ветер."
+      ]
+    ],
+    "originals": [
+      "kalt"
+    ],
+    "id": "b52286e796f55ccea5c5f2b7b50cd1ed"
+  },
+  {
+    "type": "adjective",
+    "base": "klein",
+    "article": null,
+    "translate": "маленький; малый; небольшой; мелкий",
+    "context": [
+      [
+        "Aus den kleinen Äpfel habe ich Kompott gekocht.",
+        "Из мелких яблок я сварила компот."
+      ]
+    ],
+    "originals": [
+      "klein"
+    ],
+    "id": "1f44ea0b07781049178e900baff29322"
+  },
+  {
+    "type": "adjective",
+    "base": "klug",
+    "article": null,
+    "translate": "умный; мудрый; разумный; смышленый; толковый; умно; обдуманно",
+    "context": [
+      [
+        "Die Studentin ist ziemlich klug.",
+        "Студентка довольно умна."
+      ]
+    ],
+    "originals": [
+      "klug"
+    ],
+    "id": "05d81f4a71ddeea32ecc859f7705928b"
+  },
+  {
+    "type": "adjective",
+    "base": "krank",
+    "article": null,
+    "translate": "больной; нездоровый; немощный",
+    "context": [
+      [
+        "Der kranke Junge weiß, dass seine Krankheit sehr gefährlich ist.",
+        "Больной мальчик знает, что его болезнь очень опасная."
+      ]
+    ],
+    "originals": [
+      "krank"
+    ],
+    "id": "37fc800973e11b0058f5c629cfbca14d"
+  },
+  {
+    "type": "adjective",
+    "base": "kurz",
+    "article": null,
+    "translate": "короткий; коротко",
+    "context": [
+      [
+        "Ich las den kurzen Brief von meinem Bruder schnell durch.",
+        "Я быстро прочитала короткое письмо брата."
+      ]
+    ],
+    "originals": [
+      "kurz"
+    ],
+    "id": "acb353ce3e2100f1a5c95397ef01257b"
+  },
+  {
+    "type": "adjective",
+    "base": "lang",
+    "article": null,
+    "translate": "длинный; долгий; высокий; длительный; вдоль",
+    "context": [
+      [
+        "Sie hatte eine langärmlige Bluse an.",
+        "На ней была блузки с длинным рукавом."
+      ]
+    ],
+    "originals": [
+      "lang"
+    ],
+    "id": "68441b7aca1d3d027846092d242bbc9e"
+  },
+  {
+    "type": "adjective",
+    "base": "langsam",
+    "article": null,
+    "translate": "медленный; медленно; потихоньку; постепенно; неповоротливый",
+    "context": [
+      [
+        "Das war ein sehr langsamer Zug.",
+        "Это был очень медленный поезд."
+      ]
+    ],
+    "originals": [
+      "langsam"
+    ],
+    "id": "d76ef11e9de74921de596fed01b5441f"
+  },
+  {
+    "type": "adjective",
+    "base": "langweilig",
+    "article": null,
+    "translate": "скучный; нудный; тоскливый; скучно",
+    "context": [
+      [
+        "Dieses langweilige Buch habe ich nicht bis zum Ende gelesen.",
+        "Эту вкусную книгу я до конца не дочитал."
+      ]
+    ],
+    "originals": [
+      "langweilig"
+    ],
+    "id": "9798e5c8d9e6fe65aa6d7f14377f577c"
+  },
+  {
+    "type": "adjective",
+    "base": "laut",
+    "article": null,
+    "translate": "громкий; громко; вслух; шумный; звучный; шумно; во всеуслышание",
+    "context": [
+      [
+        "Laute Musik stört mich beim Lesen.",
+        "Громкая музыка мешает мне читать."
+      ]
+    ],
+    "originals": [
+      "laut"
+    ],
+    "id": "59f737d918571ee247ce27cfef37e491"
+  },
+  {
+    "type": "adjective",
+    "base": "lecker",
+    "article": null,
+    "translate": "вкусный; вкусно; аппетитный; лакомый",
+    "context": [
+      [
+        "Die Großmutter kocht zu Mittag einen leckeren Borschtsch.",
+        "Бабушка готовит на обед вкусный борщ."
+      ]
+    ],
+    "originals": [
+      "lecker"
+    ],
+    "id": "fb572eab72c549e54f04a6a94bd61ec8"
+  },
+  {
+    "type": "adjective",
+    "base": "leer",
+    "article": null,
+    "translate": "пустой; порожний; свободный; порожняком",
+    "context": [
+      [
+        "Sie fürchtete sich in dem leeren Haus.",
+        "Ей было страшно в пустом доме."
+      ]
+    ],
+    "originals": [
+      "leer"
+    ],
+    "id": "2f88988f9391cc4f3af146fe0e411ea1"
+  },
+  {
+    "type": "adjective",
+    "base": "leicht",
+    "article": null,
+    "translate": "легкий; легко; слабый; простой; нетрудный; просто; свободно; слегка",
+    "context": [
+      [
+        "Was für einen leichten Koffer du hast!",
+        "Какой у тебя легкий чемодан!"
+      ]
+    ],
+    "originals": [
+      "leicht"
+    ],
+    "id": "5863b3129c2a01a121fcf95ddab692e5"
+  },
+  {
+    "type": "adjective",
+    "base": "letzter",
+    "article": null,
+    "translate": "последний",
+    "context": [
+      [
+        "Der Student beantwortete die letzte Frage richtig.",
+        "Студент правильно ответил на последний вопрос."
+      ]
+    ],
+    "originals": [
+      "letzter"
+    ],
+    "id": "e7d835ef4808a075d8fb313ac122cbfc"
+  },
+  {
+    "type": "adjective",
+    "base": "lieber",
+    "article": null,
+    "translate": "дорогой; охотнее; лучше; умнее; разумнее",
+    "context": [
+      [
+        "Liebe Papa! Ich gratuliere dir zum Geburtstag!",
+        "Дорогой, папа! Я поздравляю тебя с днем рождения!"
+      ]
+    ],
+    "originals": [
+      "lieber"
+    ],
+    "id": "bffc4899bc60012763ccdd67eec4699b"
+  },
+  {
+    "type": "adjective",
+    "base": "lustig",
+    "article": null,
+    "translate": "смешной; весёлый; забавный; веселый; радостный; смешно; весело",
+    "context": [
+      [
+        "Dieser Schriftsteller schreibt lustige Erzählungen für Kinder.",
+        "Этот писатель пишет смешные истории для детей"
+      ]
+    ],
+    "originals": [
+      "lustig"
+    ],
+    "id": "ac1103bdd1fa9ff429af32d44669adab"
+  },
+  {
+    "type": "adjective",
+    "base": "möglich",
+    "article": null,
+    "translate": "возможный; возможно; вероятный",
+    "context": [
+      [
+        "Man muss alle möglichen Varianten diskutieren.",
+        "Надо обсудить все возможные варианты."
+      ]
+    ],
+    "originals": [
+      "möglich"
+    ],
+    "id": "5739cd536bcd367c294813e14c830880"
+  },
+  {
+    "type": "adjective",
+    "base": "müde",
+    "article": null,
+    "translate": "усталый; уставший; утомленный",
+    "context": [
+      [
+        "Er schien sehr müde aus.",
+        "Он казался очень усталым."
+      ]
+    ],
+    "originals": [
+      "müde"
+    ],
+    "id": "b3bbda5ca090894d0be81bf17cf60477"
+  },
+  {
+    "type": "adjective",
+    "base": "neu",
+    "article": null,
+    "translate": "новый; недавний; заново; снова",
+    "context": [
+      [
+        "Sie haben ein ganz neues Auto.",
+        "У них совсем новая машина."
+      ]
+    ],
+    "originals": [
+      "neu"
+    ],
+    "id": "198d87ec862ca508bba7ccef4644de31"
+  },
+  {
+    "type": "adjective",
+    "base": "neugirig",
+    "article": null,
+    "translate": "любопытный",
+    "context": [
+      [
+        "Sie haben aber ein neugieriges Kind!",
+        "Какой у вас любопытный ребенок!"
+      ]
+    ],
+    "originals": [
+      "neugirig"
+    ],
+    "id": "06661575af40d34648d11221d98da8ff"
+  },
+  {
+    "type": "adjective",
+    "base": "niedrig",
+    "article": null,
+    "translate": "низкий; невысокий; небольшой; недорогой; низко; низменный",
+    "context": [
+      [
+        "Die Gäste saßen an einem niedrigen Tisch.",
+        "Гости сидели за низким столом."
+      ]
+    ],
+    "originals": [
+      "niedrig"
+    ],
+    "id": "7fd0106d3262ac11440664976ea337cc"
+  },
+  {
+    "type": "adjective",
+    "base": "notwengig",
+    "article": null,
+    "translate": "необходимый",
+    "context": [
+      [
+        "Die notwendigen Bücher könnt ihr in der Bibliothek bekommen.",
+        "Необходимые книги вы можете взять в библиотеке"
+      ]
+    ],
+    "originals": [
+      "notwengig"
+    ],
+    "id": "5057627277c3e2f81df91e75fc505e43"
+  },
+  {
+    "type": "adjective",
+    "base": "rar",
+    "article": null,
+    "translate": "редкий",
+    "context": [
+      [
+        "Mein Bekannter hat einen seltenen Namen.",
+        "У моего знакомого редкое имя."
+      ]
+    ],
+    "originals": [
+      "selten; rar"
+    ],
+    "id": "b40ef49746a3e6efa2404fa509840d7c"
+  },
+  {
+    "type": "adjective",
+    "base": "reich",
+    "article": null,
+    "translate": "богатый; щедрый; изобильный; роскошный; богато; обильно",
+    "context": [
+      [
+        "Sie hat reiche Eltern.",
+        "У нее богатые родители."
+      ]
+    ],
+    "originals": [
+      "reich"
+    ],
+    "id": "cd75b8ac45f39abfd8d320d9e821726d"
+  },
+  {
+    "type": "adjective",
+    "base": "richtig",
+    "article": null,
+    "translate": "правильный; правильно; верно; верный",
+    "context": [
+      [
+        "Er gab eine richtige Einschätzung der Ereignisse in Deutschland.",
+        "Он дал правильную оценку событиям, происходящим в Германии."
+      ]
+    ],
+    "originals": [
+      "richtig"
+    ],
+    "id": "b1f7c49c86ad0aafa9c8bcc23f566a03"
+  },
+  {
+    "type": "adjective",
+    "base": "ruhig",
+    "article": null,
+    "translate": "спокойный; тихий; спокойно",
+    "context": [
+      [
+        "Sei ruhig!",
+        "Будь спокойным!; Успокойся!"
+      ]
+    ],
+    "originals": [
+      "ruhig"
+    ],
+    "id": "4240624e8837ed325d62211320fddc12"
+  },
+  {
+    "type": "adjective",
+    "base": "sauber",
+    "article": null,
+    "translate": "чистый; безупречный; аккуратный; опрятный; чисто; аккуратно; опрятно",
+    "context": [
+      [
+        "Bring mir bitte ein sauberes Glas.",
+        "Принеси мне, пожалуйста, чистый стакан."
+      ]
+    ],
+    "originals": [
+      "sauber"
+    ],
+    "id": "b355c449dec69f5d202df351ad33166c"
+  },
+  {
+    "type": "adjective",
+    "base": "schlecht",
+    "article": null,
+    "translate": "плохой; плохо; нехороший; нехорошо",
+    "context": [
+      [
+        "Gestern hatte er schlechte Laune.",
+        "Вчера у него было плохое настроение."
+      ]
+    ],
+    "originals": [
+      "schlecht"
+    ],
+    "id": "fcf012118374ab48a13562192f4a0df7"
+  },
+  {
+    "type": "adjective",
+    "base": "schmutzig",
+    "article": null,
+    "translate": "грязный; нечистый; мерзкий; поганый; запачканный; неопрятный",
+    "context": [
+      [
+        "Wasch dir deine Hände, sie sind schmutzig.",
+        "Помой руки, они у тебя грязные."
+      ]
+    ],
+    "originals": [
+      "schmutzig"
+    ],
+    "id": "3148ec71da18472a5aebdae72fe64db5"
+  },
+  {
+    "type": "adjective",
+    "base": "schnell",
+    "article": null,
+    "translate": "быстрый; быстро; стремительный; скорый",
+    "context": [
+      [
+        "Mein Herz schlägt schnell.",
+        "Мое сердце бьется сильно."
+      ]
+    ],
+    "originals": [
+      "schnell"
+    ],
+    "id": "adea37a5c16444e9f0b6d5883af4369d"
+  },
+  {
+    "type": "adjective",
+    "base": "schwach",
+    "article": null,
+    "translate": "слабый; легкий; немощный; беспомощный; бессильный; слабо",
+    "context": [
+      [
+        "Der Patient  ist nach der Operation  noch sehr schwach.",
+        "Пациент  после операции  еще очень  слаб."
+      ]
+    ],
+    "originals": [
+      "schwach"
+    ],
+    "id": "395936a7ef5aea24122a31bf7f4ab773"
+  },
+  {
+    "type": "adjective",
+    "base": "schwer",
+    "article": null,
+    "translate": "трудный; тяжело; тяжелый; серьезный; увесистый; трудно",
+    "context": [
+      [
+        "Meine Großeltern lebten in einer schweren Zeit.",
+        "Мои бабушка с дедушкой жили в трудное время."
+      ]
+    ],
+    "originals": [
+      "schwer"
+    ],
+    "id": "2313357a7fa742826ac818ba25e2cbc9"
+  },
+  {
+    "type": "adjective",
+    "base": "schwierig",
+    "article": null,
+    "translate": "тяжелый; трудный; сложный; затруднительный; сложно",
+    "context": [
+      [
+        "Die Frau trug eine schwierige Tasche mit Lebensmitteln.",
+        "Женщина несла тяжелую сумку с продуктами."
+      ]
+    ],
+    "originals": [
+      "schwierig"
+    ],
+    "id": "e7b99f0df71bc355d07e2dd1f06f19b1"
+  },
+  {
+    "type": "adjective",
+    "base": "schön",
+    "article": null,
+    "translate": "красивый; прекрасный; красиво; славно",
+    "context": [
+      [
+        "Wo hast du diesen schönen Ring gekauft.",
+        "Где ты купила это красивое кольцо?"
+      ]
+    ],
+    "originals": [
+      "schön"
+    ],
+    "id": "5b1db47a3b0aa80ee6c88a2344ad3348"
+  },
+  {
+    "type": "adjective",
+    "base": "selten",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "selt",
+        "ich": "selte",
+        "du": "seltest",
+        "er,sie,es": "seltet",
+        "wir": "selten",
+        "ihr": "seltet",
+        "sie,Sie": "selten"
+      }
+    },
+    "translate": "редкий",
+    "context": [
+      [
+        "Mein Bekannter hat einen seltenen Namen.",
+        "У моего знакомого редкое имя."
+      ]
+    ],
+    "originals": [
+      "selten; rar"
+    ],
+    "id": "07577c31ccff41b71b31f4408ac08bac"
+  },
+  {
+    "type": "adjective",
+    "base": "seltsam",
+    "article": null,
+    "translate": "странный; диковинный; причудливый; необычайный; странно",
+    "context": [
+      [
+        "Der Film hat bei mir einen seltsamen Eindruck hinterlassen.",
+        "От фильма у меня осталось странное впечатление."
+      ]
+    ],
+    "originals": [
+      "seltsam"
+    ],
+    "id": "ad427ae25518feb93751d1313d5ccf76"
+  },
+  {
+    "type": "adjective",
+    "base": "stark",
+    "article": null,
+    "translate": "сильный; сильно; мощный; крепко",
+    "context": [
+      [
+        "Der Kranke wird seine starken Kopfschmerzen nicht los.",
+        "У больного не проходят сильные головные боли"
+      ]
+    ],
+    "originals": [
+      "stark"
+    ],
+    "id": "83999e74923e6891056e4ce85f63e5a5"
+  },
+  {
+    "type": "adjective",
+    "base": "teuer",
+    "article": null,
+    "translate": "дорогой; дорого; дорогостоящий",
+    "context": [
+      [
+        "Sie kaufte sich einen teuren Ring.",
+        "Она купила себе дорогое кольцо."
+      ]
+    ],
+    "originals": [
+      "teuer"
+    ],
+    "id": "2e88733643c5ea605dbb8660aa2a259a"
+  },
+  {
+    "type": "adjective",
+    "base": "tief",
+    "article": null,
+    "translate": "глубокий; низко; глубоко; интенсивный; густой",
+    "context": [
+      [
+        "In den Bergen fanden wir einen tiefen See",
+        "В горах мы нашли глубокое озеро."
+      ]
+    ],
+    "originals": [
+      "tief"
+    ],
+    "id": "dcb20f8211b69c89006b3aea15752adb"
+  },
+  {
+    "type": "adjective",
+    "base": "toll",
+    "article": null,
+    "translate": "прекрасный; потрясающий; классный; клевый",
+    "context": [
+      [
+        "Meine Freundin ist eine großartige Mutter.",
+        "Моя подруга - прекрасная мать."
+      ]
+    ],
+    "originals": [
+      "toll; großartig; wunderschön"
+    ],
+    "id": "6a3c17db57c15b3fc929fd10c26a5527"
+  },
+  {
+    "type": "adjective",
+    "base": "tot",
+    "article": null,
+    "translate": "мертвый; мёртвый; неживой; дохлый; безжизненный; умерший",
+    "context": [
+      [
+        "Die Kinder fanden im Garten eine tote Katze.",
+        "Дети нашли в саду мертвую кошку."
+      ]
+    ],
+    "originals": [
+      "tot"
+    ],
+    "id": "76396639027bda55e043eb5de27bb917"
+  },
+  {
+    "type": "adjective",
+    "base": "traurig",
+    "article": null,
+    "translate": "грустный; печальный; скорбный; тоскливый; унылый; грустно",
+    "context": [
+      [
+        "Abends hört sie gern traurige Lieder über eine unglückliche Liebe.",
+        "По вечерам она любит слушать грустные песни о несчастной любви."
+      ]
+    ],
+    "originals": [
+      "traurig"
+    ],
+    "id": "b6a05dd6dba94d4f9bf1889e41907a41"
+  },
+  {
+    "type": "adjective",
+    "base": "treu",
+    "article": null,
+    "translate": "верный; преданный; надежный",
+    "context": [
+      [
+        "Ein treuer Freund lässt dich nicht im Stich.",
+        "Верный друг не оставит тебя в беде."
+      ]
+    ],
+    "originals": [
+      "treu"
+    ],
+    "id": "b3d648b89936e472a297e5d8816bbcb5"
+  },
+  {
+    "type": "adjective",
+    "base": "trocken",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "trock",
+        "ich": "trocke",
+        "du": "trockst",
+        "er,sie,es": "trockt",
+        "wir": "trocken",
+        "ihr": "trockt",
+        "sie,Sie": "trocken"
+      }
+    },
+    "translate": "сухой",
+    "context": [
+      [
+        "Der Sommer war trocken und niederschlagsfrei.",
+        "Лето было сухое, без осадков."
+      ]
+    ],
+    "originals": [
+      "trocken"
+    ],
+    "id": "83412001914b88e1dc694e39f878bccd"
+  },
+  {
+    "type": "adjective",
+    "base": "warm",
+    "article": null,
+    "translate": "теплый; тепло",
+    "context": [
+      [
+        "Es wehte ein warmer Wind und der Schnee begann zu schmelzen.",
+        "Подул теплый ветер и снег начал таять."
+      ]
+    ],
+    "originals": [
+      "warm"
+    ],
+    "id": "59f89dc1a2a3b051a9b60ec411db018c"
+  },
+  {
+    "type": "adjective",
+    "base": "wichtig",
+    "article": null,
+    "translate": "важный; важно; значимый",
+    "context": [
+      [
+        "Das ist eine sehr wichtige Frage.",
+        "Это очень важный вопрос."
+      ]
+    ],
+    "originals": [
+      "wichtig"
+    ],
+    "id": "95637456344787ebbe70435c7d1d0d7a"
+  },
+  {
+    "type": "adjective",
+    "base": "wunderschön",
+    "article": null,
+    "translate": "прекрасный",
+    "context": [
+      [
+        "Meine Freundin ist eine großartige Mutter.",
+        "Моя подруга - прекрасная мать."
+      ]
+    ],
+    "originals": [
+      "toll; großartig; wunderschön"
+    ],
+    "id": "51081c0f801b4c163aa64ab330e2301a"
+  }
+]
