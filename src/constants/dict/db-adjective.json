@@ -54,6 +54,23 @@
   },
   {
     "type": "adjective",
+    "base": "arbeitslos",
+    "article": null,
+    "translate": "безработный",
+    "context": [
+      [
+        "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "arbeitslos"
+    ],
+    "id": "addcc62301522a306a367d87662883be"
+  },
+  {
+    "type": "adjective",
     "base": "arm",
     "article": null,
     "translate": "бедный",
@@ -67,6 +84,40 @@
       "arm"
     ],
     "id": "47d5783b5dff497a847375b0bfb21eff"
+  },
+  {
+    "type": "adjective",
+    "base": "ausländisch",
+    "article": null,
+    "translate": "иностранный; зарубежный; заграничный",
+    "context": [
+      [
+        "Leider habe ich nur ausländisches Geld.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "ausländisch"
+    ],
+    "id": "b8d273516e5782fc2ae2589db90b5217"
+  },
+  {
+    "type": "adjective",
+    "base": "automatisch",
+    "article": null,
+    "translate": "автоматический; автоматизированный; машинальный; непроизвольный; автоматически",
+    "context": [
+      [
+        "Du musst nichts machen. Das geht automatisch.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "automatisch"
+    ],
+    "id": "d9c82aefb9dd8dda73e5466b26efb634"
   },
   {
     "type": "adjective",
@@ -91,6 +142,78 @@
   },
   {
     "type": "adjective",
+    "base": "besetzt",
+    "article": null,
+    "translate": "занято; занятый; (о месте); оккупированный; занят",
+    "context": [
+      [
+        "Die Nummer ist immer besetzt.",
+        ""
+      ],
+      [
+        "Der Platz ist besetzt.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "besetzt"
+    ],
+    "id": "36d1be690627391bc09073f888286a96"
+  },
+  {
+    "type": "adjective",
+    "base": "besser",
+    "article": null,
+    "translate": "лучший; лучше",
+    "context": [
+      [
+        "Es geht mir schon besser.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "besser"
+    ],
+    "id": "cb51ac46891d141f63a61cce820e8a1d"
+  },
+  {
+    "type": "adjective",
+    "base": "billig",
+    "article": null,
+    "translate": "дешево; дешевый; недорогой; по дешевке; по низкой цене",
+    "context": [
+      [
+        "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "billig"
+    ],
+    "id": "632514c355997815b2e06ef5179d6353"
+  },
+  {
+    "type": "adjective",
+    "base": "bitter",
+    "article": null,
+    "translate": "горький; страшный; сильный; горько; едкий",
+    "context": [
+      [
+        "Der Kaffee schmeckt bitter.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "bitter"
+    ],
+    "id": "95229a26c489ba544f994abc22dfb23d"
+  },
+  {
+    "type": "adjective",
     "base": "breit",
     "article": null,
     "translate": "широкий; обширный; широко",
@@ -109,6 +232,23 @@
       "breit"
     ],
     "id": "3923a7e5b0405b8fc626848169f96f03"
+  },
+  {
+    "type": "adjective",
+    "base": "böse",
+    "article": null,
+    "translate": "злой; сердитый; злобный; сердито",
+    "context": [
+      [
+        "Sie ist böse auf mich.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "böse"
+    ],
+    "id": "d805c394d3d24c766c6d9582fa72b495"
   },
   {
     "type": "adjective",
@@ -205,6 +345,23 @@
       "ehrlich"
     ],
     "id": "82814ed7510a12893f544a615f543cfc"
+  },
+  {
+    "type": "adjective",
+    "base": "eilig",
+    "article": null,
+    "translate": "спешный; срочный; поспешно; торопливо; второпях; срочно",
+    "context": [
+      [
+        "Hast du es eilig?",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "eilig"
+    ],
+    "id": "537c1730fdc4fa458ee70c287768ca86"
   },
   {
     "type": "adjective",
@@ -342,6 +499,40 @@
   },
   {
     "type": "adjective",
+    "base": "frei",
+    "article": null,
+    "translate": "свободный; независимый; открытый; бесплатный; свободно; бесплатно",
+    "context": [
+      [
+        "Ist der Platz noch frei?",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "frei"
+    ],
+    "id": "4234f371d097c725e20124601ca74a7c"
+  },
+  {
+    "type": "adjective",
+    "base": "fremd",
+    "article": null,
+    "translate": "чужой; иностранный; посторонний; чужеземный; инородный; отчужденно",
+    "context": [
+      [
+        "Das weiß ich nicht; ich bin fremd hier.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "fremd"
+    ],
+    "id": "d0e8d4288c6f49f011b1464a8051443e"
+  },
+  {
+    "type": "adjective",
     "base": "frisch",
     "article": null,
     "translate": "свежий; чистый; бодрый; бодро",
@@ -419,6 +610,45 @@
       "gesund"
     ],
     "id": "342118211cb6ed9f8d467aa218aa2a06"
+  },
+  {
+    "type": "adjective",
+    "base": "geöffnet",
+    "article": null,
+    "translate": "открытый; открыто",
+    "context": [
+      [
+        "Der Laden ist samstags bis 16.00 Uhr geöffnet.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "geöffnet"
+    ],
+    "id": "c8b2cc369a179236c1e2057d019f0446"
+  },
+  {
+    "type": "adjective",
+    "base": "gleich",
+    "article": null,
+    "translate": "равный; одинаковый; такой же",
+    "context": [
+      [
+        "Das ist mir gleich."
+      ],
+      [
+        "Das ist der gleiche Preis."
+      ],
+      [
+        "Ich komme gleich."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "gleich"
+    ],
+    "id": "acc904ec9ddbe846578c8f185204be71"
   },
   {
     "type": "adjective",
@@ -513,6 +743,38 @@
   },
   {
     "type": "adjective",
+    "base": "gültig",
+    "article": null,
+    "translate": "действительный; законный; имеющий (законную) силу; действующий; имеющий силу",
+    "context": [
+      [
+        "Der Pass ist nicht mehr gültig."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "gültig"
+    ],
+    "id": "b90f884e5d7c5b9268d4a4b7484d0426"
+  },
+  {
+    "type": "adjective",
+    "base": "günstig",
+    "article": null,
+    "translate": "выгодный; благоприятный; выигрышный; удобно",
+    "context": [
+      [
+        "Dort gibt es günstige Angebote."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "günstig"
+    ],
+    "id": "a4b6c9ae83ed5ff875f17e7013e9237f"
+  },
+  {
+    "type": "adjective",
     "base": "hart",
     "article": null,
     "translate": "трудный; тяжелый; жесткий; твердый; трудно; упорно; сурово",
@@ -562,6 +824,22 @@
       "hell"
     ],
     "id": "26d841e9d2f61c268ee8e721f9d745ac"
+  },
+  {
+    "type": "adjective",
+    "base": "herzlich",
+    "article": null,
+    "translate": "сердечно; сердечный",
+    "context": [
+      [
+        "Herzlichen Glückwunsch!"
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "herzlich"
+    ],
+    "id": "99c3356b208255859b588818dba6e3ba"
   },
   {
     "type": "adjective",
@@ -617,6 +895,23 @@
   },
   {
     "type": "adjective",
+    "base": "international",
+    "article": null,
+    "translate": "международный; интернациональный",
+    "context": [
+      [
+        "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ...",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "international"
+    ],
+    "id": "3bf081c73bd52adb2c830174fef46abf"
+  },
+  {
+    "type": "adjective",
     "base": "jung",
     "article": null,
     "translate": "молодой; юный; молоденький",
@@ -651,6 +946,38 @@
       "kalt"
     ],
     "id": "b52286e796f55ccea5c5f2b7b50cd1ed"
+  },
+  {
+    "type": "adjective",
+    "base": "kaputt",
+    "article": null,
+    "translate": "разбитый; сломанный; испорченный; поломанный; разорванный; погибший",
+    "context": [
+      [
+        "Das Glas war teuer. Es geht sehr leicht kaputt."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "kaputt"
+    ],
+    "id": "95e6baba8015047c20c7057cfb27d5dc"
+  },
+  {
+    "type": "adjective",
+    "base": "klar",
+    "article": null,
+    "translate": "ясно; ясный; понятный; понятно; внятно",
+    "context": [
+      [
+        "Kommst du mit? – Klar!"
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "klar"
+    ],
+    "id": "a41f9abce3d71d4247e9d232eec56c81"
   },
   {
     "type": "adjective",
@@ -710,6 +1037,22 @@
   },
   {
     "type": "adjective",
+    "base": "kulturell",
+    "article": null,
+    "translate": "культурный",
+    "context": [
+      [
+        "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "kulturell"
+    ],
+    "id": "ccce5c254843b5733ea899fe74f70c08"
+  },
+  {
+    "type": "adjective",
     "base": "kurz",
     "article": null,
     "translate": "короткий; коротко",
@@ -747,6 +1090,22 @@
       "lang"
     ],
     "id": "68441b7aca1d3d027846092d242bbc9e"
+  },
+  {
+    "type": "adjective",
+    "base": "lange",
+    "article": null,
+    "translate": "долго; давно; длинный; долгий; высокий",
+    "context": [
+      [
+        "Wie lange fährt der Zug von Hamburg nach Berlin?"
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "lange"
+    ],
+    "id": "d89317bacc23e061c5509403c9fed562"
   },
   {
     "type": "adjective",
@@ -822,6 +1181,22 @@
   },
   {
     "type": "adjective",
+    "base": "ledig",
+    "article": null,
+    "translate": "холостой; незамужняя",
+    "context": [
+      [
+        "Sind Sie verheiratet? – Nein. Ledig."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "ledig"
+    ],
+    "id": "9a493ac9ca718cd86123625cc5240bb4"
+  },
+  {
+    "type": "adjective",
     "base": "leer",
     "article": null,
     "translate": "пустой; порожний; свободный; порожняком",
@@ -858,6 +1233,22 @@
       "leicht"
     ],
     "id": "5863b3129c2a01a121fcf95ddab692e5"
+  },
+  {
+    "type": "adjective",
+    "base": "letzt",
+    "article": null,
+    "translate": "последний; прошлый; крайний",
+    "context": [
+      [
+        "Morgen ist der letzte Kurstag."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "letzt-"
+    ],
+    "id": "57f52a47cf30857cdd3855da64b5b8f7"
   },
   {
     "type": "adjective",
@@ -914,6 +1305,22 @@
       "lustig"
     ],
     "id": "ac1103bdd1fa9ff429af32d44669adab"
+  },
+  {
+    "type": "adjective",
+    "base": "männlich",
+    "article": null,
+    "translate": "мужской",
+    "context": [
+      [
+        "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "männlich"
+    ],
+    "id": "4a419c8252c683be9cfbec4191ee687f"
   },
   {
     "type": "adjective",
@@ -1012,6 +1419,22 @@
   },
   {
     "type": "adjective",
+    "base": "normal",
+    "article": null,
+    "translate": "нормальный; нормально; обычно; обычный",
+    "context": [
+      [
+        "75 kg. Sein Gewicht ist normal."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "normal"
+    ],
+    "id": "260b0363ebb35435a46ef1ebe376d776"
+  },
+  {
+    "type": "adjective",
     "base": "notwengig",
     "article": null,
     "translate": "необходимый",
@@ -1025,6 +1448,25 @@
       "notwengig"
     ],
     "id": "5057627277c3e2f81df91e75fc505e43"
+  },
+  {
+    "type": "adjective",
+    "base": "pünktlich",
+    "article": null,
+    "translate": "пунктуальный; точный; пунктуально; точно; аккуратно; вовремя; аккуратный",
+    "context": [
+      [
+        "Der Bus fährt pünktlich um acht Uhr."
+      ],
+      [
+        "Herr Müller ist immer pünktlich."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "pünktlich"
+    ],
+    "id": "f1defe13e4cc4370b62aa8e9bef88048"
   },
   {
     "type": "adjective",
@@ -1259,6 +1701,22 @@
   },
   {
     "type": "adjective",
+    "base": "selbstständig",
+    "article": null,
+    "translate": "самостоятельный; независимый; самостоятельно",
+    "context": [
+      [
+        "Er ist selbstständig."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "selbstständig"
+    ],
+    "id": "63654b8330d608090e88310a83b9dd0c"
+  },
+  {
+    "type": "adjective",
     "base": "selten",
     "article": null,
     "config": {
@@ -1300,6 +1758,22 @@
       "seltsam"
     ],
     "id": "ad427ae25518feb93751d1313d5ccf76"
+  },
+  {
+    "type": "adjective",
+    "base": "spät",
+    "article": null,
+    "translate": "поздний; поздно; запоздалый",
+    "context": [
+      [
+        "Es ist schon spät, ich muss gehen."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "spät"
+    ],
+    "id": "ec50d01a41f60c8481e329ced06a6150"
   },
   {
     "type": "adjective",
@@ -1453,6 +1927,23 @@
   },
   {
     "type": "adjective",
+    "base": "verheiratet",
+    "article": null,
+    "translate": "женатый; замужняя; женат; замужем",
+    "context": [
+      [
+        "Ich bin verheiratet und habe drei Kinder.",
+        ""
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "verheiratet"
+    ],
+    "id": "475e4cdacc26aa636f0021db8445c16f"
+  },
+  {
+    "type": "adjective",
     "base": "warm",
     "article": null,
     "translate": "тепло; теплый",
@@ -1466,6 +1957,22 @@
       "warm"
     ],
     "id": "59f89dc1a2a3b051a9b60ec411db018c"
+  },
+  {
+    "type": "adjective",
+    "base": "weiblich",
+    "article": null,
+    "translate": "женский; женственный",
+    "context": [
+      [
+        "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "weiblich"
+    ],
+    "id": "39b280089e1f457e6b0eec2cb39c3160"
   },
   {
     "type": "adjective",
@@ -1486,6 +1993,22 @@
       "wichtig"
     ],
     "id": "95637456344787ebbe70435c7d1d0d7a"
+  },
+  {
+    "type": "adjective",
+    "base": "wunderbar",
+    "article": null,
+    "translate": "чудесно; чудесный; отличный; отлично; замечательный; дивный; чудный; замечательно",
+    "context": [
+      [
+        "Das Essen schmeckt wunderbar."
+      ]
+    ],
+    "level": "A-1",
+    "originals": [
+      "wunderbar"
+    ],
+    "id": "4540a9cbfe52ebbe8f30fb8314ddbac7"
   },
   {
     "type": "adjective",

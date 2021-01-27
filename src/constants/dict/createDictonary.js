@@ -293,7 +293,6 @@ const parsePhrase = (text, options = {}) => {
           }
         }
       }
-      console.log("---", phrase, isVerb);
 
       const entry = {
         type: "*", // остальное
@@ -518,8 +517,8 @@ console.log("---------------- end test --------------");
   // );
 });
 
-dictonary.forEach(({ base, translate, level }) => {
-  if (level === "A-1") {
-    // console.log("base", base, "-", translate);
+dictonary.forEach(({ base, translate, level, type }) => {
+  if (level === "A-1" && type === "*") {
+    console.log("base", base, "-", translate);
   }
 });
