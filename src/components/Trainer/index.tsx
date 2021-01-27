@@ -4,6 +4,8 @@ import cn from "classnames";
 import { LANGUAGE, LANGUAGE_REGION } from "constants/index";
 import { Logo, Button, Input, DropDown } from "components/ui";
 
+import { patienceDiffPlus } from "helpers/diff";
+
 import s from "./styles.module.css";
 const ITERATION = 2;
 
@@ -19,8 +21,16 @@ const COMPONENT = {
   DEFAULT: "default",
 };
 
+const getUniPhraseOriginal = (text) =>
+  !text
+    ? ""
+    : text
+        .replace(/[^a-zäöüß0-9]/gi, "")
+        .trim()
+        .replace("ss", "ß")
+        .toUpperCase();
+
 const getComponentType = (type) => {
-  console.log("***", type);
   switch (type) {
     case "write":
     case "drag":
@@ -68,7 +78,7 @@ const TypeChunk = (props) => {
       setState((s) => ({ ...s, [id]: nextValue }));
     }, []);
 
-    console.log("items:", items, variants);
+    // console.log("items:", items, variants);
 
     return (
       <>
@@ -164,19 +174,22 @@ const Item = (props) => {
 
   // console.log("chunks", chunks);
   const onChangeApply = () => {
-    console.log(phrase);
-    console.log(chunks);
-    console.log(userValue);
+    // console.log(phrase);
+    // console.log(chunks);
+    // console.log(userValue);
 
     const actions = chunks.filter(({ type }) => type === TYPES.ACTION);
 
     const isGood = actions.reduce((acc, { id, correct }) => {
       const value = userValue[id];
-      const result = (value && correct.includes(value)) || false;
+      const _correct = correct.map(getUniPhraseOriginal);
+      const _value = getUniPhraseOriginal(value);
+
+      const result = (value && _correct.includes(_value)) || false;
 
       return acc && result;
     }, true);
-    console.log(isGood);
+    // console.log(isGood);
     setStatus(isGood);
     setIteration((v) => v + 1);
   };
@@ -185,6 +198,29 @@ const Item = (props) => {
 
   const isError = isDisabled && !status;
 
+  const diff = React.useMemo(() => {
+    // console.log("calc diff");
+    // console.log(userValue, chunks);
+
+    const actions = chunks.filter(({ type }) => type === TYPES.ACTION);
+
+    const arr = actions.map(({ id, correct }) => {
+      const correctVariant = correct[0];
+      const text = userValue[id] || "";
+
+      const _diff = patienceDiffPlus(correctVariant.split(""), text.split(""));
+
+      return {
+        id,
+        chars: _diff.lines,
+        correct: correctVariant,
+      };
+    });
+
+    return arr;
+  }, [userValue, chunks]);
+
+  console.log("diff:", diff);
   return (
     <div className={cn(s.line, { [s.good]: status, [s.error]: isError })}>
       {/* <p className={s.source}>
@@ -210,10 +246,34 @@ const Item = (props) => {
       </Button>
       {isError && (
         <>
-          {chunks
-            .filter(({ correct }) => correct?.length > 0)
-            .map((data) => data?.correct[0])
-            .join(", ")}
+          {diff.map(({ id, chars }) => (
+            <span key={`diff-${id}`} className={s["diff-word"]}>
+              {chars.map(({ line, aIndex, bIndex }) => {
+                const isDeleted = aIndex === -1;
+                const isInserted = bIndex === -1;
+                const isGood = !isDeleted && !isInserted;
+                // if (isDeleted) return;
+
+                return (
+                  <span
+                    className={cn(s.char, {
+                      [s["char-deleted"]]: isDeleted,
+                      [s["char-inserted"]]: isInserted,
+                      [s["char-good"]]: isGood,
+                    })}
+                  >
+                    {line}
+                  </span>
+                );
+              })}
+            </span>
+          ))}
+
+          {diff.map(({ id, correct }) => (
+            <span key={`correct-${id}`} className={s["diff-word"]}>
+              {correct}
+            </span>
+          ))}
         </>
       )}
     </div>
@@ -231,7 +291,6 @@ const Trainer = (props) => {
   } = props;
 
   const isContent = content?.length > 0;
-  console.log(items);
 
   return (
     <div className={s.container}>

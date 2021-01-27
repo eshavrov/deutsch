@@ -55,10 +55,62 @@
 .input.before {
   padding-left: 2px;
 }
+
 .input.after {
   padding-right: 2px;
 }
 
 .button {
   margin: 16px 48px 0;
+}
+
+.diff-word {
+  display: inline-block;
+  margin: 4px;
+  color: black;
+}
+
+.diff-word + .diff-word {
+  margin-left: 8px;
+}
+
+.char {
+  display: inline-block;
+  padding: 1px;
+  margin-left: 2px;
+  border-radius: 3px;
+
+  text-align: center;
+  font-weight: bold;
+}
+
+.char.good {
+  background-color: rgb(207, 255, 131);
+}
+
+.char.char-deleted {
+  background-color: #ff4b2e;
+  color: black;
+  font-weight: bold;
+    transform: translateY(5px) translateX(-1px);
+
+}
+
+.char.char-inserted {
+  /* background-color: #ff4b2e; */
+  color: black;
+  font-weight: bold;
+
+  color: #99fffb;
+  font-weight: bold;
+  /* top: 4px; */
+  /* transform: translateY(2px) translateX(0px); */
+  /* width: 0.5em; */
+  /* opacity: 3.4; */
+}
+
+.char.char-good + .char.char-good,
+.char.char-deleted + .char.char-deleted,
+.char.char-inserted + .char.char-inserted {
+  margin-left: 0;
 }
