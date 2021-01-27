@@ -1211,134 +1211,1072 @@
 		]
 	},
 	{
-		"title": "",
+		"title": "Перевести, довести до автоматизма.",
+		"type": "write",
 		"list": [
 			[
-				""
+				"Ты ешь много - [Du isst viel]."
 			],
 			[
-				""
+				"Она ест мало - [Sie isst wenig]."
 			],
 			[
-				""
+				"Ты даешь книгу - [Du gibst ein Buch]."
 			],
 			[
-				""
+				"Она дает машину - [Sie gibt ein Auto]."
 			],
 			[
-				""
+				"Ты берешь машину - [Du nimmst ein Auto]."
 			],
 			[
-				""
+				"Он берет книгу - [Er nimmt ein Buch]."
 			],
 			[
-				""
+				"Ты встречаешь подругу - [Du triffst eine Freundin]."
+			],
+			[
+				"Он встречает ребенка - [Er trifft ein Kind]."
+			],
+			[
+				"Ты говоришь быстро - [Du sprichst schnell]."
+			],
+			[
+				"Она говорит медленно - [Sie spricht langsam]."
+			],
+			[
+				"Ты забываешь редко - [Du vergisst selten]."
+			],
+			[
+				"Он забывает часто - [Er vergisst oft]."
+			],
+			[
+				"Ты помогаешь сегодня - [Du hilfst heute]."
+			],
+			[
+				"Он помогает завтра - [Er hilft morgen]."
+			],
+			[
+				"Ты говоришь громко - [Du sprichst laut]."
+			],
+			[
+				"Она говорит тихо - [Sie spricht leise]."
+			],
+			[
+				"Ты бросаешь далеко - [Du wirfst weit]."
+			],
+			[
+				"Она бросает близко - [Sie wirft nah]."
+			],
+			[
+				"Ты видишь хорошо - [Du siehst gut]."
+			],
+			[
+				"Она видит плохо - [Sie sieht schlecht]."
+			],
+			[
+				"Ты читаешь правильно - [Du liest richtig]."
+			],
+			[
+				"Она читает неправильно - [Sie liest falsch]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма.",
+		"type": "write",
+		"list": [
+			[
+				"Ты бегаешь медленно - [Du läufst langsam]."
+			],
+			[
+				"Она бегает быстро - [Sie läuft schnell]."
+			],
+			[
+				"Ты падаешь часто - [Du fällst oft]."
+			],
+			[
+				"Она падает редко - [Sie fällt selten]."
+			],
+			[
+				"Ты спишь много - [Du schläfst viel]."
+			],
+			[
+				"Он спит мало - [Er schläft wenig]."
+			],
+			[
+				"Ты растешь быстро - [Du wächst schnell]."
+			],
+			[
+				"Она растет медленно - [Sie wächst langsam]."
+			],
+			[
+				"Ты моешь машину - [Du wäschst das Auto]."
+			],
+			[
+				"Она моет квартиру - [Sie wäscht die Wohnung]."
+			],
+			[
+				"Ты едешь быстро - [Du fährst schnell]."
+			],
+			[
+				"Она едет медленнo - [Sie fährt langsam]."
+			],
+			[
+				"Ты ловишь книгу - [Du fängst das Buch]."
+			],
+			[
+				"Она ловит кошку - [Sie fängt die Katze]."
+			],
+			[
+				"Она спит долго - [Sie schläft lange]."
+			],
+			[
+				"Он сейчас спит - [Er schläft jetzt]."
+			],
+			[
+				"Ты ездишь правильно - [Du fährst richtig]."
+			],
+			[
+				"Он ездит неправильно - [Er fährt falsch]."
+			],
+			[
+				"Ты носишь брюки - [Du trägst die Hose]."
+			],
+			[
+				"Она носит платье - [Sie trägt das Kleid]."
+			]
+		]
+	},
+	{
+		"title": "Können или dürfen? Подсказка: если сомневаетесь - ставьте können.",
+		"type": "write",
+		"list": [
+			[
+				"Ему можно быстро бегать - [Er darf schnell laufen]."
+			],
+			[
+				"Она умеет красиво петь - [Sie kann schön singen]."
+			],
+			[
+				"Нам можно громко петь - [Wir dürfen laut singen]."
+			],
+			[
+				"Он умеет быстро бегать - [Er kann schnell laufen]."
+			],
+			[
+				"Им можно тихо поиграть - [Sie dürfen leise spielen]."
+			],
+			[
+				"Ему можно спросить - [Er darf fragen]."
+			],
+			[
+				"Мы умеем хорошо танцевать - [Wir können gut tanzen]."
+			],
+			[
+				"Я могу ответить - [Ich kann antworten]."
+			],
+			[
+				"Она может быстро читать - [Sie kann schnell lesen]."
+			],
+			[
+				"Он может много выпить - [Er kann viel trinken]."
+			],
+			[
+				"Отец умеет быстро ездить - [Der Vater kann schnell fahren]."
+			],
+			[
+				"Мама умеет хорошо готовить - [Die Mutter kann gut kochen]."
+			],
+			[
+				"Дедушка может долго спать - [Der Opa kann lange schlafen]."
+			],
+			[
+				"Брат может высоко прыгать - [Der Bruder kann hoch springen]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма. Sollen или müssen?",
+		"type": "write",
+		"list": [
+			[
+				"Он обязан учить немецкий - [Er soll Deutsch lernen]."
+			],
+			[
+				"Она обязана хорошо танцевать - [Sie soll gut tanzen]."
+			],
+			[
+				"Я должен хорошо учиться - [Ich muss gut lernen]."
+			],
+			[
+				"Я должен сегодня играть - [Ich muss heute spielen]."
+			],
+			[
+				"Ты обязан завтра помочь - [Du sollst morgen helfen]."
+			],
+			[
+				"Она должна сегодня написать - [Sie muss heute schreiben]."
+			],
+			[
+				"Вам (ihr) надо покушать - [Ihr müsst essen]."
+			],
+			[
+				"Они обязаны прийти! - [Sie sollen kommen]!"
+			],
+			[
+				"Ты должен помочь - [Du musst helfen]."
+			],
+			[
+				"Мы обязаны работать - [Wir sollen arbeiten]."
+			],
+			[
+				"Ты обязан учить немецкий! - [Du sollst Deutsch lernen]."
+			],
+			[
+				"Она обязана помочь - [Sie soll helfen]."
+			],
+			[
+				"Тебе надо учить немецкий - [Du musst Deutsch lernen]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма. Mögen, möchten или wollen?",
+		"type": "write",
+		"list": [
+			[
+				"Я люблю пиццу - [Ich mag Pizza]"
+			],
+			[
+				"Я хочу купить пиццу - [Ich will Pizza kaufen]."
+			],
+			[
+				"Я хотел бы заказать пиццу - [Ich möchte Pizza bestellen]."
+			],
+			[
+				"Она любит учить английский - [Sie mag Englisch lernen]."
+			],
+			[
+				"Он хотел бы учить немецкий - [Er möchte Deutsch lernen]."
+			],
+			[
+				"Она хотела бы танцевать - [Sie möchte tanzen]."
+			],
+			[
+				"Мы хотим сегодня купить велосипед - [Wir wollen heute ein Fahrrad kaufen]."
+			],
+			[
+				"Он хочет есть - [Er will essen]."
+			],
+			[
+				"Ты любишь петь - [Du magst singen]."
+			],
+			[
+				"Я хочу пить - [Ich will trinken]."
+			],
+			[
+				"Мы хотим купить машину - [Wir wollen ein Auto kaufen]."
+			],
+			[
+				"Мы хотели бы выпить колы - [Wir möchten Cola trinken]."
+			],
+			[
+				"Они хотят помочь - [Sie wollen helfen]."
+			],
+			[
+				"Я люблю учить немецкий - [Ich mag Deutsch lernen]."
+			],
+			[
+				"Вы (ihr) любите танцевать - [Ihr mögt tanzen]."
+			],
+			[
+				"Они хотят купить машину - [Sie wollen ein Auto kaufen]."
+			]
+		]
+	},
+	{
+		"title": "Прогнать по таблице местоимений. ich - Ich weiß das.",
+		"type": "write",
+		"list": [
+			[
+				"ich - [Ich weiß das]."
+			],
+			[
+				"du - [Du weißt das]."
+			],
+			[
+				"er - [Er weiß das]."
+			],
+			[
+				"sie - [Sie weiß das]."
+			],
+			[
+				"wir - [Wir wissen das]."
+			],
+			[
+				"ihr - [Ihr wisst das]."
+			],
+			[
+				"Sie - [Sie wissen das]."
+			]
+		]
+	},
+	{
+		"title": "Прогнать по таблице местоимений. ich - Das weiß ich nicht.",
+		"type": "write",
+		"list": [
+			[
+				"ich - [Das weiß ich nicht]."
+			],
+			[
+				"du - [Das weißt du nicht]."
+			],
+			[
+				"er - [Das weiß er nicht]."
+			],
+			[
+				"sie - [Das weiß sie nicht]."
+			],
+			[
+				"wir - [Das wissen wir nicht]."
+			],
+			[
+				"ihr - [Das wisst ihr nicht]."
+			],
+			[
+				"Sie - [Das wissen sie nicht]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма.",
+		"type": "write",
+		"list": [
+			[
+				"Это мой костюм - [Das ist mein Anzug]."
+			],
+			[
+				"Это твой свитер - [Das ist dein Pullover]."
+			],
+			[
+				"Это его шляпа - [Das ist sein Hut]."
+			],
+			[
+				"Это ее юбка - [Das ist ihr Rock]."
+			],
+			[
+				"Это наше пальто - [Das ist unser Mantel]."
+			],
+			[
+				"Это ваш шарф - [Das ist euer Schal]."
+			],
+			[
+				"Это их рубашка - [Das ist ihr Hemd]."
+			],
+			[
+				"Это мое платье - [Das ist mein Kleid]."
+			],
+			[
+				"Это твоя футболка - [Das ist dein T-shirt]."
+			],
+			[
+				"Это ее блузка - [Das ist ihre Bluse]."
+			],
+			[
+				"Это его штаны - [Das ist seine Hos]e"
+			],
+			[
+				"Это наша куртка - [Das ist unsere Jack]e"
+			],
+			[
+				"Это ваша одежда - [Das ist eure Kleidung]."
+			],
+			[
+				"Это их шапка - [Das ist ihre Mütze]."
+			],
+			[
+				"Это ее колготки - [Das ist ihre Strumpfhose]."
+			],
+			[
+				"Это мои джинсы (Pl) - [Das sind meine Jeans]."
+			],
+			[
+				"Это мои ботинки (Pl) - [Das sind meine Schuhe]."
+			],
+			[
+				"Это твои носки (Pl) - [Das sind deine Socken]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма. Следим за мн. ч.",
+		"type": "write",
+		"list": [
+			[
+				"Мои носки старые - [Meine Socken sind alt]."
+			],
+			[
+				"Наша шапка красивая - [Unsere Mütze ist schön]."
+			],
+			[
+				"Ее колготки дешевые - [Ihre Strumpfhose ist billig]."
+			],
+			[
+				"Твои ботинки новые (Pl) - [Deine Schuhe sind neu]."
+			],
+			[
+				"Его джинсы дорогие (Pl) - [Seine Jeans sind teuer]."
+			],
+			[
+				"Ваша одежда грязная - [Ihre Kleidung ist schmutzig]."
+			],
+			[
+				"Их куртка чистая - [Ihre Jacke ist sauber]."
+			],
+			[
+				"Мои штаны новые - [Meine Hose ist neu]."
+			],
+			[
+				"Твоя блузка старая - [Deine Bluse ist alt]."
+			],
+			[
+				"Его футболка дешевая - [Sein T-shirt ist billig]."
+			],
+			[
+				"Ее платье дорогое - [Ihr Kleid ist teuer]."
+			],
+			[
+				"Моя рубашка белая - [Mein Hemd ist weiß]."
+			],
+			[
+				"Твой шарф черный - [Dein Schal ist schwarz]."
+			],
+			[
+				"Его пальто серое - [Sein Mantel ist grau]."
+			],
+			[
+				"Ее юбка коричневая - [Ihr Rock ist braun]."
+			],
+			[
+				"Его шляпа зеленая - [Sein Hut ist grün]."
+			],
+			[
+				"Мой свитер красный - [Mein Pullover ist rot]."
+			],
+			[
+				"Его костюм зеленый - [Sein Anzug ist grün]."
+			],
+			[
+				"Их одежда оранжевая - [Ihre Kleidung ist orange]."
+			],
+			[
+				"Ее джинсы голубые (Pl) - [Ihre Jeans sind blau]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма.",
+		"type": "write",
+		"list": [
+			[
+				"У моего папы есть машина. Он продает свою машину. - [Mein Vater hat ein Auto. Er verkauft sein Auto]."
+			],
+			[
+				"У моего друга есть велосипед. Он продает свой велосипед. - [Mein Freund hat ein Rad. Er verkauft sein Rad]."
+			],
+			[
+				"У меня есть дом. Я продаю свой дом. Ich habe ein Haus. - [Ich verkaufe mein Haus]."
+			],
+			[
+				"У твоей сестры есть кошка. Она продает свою кошку. - [Deine Schwester hat eine Katze. Sie verkauft ihre Katze]."
+			],
+			[
+				"У тебя есть сестра. Ты любишь свою сестру. - [Du hast eine Schwester. Du magst deine Schwester]."
+			],
+			[
+				"У его брата есть дом. Он продает свой дом. - [Sein Bruder hat ein Haus. Er verkauft sein Haus]."
+			],
+			[
+				"У ее мамы есть машина. Она продает свою машину. - [Ihre Mutter hat ein Auto. Sie verkauft ihr Auto]."
+			],
+			[
+				"У нас есть квартира. Мы продаем свою квартиру. - [Wir haben eine Wohnung. Wir verkaufen unsere Wohnung]."
+			],
+			[
+				"У вас есть корабль. Вы продаете свой корабль. - [Ihr habt ein Schiff. Ihr verkauft euer Schiff]."
+			],
+			[
+				"У наших друзей есть квартира. Они продают свою квартиру. - [Unsere Freunde haben eine Wohnung. Sie verkaufen ihre Wohnung]."
+			]
+		]
+	},
+	{
+		"title": "Перевести. Вопросительные слова",
+		"type": "write",
+		"list": [
+			[
+				"Was? - [Что]?"
+			],
+			[
+				"Wer? - [Кто]?"
+			],
+			[
+				"Wen? - [Кого]?"
+			],
+			[
+				"Wem? - [Кому]?"
+			],
+			[
+				"Wie? - [Как]?"
+			],
+			[
+				"Wo? - [Где]?"
+			],
+			[
+				"Warum? - [Почему]?"
+			],
+			[
+				"Wann? - [Когда]?"
+			],
+			[
+				"Woher? - [Откуда]?"
+			],
+			[
+				"Wohin? - [Куда]?"
+			],
+			[
+				"Wie viel? - [Сколько|Как много]?"
+			],
+			[
+				"Wie lange? - [Сколько|Как долго]?"
+			],
+			[
+				"Wessen? - [Чей]?"
+			],
+			[
+				"Welcher? - [Какой]?"
+			]
+		]
+	},
+	{
+		"title": "Задать вопросы.",
+		"type": "write",
+		"content": [
+			"Подсказка: если сложно сориентироваться сразу, можно сначала переводить предложения как утвердительные, и только потом менять порядок слов."
+		],
+		"list": [
+			[
+				"Ты сильный? - [Bist du stark]?"
+			],
+			[
+				"Она молодая? - [Ist sie jung]?"
+			],
+			[
+				"Он сильный? - [Ist er stark]?"
+			],
+			[
+				"Твой папа умный? - [Ist dein Vater klug]?"
+			],
+			[
+				"Ее мама красивая? - [Ist ihre Mutter schön]?"
+			],
+			[
+				"У вас (ihr) есть квартира? - [Habt ihr eine Wohnung]?"
+			],
+			[
+				"У тебя есть машина? - [Hast du ein Auto]?"
+			],
+			[
+				"У твоего папы есть сестра? - [Hat dein Vater eine Schwester]?"
+			],
+			[
+				"У его сестры есть кошка? - [Hat seine Schwester eine Katze]?"
+			],
+			[
+				"Ты спишь? - [Schläfst du]?"
+			],
+			[
+				"Он ездит быстро? - [Fährt er schnell]?"
+			],
+			[
+				"Ты покупаешь мою машину? - [Kaufst du mein Auto]?"
+			],
+			[
+				"Она поет хорошо? - [Singt sie gut]?"
+			],
+			[
+				"Ты едешь? - [Fährst du]?"
+			],
+			[
+				"Вы (Sie) пьете чай? - [Trinken Sie Tee]?"
+			],
+			[
+				"Ты читаешь? - [Liest du]?"
+			],
+			[
+				"Ты хочешь поиграть? - [Willst du spielen]?"
+			],
+			[
+				"Ей можно здесь бегать? - [Darf sie hier laufen]?"
+			],
+			[
+				"Вы (Ihr) можете помочь? - [Könnt ihr helfen]?"
+			],
+			[
+				"Ты хочешь тоже заказать? - [Willst du auch bestellen]?"
+			],
+			[
+				"Должен ли я помочь? - [Soll ich helfen]?"
+			],
+			[
+				"Ты должен учить немецкий? - [Musst du Deutsch lernen]?"
+			]
+		]
+	},
+	{
+		"title": "Задать вопросы с вопросительным словом.",
+		"type": "write",
+		"list": [
+			[
+				"Почему ты такой сильный? - [Warum bist du so stark]?"
+			],
+			[
+				"Почему он такой слабый? - [Warum ist er so schwach]?"
+			],
+			[
+				"Сколько у тебя твоя машина? - [Wie lange hast du dein Auto]?"
+			],
+			[
+				"Когда ты спишь? - [Wann schläfst du]?"
+			],
+			[
+				"Где ты покупаешь машину? - [Wo kaufst du das Auto]?"
+			],
+			[
+				"Где ты едешь? - [Wo fährst du]?"
+			],
+			[
+				"Где ты хочешь играть? - [Wo willst du spielen]?"
+			],
+			[
+				"Кому можно здесь бегать? - [Wer darf hier laufen]?"
+			],
+			[
+				"Когда вы (ihr) можете помочь? - [Wann könnt ihr helfen]?"
+			],
+			[
+				"Что ты хочешь заказать? - [Was möchtest du bestellen]?"
+			],
+			[
+				"Кому я должен помочь? - [Wem soll ich helfen]?"
+			],
+			[
+				"Почему я должен учить немецкий? - [Warum soll ich Deutsch lernen]?"
+			],
+			[
+				"Кто хочет танцевать? - [Wer will tanzen]?"
+			],
+			[
+				"Что ты хочешь заказать? - [Was möchtest du bestellen]?"
+			],
+			[
+				"Кому ты даришь машину? - [Wem schenkst du das Auto]?"
+			],
+			[
+				"Где он живет? - [Wo wohnt er]?"
+			],
+			[
+				"Где она играет? - [Wo spielt sie]?"
+			],
+			[
+				"Как долго он учит немецкий? - [Wie lange lernt er Deutsch]."
+			]
+		]
+	},
+	{
+		"title": "Задать вопросы с вопросительным словом. Те же самые предложения (первые десять) сделать с местоимениями она, вы, они.",
+		"type": "write",
+		"list": [
+			[
+				"Как тебя зовут? - [Wie heißt du]?"
+			],
+			[
+				"Где ты живешь? - [Wo wohnst du]?"
+			],
+			[
+				"Что ты делаешь? - [Was machst du]?"
+			],
+			[
+				"Кому ты помогаешь? - [Wem hilfst du]?"
+			],
+			[
+				"Кого ты любишь? - [Wen liebst du]?"
+			],
+			[
+				"Откуда ты едешь? - [Woher fährst du]?"
+			],
+			[
+				"Куда ты идешь? - [Wohin gehst du]?"
+			],
+			[
+				"Сколько ты уже учишь немецкий? - [Wie lange lernst du schon Deutsch]."
+			],
+			[
+				"Сколько ты спишь? - [Wie lange schläfst du]?"
+			],
+			[
+				"Когда ты приедешь? - [Wann kommst du]?"
+			],
+			[
+				"Как его зовут? - [Wie heißt er]?"
+			],
+			[
+				"Где он живет? - [Wo wohnt er]?"
+			],
+			[
+				"Что он делает? - [Was macht er]?"
+			],
+			[
+				"Кому он помогает? - [Wem hilft er]?"
+			],
+			[
+				"Кого он любит? - [Wen liebt er]?"
+			],
+			[
+				"Откуда он едет? - [Woher fährt er]?"
+			],
+			[
+				"Куда он идет? - [Wohin geht er]?"
+			],
+			[
+				"Сколько он уже учит немецкий? - [Wie lange lernt er schon Deutsch]."
+			],
+			[
+				"Сколько он спит? - [Wie lange schläft er]?"
+			],
+			[
+				"Когда он приедет? - [Wann kommt er]?"
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма. Тренируем неопределенный артикль.",
+		"type": "write",
+		"list": [
+			[
+				"Это стол. У меня есть стол. - [Das ist ein Tisch] (N). [Ich habe einen Tisch] (A)."
+			],
+			[
+				"Это стул. У меня есть стул. - [Das ist ein Stuhl] (N). [Ich habe einen Stuhl] (A)."
+			],
+			[
+				"Это шкаф. У меня есть шкаф. - [Das ist ein Schrank]. [Ich habe einen Schrank]."
+			],
+			[
+				"Это кровать. У тебя есть кровать. - [Das ist ein Bett]. [Du hast ein Bett]."
+			],
+			[
+				"Это ручка. У тебя есть ручка. - [Das ist ein Füller]. [Du hast einen Füller]."
+			],
+			[
+				"Это линейка. У него есть линейка. - [Das ist ein Lineal]. [Er hat ein Lineal]."
+			],
+			[
+				"Это сумка. У него есть сумка. - [Das ist eine Tasche]. [Er hat eine Tasche]."
+			],
+			[
+				"Это чайник. У нее есть чайник. - [Das ist ein Kocher]. [Sie hat einen Kocher]."
+			],
+			[
+				"Это вилка. У нее есть вилка. - [Das ist eine Gabel]. [Sie hat eine Gabel]."
+			],
+			[
+				"Это ножик. У нее есть ножик. - [Das ist ein Messer]. [Sie hat ein Messer]."
+			],
+			[
+				"Это стакан. У нас есть стакан. - [Das ist ein Glas]. [Wir haben ein Glas]."
+			],
+			[
+				"Это тарелка. У нас есть тарелка. - [Das ist ein Teller]. [Wir haben einen Teller]."
+			],
+			[
+				"Это бокал. У них есть бокал. - [Das ist ein Becher]. [Sie haben einen Becher]."
+			],
+			[
+				"Это чашка. У вас (ihr)есть чашка. - [Das ist eine Tasse]. [Ihr habt eine Tasse]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма. Тренируем определенный и неопределенный артикль.",
+		"type": "write",
+		"list": [
+			[
+				"Это ложка. Я покупаю ложку. - [Das ist ein Löffel] (N). [Ich kaufe den Löffel] (A)."
+			],
+			[
+				"Это ножик. Я покупаю ножик. - [Das ist ein Messer] (N). [Ich kaufe das Messer] (A)."
+			],
+			[
+				"Это тарелка. Я покупаю тарелку. - [Das ist ein Teller]. [Ich kaufe den Teller]."
+			],
+			[
+				"Это бокал. Я покупаю бокал. - [Das ist ein Becher]. [Ich kaufe den Becher]."
+			],
+			[
+				"Это стакан. Я покупаю стакан. - [Das ist ein Glas]. [Ich kaufe das Glas]."
+			],
+			[
+				"Это чашка. Ты покупаешь чашку. - [Das ist eine Tasse]. [Du kaufst die Tasse]."
+			],
+			[
+				"Это вилка. Ты покупаешь вилку. - [Das ist eine Gabel]. [Du kaufst die Gabel]."
+			],
+			[
+				"Это чайник. Ты покупаешь чайник. - [Das ist eine Teekanne]. [Du kaufst die Teekanne]."
+			],
+			[
+				"Это кровать. Он покупает кровать. - [Das ist ein Bett]. [Er kauft das Bett]."
+			],
+			[
+				"Это карандаш. Он покупает карандаш. - [Das ist ein Bleistift]. [Er kauft den Bleistift]."
+			],
+			[
+				"Это ручка. Она покупает ручку. - [Das ist ein Füller]. [Sie kauft den Füller]."
+			],
+			[
+				"Это ножик. Она покупает ножик. - [Das ist ein Messer]. [Sie kauft das Messer]."
+			],
+			[
+				"Это стол. Мы покупаем стол. - [Das ist ein Tisch]. [Wir kaufen den Tisch]."
+			],
+			[
+				"Это стул. Мы покупаем стул. - [Das ist ein Stuhl]. [Wir kaufen den Stuhl]."
+			],
+			[
+				"(Pl) Это ботинки. Вы (ihr) покупаете ботинки. - [Das sind die Schuhe]. [Ihr kauft die Schuhe]."
+			],
+			[
+				"(Pl) Это джинсы. Вы (Sie) покупаете джинсы. - [Das sind die Jeans]. [Sie kaufen die Jeans]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма. Тренируем притяжательные местоимения.",
+		"type": "write",
+		"list": [
+			[
+				"Я продаю свою машину. Моя машина новая. - [Ich verkaufe mein Auto] (A). [Mein Auto ist neu] (N)."
+			],
+			[
+				"Ты продаешь свой стол. Твой стол большой. - [Du verkaufst deinen Tisch] (A). [Dein Tisch ist groß] (N)."
+			],
+			[
+				"Мы продаем свою квартиру. Наша квартира маленькая. - [Wir verkaufen unsere Wohnung]. [Unsere Wohnung ist klein]."
+			],
+			[
+				"Она продает свою ручку. Ее ручка дорогая. - [Sie verkauft ihren Füller]. [Ihr Füller ist teuer]."
+			],
+			[
+				"Вы (Ihr) продаете свой дом. Ваш дом старый. - [Ihr verkauft euer Haus]. [Euer Haus ist alt]."
+			],
+			[
+				"Они продают свой чайник. Их чайник красивый. - [Sie verkaufen ihren Kocher]. [Ihr Kocher ist schön]."
+			],
+			[
+				"Вы (Sie) продаете свой шкаф. Ваш шкаф большой. - [Sie verkaufen Ihren Schrank]. [Ihr Schank ist groß]."
+			],
+			[
+				"Я продаю свою тарелку. Моя тарелка круглая. - [Ich verkaufe meinen Teller]. [Mein Teller ist rund]."
+			],
+			[
+				"Ты продаешь свой костюм. Твой костюм синий. - [Du verkaufst deinen Anzug]. [Dein Anzug ist blau]."
+			],
+			[
+				"Он продает свое пальто. Его пальто черное. - [Er verkauft seinen Mantel]. [Sein Mantel ist schwarz]."
+			],
+			[
+				"Она продает свою юбку. Ее юбка широкая. - [Sie verkauft ihren Rock]. [Ihr Rock ist breit]."
+			],
+			[
+				"Мы продаем свою шляпу. Наша шляпа круглая. - [Wir verkaufen unseren Hut]. [Unser Hut ist rund]."
+			],
+			[
+				"Вы (Ihr) продаете свою рубашку. Ваша рубашка белая. - [Ihr verkauft euer Hemd]. [Euer Hemd ist weiß]."
+			],
+			[
+				"Они продают свой автобус. Их автобус красный. - [Sie verkaufen ihren Bus]. [Ihr Bus ist rot]."
+			],
+			[
+				"Вы (Sie) продаете свое пальто. Ваше пальто дешевое. - [Sie verkaufen Ihren Mantel]. [Ihr Mantel ist billig]."
+			]
+		]
+	},
+	{
+		"title": "Перевести и проспрягать по таблице личных местоимений следующие предложения:",
+		"type": "write",
+		"list": [
+			[
+				"Я спрашиваю моего брата. Я отвечаю моему брату. - [Ich frage meinen Bruder]. [Ich antworte meinem Bruder]."
+			],
+			[
+				"Ты спрашиваешь своего брата. Ты  отвечаешь своему брату. - [Du fragst deinen Bruder]. [Du antwortest deinem Bruder]."
+			],
+			[
+				"Он спрашивает своего брата. Он отвечает своему брату. - [Er fragt seinen Bruder]. [Er antwortet seinem Bruder]."
+			],
+			[
+				"Она спрашивает своего брата. Она отвечает своему брату. - [Sie fragt ihren Bruder]. [Sie antwortet ihrem Bruder]."
+			],
+			[
+				"Мы спрашиваем нашего брата. Мы отвечаем нашему брату. - [Wir fragen unseren Bruder]. [Wir antworten unserem Bruder]."
+			],
+			[
+				"Вы (Ihr) спросите своего брата. Вы отвечаете своему брату. - [Ihr fragt euren Bruder]. [Ihr antwortet eurem Bruder]."
+			],
+			[
+				"Вы (Sie) спросите своего брата. Вы отвечаете своему брату. - [Sie fragen ihren Bruder]. [Sie antworten ihrem Bruder]."
+			],
+			[
+				"Я спрашиваю моего ребенка. Я отвечаю моему ребенку. - [Ich frage mein Kind]. [Ich antworte meinem Kind]."
+			],
+			[
+				"Я спрашиваю мою сестру. Я отвечаю моей сестре. - [Ich frage meine Schwester]. [Ich antworte meiner Schwester]."
+			],
+			[
+				"Я спрашиваю моих друзей. Я отвечаю моим друзьям. - [Ich frage meine Freunde]. [Ich antworte meinen Freunden]."
+			],
+			[
+				"Я спрашиваю моих детей. Я отвечаю моим детям. - [Ich frage meine Kinder]. [Ich antworte meinen Kindern]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма. Тренируем определенный артикль. Над артиклем ставим буковку N, A или D.",
+		"type": "write",
+		"list": [
+			[
+				"1. Сестра спрашивает брата. Брат отвечает сестре. - [Die Schwester fragt den Bruder] (A). [Der Bruder antwortet der Schwester] (D)."
+			],
+			[
+				"2. Брат спрашивает сестру. Сестра отвечает брату. - [Der Bruder fragt die Schwester]. [Die Schwester antwortet dem Bruder]."
+			],
+			[
+				"3. Папа спрашивает маму. Мама отвечает папе. - [Der Vater fragt die Mutter]. [Die Mutter antwortet dem Vater]."
+			],
+			[
+				"4. Мама спрашивает папу. Папа отвечает маме. - [Die Mutter fragt den Vater]. [Der Vater antwortet der Mutter]."
+			],
+			[
+				"5. Учитель спрашивает официанта. Официант отвечает учителю. - [Der Lehrer fragt den Kellner]. [Der Kellner antwortet dem Lehrer]."
+			],
+			[
+				"6. Официантка спрашивает учителя. Учитель отвечает официантке. - [Die Kellnerin fragt den Lehrer]. [Der Lehrer antwortet der Kellnerin]."
+			],
+			[
+				"7. Водитель спрашивает строителя. Строитель отвечает водителю. - [Der Fahrer fragt den Bauarbeiter]. [Der Bauarbeiter antwortet dem Fahrer]."
+			],
+			[
+				"8. Продавщица спрашивает повара. Повар отвечает продавщице. - [Die Verkäuferin fragt den Koch]. [Der Koch antwortet der Verkäuferin]."
+			]
+		]
+	},
+	{
+		"title": "Перевести, довести до автоматизма. Тренируем определенный артикль. Над артиклем ставим буковку D или А.",
+		"type": "write",
+		"list": [
+			[
+				"Я показываю машину папе. Машина нравится папе. Я дарю машину папе. - [Ich zeige dem Vater (D) das Auto (A)]. [Das Auto (N) gefällt dem Vater (D)]. [Ich schenke dem Vater (D) das Auto (A)]."
+			],
+			[
+				"Ты показываешь дом маме. Дом нравится маме. Ты даришь дом маме. - [Du zeigst der Mutter das Haus]. [Das Haus gefällt der Mutter]. [Du schenkst der Mutter das Haus]."
+			],
+			[
+				"Он показывает ручку другу. Ручка нравится другу. Он дарит ручку другу. - [Er zeigt dem Freund den Füller]. [Der Füller gefällt dem Freund]. [Er schenkt dem Freund den Füller]."
+			],
+			[
+				"Она показывает книгу подруге. Книга нравится подруге. Она дарит книгу подруге. - [Sie zeigt der Freundin das Buch]. [Das Buch gefällt der Freundin]. [Sie schenkt der Freundin das Buch]."
+			],
+			[
+				"Вы (ihr) показываете пальто сестре. Пальто нравится сестре. Вы дарите пальто сестре. - [Ihr zeigt der Schwester den Mantel]. [Der Mantel gefällt der Schwester]. [Ihr schenkt der Schwester den Mantel]."
+			],
+			[
+				"Мы показываем тарелку друзьям. Тарелка нравится друзьям. Мы дарим тарелку друзьям. - [Wir zeigen den Freunden den Teller]. [Der Teller gefällt den Freunden]. [Wir schenken den Freunden den Teller]."
+			],
+			[
+				"Они показывают корабль детям. Корабль нравится детям. Они дарят детям корабль. - [Sie zeigen den Kindern das Schiff]. [Das Schiff gefällt den Kindern]. [Sie schenken den Kindern das Schiff]."
+			]
+		]
+	},
+	{
+		"title": "Проспрягать по таблице личных местоимений следующие предложения:",
+		"type": "write",
+		"list": [
+			[
+				"Я показываю моей маме квартиру. - [Ich zeige meiner Mutter meine Wohnung]."
+			],
+			[
+				"Du zeigst deiner Mutter deine Wohnung."
+			],
+			[
+				"Er zeigt seiner Mutter seine Wohnung."
+			],
+			[
+				"Sie zeigt ihrer Mutter ihre Wohnung."
+			],
+			[
+				"Wir zeigen unserer Mutter unsere Wohnung. "
+			],
+			[
+				"Ihr zeigt eurer Mutter eure Wohnung."
+			],
+			[
+				"Sie zeigen ihrer Mutter ihre Wohnung."
+			],
+			[
+				"Я показываю моему другу мой дом. - [Ich zeige meinem Freund mein Haus]."
+			],
+			[
+				"Я показываю моим друзьям мою ручку. - [Ich zeige meinen Freunden meinen Füller]."
+			],
+			[
+				"Я дарю свою машину моему брату. - [Ich schenke meinem Bruder mein Auto]."
+			],
+			[
+				"Я дарю свою одежду моим друзьям. - [Ich schenke meinen Freunden meine Kleidung]."
+			],
+			[
+				"Я даю свою книгу моим родителям. - [Ich gebe meinen Eltern mein Buch]."
+			],
+			[
+				"Я даю свою кофту моей подруге. - [Ich gebe meiner Freundin meinen Pullover]."
 			]
 		]
 	},
 	{
 		"title": "",
-		"list": [
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			]
-		]
+		"list": []
 	},
 	{
 		"title": "",
-		"list": [
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			]
-		]
+		"list": []
 	},
 	{
 		"title": "",
-		"list": [
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			]
-		]
+		"list": []
 	},
 	{
 		"title": "",
-		"list": [
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			],
-			[
-				""
-			]
-		]
+		"list": []
+	},
+	{
+		"title": "",
+		"list": []
+	},
+	{
+		"title": "",
+		"list": []
 	},
 	{
 		"title": "",
