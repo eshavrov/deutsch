@@ -1,6 +1,21 @@
 [
   {
     "type": "*",
+    "base": "(Kredit)-Karte, -n",
+    "article": null,
+    "translate": "",
+    "context": [
+      [
+        "Kann ich auch mit Karte (be-) zahlen?"
+      ]
+    ],
+    "originals": [
+      "(Kredit)-Karte, -n"
+    ],
+    "id": "b1e167a317e0619d219bf36faffd6903"
+  },
+  {
+    "type": "*",
     "base": "(da) vorne",
     "article": null,
     "translate": "(там) спереди",
@@ -466,7 +481,11 @@
     "base": "Rad fahren",
     "article": null,
     "translate": "ехать на велосипеде; ездить на велосипеде; кататься на велосипеде",
-    "context": [],
+    "context": [
+      [
+        "Das Kind kann schon Rad fahren."
+      ]
+    ],
     "originals": [
       "Rad fahren"
     ],
@@ -1089,6 +1108,9 @@
       [
         "Heute Nacht war das Licht an.",
         ""
+      ],
+      [
+        "Das Licht ist noch an."
       ]
     ],
     "originals": [
@@ -1500,6 +1522,9 @@
       [
         "Du brauchst den Schlüssel nicht. Die Wohnung ist auf.",
         ""
+      ],
+      [
+        "Das Fenster ist noch auf."
       ]
     ],
     "originals": [
@@ -3084,6 +3109,21 @@
       "die Pommes frites"
     ],
     "id": "1aca1b5ee917ccd6276a700f0c96e5ad"
+  },
+  {
+    "type": "*",
+    "base": "die Pommes frites (pl.)",
+    "article": null,
+    "translate": "",
+    "context": [
+      [
+        "Die Kinder essen Hähnchen mit Pommes frites."
+      ]
+    ],
+    "originals": [
+      "die Pommes frites (pl.)"
+    ],
+    "id": "f523c8f0ce6648669ae38d2b052ace4d"
   },
   {
     "type": "*",
@@ -5050,7 +5090,11 @@
     "base": "gerade",
     "article": null,
     "translate": "прямой; прямо; прямо сейчас; как раз; прямиком; прямолинейный; ровный; именно",
-    "context": [],
+    "context": [
+      [
+        "Da kommt er ja gerade."
+      ]
+    ],
     "originals": [
       "gerade"
     ],
@@ -5061,7 +5105,11 @@
     "base": "geradeaus",
     "article": null,
     "translate": "прямо; напрямик; в прямом направлении",
-    "context": [],
+    "context": [
+      [
+        "Gehen Sie immer geradeaus!"
+      ]
+    ],
     "originals": [
       "geradeaus"
     ],
@@ -5083,9 +5131,13 @@
     "base": "gern",
     "article": null,
     "translate": "охотно; с удовольствием; просто; легко",
-    "context": [],
+    "context": [
+      [
+        "Ich gehe gerne einkaufen."
+      ]
+    ],
     "originals": [
-      "gern"
+      "gern, -e"
     ],
     "id": "45088f20a8270cc0d65d1b294a7fea9f"
   },
@@ -5105,7 +5157,11 @@
     "base": "gestern",
     "article": null,
     "translate": "вчера; раньше",
-    "context": [],
+    "context": [
+      [
+        "Gestern war ich krank."
+      ]
+    ],
     "originals": [
       "gestern"
     ],
@@ -5242,7 +5298,17 @@
     "base": "gleich",
     "article": null,
     "translate": "равный; одинаковый; такой же",
-    "context": [],
+    "context": [
+      [
+        "Das ist mir gleich."
+      ],
+      [
+        "Das ist der gleiche Preis."
+      ],
+      [
+        "Ich komme gleich."
+      ]
+    ],
     "originals": [
       "gleich"
     ],
@@ -5352,7 +5418,11 @@
     "base": "gültig",
     "article": null,
     "translate": "действительный; законный; имеющий (законную) силу; действующий; имеющий силу",
-    "context": [],
+    "context": [
+      [
+        "Der Pass ist nicht mehr gültig."
+      ]
+    ],
     "originals": [
       "gültig"
     ],
@@ -5363,7 +5433,11 @@
     "base": "günstig",
     "article": null,
     "translate": "выгодный; благоприятный; выигрышный; удобно",
-    "context": [],
+    "context": [
+      [
+        "Dort gibt es günstige Angebote."
+      ]
+    ],
     "originals": [
       "günstig"
     ],
@@ -5385,7 +5459,11 @@
     "base": "hallo",
     "article": null,
     "translate": "привет",
-    "context": [],
+    "context": [
+      [
+        "Hallo Inge! Wie geht’s?"
+      ]
+    ],
     "originals": [
       "hallo"
     ],
@@ -5484,7 +5562,11 @@
     "base": "herzlich",
     "article": null,
     "translate": "сердечно; сердечный",
-    "context": [],
+    "context": [
+      [
+        "Herzlichen Glückwunsch!"
+      ]
+    ],
     "originals": [
       "herzlich"
     ],
@@ -5528,7 +5610,11 @@
     "base": "heute",
     "article": null,
     "translate": "сегодня; ныне",
-    "context": [],
+    "context": [
+      [
+        "Heute ist ein schöner Tag."
+      ]
+    ],
     "originals": [
       "heute"
     ],
@@ -5550,7 +5636,9 @@
     "base": "hier",
     "article": null,
     "translate": "здесь; тут; вот",
-    "context": [],
+    "context": [
+      null
+    ],
     "originals": [
       "hier"
     ],
@@ -6420,7 +6508,11 @@
     "base": "kaputt",
     "article": null,
     "translate": "разбитый; сломанный; испорченный; поломанный; разорванный; погибший",
-    "context": [],
+    "context": [
+      [
+        "Das Glas war teuer. Es geht sehr leicht kaputt."
+      ]
+    ],
     "originals": [
       "kaputt"
     ],
@@ -6453,7 +6545,11 @@
     "base": "kein",
     "article": null,
     "translate": "никакой; не; ни один; никто; отрицание",
-    "context": [],
+    "context": [
+      [
+        "Es gibt keine Eintrittskarten mehr."
+      ]
+    ],
     "originals": [
       "kein"
     ],
@@ -6475,7 +6571,11 @@
     "base": "klar",
     "article": null,
     "translate": "ясно; ясный; понятный; понятно; внятно",
-    "context": [],
+    "context": [
+      [
+        "Kommst du mit? – Klar!"
+      ]
+    ],
     "originals": [
       "klar"
     ],
@@ -6640,7 +6740,11 @@
     "base": "kulturell",
     "article": null,
     "translate": "культурный",
-    "context": [],
+    "context": [
+      [
+        "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
+      ]
+    ],
     "originals": [
       "kulturell"
     ],
@@ -6706,7 +6810,11 @@
     "base": "lange",
     "article": null,
     "translate": "долго; давно; длинный; долгий; высокий",
-    "context": [],
+    "context": [
+      [
+        "Wie lange fährt der Zug von Hamburg nach Berlin?"
+      ]
+    ],
     "originals": [
       "lange"
     ],
@@ -6761,7 +6869,11 @@
     "base": "ledig",
     "article": null,
     "translate": "холостой; незамужняя",
-    "context": [],
+    "context": [
+      [
+        "Sind Sie verheiratet? – Nein. Ledig."
+      ]
+    ],
     "originals": [
       "ledig"
     ],
@@ -6794,7 +6906,11 @@
     "base": "leider",
     "article": null,
     "translate": "к сожалению; жаль; увы; к несчастью",
-    "context": [],
+    "context": [
+      [
+        "Leider kann ich nicht kommen. Ich muss zum Arzt."
+      ]
+    ],
     "originals": [
       "leider"
     ],
@@ -6805,7 +6921,11 @@
     "base": "leise",
     "article": null,
     "translate": "тихо; тихий; негромкий; слабо; тихонько; потихоньку; слегка",
-    "context": [],
+    "context": [
+      [
+        "Seid leise. Die anderen schlafen schon."
+      ]
+    ],
     "originals": [
       "leise"
     ],
@@ -6816,9 +6936,13 @@
     "base": "letzt",
     "article": null,
     "translate": "последний; прошлый; крайний",
-    "context": [],
+    "context": [
+      [
+        "Morgen ist der letzte Kurstag."
+      ]
+    ],
     "originals": [
-      "letzt"
+      "letzt-"
     ],
     "id": "57f52a47cf30857cdd3855da64b5b8f7"
   },
@@ -6832,6 +6956,21 @@
       "liberal"
     ],
     "id": "6577e80a987fd5793820e91e3cc54cdb"
+  },
+  {
+    "type": "*",
+    "base": "lieb",
+    "article": null,
+    "translate": "",
+    "context": [
+      [
+        "Liebe Susanne, lieber Hans,"
+      ]
+    ],
+    "originals": [
+      "lieb-"
+    ],
+    "id": "7d357b33a124dbe5056a60a5ecc435a6"
   },
   {
     "type": "*",
@@ -6882,7 +7021,11 @@
     "base": "links",
     "article": null,
     "translate": "слева; налево; влево; с левой стороны",
-    "context": [],
+    "context": [
+      [
+        "Gehen Sie die nächste Straße links."
+      ]
+    ],
     "originals": [
       "links"
     ],
@@ -6948,7 +7091,11 @@
     "base": "man",
     "article": null,
     "translate": "кто либо; каждый",
-    "context": [],
+    "context": [
+      [
+        "Hier darf man nicht rauchen."
+      ]
+    ],
     "originals": [
       "man"
     ],
@@ -6981,7 +7128,11 @@
     "base": "mehr",
     "article": null,
     "translate": "больше; еще; более",
-    "context": [],
+    "context": [
+      [
+        "Dieses Auto kostet 1.000 Euro mehr als das andere."
+      ]
+    ],
     "originals": [
       "mehr"
     ],
@@ -7003,7 +7154,11 @@
     "base": "mein",
     "article": null,
     "translate": "мой; моя; моё",
-    "context": [],
+    "context": [
+      [
+        "Mein Vater ist Arzt."
+      ]
+    ],
     "originals": [
       "mein"
     ],
@@ -7036,9 +7191,13 @@
     "base": "meist",
     "article": null,
     "translate": "чаще всего; в большинстве случаев; большей частью",
-    "context": [],
+    "context": [
+      [
+        "Die meisten Norddeutschen sind sehr groß."
+      ]
+    ],
     "originals": [
-      "meist"
+      "meist-"
     ],
     "id": "0bdd9b319c6d55e60e39405af92333cf"
   },
@@ -7102,7 +7261,11 @@
     "base": "mit",
     "article": null,
     "translate": "с; вместе с; c",
-    "context": [],
+    "context": [
+      [
+        "Trinken Sie den Kaffee mit Milch?"
+      ]
+    ],
     "originals": [
       "mit"
     ],
@@ -7245,7 +7408,11 @@
     "base": "männlich",
     "article": null,
     "translate": "мужской",
-    "context": [],
+    "context": [
+      [
+        "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+      ]
+    ],
     "originals": [
       "männlich"
     ],
@@ -7322,7 +7489,17 @@
     "base": "nach",
     "article": null,
     "translate": "после; в; на; (при обозначении направления); согласно; к; вслед за",
-    "context": [],
+    "context": [
+      [
+        "Ich gehe jetzt nach Hause."
+      ],
+      [
+        "Ich fliege nach München."
+      ],
+      [
+        "Es ist schon 5 nach 12."
+      ]
+    ],
     "originals": [
       "nach"
     ],
@@ -7487,7 +7664,11 @@
     "base": "nein",
     "article": null,
     "translate": "нет",
-    "context": [],
+    "context": [
+      [
+        "Fährst du auch nach München? – Nein, ich habe keine Zeit."
+      ]
+    ],
     "originals": [
       "nein"
     ],
@@ -7564,7 +7745,14 @@
     "base": "nicht",
     "article": null,
     "translate": "не; ни; нет; не надо",
-    "context": [],
+    "context": [
+      [
+        "Das stimmt nicht."
+      ],
+      [
+        "Das ist doch schön, nicht?"
+      ]
+    ],
     "originals": [
       "nicht"
     ],
@@ -7597,7 +7785,14 @@
     "base": "nichts",
     "article": null,
     "translate": "ничего; ничто; напрасно; нечего",
-    "context": [],
+    "context": [
+      [
+        "Das macht nichts."
+      ],
+      [
+        "Hier kaufe ich nichts. Der Laden gefällt mir nicht."
+      ]
+    ],
     "originals": [
       "nichts"
     ],
@@ -7608,7 +7803,11 @@
     "base": "nie",
     "article": null,
     "translate": "никогда; ни разу",
-    "context": [],
+    "context": [
+      [
+        "Er kommt nie pünktlich."
+      ]
+    ],
     "originals": [
       "nie"
     ],
@@ -7641,7 +7840,17 @@
     "base": "noch",
     "article": null,
     "translate": "(пока) ещё; по-прежнему; всё ещё; пока ещё; ещё; еще; дополнительно",
-    "context": [],
+    "context": [
+      [
+        "Vielleicht kommt er noch."
+      ],
+      [
+        "Wir warten noch fünf Minuten."
+      ],
+      [
+        "Ich habe noch 20 Euro."
+      ]
+    ],
     "originals": [
       "noch"
     ],
@@ -7685,7 +7894,11 @@
     "base": "normal",
     "article": null,
     "translate": "нормальный; нормально; обычно; обычный",
-    "context": [],
+    "context": [
+      [
+        "75 kg. Sein Gewicht ist normal."
+      ]
+    ],
     "originals": [
       "normal"
     ],
@@ -7729,11 +7942,30 @@
     "base": "nur",
     "article": null,
     "translate": "только; лишь; всего",
-    "context": [],
+    "context": [
+      [
+        "Ich möchte nur ein Glas Wasser."
+      ]
+    ],
     "originals": [
       "nur"
     ],
     "id": "5c64a37f5ad82c29fe896c3e952f478f"
+  },
+  {
+    "type": "*",
+    "base": "nächst",
+    "article": null,
+    "translate": "",
+    "context": [
+      [
+        "Sehen wir uns nächste Woche?"
+      ]
+    ],
+    "originals": [
+      "nächst-"
+    ],
+    "id": "20ba4cf7a6e5b9cea95f20ba72a37a8a"
   },
   {
     "type": "*",
@@ -8041,7 +8273,14 @@
     "base": "pünktlich",
     "article": null,
     "translate": "пунктуальный; точный; пунктуально; точно; аккуратно; вовремя; аккуратный",
-    "context": [],
+    "context": [
+      [
+        "Der Bus fährt pünktlich um acht Uhr."
+      ],
+      [
+        "Herr Müller ist immer pünktlich."
+      ]
+    ],
     "originals": [
       "pünktlich"
     ],
@@ -8635,7 +8874,11 @@
     "base": "schon",
     "article": null,
     "translate": "уже; ну же; уж; по-видимому",
-    "context": [],
+    "context": [
+      [
+        "Ist das Essen schon fertig?"
+      ]
+    ],
     "originals": [
       "schon"
     ],
@@ -8756,7 +8999,14 @@
     "base": "sehr",
     "article": null,
     "translate": "очень; весьма; крайне",
-    "context": [],
+    "context": [
+      [
+        "Danke sehr!"
+      ],
+      [
+        "Das ist sehr schwer."
+      ]
+    ],
     "originals": [
       "sehr"
     ],
@@ -8778,7 +9028,17 @@
     "base": "sein",
     "article": null,
     "translate": "быть; находиться; являться",
-    "context": [],
+    "context": [
+      [
+        "Herr Müller ist in seinem Zimmer."
+      ],
+      [
+        "Mir ist kalt."
+      ],
+      [
+        "Ich bin dreiundzwanzig."
+      ]
+    ],
     "originals": [
       "sein"
     ],
@@ -8789,7 +9049,11 @@
     "base": "seit",
     "article": null,
     "translate": "с; с каких-то пор",
-    "context": [],
+    "context": [
+      [
+        "Ich wohne seit drei Jahren in Köln."
+      ]
+    ],
     "originals": [
       "seit"
     ],
@@ -8844,7 +9108,11 @@
     "base": "selbstständig",
     "article": null,
     "translate": "самостоятельный; независимый; самостоятельно",
-    "context": [],
+    "context": [
+      [
+        "Er ist selbstständig."
+      ]
+    ],
     "originals": [
       "selbstständig"
     ],
@@ -8866,7 +9134,11 @@
     "base": "sich",
     "article": null,
     "translate": "себя; себе; сам",
-    "context": [],
+    "context": [
+      [
+        "Sie müssen sich erst anmelden."
+      ]
+    ],
     "originals": [
       "sich"
     ],
@@ -9285,7 +9557,11 @@
     "base": "sich kümmern",
     "article": null,
     "translate": "печалиться; огорчаться; заботиться",
-    "context": [],
+    "context": [
+      [
+        "Jede Mutter kümmert sich um ihre kleinen Kinder."
+      ]
+    ],
     "originals": [
       "sich kümmern"
     ],
@@ -9538,7 +9814,11 @@
     "base": "sie",
     "article": null,
     "translate": "она; они; она/они",
-    "context": [],
+    "context": [
+      [
+        "Wie heißt sie?"
+      ]
+    ],
     "originals": [
       "sie"
     ],
@@ -9571,7 +9851,20 @@
     "base": "so",
     "article": null,
     "translate": "так; таким образом; до такой степени; следовательно",
-    "context": [],
+    "context": [
+      [
+        "Sie müssen das so machen!"
+      ],
+      [
+        "Fahren Sie bitte nicht so schnell!"
+      ],
+      [
+        "Meine Frau ist so groß wie ich."
+      ],
+      [
+        "So, das war‘s/wär‘s!"
+      ]
+    ],
     "originals": [
       "so"
     ],
@@ -9637,7 +9930,11 @@
     "base": "sofort",
     "article": null,
     "translate": "сейчас; немедленно; сразу; незамедлительно; мигом",
-    "context": [],
+    "context": [
+      [
+        "Bitte antworten Sie sofort."
+      ]
+    ],
     "originals": [
       "sofort"
     ],
@@ -9846,7 +10143,11 @@
     "base": "spät",
     "article": null,
     "translate": "поздний; поздно; запоздалый",
-    "context": [],
+    "context": [
+      [
+        "Es ist schon spät, ich muss gehen."
+      ]
+    ],
     "originals": [
       "spät"
     ],
@@ -9857,7 +10158,11 @@
     "base": "später",
     "article": null,
     "translate": "поздний; познее; позже; после этого; позднеe; позднее; потом; впоследствии",
-    "context": [],
+    "context": [
+      [
+        "Das können wir später machen."
+      ]
+    ],
     "originals": [
       "später"
     ],
@@ -10242,7 +10547,11 @@
     "base": "tschüss",
     "article": null,
     "translate": "пока",
-    "context": [],
+    "context": [
+      [
+        "Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“."
+      ]
+    ],
     "originals": [
       "tschüss"
     ],
@@ -10253,7 +10562,14 @@
     "base": "tun",
     "article": null,
     "translate": "делать; выполнять; причинять",
-    "context": [],
+    "context": [
+      [
+        "Ich habe noch etwas zu tun."
+      ],
+      [
+        "Was tut Ihr Mann?"
+      ]
+    ],
     "originals": [
       "tun"
     ],
@@ -10308,7 +10624,14 @@
     "base": "um",
     "article": null,
     "translate": "в; за; касательно времени",
-    "context": [],
+    "context": [
+      [
+        "Er kommt um sieben Uhr."
+      ],
+      [
+        "Da kommt er gerade um die Ecke."
+      ]
+    ],
     "originals": [
       "um"
     ],
@@ -10374,7 +10697,11 @@
     "base": "und",
     "article": null,
     "translate": "и; а",
-    "context": [],
+    "context": [
+      [
+        "Peter und Helmut sind meine Söhne."
+      ]
+    ],
     "originals": [
       "und"
     ],
@@ -10407,9 +10734,13 @@
     "base": "unser",
     "article": null,
     "translate": "наш; свой",
-    "context": [],
+    "context": [
+      [
+        "Das ist unsere Lehrerin."
+      ]
+    ],
     "originals": [
-      "unser"
+      "unser-"
     ],
     "id": "f080c6794b1b92685244fb4361b2daa0"
   },
@@ -10418,7 +10749,11 @@
     "base": "unter",
     "article": null,
     "translate": "под; ниже; младший; внизу",
-    "context": [],
+    "context": [
+      [
+        "Unter uns wohnt eine Familie mit drei Kindern."
+      ]
+    ],
     "originals": [
       "unter"
     ],
@@ -11188,7 +11523,11 @@
     "base": "wandern",
     "article": null,
     "translate": "путешествовать; ходить в поход; путешествовать пешком; бродить; странствовать; заниматься пешим туризмом",
-    "context": [],
+    "context": [
+      [
+        "Wir wandern um den Chiemsee."
+      ]
+    ],
     "originals": [
       "wandern"
     ],
@@ -11199,7 +11538,17 @@
     "base": "wann",
     "article": null,
     "translate": "когда; во сколько; когда?",
-    "context": [],
+    "context": [
+      [
+        "Wann bist du fertig?"
+      ],
+      [
+        "Wann kann ich Sie anrufen?"
+      ],
+      [
+        "Wann sind Sie geboren?"
+      ]
+    ],
     "originals": [
       "wann"
     ],
@@ -11221,7 +11570,11 @@
     "base": "warum",
     "article": null,
     "translate": "почему; почему?",
-    "context": [],
+    "context": [
+      [
+        "Warum kommt er nicht?"
+      ]
+    ],
     "originals": [
       "warum"
     ],
@@ -11232,7 +11585,14 @@
     "base": "was",
     "article": null,
     "translate": "что?; что",
-    "context": [],
+    "context": [
+      [
+        "Was ist das?"
+      ],
+      [
+        "Was möchten Sie?"
+      ]
+    ],
     "originals": [
       "was"
     ],
@@ -11243,7 +11603,11 @@
     "base": "was für ein",
     "article": null,
     "translate": "что за; какой",
-    "context": [],
+    "context": [
+      [
+        "Was für eine Farbe möchten Sie?"
+      ]
+    ],
     "originals": [
       "was für ein"
     ],
@@ -11298,7 +11662,11 @@
     "base": "weg sein",
     "article": null,
     "translate": "отсутствовать; пропасть; исчезнуть",
-    "context": [],
+    "context": [
+      [
+        "Herr Meier ist schon weg."
+      ]
+    ],
     "originals": [
       "weg sein"
     ],
@@ -11331,7 +11699,11 @@
     "base": "weh tun",
     "article": null,
     "translate": "причинять боль; болеть; боль",
-    "context": [],
+    "context": [
+      [
+        "Ich muss zum Arzt. Mein Bein tut weh."
+      ]
+    ],
     "originals": [
       "weh tun"
     ],
@@ -11353,7 +11725,11 @@
     "base": "weiblich",
     "article": null,
     "translate": "женский; женственный",
-    "context": [],
+    "context": [
+      [
+        "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+      ]
+    ],
     "originals": [
       "weiblich"
     ],
@@ -11386,7 +11762,11 @@
     "base": "weit",
     "article": null,
     "translate": "далеко; далекий; широкий; дальний; много",
-    "context": [],
+    "context": [
+      [
+        "Zum Bahnhof ist es nicht weit."
+      ]
+    ],
     "originals": [
       "weit"
     ],
@@ -11397,7 +11777,11 @@
     "base": "weiter",
     "article": null,
     "translate": "дальше; далее; дальнейший; широкий",
-    "context": [],
+    "context": [
+      [
+        "Der Bus fährt nicht weiter."
+      ]
+    ],
     "originals": [
       "weiter"
     ],
@@ -11419,9 +11803,13 @@
     "base": "welch",
     "article": null,
     "translate": "какой; который",
-    "context": [],
+    "context": [
+      [
+        "Welches Buch möchtest du?"
+      ]
+    ],
     "originals": [
-      "welch"
+      "welch-"
     ],
     "id": "425c72eacc0f3d593895f279c05f28df"
   },
@@ -11452,7 +11840,14 @@
     "base": "wenig",
     "article": null,
     "translate": "мало; немного; немногочисленный",
-    "context": [],
+    "context": [
+      [
+        "Ich habe leider nur wenig verstanden."
+      ],
+      [
+        "Er verdient wenig."
+      ]
+    ],
     "originals": [
       "wenig"
     ],
@@ -11485,7 +11880,11 @@
     "base": "wer",
     "article": null,
     "translate": "кто?; кто",
-    "context": [],
+    "context": [
+      [
+        "Wer ist das?"
+      ]
+    ],
     "originals": [
       "wer"
     ],
@@ -11540,7 +11939,29 @@
     "base": "wie",
     "article": null,
     "translate": "как?; как; какой",
-    "context": [],
+    "context": [
+      [
+        "Wie heißt du?"
+      ],
+      [
+        "Er schreibt wie ein Kind."
+      ],
+      [
+        "Meine Frau ist so groß wie ich."
+      ],
+      [
+        "Wie soll ich das machen?"
+      ],
+      [
+        "Wie groß ist die Wohnung?"
+      ],
+      [
+        "Wie bitte?"
+      ],
+      [
+        "Wie lange bist du schon hier?"
+      ]
+    ],
     "originals": [
       "wie"
     ],
@@ -11567,6 +11988,21 @@
       "wie spät?"
     ],
     "id": "422cffd3443578b26787676d1773d6c6"
+  },
+  {
+    "type": "*",
+    "base": "wie viel",
+    "article": null,
+    "translate": "сколько?; сколько; как много",
+    "context": [
+      [
+        "Wie viel Milch nehmen Sie?"
+      ]
+    ],
+    "originals": [
+      "wie viel"
+    ],
+    "id": "3f6f0890a1235864e3005f87674fad54"
   },
   {
     "type": "*",
@@ -11614,17 +12050,6 @@
   },
   {
     "type": "*",
-    "base": "wieviel",
-    "article": null,
-    "translate": "сколько?; сколько; как много",
-    "context": [],
-    "originals": [
-      "wieviel"
-    ],
-    "id": "3f6f0890a1235864e3005f87674fad54"
-  },
-  {
-    "type": "*",
     "base": "willkommen heißen",
     "article": null,
     "translate": "тепло встречать; приветствовать",
@@ -11661,7 +12086,11 @@
     "base": "wir",
     "article": null,
     "translate": "мы",
-    "context": [],
+    "context": [
+      [
+        "Wir lernen Deutsch."
+      ]
+    ],
     "originals": [
       "wir"
     ],
@@ -11705,7 +12134,17 @@
     "base": "wo",
     "article": null,
     "translate": "где; где?",
-    "context": [],
+    "context": [
+      [
+        "Wo waren Sie im Urlaub?"
+      ],
+      [
+        "Wo ist die Post?"
+      ],
+      [
+        "Wo sind Sie geboren?"
+      ]
+    ],
     "originals": [
       "wo"
     ],
@@ -11727,7 +12166,11 @@
     "base": "woher",
     "article": null,
     "translate": "откуда; откуда?",
-    "context": [],
+    "context": [
+      [
+        "Woher kommen Sie?"
+      ]
+    ],
     "originals": [
       "woher"
     ],
@@ -11738,7 +12181,14 @@
     "base": "wohin",
     "article": null,
     "translate": "куда; куда?",
-    "context": [],
+    "context": [
+      [
+        "Wohin fährt dieser Bus?"
+      ],
+      [
+        "Wohin wollen Sie am Wochenende?"
+      ]
+    ],
     "originals": [
       "wohin"
     ],
@@ -11782,7 +12232,11 @@
     "base": "wunderbar",
     "article": null,
     "translate": "чудесно; чудесный; отличный; отлично; замечательный; дивный; чудный; замечательно",
-    "context": [],
+    "context": [
+      [
+        "Das Essen schmeckt wunderbar."
+      ]
+    ],
     "originals": [
       "wunderbar"
     ],
@@ -11938,7 +12392,11 @@
     "base": "zu sein",
     "article": null,
     "translate": "быть; быть закрытым; быть запертым",
-    "context": [],
+    "context": [
+      [
+        "Die Tür ist zu."
+      ]
+    ],
     "originals": [
       "zu sein"
     ],
@@ -12313,7 +12771,17 @@
     "base": "über",
     "article": null,
     "translate": "над; о; об; больше; более",
-    "context": [],
+    "context": [
+      [
+        "Gehen Sie hier über die Straße."
+      ],
+      [
+        "Er wohnt im zweiten Stock über Familie Meier."
+      ],
+      [
+        "Sind Sie über 18?"
+      ]
+    ],
     "originals": [
       "über"
     ],

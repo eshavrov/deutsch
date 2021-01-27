@@ -495,3 +495,9 @@ console.log("---------------- end test --------------");
   //   console.log(`${article ? `${article} ` : ""}${base}`)
   // );
 });
+
+dictonary.forEach(({ base, translate }) => {
+  if (translate === "") {
+    console.log("base", base);
+  }
+});

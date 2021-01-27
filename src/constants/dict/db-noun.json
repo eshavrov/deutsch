@@ -6261,7 +6261,11 @@
     "base": "Garten",
     "article": "der",
     "translate": "сад; парк; огород",
-    "context": [],
+    "context": [
+      [
+        "Wir haben leider keinen Garten."
+      ]
+    ],
     "originals": [
       "der Garten, ä-"
     ],
@@ -6338,9 +6342,13 @@
     "base": "Gast",
     "article": "der",
     "translate": "гость; постоялец; посетитель",
-    "context": [],
+    "context": [
+      [
+        "Am Wochenende haben wir mehrere Gäste."
+      ]
+    ],
     "originals": [
-      "der Gast, ä-e"
+      "der Gast, -ä, e"
     ],
     "id": "4cf32a7893c65136fd656af23a593172"
   },
@@ -6404,7 +6412,11 @@
     "base": "Geburtsjahr",
     "article": "das",
     "translate": "год рождения",
-    "context": [],
+    "context": [
+      [
+        "Das Geburtsjahr Ihres Sohnes, bitte?"
+      ]
+    ],
     "originals": [
       "das Geburtsjahr"
     ],
@@ -6415,7 +6427,11 @@
     "base": "Geburtsort",
     "article": "der",
     "translate": "место рождения; родина",
-    "context": [],
+    "context": [
+      [
+        "Bitte schreiben Sie Ihren Geburtsort auf das Formular."
+      ]
+    ],
     "originals": [
       "der Geburtsort, -e"
     ],
@@ -6426,7 +6442,11 @@
     "base": "Geburtstag",
     "article": "der",
     "translate": "день рождения; дата рождения",
-    "context": [],
+    "context": [
+      [
+        "Herzlichen Glückwunsch zum Geburtstag!"
+      ]
+    ],
     "originals": [
       "der Geburtstag, -e"
     ],
@@ -6569,7 +6589,11 @@
     "base": "Geld",
     "article": "das",
     "translate": "деньги; средства",
-    "context": [],
+    "context": [
+      [
+        "Hast du noch Geld?"
+      ]
+    ],
     "originals": [
       "das Geld"
     ],
@@ -6624,7 +6648,11 @@
     "base": "Gemüse",
     "article": "das",
     "translate": "овощи; зелень; овощ",
-    "context": [],
+    "context": [
+      [
+        "Gemüse brauchen wir auch noch."
+      ]
+    ],
     "originals": [
       "das Gemüse, pl"
     ],
@@ -6657,7 +6685,11 @@
     "base": "Gepäck",
     "article": "das",
     "translate": "багаж; кладь",
-    "context": [],
+    "context": [
+      [
+        "Wollen Sie Ihr Gepäck mitnehmen?"
+      ]
+    ],
     "originals": [
       "das Gepäck"
     ],
@@ -6690,7 +6722,11 @@
     "base": "Geschenk",
     "article": "das",
     "translate": "подарок; дар; презент",
-    "context": [],
+    "context": [
+      [
+        "Danke für das schöne Geschenk."
+      ]
+    ],
     "originals": [
       "das Geschenk, -e"
     ],
@@ -6767,9 +6803,13 @@
     "base": "Geschwister",
     "article": "die",
     "translate": "брат и сестра; братья и сестры; сестры",
-    "context": [],
+    "context": [
+      [
+        "Ich habe leider keine Geschwister."
+      ]
+    ],
     "originals": [
-      "die Geschwister",
+      "die Geschwister (pl.)",
       "Geschwister, pl"
     ],
     "id": "44707652c6f87a88034fc957077f1665"
@@ -6779,7 +6819,11 @@
     "base": "Geschäft",
     "article": "das",
     "translate": "дело; занятие; сделка; магазин; бизнес; заведение",
-    "context": [],
+    "context": [
+      [
+        "Die Geschäfte schließen um 18.30 Uhr."
+      ]
+    ],
     "originals": [
       "das Geschäft, -e"
     ],
@@ -6834,7 +6878,11 @@
     "base": "Gespräch",
     "article": "das",
     "translate": "разговор; беседа",
-    "context": [],
+    "context": [
+      [
+        "Das Gespräch mit Frau Kunz ist um 14 Uhr."
+      ]
+    ],
     "originals": [
       "das Gespräch, -e"
     ],
@@ -6867,7 +6915,11 @@
     "base": "Getränk",
     "article": "das",
     "translate": "напиток; питьё",
-    "context": [],
+    "context": [
+      [
+        "Mein Lieblingsgetränk ist Tomatensaft."
+      ]
+    ],
     "originals": [
       "das Getränk, -e"
     ],
@@ -6878,7 +6930,11 @@
     "base": "Gewicht",
     "article": "das",
     "translate": "вес; тяжесть; масса",
-    "context": [],
+    "context": [
+      [
+        "Bei „Gewicht“ schreibst du: 62 Kilo."
+      ]
+    ],
     "originals": [
       "das Gewicht, -e"
     ],
@@ -6988,10 +7044,17 @@
     "base": "Glas",
     "article": "das",
     "translate": "стекло; стакан; рюмка; бокал; банка",
-    "context": [],
+    "context": [
+      [
+        "Bitte noch ein Glas Wein!"
+      ],
+      [
+        "Wir brauchen noch drei Gläser."
+      ]
+    ],
     "originals": [
-      "das Glas *{die Gläser}",
-      "das Glas, ä-er"
+      "das Glas, -ä, er",
+      "das Glas *{die Gläser}"
     ],
     "id": "feabc7c19f2038a4dd718f5596adeb0a"
   },
@@ -7022,7 +7085,11 @@
     "base": "Gleis",
     "article": "das",
     "translate": "путь; железнодорожный путь",
-    "context": [],
+    "context": [
+      [
+        "Der ICE nach Berlin hält heute an Gleis 12."
+      ]
+    ],
     "originals": [
       "das Gleis, -e"
     ],
@@ -7044,7 +7111,11 @@
     "base": "Glück",
     "article": "das",
     "translate": "счастье; удача; везение; благополучие",
-    "context": [],
+    "context": [
+      [
+        "Viel Glück!"
+      ]
+    ],
     "originals": [
       "das Glück"
     ],
@@ -7055,7 +7126,11 @@
     "base": "Glückwunsch",
     "article": "der",
     "translate": "поздравление; пожелание",
-    "context": [],
+    "context": [
+      [
+        "Herzlichen Glückwunsch zum Geburtstag."
+      ]
+    ],
     "originals": [
       "der Glückwunsch"
     ],
@@ -7099,8 +7174,13 @@
     "base": "Grad",
     "article": "der",
     "translate": "градус; степень",
-    "context": [],
+    "context": [
+      [
+        "Heute haben wir dreißig Grad."
+      ]
+    ],
     "originals": [
+      "Grad (Celsius)",
       "der Grad",
       "das Grad"
     ],
@@ -7166,9 +7246,13 @@
     "base": "Großeltern",
     "article": "die",
     "translate": "бабушка и дедушка; дедушка и бабушка",
-    "context": [],
+    "context": [
+      [
+        "Meine Großeltern leben in Japan."
+      ]
+    ],
     "originals": [
-      "die Großeltern",
+      "die Großeltern (pl.)",
       "Großeltern, pl"
     ],
     "id": "5d3321a4e4e70861c7986f02af1425a0"
@@ -7189,7 +7273,11 @@
     "base": "Großmutter",
     "article": "die",
     "translate": "бабушка",
-    "context": [],
+    "context": [
+      [
+        "Meine Großmutter heißt Eva."
+      ]
+    ],
     "originals": [
       "die Großmutter, ö-"
     ],
@@ -7200,7 +7288,11 @@
     "base": "Großvater",
     "article": "der",
     "translate": "дедушка",
-    "context": [],
+    "context": [
+      [
+        "Mein Großvater ist schon 80."
+      ]
+    ],
     "originals": [
       "der Großvater, ö-"
     ],
@@ -7244,7 +7336,11 @@
     "base": "Gruppe",
     "article": "die",
     "translate": "группа; команда; отряд; категория",
-    "context": [],
+    "context": [
+      [
+        "Die erste Gruppe beginnt um 16 Uhr."
+      ]
+    ],
     "originals": [
       "die Gruppe, -n"
     ],
@@ -7255,9 +7351,16 @@
     "base": "Gruß",
     "article": "der",
     "translate": "привет; приветствие; салют",
-    "context": [],
+    "context": [
+      [
+        "Viele Grüße an Ihre Frau."
+      ],
+      [
+        "Mit freundlichen Grüßen"
+      ]
+    ],
     "originals": [
-      "der Gruß, ü-e"
+      "der Gruß, -ü, e"
     ],
     "id": "9550376f8d982e9f399614b6337f9ea8"
   },
@@ -7266,7 +7369,11 @@
     "base": "Größe",
     "article": "die",
     "translate": "размер; величина; типоразмер; габарит",
-    "context": [],
+    "context": [
+      [
+        "Haben Sie das auch in Größe 40?"
+      ]
+    ],
     "originals": [
       "die Größe, -n"
     ],
@@ -7343,7 +7450,11 @@
     "base": "Haar",
     "article": "das",
     "translate": "волос; волосы",
-    "context": [],
+    "context": [
+      [
+        "Sie hat lange Haare."
+      ]
+    ],
     "originals": [
       "das Haar, -e"
     ],
@@ -7398,7 +7509,11 @@
     "base": "Halbpension",
     "article": "die",
     "translate": "полупансион",
-    "context": [],
+    "context": [
+      [
+        "Möchten Sie Vollpension oder Halbpension?"
+      ]
+    ],
     "originals": [
       "die Halbpension"
     ],
@@ -7409,7 +7524,11 @@
     "base": "Halle",
     "article": "die",
     "translate": "зал",
-    "context": [],
+    "context": [
+      [
+        "Wir treffen uns in Halle B"
+      ]
+    ],
     "originals": [
       "die Halle"
     ],
@@ -7442,7 +7561,11 @@
     "base": "Haltestelle",
     "article": "die",
     "translate": "остановка; автобусная остановка",
-    "context": [],
+    "context": [
+      [
+        "An der nächsten Haltestelle müssen Sie aussteigen."
+      ]
+    ],
     "originals": [
       "die Haltestelle"
     ],
@@ -7464,9 +7587,13 @@
     "base": "Hand",
     "article": "die",
     "translate": "рука; кисть; ладонь; кисть руки",
-    "context": [],
+    "context": [
+      [
+        "Er gibt mir die Hand."
+      ]
+    ],
     "originals": [
-      "die Hand, ä-e"
+      "die Hand, -ä, e"
     ],
     "id": "17d7c603c0dc625f3a34646f339c79e0"
   },
@@ -7541,7 +7668,11 @@
     "base": "Handy",
     "article": "das",
     "translate": "мобильный телефон; телефон; мобильник",
-    "context": [],
+    "context": [
+      [
+        "In der Schule bitte die Handys ausmachen!"
+      ]
+    ],
     "originals": [
       "das Handy, -s"
     ],
@@ -7585,10 +7716,15 @@
     "base": "Haus",
     "article": "das",
     "translate": "дом; здание; строение; хозяйство",
-    "context": [],
+    "context": [
+      null,
+      [
+        "Paul ist nicht zu Hause."
+      ]
+    ],
     "originals": [
-      "das Haus *{die Häuser}",
-      "das Haus, ä-er"
+      "das Haus, -ä, er",
+      "das Haus *{die Häuser}"
     ],
     "id": "f5627993cb76ffdbb9bd6d9dce9c62a4"
   },
@@ -7597,9 +7733,13 @@
     "base": "Hausaufgabe",
     "article": "die",
     "translate": "домашнее задание; домашняя работа",
-    "context": [],
+    "context": [
+      [
+        "Kannst du mir bei den Hausaufgaben helfen?"
+      ]
+    ],
     "originals": [
-      "die Hausaufgabe, -n"
+      "die Hausaufgabe,-n"
     ],
     "id": "43dcba71917a667242923f776e76cdbf"
   },
@@ -7608,9 +7748,13 @@
     "base": "Hausfrau",
     "article": "die",
     "translate": "домохозяйка",
-    "context": [],
+    "context": [
+      [
+        "Die Hausfrau wäscht, kocht und kauft ein."
+      ]
+    ],
     "originals": [
-      "die Hausfrau"
+      "die Hausfrau, -en/"
     ],
     "id": "654cee34008e8afbb891dc23fee3613c"
   },
@@ -7630,7 +7774,11 @@
     "base": "Hausmann",
     "article": "der",
     "translate": "домохозяин; домохозин",
-    "context": [],
+    "context": [
+      [
+        "der Hausmann wäscht, kocht und kauft ein."
+      ]
+    ],
     "originals": [
       "der Hausmann"
     ],
@@ -7707,7 +7855,11 @@
     "base": "Heimat",
     "article": "die",
     "translate": "родина; отечество; родная страна",
-    "context": [],
+    "context": [
+      [
+        "Ich komme aus der Schweiz. Das ist meine Heimat."
+      ]
+    ],
     "originals": [
       "die Heimat"
     ],
@@ -7784,7 +7936,11 @@
     "base": "Herd",
     "article": "der",
     "translate": "очаг; плита; печь",
-    "context": [],
+    "context": [
+      [
+        "In der neuen Küche fehlt noch der Herd."
+      ]
+    ],
     "originals": [
       "der Herd, -e"
     ],
@@ -7795,7 +7951,11 @@
     "base": "Herr",
     "article": "der",
     "translate": "господин; мужчина; джентельмен; господь; государь",
-    "context": [],
+    "context": [
+      [
+        "Guten Tag, Herr Sommer!"
+      ]
+    ],
     "originals": [
       "der Herr, -en"
     ],
@@ -7839,7 +7999,14 @@
     "base": "Hilfe",
     "article": "die",
     "translate": "помощь; поддержка; пособие",
-    "context": [],
+    "context": [
+      [
+        "Hilfe! Bitte helfen Sie mir!"
+      ],
+      [
+        "Brauchen Sie meine Hilfe?"
+      ]
+    ],
     "originals": [
       "die Hilfe, -n"
     ],
@@ -7916,7 +8083,11 @@
     "base": "Hobby",
     "article": "das",
     "translate": "хобби; увлечение",
-    "context": [],
+    "context": [
+      [
+        "Meine Hobbys sind Wandern und Schwimmen."
+      ]
+    ],
     "originals": [
       "das Hobby, -s"
     ],
@@ -7938,7 +8109,11 @@
     "base": "Hochzeit",
     "article": "die",
     "translate": "свадьба; бракосочетание",
-    "context": [],
+    "context": [
+      [
+        "Zur dieser Hochzeit kommen mehr als fünfzig Gäste."
+      ]
+    ],
     "originals": [
       "die Hochzeit, -en"
     ],
@@ -8015,7 +8190,11 @@
     "base": "Hotel",
     "article": "das",
     "translate": "гостиница; отель",
-    "context": [],
+    "context": [
+      [
+        "Im Urlaub sind wir in einem Hotel am Meer."
+      ]
+    ],
     "originals": [
       "das Hotel, -s"
     ],
@@ -8048,7 +8227,11 @@
     "base": "Hund",
     "article": "der",
     "translate": "собака; пес",
-    "context": [],
+    "context": [
+      [
+        "Der Hund ist noch jung."
+      ]
+    ],
     "originals": [
       "der Hund, -e"
     ],
@@ -8059,7 +8242,11 @@
     "base": "Hunger",
     "article": "der",
     "translate": "голод",
-    "context": [],
+    "context": [
+      [
+        "Ich habe Hunger! Wann ist das Essen fertig?"
+      ]
+    ],
     "originals": [
       "der Hunger"
     ],
@@ -8092,9 +8279,13 @@
     "base": "Hähnchen",
     "article": "das",
     "translate": "курица; цыплёнок; курочка",
-    "context": [],
+    "context": [
+      [
+        "Ein Hähnchen mit Pommes bitte!"
+      ]
+    ],
     "originals": [
-      "das Hähnchen"
+      "das Hähnchen, -"
     ],
     "id": "9ec0a2c5ffe19c209aecb8a1674f7ad0"
   },
@@ -8644,7 +8835,11 @@
     "base": "Kaffee",
     "article": "der",
     "translate": "кофе",
-    "context": [],
+    "context": [
+      [
+        "Zum Frühstück trinke ich immer Kaffee."
+      ]
+    ],
     "originals": [
       "der Kaffee"
     ],
@@ -8766,7 +8961,17 @@
     "base": "Karte",
     "article": "die",
     "translate": "карта; билет; открытка; талон",
-    "context": [],
+    "context": [
+      [
+        "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub."
+      ],
+      [
+        "Wollen wir Karten spielen?"
+      ],
+      [
+        "Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte."
+      ]
+    ],
     "originals": [
       "die Karte, -n"
     ],
@@ -8777,7 +8982,11 @@
     "base": "Kartoffel",
     "article": "die",
     "translate": "картофель; картошка; картофелина",
-    "context": [],
+    "context": [
+      [
+        "Für Pommes frites braucht man Kartoffeln."
+      ]
+    ],
     "originals": [
       "die Kartoffel, -n"
     ],
@@ -8810,7 +9019,11 @@
     "base": "Kasse",
     "article": "die",
     "translate": "касса",
-    "context": [],
+    "context": [
+      [
+        "Zahlen Sie bitte an der Kasse."
+      ]
+    ],
     "originals": [
       "die Kasse, -n"
     ],
@@ -9019,7 +9232,11 @@
     "base": "Kind",
     "article": "das",
     "translate": "ребёнок; ребенок; дитя",
-    "context": [],
+    "context": [
+      [
+        "Wie viele Kinder haben Sie?"
+      ]
+    ],
     "originals": [
       "das Kind, -er"
     ],
@@ -9041,7 +9258,11 @@
     "base": "Kindergarten",
     "article": "der",
     "translate": "детский сад; детсад",
-    "context": [],
+    "context": [
+      [
+        "Die kleine Laura geht schon in den Kindergarten."
+      ]
+    ],
     "originals": [
       "der Kindergarten, ä"
     ],
@@ -9085,7 +9306,11 @@
     "base": "Kino",
     "article": "das",
     "translate": "кино; кинотеатр",
-    "context": [],
+    "context": [
+      [
+        "Wir sehen heute Abend im Kino einen schönen Film."
+      ]
+    ],
     "originals": [
       "das Kino, -s"
     ],
@@ -9096,7 +9321,11 @@
     "base": "Kiosk",
     "article": "der",
     "translate": "киоск; ларек; палатка",
-    "context": [],
+    "context": [
+      [
+        "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen."
+      ]
+    ],
     "originals": [
       "der Kiosk, -e"
     ],
@@ -9207,7 +9436,14 @@
     "base": "Klasse",
     "article": "die",
     "translate": "класс; тип",
-    "context": [],
+    "context": [
+      [
+        "In unserer Klasse sind fünfundzwanzig Schüler."
+      ],
+      [
+        "Im Zug fahre ich immer 2. Klasse."
+      ]
+    ],
     "originals": [
       "die Klasse, -n"
     ],
@@ -9285,7 +9521,11 @@
     "base": "Kleidung",
     "article": "die",
     "translate": "одежда; наряд; гардероб",
-    "context": [],
+    "context": [
+      [
+        "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock."
+      ]
+    ],
     "originals": [
       "die Kleidung"
     ],
@@ -9439,9 +9679,13 @@
     "base": "Koffer",
     "article": "der",
     "translate": "чемодан; сундук; багажник",
-    "context": [],
+    "context": [
+      [
+        "Ist das Ihr Koffer?"
+      ]
+    ],
     "originals": [
-      "der Koffer"
+      "der Koffer, –"
     ],
     "id": "8261e7ab11dcdf6d5bad0dd910a618e4"
   },
@@ -9483,7 +9727,11 @@
     "base": "Kollege",
     "article": "der",
     "translate": "коллега; сотрудник; сослуживец; товарищ по работе",
-    "context": [],
+    "context": [
+      [
+        "Wie heißt die neue Kollegin?"
+      ]
+    ],
     "originals": [
       "der Kollege, -n"
     ],
@@ -9571,7 +9819,11 @@
     "base": "Konto",
     "article": "das",
     "translate": "счет; банковский счет",
-    "context": [],
+    "context": [
+      [
+        "Das Geld überweisen wir am ersten März auf Ihr Konto."
+      ]
+    ],
     "originals": [
       "das Konto"
     ],
@@ -9604,7 +9856,11 @@
     "base": "Kopf",
     "article": "der",
     "translate": "голова; башка",
-    "context": [],
+    "context": [
+      [
+        "Mein Kopf tut weh!"
+      ]
+    ],
     "originals": [
       "der Kopf, ö-e"
     ],
@@ -9956,7 +10212,11 @@
     "base": "Kuchen",
     "article": "der",
     "translate": "пирог; пирожное; торт; кекс",
-    "context": [],
+    "context": [
+      [
+        "Ich nehme ein Stück Kuchen."
+      ]
+    ],
     "originals": [
       "der Kuchen"
     ],
@@ -9978,7 +10238,11 @@
     "base": "Kugelschreiber",
     "article": "der",
     "translate": "ручка; шариковая ручка; авторучка",
-    "context": [],
+    "context": [
+      [
+        "Hast du einen Kugelschreiber für mich?"
+      ]
+    ],
     "originals": [
       "der Kugelschreiber"
     ],
@@ -10011,7 +10275,11 @@
     "base": "Kunde",
     "article": "der",
     "translate": "клиент; покупатель; заказчик; потребитель",
-    "context": [],
+    "context": [
+      [
+        "Einen Moment, bitte. Ich habe eine Kundin."
+      ]
+    ],
     "originals": [
       "der Kunde, -n"
     ],
@@ -10055,7 +10323,11 @@
     "base": "Kurs",
     "article": "der",
     "translate": "курс",
-    "context": [],
+    "context": [
+      [
+        "Der Deutschkurs geht bis zum Sommer."
+      ]
+    ],
     "originals": [
       "der Kurs, -e"
     ],
@@ -10176,7 +10448,11 @@
     "base": "Küche",
     "article": "die",
     "translate": "кухня",
-    "context": [],
+    "context": [
+      [
+        "Der neue Herd kommt in die Küche."
+      ]
+    ],
     "originals": [
       "die Küche, -n"
     ],
@@ -10220,7 +10496,11 @@
     "base": "Kühlschrank",
     "article": "der",
     "translate": "холодильник",
-    "context": [],
+    "context": [
+      [
+        "Haben wir noch Milch? – Ja, im Kühlschrank."
+      ]
+    ],
     "originals": [
       "der Kühlschrank, ä-e"
     ],
@@ -10286,9 +10566,13 @@
     "base": "Laden",
     "article": "der",
     "translate": "магазин; лавка; загрузка",
-    "context": [],
+    "context": [
+      [
+        "Im Buchladen können Sie Bücher kaufen."
+      ]
+    ],
     "originals": [
-      "der Laden, ä"
+      "der Laden, -ä"
     ],
     "id": "645adfa6730d4730da32c5791371e7e3"
   },
@@ -10363,10 +10647,14 @@
     "base": "Land",
     "article": "das",
     "translate": "страна; край; земля",
-    "context": [],
+    "context": [
+      [
+        "Italien ist ein schönes Land."
+      ]
+    ],
     "originals": [
-      "das Land *{die Länder}",
-      "das Land, ä-er"
+      "das Land, -ä, er",
+      "das Land *{die Länder}"
     ],
     "id": "4a18b34854cf0a457bc84bc7980911f2"
   },
@@ -10507,7 +10795,11 @@
     "base": "Leben",
     "article": "das",
     "translate": "жизнь; быт; существование",
-    "context": [],
+    "context": [
+      [
+        "Das Leben in diesem Land ist teuer."
+      ]
+    ],
     "originals": [
       "das Leben"
     ],
@@ -10516,10 +10808,15 @@
   {
     "type": "noun",
     "base": "Lebensmittel",
-    "article": "das",
+    "article": "die",
     "translate": "продукт питания; пищевой продукт",
-    "context": [],
+    "context": [
+      [
+        "Lebensmittel bekommen Sie im Supermarkt."
+      ]
+    ],
     "originals": [
+      "die Lebensmittel (pl.)",
       "das Lebensmittel"
     ],
     "id": "7ae7bb6d9b987d5d6dfccb715b25c28a"
@@ -10606,7 +10903,11 @@
     "base": "Lehrer",
     "article": "der",
     "translate": "учитель; преподаватель; наставник",
-    "context": [],
+    "context": [
+      [
+        "Unsere Deutschlehrerin heißt Frau Müller."
+      ]
+    ],
     "originals": [
       "der Lehrer, pl"
     ],
@@ -10727,9 +11028,13 @@
     "base": "Leute",
     "article": "die",
     "translate": "люди; народ",
-    "context": [],
+    "context": [
+      [
+        "In der Disko sind viele Leute."
+      ]
+    ],
     "originals": [
-      "die Leute",
+      "die Leute (pl.)",
       "Leute, pl"
     ],
     "id": "2101716818c0672825533a6854fe120d"
@@ -10739,7 +11044,11 @@
     "base": "Licht",
     "article": "das",
     "translate": "свет; освещение; источник света; огни",
-    "context": [],
+    "context": [
+      [
+        "Wo macht man hier das Licht an?"
+      ]
+    ],
     "originals": [
       "das Licht, -er"
     ],
@@ -10772,9 +11081,13 @@
     "base": "Lieblings",
     "article": null,
     "translate": "любимый; любимая; любимое",
-    "context": [],
+    "context": [
+      [
+        "Mein Lieblingsfilm ist „Schwarze Augen“."
+      ]
+    ],
     "originals": [
-      "Lieblings"
+      "Lieblings-"
     ],
     "id": "ba328f46869a82c2bccf8a2aa5d554a9"
   },
@@ -10805,7 +11118,11 @@
     "base": "Lied",
     "article": "das",
     "translate": "песня; мелодия; песнь; романс",
-    "context": [],
+    "context": [
+      [
+        "Welches ist dein Lieblingslied?"
+      ]
+    ],
     "originals": [
       "das Lied, -er"
     ],
@@ -10915,7 +11232,11 @@
     "base": "Lkw",
     "article": "der",
     "translate": "грузовик; грузовая машина; грузовой автомобиль",
-    "context": [],
+    "context": [
+      [
+        "Dieser Lastkraftwagen ist sehr groß."
+      ]
+    ],
     "originals": [
       "der Lkw, -s"
     ],
@@ -10981,7 +11302,11 @@
     "base": "Lokal",
     "article": "das",
     "translate": "кафе; ресторан; пивная; закусочная; бар; заведение",
-    "context": [],
+    "context": [
+      [
+        "In unserer Straße gibt es ein neues Lokal."
+      ]
+    ],
     "originals": [
       "das Lokal, -e"
     ],
@@ -11069,7 +11394,11 @@
     "base": "Lösung",
     "article": "die",
     "translate": "решение; ответ; разгадка",
-    "context": [],
+    "context": [
+      [
+        "Die Lösung ist ganz einfach."
+      ]
+    ],
     "originals": [
       "die Lösung, -en"
     ],
@@ -11201,10 +11530,14 @@
     "base": "Mann",
     "article": "der",
     "translate": "мужчина; супруг; муж; человек",
-    "context": [],
+    "context": [
+      [
+        "Mein Mann arbeitet bei der Polizei."
+      ]
+    ],
     "originals": [
-      "der Mann *{die Männer}",
-      "der Mann, ä-er"
+      "der Mann, -ä, er",
+      "der Mann *{die Männer}"
     ],
     "id": "1fd7c694a32ebf2f2fa840018b410b4c"
   },
@@ -11279,7 +11612,11 @@
     "base": "Maschine",
     "article": "die",
     "translate": "машина; станок",
-    "context": [],
+    "context": [
+      [
+        "Die Waschmaschine ist günstig."
+      ]
+    ],
     "originals": [
       "die Maschine, -n"
     ],
@@ -11411,7 +11748,11 @@
     "base": "Meer",
     "article": "das",
     "translate": "море; океан",
-    "context": [],
+    "context": [
+      [
+        "Wir machen Urlaub am Meer."
+      ]
+    ],
     "originals": [
       "das Meer, -e"
     ],
@@ -11532,7 +11873,11 @@
     "base": "Mensch",
     "article": "der",
     "translate": "человек; индивидуум",
-    "context": [],
+    "context": [
+      [
+        "Die Menschen sind hier anders als bei uns."
+      ]
+    ],
     "originals": [
       "der Mensch, -en"
     ],
@@ -11610,7 +11955,11 @@
     "base": "Miete",
     "article": "die",
     "translate": "арендная плата; квартплата; аренда",
-    "context": [],
+    "context": [
+      [
+        "Die Miete für diese Wohnung ist 600 Euro."
+      ]
+    ],
     "originals": [
       "die Miete, -n"
     ],
@@ -11632,7 +11981,11 @@
     "base": "Milch",
     "article": "die",
     "translate": "молоко",
-    "context": [],
+    "context": [
+      [
+        "Die Milch steht im Kühlschrank."
+      ]
+    ],
     "originals": [
       "die Milch",
       "das Milch"
@@ -11765,7 +12118,11 @@
     "base": "Mitte",
     "article": "die",
     "translate": "середина; центр",
-    "context": [],
+    "context": [
+      [
+        "Der Lehrer steht in der Mitte des Klassenzimmers."
+      ]
+    ],
     "originals": [
       "die Mitte"
     ],
@@ -11842,7 +12199,14 @@
     "base": "Moment",
     "article": "der",
     "translate": "момент; миг; мгновение",
-    "context": [],
+    "context": [
+      [
+        "Moment mal bitte!"
+      ],
+      [
+        "Einen Moment bitte."
+      ]
+    ],
     "originals": [
       "der Moment, -e"
     ],
@@ -11952,7 +12316,11 @@
     "base": "Mund",
     "article": "der",
     "translate": "рот; уста",
-    "context": [],
+    "context": [
+      [
+        "Öffnen Sie den Mund."
+      ]
+    ],
     "originals": [
       "der Mund, ü-er"
     ],
@@ -12007,9 +12375,13 @@
     "base": "Mutter",
     "article": "die",
     "translate": "мама; мать",
-    "context": [],
+    "context": [
+      [
+        "Frau Berghäuser ist die Mutter von Michaela."
+      ]
+    ],
     "originals": [
-      "die Mutter, ü-"
+      "die Mutter, -ü"
     ],
     "id": "837e6cb70a3f13f6bdd74cd990b5a68f"
   },
@@ -12018,9 +12390,13 @@
     "base": "Mädchen",
     "article": "das",
     "translate": "девочка; девушка",
-    "context": [],
+    "context": [
+      [
+        "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
+      ]
+    ],
     "originals": [
-      "das Mädchen"
+      "das Mädchen, –"
     ],
     "id": "3a8619a4757f3f9b3afd630ef291163f"
   },
@@ -12062,9 +12438,13 @@
     "base": "Möbel",
     "article": "die",
     "translate": "мебель",
-    "context": [],
+    "context": [
+      [
+        "Sind die Möbel neu?"
+      ]
+    ],
     "originals": [
-      "die Möbel",
+      "die Möbel (pl.)",
       "das Möbel"
     ],
     "id": "ddd6f1f9a520570faa950acfbe4be034"
@@ -12362,7 +12742,14 @@
     "base": "Name",
     "article": "der",
     "translate": "имя; фамилия; название",
-    "context": [],
+    "context": [
+      [
+        "Mein Name ist Thomas Schmidt."
+      ],
+      [
+        "Mein Vorname ist Thomas; Schmidt ist der Familienname."
+      ]
+    ],
     "originals": [
       "der Name, -n"
     ],
@@ -12626,7 +13013,17 @@
     "base": "Nummer",
     "article": "die",
     "translate": "номер; число",
-    "context": [],
+    "context": [
+      [
+        "Sie haben Zimmer Nummer zwölf."
+      ],
+      [
+        "Welche Hausnummer haben Sie?"
+      ],
+      [
+        "Können Sie mir Ihre Nummer geben?"
+      ]
+    ],
     "originals": [
       "die Nummer, -n"
     ],
@@ -13102,7 +13499,11 @@
     "base": "Papier",
     "article": "das",
     "translate": "бумага; документ; доклад; удостоверение",
-    "context": [],
+    "context": [
+      [
+        "Hier sind Papier und Bleistift."
+      ]
+    ],
     "originals": [
       "das Papier, -e"
     ],
@@ -13113,8 +13514,13 @@
     "base": "Papiere",
     "article": "die",
     "translate": "документы; бумаги; ценные бумаги",
-    "context": [],
+    "context": [
+      [
+        "Haben Sie Ihre Papiere dabei?"
+      ]
+    ],
     "originals": [
+      "die Papiere (pl.)",
       "die Papiere, pl"
     ],
     "id": "7feb95e2839b7a1fae70b31d1e1fde31"
@@ -13212,7 +13618,11 @@
     "base": "Partner",
     "article": "der",
     "translate": "партнер; напарник; компаньон",
-    "context": [],
+    "context": [
+      [
+        "Sie ist meine Partnerin."
+      ]
+    ],
     "originals": [
       "der Partner"
     ],
@@ -13245,7 +13655,11 @@
     "base": "Party",
     "article": "die",
     "translate": "вечеринка; компания; тусовка",
-    "context": [],
+    "context": [
+      [
+        "Heute Abend machen wir eine Party."
+      ]
+    ],
     "originals": [
       "die Party, -s"
     ],
@@ -13256,9 +13670,13 @@
     "base": "Pass",
     "article": "der",
     "translate": "паспорт; заграничный паспорт; загранпаспорт",
-    "context": [],
+    "context": [
+      [
+        "Im Hotel brauchst du deinen Pass."
+      ]
+    ],
     "originals": [
-      "der Pass, ä-e"
+      "der Pass, -ä, e"
     ],
     "id": "5be826a837f11363e25fe2d5d5ac7444"
   },
@@ -13278,7 +13696,11 @@
     "base": "Pause",
     "article": "die",
     "translate": "пауза; перерыв; приостановка",
-    "context": [],
+    "context": [
+      [
+        "Von 12.00 bis 12.30 Uhr haben wir Mittagspause."
+      ]
+    ],
     "originals": [
       "die Pause, -n"
     ],
@@ -13598,9 +14020,13 @@
     "base": "Plan",
     "article": "der",
     "translate": "план; замысел; проект; план работы",
-    "context": [],
+    "context": [
+      [
+        "Ich kaufe mir einen Stadtplan."
+      ]
+    ],
     "originals": [
-      "der Plan, ä-e"
+      "der Plan, -ä, e"
     ],
     "id": "991a7bf747c12f4f3c3c4f4034e0e078"
   },
@@ -13631,9 +14057,19 @@
     "base": "Platz",
     "article": "der",
     "translate": "место; площадь; позиция",
-    "context": [],
+    "context": [
+      [
+        "Tut mir leid, der Platz ist besetzt."
+      ],
+      [
+        "Bitte nehmen Sie Platz!"
+      ],
+      [
+        "Ich wohne Messeplatz 5."
+      ]
+    ],
     "originals": [
-      "der Platz, ä-e"
+      "der Platz, -ä, e"
     ],
     "id": "39c83b30f6dfdee700605c08c99220a0"
   },
@@ -13653,7 +14089,11 @@
     "base": "Polizei",
     "article": "die",
     "translate": "полиция; полицейские",
-    "context": [],
+    "context": [
+      [
+        "Holen Sie die Polizei!"
+      ]
+    ],
     "originals": [
       "die Polizei"
     ],
@@ -13774,7 +14214,14 @@
     "base": "Post",
     "article": "die",
     "translate": "почта; почтамт",
-    "context": [],
+    "context": [
+      [
+        "Wo ist die Post, bitte?"
+      ],
+      [
+        "Ist Post da?"
+      ]
+    ],
     "originals": [
       "die Post"
     ],
@@ -13796,7 +14243,11 @@
     "base": "Postleitzahl",
     "article": "die",
     "translate": "почтовый индекс; индекс",
-    "context": [],
+    "context": [
+      [
+        "Wie ist Ihre Postleitzahl?"
+      ]
+    ],
     "originals": [
       "die Postleitzahl"
     ],
@@ -13829,7 +14280,11 @@
     "base": "Praktikum",
     "article": "das",
     "translate": "стажировка; практика",
-    "context": [],
+    "context": [
+      [
+        "Ich mache ein Praktikum bei Siemens."
+      ]
+    ],
     "originals": [
       "das Praktikum"
     ],
@@ -13840,7 +14295,11 @@
     "base": "Praxis",
     "article": "die",
     "translate": "практика; клиника; приемная; кабинет",
-    "context": [],
+    "context": [
+      [
+        "Die Praxis ist ab acht Uhr geöffnet."
+      ]
+    ],
     "originals": [
       "die Praxis"
     ],
@@ -13851,7 +14310,11 @@
     "base": "Preis",
     "article": "der",
     "translate": "цена; прайс; стоимость",
-    "context": [],
+    "context": [
+      [
+        "Die Preise sind hoch."
+      ]
+    ],
     "originals": [
       "der Preis, -e"
     ],
@@ -13862,7 +14325,11 @@
     "base": "Problem",
     "article": "das",
     "translate": "проблема; трудность",
-    "context": [],
+    "context": [
+      [
+        "Mein Problem ist die Sprache."
+      ]
+    ],
     "originals": [
       "das Problem, -e"
     ],
@@ -13928,7 +14395,11 @@
     "base": "Prospekt",
     "article": "der",
     "translate": "брошюра; рекламный проспект; проспект",
-    "context": [],
+    "context": [
+      [
+        "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
+      ]
+    ],
     "originals": [
       "der Prospekt, -e"
     ],
@@ -13994,7 +14465,11 @@
     "base": "Prüfung",
     "article": "die",
     "translate": "проверка; испытание; контроль; экзамен; зачет; тест",
-    "context": [],
+    "context": [
+      [
+        "Die Prüfung ist am Montag um 8.00 Uhr."
+      ]
+    ],
     "originals": [
       "die Prüfung, -en"
     ],
@@ -14368,9 +14843,13 @@
     "base": "Raum",
     "article": "der",
     "translate": "помещение; пространство; комната; космос; место",
-    "context": [],
+    "context": [
+      [
+        "Der Unterricht ist in Raum 332."
+      ]
+    ],
     "originals": [
-      "der Raum, ä-e"
+      "der Raum, -ä, e"
     ],
     "id": "985c84bf73ee4bd46268b92d24d69ea8"
   },
@@ -14423,7 +14902,14 @@
     "base": "Rechnung",
     "article": "die",
     "translate": "счет; отчет; счет-фактура",
-    "context": [],
+    "context": [
+      [
+        "Die Rechnung, bitte."
+      ],
+      [
+        "Die Schillerstraße ist hier rechts."
+      ]
+    ],
     "originals": [
       "die Rechnung, -en"
     ],
@@ -14467,7 +14953,11 @@
     "base": "Regen",
     "article": "der",
     "translate": "дождь; ливень",
-    "context": [],
+    "context": [
+      [
+        "Bei diesem Regen gehe ich nicht raus."
+      ]
+    ],
     "originals": [
       "der Regen"
     ],
@@ -14566,7 +15056,11 @@
     "base": "Reis",
     "article": "der",
     "translate": "рис",
-    "context": [],
+    "context": [
+      [
+        "Ich esse gern Reis."
+      ]
+    ],
     "originals": [
       "der Reis"
     ],
@@ -14577,7 +15071,11 @@
     "base": "Reise",
     "article": "die",
     "translate": "поездка; путешествие; тур",
-    "context": [],
+    "context": [
+      [
+        "Wir machen eine Reise nach Österreich."
+      ]
+    ],
     "originals": [
       "die Reise, -n"
     ],
@@ -14588,7 +15086,11 @@
     "base": "Reisebüro",
     "article": "das",
     "translate": "бюро путешествий; турагентство; туристическое бюро",
-    "context": [],
+    "context": [
+      [
+        "Mein Mann arbeitet im Reisebüro."
+      ]
+    ],
     "originals": [
       "das Reisebüro, -s"
     ],
@@ -14599,7 +15101,14 @@
     "base": "Reiseführer",
     "article": "der",
     "translate": "путеводитель; гид; экскурсовод",
-    "context": [],
+    "context": [
+      [
+        "Ich kaufe mir einen Reiseführer von Berlin."
+      ],
+      [
+        "Unser Reiseführer heißt Peter."
+      ]
+    ],
     "originals": [
       "der Reiseführer"
     ],
@@ -14654,7 +15163,11 @@
     "base": "Reparatur",
     "article": "die",
     "translate": "починка; ремонт; исправление; восстановление",
-    "context": [],
+    "context": [
+      [
+        "Die Reparatur ist sehr teuer."
+      ]
+    ],
     "originals": [
       "die Reparatur, -en"
     ],
@@ -14676,7 +15189,11 @@
     "base": "Restaurant",
     "article": "das",
     "translate": "ресторан",
-    "context": [],
+    "context": [
+      [
+        "Wir essen heute in einem Restaurant."
+      ]
+    ],
     "originals": [
       "das Restaurant, -s"
     ],
@@ -14720,7 +15237,11 @@
     "base": "Rezeption",
     "article": "die",
     "translate": "ресепшн; стойка администратора; регистрационная стойка; рецепция",
-    "context": [],
+    "context": [
+      [
+        "Fragen Sie bitte im Hotel an der Rezeption."
+      ]
+    ],
     "originals": [
       "die Rezeption"
     ],
@@ -15017,7 +15538,11 @@
     "base": "S-Bahn",
     "article": "die",
     "translate": "городская электричка; городская железная дорога; электричка",
-    "context": [],
+    "context": [
+      [
+        "Ich nehme lieber die S-Bahn."
+      ]
+    ],
     "originals": [
       "die S-Bahn"
     ],
@@ -15050,7 +15575,11 @@
     "base": "Saft",
     "article": "der",
     "translate": "сок",
-    "context": [],
+    "context": [
+      [
+        "Möchtest du einen Apfelsaft?"
+      ]
+    ],
     "originals": [
       "der Saft, ä-e"
     ],
@@ -15083,7 +15612,11 @@
     "base": "Salat",
     "article": "der",
     "translate": "салат; салат-латук",
-    "context": [],
+    "context": [
+      [
+        "Wie schmeckt dir der Salat?"
+      ]
+    ],
     "originals": [
       "der Salat, -e"
     ],
@@ -15105,7 +15638,11 @@
     "base": "Salz",
     "article": "das",
     "translate": "соль",
-    "context": [],
+    "context": [
+      [
+        "Herr Ober, kann ich bitte Salz haben?"
+      ]
+    ],
     "originals": [
       "das Salz"
     ],
@@ -15139,7 +15676,11 @@
     "base": "Satz",
     "article": "der",
     "translate": "предложение; фраза",
-    "context": [],
+    "context": [
+      [
+        "Dieser Satz ist sehr einfach."
+      ]
+    ],
     "originals": [
       "der Satz, ä-e"
     ],
@@ -15216,7 +15757,11 @@
     "base": "Schalter",
     "article": "der",
     "translate": "окно; касса; выключатель; переключатель; коммутатор; билетная касса",
-    "context": [],
+    "context": [
+      [
+        "Gehen Sie bitte zum Schalter drei!"
+      ]
+    ],
     "originals": [
       "der Schalter"
     ],
@@ -15381,7 +15926,11 @@
     "base": "Schild",
     "article": "das",
     "translate": "вывеска; табличка; знак",
-    "context": [],
+    "context": [
+      [
+        "Haben Sie nicht das Schild gesehen?"
+      ]
+    ],
     "originals": [
       "das Schild, -er"
     ],
@@ -15392,9 +15941,13 @@
     "base": "Schinken",
     "article": "der",
     "translate": "ветчина; окорок",
-    "context": [],
+    "context": [
+      [
+        "Ich möchte gern ein Schinkenbrot."
+      ]
+    ],
     "originals": [
-      "der Schinken,"
+      "der Schinken, –"
     ],
     "id": "75d6635ee3614476a4fc860ffce54fef"
   },
@@ -15480,7 +16033,14 @@
     "base": "Schluss",
     "article": "der",
     "translate": "конец; окончание; завершение",
-    "context": [],
+    "context": [
+      [
+        "Ich muss jetzt Schluss machen."
+      ],
+      [
+        "Zum Schluss gibt er uns allen die Hand."
+      ]
+    ],
     "originals": [
       "der Schluss"
     ],
@@ -15491,9 +16051,13 @@
     "base": "Schlüssel",
     "article": "der",
     "translate": "ключ",
-    "context": [],
+    "context": [
+      [
+        "Ich gebe Ihnen noch den Zimmerschlüssel."
+      ]
+    ],
     "originals": [
-      "der Schlüssel"
+      "der Schlüssel, –"
     ],
     "id": "c3e58310394837f562efeae6e28c8cfc"
   },
@@ -15645,9 +16209,13 @@
     "base": "Schrank",
     "article": "der",
     "translate": "шкаф",
-    "context": [],
+    "context": [
+      [
+        "Die Gläser stehen im Schrank."
+      ]
+    ],
     "originals": [
-      "der Schrank, ä-e"
+      "der Schrank, -ä, e"
     ],
     "id": "3db483c18c0c3ee3cfce0ba7f4f34f7e"
   },
@@ -15744,7 +16312,11 @@
     "base": "Schuh",
     "article": "der",
     "translate": "туфля; ботинок; обувь",
-    "context": [],
+    "context": [
+      [
+        "Zieh die Schuhe aus!"
+      ]
+    ],
     "originals": [
       "der Schuh, -e"
     ],
@@ -15788,7 +16360,14 @@
     "base": "Schule",
     "article": "die",
     "translate": "школа; училище",
-    "context": [],
+    "context": [
+      [
+        "Meine Tochter geht schon in die Schule."
+      ],
+      [
+        "Die Schule ist gleich hier um die Ecke."
+      ]
+    ],
     "originals": [
       "die Schule, -n"
     ],
@@ -15909,7 +16488,11 @@
     "base": "Schwester",
     "article": "die",
     "translate": "сестра",
-    "context": [],
+    "context": [
+      [
+        "Meine Schwester kommt am Dienstag."
+      ]
+    ],
     "originals": [
       "die Schwester, -n"
     ],
@@ -15964,7 +16547,11 @@
     "base": "Schwimmbad",
     "article": "das",
     "translate": "бассейн; плавательный бассейн",
-    "context": [],
+    "context": [
+      [
+        "Kommst du mit ins Schwimmbad?"
+      ]
+    ],
     "originals": [
       "das Schwimmbad, ä-er"
     ],
@@ -16008,9 +16595,13 @@
     "base": "Schüler",
     "article": "der",
     "translate": "ученик; школьник; учащийся",
-    "context": [],
+    "context": [
+      [
+        "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
+      ]
+    ],
     "originals": [
-      "der Schüler"
+      "der Schüler, –"
     ],
     "id": "229383c5e5b76b8adc33b61b95d6e7c3"
   },
@@ -16041,7 +16632,11 @@
     "base": "See",
     "article": "der",
     "translate": "озеро; море",
-    "context": [],
+    "context": [
+      [
+        "Komm, wir fahren zum Starnberger See."
+      ]
+    ],
     "originals": [
       "der See, -n"
     ],
@@ -16074,7 +16669,11 @@
     "base": "Sehenswürdigkeit",
     "article": "die",
     "translate": "достопримечательность",
-    "context": [],
+    "context": [
+      [
+        "Welche Sehenswürdigkeiten gibt es in Frankfurt?"
+      ]
+    ],
     "originals": [
       "die Sehenswürdigkeit, -en"
     ],
@@ -16250,7 +16849,11 @@
     "base": "Sie",
     "article": null,
     "translate": "Вы",
-    "context": [],
+    "context": [
+      [
+        "Wie heißen Sie, bitte?"
+      ]
+    ],
     "originals": [
       "Sie"
     ],
@@ -16426,7 +17029,11 @@
     "base": "Sofa",
     "article": "das",
     "translate": "диван; софа",
-    "context": [],
+    "context": [
+      [
+        "Das Sofa ist neu."
+      ]
+    ],
     "originals": [
       "das Sofa, -s"
     ],
@@ -16437,9 +17044,13 @@
     "base": "Sohn",
     "article": "der",
     "translate": "сын",
-    "context": [],
+    "context": [
+      [
+        "Das ist Hans, mein Sohn."
+      ]
+    ],
     "originals": [
-      "der Sohn, ö-e"
+      "der Sohn, -ö, e"
     ],
     "id": "9a3c12fa0314a563bdf0bf104945cea6"
   },
@@ -16481,7 +17092,11 @@
     "base": "Sonne",
     "article": "die",
     "translate": "солнце",
-    "context": [],
+    "context": [
+      [
+        "Die Sonne scheint."
+      ]
+    ],
     "originals": [
       "die Sonne"
     ],
@@ -16668,7 +17283,11 @@
     "base": "Speisekarte",
     "article": "die",
     "translate": "меню; меню в ресторане или кафе",
-    "context": [],
+    "context": [
+      [
+        "Bringen Sie mir die Speisekarte, bitte."
+      ]
+    ],
     "originals": [
       "die Speisekarte, -n"
     ],
@@ -16811,7 +17430,11 @@
     "base": "Sport",
     "article": "der",
     "translate": "спорт; физкультура",
-    "context": [],
+    "context": [
+      [
+        "Ich mache viel Sport."
+      ]
+    ],
     "originals": [
       "der Sport"
     ],
@@ -16833,7 +17456,11 @@
     "base": "Sprache",
     "article": "die",
     "translate": "язык; речь",
-    "context": [],
+    "context": [
+      [
+        "Welche Sprachen sprichst du?"
+      ]
+    ],
     "originals": [
       "die Sprache, -n"
     ],
@@ -16965,9 +17592,13 @@
     "base": "Stadt",
     "article": "die",
     "translate": "город",
-    "context": [],
+    "context": [
+      [
+        "Heidelberg ist eine alte Stadt."
+      ]
+    ],
     "originals": [
-      "die Stadt, ä-e"
+      "die Stadt, -ä, e"
     ],
     "id": "09d3eb545f823f64930372b5127ae675"
   },
@@ -17163,7 +17794,11 @@
     "base": "Stelle",
     "article": "die",
     "translate": "место; должность; положение",
-    "context": [],
+    "context": [
+      [
+        "Ich habe eine neue Stelle."
+      ]
+    ],
     "originals": [
       "die Stelle, -n"
     ],
@@ -17295,7 +17930,11 @@
     "base": "Stock",
     "article": "der",
     "translate": "этаж; палка; шест",
-    "context": [],
+    "context": [
+      [
+        "Unsere Wohnung liegt im ersten Stock."
+      ]
+    ],
     "originals": [
       "der Stock, ö-e"
     ],
@@ -17372,9 +18011,13 @@
     "base": "Straße",
     "article": "die",
     "translate": "улица; дорога",
-    "context": [],
+    "context": [
+      [
+        "In welcher Straße wohnen Sie?"
+      ]
+    ],
     "originals": [
-      "die Straße"
+      "die Straße, -n"
     ],
     "id": "148b176f1d2abf2e2d94b4e77eea5213"
   },
@@ -17383,7 +18026,11 @@
     "base": "Straßenbahn",
     "article": "die",
     "translate": "трамвай",
-    "context": [],
+    "context": [
+      [
+        "Wo fährt die Straßenbahn ab?"
+      ]
+    ],
     "originals": [
       "die Straßenbahn, -en"
     ],
@@ -17460,7 +18107,11 @@
     "base": "Student",
     "article": "der",
     "translate": "студент; студентка; слушатель",
-    "context": [],
+    "context": [
+      [
+        "Ich bin Studentin."
+      ]
+    ],
     "originals": [
       "der Student, -en"
     ],
@@ -17482,7 +18133,11 @@
     "base": "Studium",
     "article": "das",
     "translate": "учеба; обучение; исследование",
-    "context": [],
+    "context": [
+      [
+        "Das Studium beginnt im Oktober."
+      ]
+    ],
     "originals": [
       "das Studium"
     ],
@@ -17538,7 +18193,11 @@
     "base": "Stunde",
     "article": "die",
     "translate": "час; урок",
-    "context": [],
+    "context": [
+      [
+        "Ich bin in einer Stunde zurück."
+      ]
+    ],
     "originals": [
       "die Stunde, -n"
     ],
@@ -17813,7 +18472,11 @@
     "base": "Tasche",
     "article": "die",
     "translate": "сумка; карман; портфель",
-    "context": [],
+    "context": [
+      [
+        "Ich habe die Schlüssel in der Tasche."
+      ]
+    ],
     "originals": [
       "die Tasche, -n"
     ],
@@ -17934,7 +18597,11 @@
     "base": "Taxi",
     "article": "das",
     "translate": "такси",
-    "context": [],
+    "context": [
+      [
+        "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."
+      ]
+    ],
     "originals": [
       "das Taxi, -s"
     ],
@@ -17989,7 +18656,11 @@
     "base": "Tee",
     "article": "der",
     "translate": "чай",
-    "context": [],
+    "context": [
+      [
+        "Ich trinke morgens immer Tee."
+      ]
+    ],
     "originals": [
       "der Tee"
     ],
@@ -18011,7 +18682,11 @@
     "base": "Teil",
     "article": "der",
     "translate": "часть; раздел; доля",
-    "context": [],
+    "context": [
+      [
+        "Lies bitte auch den zweiten Teil."
+      ]
+    ],
     "originals": [
       "der Teil, -e"
     ],
@@ -18022,7 +18697,11 @@
     "base": "Telefon",
     "article": "das",
     "translate": "телефон",
-    "context": [],
+    "context": [
+      [
+        "Haben Sie Telefon?"
+      ]
+    ],
     "originals": [
       "das Telefon, -e"
     ],
@@ -18088,7 +18767,11 @@
     "base": "Termin",
     "article": "der",
     "translate": "встреча; дата; срок",
-    "context": [],
+    "context": [
+      [
+        "Am besten machen wir sofort einen Termin."
+      ]
+    ],
     "originals": [
       "der Termin, -e"
     ],
@@ -18132,7 +18815,11 @@
     "base": "Test",
     "article": "der",
     "translate": "тест; проверка; испытание; исследование",
-    "context": [],
+    "context": [
+      [
+        "Der Test war einfach."
+      ]
+    ],
     "originals": [
       "der Test, -s"
     ],
@@ -18143,7 +18830,11 @@
     "base": "Text",
     "article": "der",
     "translate": "текст",
-    "context": [],
+    "context": [
+      [
+        "Lesen Sie bitte diesen Text."
+      ]
+    ],
     "originals": [
       "der Text, -e"
     ],
@@ -18176,7 +18867,11 @@
     "base": "Thema",
     "article": "das",
     "translate": "тема; предмет обсуждения",
-    "context": [],
+    "context": [
+      [
+        "Wir sprechen heute über das Thema „Essen und Trinken“."
+      ]
+    ],
     "originals": [
       "das Thema"
     ],
@@ -18187,7 +18882,11 @@
     "base": "Ticket",
     "article": "das",
     "translate": "билет",
-    "context": [],
+    "context": [
+      [
+        "Wie viel kostet das Ticket?"
+      ]
+    ],
     "originals": [
       "das Ticket, -s"
     ],
@@ -18253,7 +18952,11 @@
     "base": "Tisch",
     "article": "der",
     "translate": "стол",
-    "context": [],
+    "context": [
+      [
+        "Die Fotos liegen auf dem Tisch."
+      ]
+    ],
     "originals": [
       "der Tisch, -e"
     ],
@@ -18330,9 +19033,13 @@
     "base": "Tochter",
     "article": "die",
     "translate": "дочь; дочка",
-    "context": [],
+    "context": [
+      [
+        "Das ist meine Tochter Katharina."
+      ]
+    ],
     "originals": [
-      "die Tochter, ö-"
+      "die Tochter, -ö"
     ],
     "id": "f503bd45c805c1d6648101afc0a8b424"
   },
@@ -18352,8 +19059,13 @@
     "base": "Toilette",
     "article": "die",
     "translate": "туалет; уборная",
-    "context": [],
+    "context": [
+      [
+        "Wo ist die Toilette, bitte?"
+      ]
+    ],
     "originals": [
+      "die Toilette, -en",
       "die Toilette, -n"
     ],
     "id": "c4dc6caae7a6a37ab82b95e160978f6d"
@@ -18374,7 +19086,11 @@
     "base": "Tomate",
     "article": "die",
     "translate": "помидор; томат",
-    "context": [],
+    "context": [
+      [
+        "Die Tomate ist noch grün."
+      ]
+    ],
     "originals": [
       "die Tomate, -n"
     ],
@@ -18562,7 +19278,11 @@
     "base": "Treppe",
     "article": "die",
     "translate": "лестница; трап",
-    "context": [],
+    "context": [
+      [
+        "Die Toilette? Die Treppe hoch und dann links."
+      ]
+    ],
     "originals": [
       "die Treppe, -n"
     ],
@@ -18782,7 +19502,11 @@
     "base": "Uhr",
     "article": "die",
     "translate": "часы; час",
-    "context": [],
+    "context": [
+      [
+        "Es ist vier Uhr."
+      ]
+    ],
     "originals": [
       "die Uhr, -en"
     ],
@@ -18936,7 +19660,11 @@
     "base": "Unterricht",
     "article": "der",
     "translate": "занятие; урок",
-    "context": [],
+    "context": [
+      [
+        "Wir haben Unterricht von 8.00 bis 12.00 Uhr."
+      ]
+    ],
     "originals": [
       "der Unterricht"
     ],
@@ -18958,7 +19686,11 @@
     "base": "Unterschrift",
     "article": "die",
     "translate": "подпись; роспись",
-    "context": [],
+    "context": [
+      [
+        "Hier fehlt noch Ihre Unterschrift."
+      ]
+    ],
     "originals": [
       "die Unterschrift, -en"
     ],
@@ -18980,7 +19712,11 @@
     "base": "Urlaub",
     "article": "der",
     "translate": "отпуск; отдых",
-    "context": [],
+    "context": [
+      [
+        "Ich nehme im September Urlaub."
+      ]
+    ],
     "originals": [
       "der Urlaub, -e"
     ],
@@ -19835,7 +20571,11 @@
     "base": "Wasser",
     "article": "das",
     "translate": "вода",
-    "context": [],
+    "context": [
+      [
+        "Ein Glas Wasser, bitte."
+      ]
+    ],
     "originals": [
       "das Wasser"
     ],
@@ -19901,7 +20641,11 @@
     "base": "Wein",
     "article": "der",
     "translate": "вино; виноград",
-    "context": [],
+    "context": [
+      [
+        "Nein danke, ich möchte keinen Wein."
+      ]
+    ],
     "originals": [
       "der Wein"
     ],
@@ -19945,7 +20689,11 @@
     "base": "Welt",
     "article": "die",
     "translate": "мир; вселенная; земной шар",
-    "context": [],
+    "context": [
+      [
+        "Es gibt viele Probleme auf der Welt."
+      ]
+    ],
     "originals": [
       "die Welt, -en"
     ],
@@ -20033,7 +20781,11 @@
     "base": "Wetter",
     "article": "das",
     "translate": "погода",
-    "context": [],
+    "context": [
+      [
+        "Wir hatten schlechtes Wetter."
+      ]
+    ],
     "originals": [
       "das Wetter"
     ],
@@ -20077,7 +20829,14 @@
     "base": "Wiederhören",
     "article": "das",
     "translate": "до свидания; (при прощании по телефону)",
-    "context": [],
+    "context": [
+      [
+        "Wir müssen jetzt Schluss machen."
+      ],
+      [
+        "Also auf Wiederhören!"
+      ]
+    ],
     "originals": [
       "das Wiederhören"
     ],
@@ -20088,7 +20847,11 @@
     "base": "Wiedersehen",
     "article": "das",
     "translate": "встреча; свидание",
-    "context": [],
+    "context": [
+      [
+        "Auf Wiedersehen!"
+      ]
+    ],
     "originals": [
       "das Wiedersehen"
     ],
@@ -20132,7 +20895,11 @@
     "base": "Wind",
     "article": "der",
     "translate": "ветер",
-    "context": [],
+    "context": [
+      [
+        "Der Wind kommt aus Osten."
+      ]
+    ],
     "originals": [
       "der Wind, -e"
     ],
@@ -20331,7 +21098,11 @@
     "base": "Wohnung",
     "article": "die",
     "translate": "квартира; жилище; жильё",
-    "context": [],
+    "context": [
+      [
+        "Seit wann haben Sie diese Wohnung?"
+      ]
+    ],
     "originals": [
       "die Wohnung, -en"
     ],
@@ -20386,9 +21157,13 @@
     "base": "Wort",
     "article": "das",
     "translate": "слово",
-    "context": [],
+    "context": [
+      [
+        "Ich kenne das Wort nicht."
+      ]
+    ],
     "originals": [
-      "das Wort, ö-er"
+      "das Wort, -ö, er/-e"
     ],
     "id": "f9df0f81b03cb3473bffe7679414230f"
   },

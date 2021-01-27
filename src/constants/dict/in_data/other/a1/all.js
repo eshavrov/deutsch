@@ -794,133 +794,214 @@ const list = [
   ["der Fußball", "", [["Spielt ihr gerne Fußball?", ""]]],
 
   // G
-
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-
-  // G
-
-  // "der Garten         Wir haben leider keinen Garten."
-  // "der Gast, -ä, e    Am Wochenende haben wir mehrere Gäste."
-  // "geben              Kannst du mir bitte deinen Kugelschreiber geben?"
-  // "Es gibt keine Karten mehr."
-  // "geboren            Ich bin in Zagreb geboren."
-  // "das Geburtsjahr    Das Geburtsjahr Ihres Sohnes, bitte?"
-  // "der Geburtsort     Bitte schreiben Sie Ihren Geburtsort auf das Formular."
-  // "der Geburtstag     Herzlichen Glückwunsch zum Geburtstag!"
-  // "gefallen           Das gefällt mir."
-  // "gegen              Fahr nicht gegen den Baum!"
-  // "Ich bin gegen diese Lösung."
-  // "Wer spielt gegen wen?"
-  // "gehen              Ich weiß nicht, wie das geht."
-  // "Wie geht‘s?"
-  // "Jetzt muss ich (aber) leider gehen."
-  // "Ich muss zum Arzt gehen."
-  // "Das geht nicht!"
-  // "gehören            Wem gehört das?"
-  // "das Geld           Hast du noch Geld?"
-  // "das Gemüse         Gemüse brauchen wir auch noch."
-  // "das Gepäck              Wollen Sie Ihr Gepäck mitnehmen?"
-  // "gerade                  Da kommt er ja gerade."
-  // "geradeaus               Gehen Sie immer geradeaus!"
-  // "gern(e)                 Ich gehe gerne einkaufen."
-  // "das Geschäft, -e        Die Geschäfte schließen um 18.30 Uhr."
-  // "das Geschenk, -e        Danke für das schöne Geschenk."
-  // "die Geschwister (pl.)   Ich habe leider keine Geschwister."
-  // "das Gespräch, -e        Das Gespräch mit Frau Kunz ist um 14 Uhr."
-  // "gestern                 Gestern war ich krank."
-  // "gestorben               Meine Frau ist gestern gestorben."
-  // "das Getränk, -e         Mein Lieblingsgetränk ist Tomatensaft."
-  // "das Gewicht             Bei „Gewicht“ schreibst du: 62 Kilo."
-  // "gewinnen                Wer gewinnt das Spiel?"
-  // "das Glas, -ä, er        Bitte noch ein Glas Wein!"
-  // "Wir brauchen noch drei Gläser."
-  // "glauben                 Sie können mir glauben, es ist so."
-  // "Ich glaube, er kommt gleich."
-  // "gleich                  Das ist mir gleich."
-  // "Das ist der gleiche Preis."
-  // "Ich komme gleich."
-  // "das Gleis, -e           Der ICE nach Berlin hält heute an Gleis 12."
-  // "das Glück               Viel Glück!"
-  // "glücklich               Meine Kinder sind glücklich verheiratet."
-  // "der Glückwunsch         Herzlichen Glückwunsch zum Geburtstag."
-  // "Grad (Celsius)          Heute haben wir dreißig Grad."
-  // "gratulieren             Ich gratuliere dir!"
-  // "grillen                 Heute grillen wir im Garten."
-  // "groß                    Mein Bruder und ich sind gleich groß."
-  // "Frankfurt ist eine große Stadt."
-  // "die Größe              Haben Sie das auch in Größe 40?"
-  // "die Großeltern (pl.)    Meine Großeltern leben in Japan."
-  // "die Großmutter         Meine Großmutter heißt Eva."
-  // "der Großvater          Mein Großvater ist schon 80."
-  // "die Gruppe, -n          Die erste Gruppe beginnt um 16 Uhr."
-  // "der Gruß, -ü, e         Viele Grüße an Ihre Frau."
-  // "Mit freundlichen Grüßen"
-  // "gültig                  Der Pass ist nicht mehr gültig."
-  // "günstig                 Dort gibt es günstige Angebote."
-  // "gut                     Das finde ich gut."
-  // "Ich komme um 13 Uhr. – Gut!"
-  // "Guten Morgen!"
-  // "Ein gutes neues Jahr!"
-  // "Guten Appetit!"
+  ["der Garten", "", [["Wir haben leider keinen Garten."]]],
+  ["der Gast, -ä, e", "", [["Am Wochenende haben wir mehrere Gäste."]]],
+  [
+    "geben",
+    "",
+    [
+      ["Kannst du mir bitte deinen Kugelschreiber geben?"],
+      ["Es gibt keine Karten mehr."],
+    ],
+  ],
+  ["geboren", "", [["Ich bin in Zagreb geboren."]]],
+  ["das Geburtsjahr", "", [["Das Geburtsjahr Ihres Sohnes, bitte?"]]],
+  [
+    "der Geburtsort",
+    "",
+    [["Bitte schreiben Sie Ihren Geburtsort auf das Formular."]],
+  ],
+  ["der Geburtstag", "", [["Herzlichen Glückwunsch zum Geburtstag!"]]],
+  ["gefallen", "", [["Das gefällt mir."]]],
+  [
+    "gegen",
+    "",
+    [
+      ["Fahr nicht gegen den Baum!"],
+      ["Ich bin gegen diese Lösung."],
+      ["Wer spielt gegen wen?"],
+    ],
+  ],
+  [
+    "gehen",
+    "",
+    [
+      ["Ich weiß nicht, wie das geht."],
+      ["Wie geht‘s?"],
+      ["Jetzt muss ich (aber) leider gehen."],
+      ["Ich muss zum Arzt gehen."],
+      ["Das geht nicht!"],
+    ],
+  ],
+  ["gehören", "", [["Wem gehört das?"]]],
+  ["das Geld", "", [["Hast du noch Geld?"]]],
+  ["das Gemüse", "", [["Gemüse brauchen wir auch noch."]]],
+  ["das Gepäck", "", [["Wollen Sie Ihr Gepäck mitnehmen?"]]],
+  ["gerade", "", [["Da kommt er ja gerade."]]],
+  ["geradeaus", "", [["Gehen Sie immer geradeaus!"]]],
+  ["gern, -e", "", [["Ich gehe gerne einkaufen."]]],
+  ["das Geschäft, -e", "", [["Die Geschäfte schließen um 18.30 Uhr."]]],
+  ["das Geschenk, -e", "", [["Danke für das schöne Geschenk."]]],
+  ["die Geschwister (pl.)", "", [["Ich habe leider keine Geschwister."]]],
+  ["das Gespräch, -e", "", [["Das Gespräch mit Frau Kunz ist um 14 Uhr."]]],
+  ["gestern", "", [["Gestern war ich krank."]]],
+  ["gestorben", "", [["Meine Frau ist gestern gestorben."]]],
+  ["das Getränk, -e", "", [["Mein Lieblingsgetränk ist Tomatensaft."]]],
+  ["das Gewicht", "", [["Bei „Gewicht“ schreibst du: 62 Kilo."]]],
+  ["gewinnen", "", [["Wer gewinnt das Spiel?"]]],
+  [
+    "das Glas, -ä, er",
+    "",
+    [["Bitte noch ein Glas Wein!"], ["Wir brauchen noch drei Gläser."]],
+  ],
+  [
+    "glauben",
+    "",
+    [["Sie können mir glauben, es ist so."], ["Ich glaube, er kommt gleich."]],
+  ],
+  [
+    "gleich",
+    "",
+    [
+      ["Das ist mir gleich."],
+      ["Das ist der gleiche Preis."],
+      ["Ich komme gleich."],
+    ],
+  ],
+  ["das Gleis, -e", "", [["Der ICE nach Berlin hält heute an Gleis 12."]]],
+  ["das Glück", "", [["Viel Glück!"]]],
+  ["glücklich", "", [["Meine Kinder sind glücklich verheiratet."]]],
+  ["der Glückwunsch", "", [["Herzlichen Glückwunsch zum Geburtstag."]]],
+  ["Grad (Celsius)", "", [["Heute haben wir dreißig Grad."]]],
+  ["gratulieren", "", [["Ich gratuliere dir!"]]],
+  ["grillen", "", [["Heute grillen wir im Garten."]]],
+  [
+    "groß",
+    "",
+    [
+      ["Mein Bruder und ich sind gleich groß."],
+      ["Frankfurt ist eine große Stadt."],
+    ],
+  ],
+  ["die Größe", "", [["Haben Sie das auch in Größe 40?"]]],
+  ["die Großeltern (pl.)", "", [["Meine Großeltern leben in Japan."]]],
+  ["die Großmutter", "", [["Meine Großmutter heißt Eva."]]],
+  ["der Großvater", "", [["Mein Großvater ist schon 80."]]],
+  ["die Gruppe, -n", "", [["Die erste Gruppe beginnt um 16 Uhr."]]],
+  [
+    "der Gruß, -ü, e",
+    "",
+    [["Viele Grüße an Ihre Frau."], ["Mit freundlichen Grüßen"]],
+  ],
+  ["gültig", "", [["Der Pass ist nicht mehr gültig."]]],
+  ["günstig", "", [["Dort gibt es günstige Angebote."]]],
+  [
+    "gut",
+    "",
+    [
+      ["Das finde ich gut."],
+      ["Ich komme um 13 Uhr. – Gut!"],
+      ["Guten Morgen!"],
+      ["Ein gutes neues Jahr!"],
+      ["Guten Appetit!"],
+    ],
+  ],
 
   // H
 
-  // 	"das Haar, -e            Sie hat lange Haare."
-  // "haben                   Ich habe ein neues Auto."
-  // "das Hähnchen, -         Ein Hähnchen mit Pommes bitte!"
-  // "die Halbpension         Möchten Sie Vollpension oder Halbpension?"
-  // "die Halle               Wir treffen uns in Halle B"
-  // "hallo                   Hallo Inge! Wie geht’s?"
-  // "halten                 Dieser Zug hält nicht in Rüdesheim."
-  // "die Haltestelle        An der nächsten Haltestelle müssen Sie aussteigen."
-  // "die Hand, -ä, e        Er gibt mir die Hand."
-  // "das Handy, -s          In der Schule bitte die Handys ausmachen!"
-  // "das Haus, -ä, er       In welchem Haus wohnst du?"
-  // "Ich gehe jetzt nach Hause."
-  // "Paul ist nicht zu Hause."
-  // "die Hausaufgabe,-n     Kannst du mir bei den Hausaufgaben helfen?"
-  // "die Hausfrau, -en/"
-  // "der Hausmann         Die Hausfrau/der Hausmann wäscht, kocht und kauft"
-  // "ein."
-  // "die Heimat             Ich komme aus der Schweiz. Das ist meine Heimat."
-  // "heiraten               Meine Schwester heiratet einen Japaner."
-  // "heißen                 Ich heiße Charlotte Meier."
-  // "Wie heißt das auf Deutsch?"
-  // "helfen                 Können Sie mir helfen, bitte?"
-  // "hell                   Im Sommer ist es bis 21 Uhr hell."
-  // "der Herd               In der neuen Küche fehlt noch der Herd."
-  // "der Herr, -en          Guten Tag, Herr Sommer!"
-  // "herzlich               Herzlichen Glückwunsch!"
-  // "heute                  Heute ist ein schöner Tag."
-  // "hier                   Hier ist 06131-553221, Pamela Linke."
-  // "Hier wohne ich."
-  // "die Hilfe              Hilfe! Bitte helfen Sie mir!"
-  // "Brauchen Sie meine Hilfe?"
-  // "hinten                 Die Tür zum Aussteigen ist hinten."
-  // "das Hobby, -s          Meine Hobbys sind Wandern und Schwimmen."
-  // "hoch                   Der Mount Everest ist 8.880 Meter hoch."
-  // "die Hochzeit           Zur dieser Hochzeit kommen mehr als fünfzig Gäste."
-  // "holen                  Ich hole zwei Flaschen Wasser aus der Küche."
-  // "hören                  Hör mal! Was ist das?"
-  // "Ich habe das Lied schon mal gehört."
-  // "das Hotel, -s          Im Urlaub sind wir in einem Hotel am Meer."
-  // "der Hund, -e           Der Hund ist noch jung."
-  // "der Hunger             Ich habe Hunger! Wann ist das Essen fertig?"
+  ["das Haar, -e", "", [["Sie hat lange Haare."]]],
+
+  ["haben", "", [["Ich habe ein neues Auto."]]],
+
+  ["das Hähnchen, -", "", [["Ein Hähnchen mit Pommes bitte!"]]],
+
+  ["die Halbpension", "", [["Möchten Sie Vollpension oder Halbpension?"]]],
+
+  ["die Halle", "", [["Wir treffen uns in Halle B"]]],
+
+  ["hallo", "", [["Hallo Inge! Wie geht’s?"]]],
+
+  ["halten", "", [["Dieser Zug hält nicht in Rüdesheim."]]],
+
+  [
+    "die Haltestelle",
+    "",
+    [["An der nächsten Haltestelle müssen Sie aussteigen."]],
+  ],
+
+  ["die Hand, -ä, e", "", [["Er gibt mir die Hand."]]],
+
+  ["das Handy, -s", "", [["In der Schule bitte die Handys ausmachen!"]]],
+
+  [
+    "das Haus, -ä, er",
+    "",
+    [
+      ["In welchem Haus wohnst du?"]["Ich gehe jetzt nach Hause."],
+      ["Paul ist nicht zu Hause."],
+    ],
+  ],
+
+  ["die Hausaufgabe,-n", "", [["Kannst du mir bei den Hausaufgaben helfen?"]]],
+
+  ["die Hausfrau, -en/", "", [["Die Hausfrau wäscht, kocht und kauft ein."]]],
+  ["der Hausmann", "", [["der Hausmann wäscht, kocht und kauft ein."]]],
+
+  ["die Heimat", "", [["Ich komme aus der Schweiz. Das ist meine Heimat."]]],
+
+  ["heiraten", "", [["Meine Schwester heiratet einen Japaner."]]],
+
+  [
+    "heißen",
+    "",
+    [["Ich heiße Charlotte Meier."]["Wie heißt das auf Deutsch?"]],
+  ],
+
+  ["helfen", "", [["Können Sie mir helfen, bitte?"]]],
+
+  ["hell", "", [["Im Sommer ist es bis 21 Uhr hell."]]],
+
+  ["der Herd", "", [["In der neuen Küche fehlt noch der Herd."]]],
+
+  ["der Herr, -en", "", [["Guten Tag, Herr Sommer!"]]],
+
+  ["herzlich", "", [["Herzlichen Glückwunsch!"]]],
+
+  ["heute", "", [["Heute ist ein schöner Tag."]]],
+
+  ["hier", "", [["Hier ist 06131-553221, Pamela Linke."]["Hier wohne ich."]]],
+
+  [
+    "die Hilfe",
+    "",
+    [["Hilfe! Bitte helfen Sie mir!"], ["Brauchen Sie meine Hilfe?"]],
+  ],
+
+  ["hinten", "", [["Die Tür zum Aussteigen ist hinten."]]],
+
+  ["das Hobby, -s", "", [["Meine Hobbys sind Wandern und Schwimmen."]]],
+
+  ["hoch", "", [["Der Mount Everest ist 8.880 Meter hoch."]]],
+
+  [
+    "die Hochzeit",
+    "",
+    [["Zur dieser Hochzeit kommen mehr als fünfzig Gäste."]],
+  ],
+
+  ["holen", "", [["Ich hole zwei Flaschen Wasser aus der Küche."]]],
+
+  [
+    "hören",
+    "",
+    [["Hör mal! Was ist das?"], ["Ich habe das Lied schon mal gehört."]],
+  ],
+
+  ["das Hotel, -s", "", [["Im Urlaub sind wir in einem Hotel am Meer."]]],
+
+  ["der Hund, -e", "", [["Der Hund ist noch jung."]]],
+
+  ["der Hunger", "", [["Ich habe Hunger! Wann ist das Essen fertig?"]]],
 
   // I
 
@@ -980,159 +1061,355 @@ const list = [
 
   // K
 
-  // "der Kaffee             Zum Frühstück trinke ich immer Kaffee."
-  // "kaputt                 Das Glas war teuer. Es geht sehr leicht kaputt."
-  // "die Karte, -n          Ich schreibe meinen Bekannten eine Karte aus dem"
-  // "Urlaub."
-  // "Wollen wir Karten spielen?"
-  // "Ich möchte auch etwas essen. Bringen Sie mir die Karte,"
-  // "bitte."
-  // "(Kredit)-Karte, -n   Kann ich auch mit Karte (be-) zahlen?"
-  // "die Kartoffel, -n      Für Pommes frites braucht man Kartoffeln."
-  // "die Kasse              Zahlen Sie bitte an der Kasse."
-  // "kaufen                 Tim kauft sich ein neues Auto."
-  // "kein                   Es gibt keine Eintrittskarten mehr."
-  // "kennen                 Kennen Sie diese Frau? – Nein, leider nicht."
-  // "kennenlernen         Wir sind neu hier. Wir möchten Sie kennenlernen."
-  // "das Kind, -er          Wie viele Kinder haben Sie?"
-  // "der Kindergarten       Die kleine Laura geht schon in den Kindergarten."
-  // "das Kino, -s           Wir sehen heute Abend im Kino einen schönen Film."
-  // "der Kiosk              Am Kiosk bekommen Sie Getränke, Zigaretten und"
-  // "Zeitungen."
-  // "klar                   Kommst du mit? – Klar!"
-  // "die Klasse             In unserer Klasse sind fünfundzwanzig Schüler."
-  // "Im Zug fahre ich immer 2. Klasse."
-  // "die Kleidung           Wo finde ich Kleidung? – Jacken im ersten, Jeans im"
-  // "zweiten Stock."
-  // "klein                  Eltville ist eine kleine Stadt am Rhein."
-  // "kochen                 Herr Georgi kann gut kochen."
-  // "der Koffer, –          Ist das Ihr Koffer?"
-  // "der Kollege, -n        Wie heißt die neue Kollegin?"
-  // "kommen                 Woher kommen Sie? – Aus Frankreich."
-  // "Kommst du mit ins Schwimmbad?"
-  // "können                 Ich kann Deutsch und Russisch."
-  // "Können Sie mir helfen?"
-  // "das Konto              Das Geld überweisen wir am ersten März auf Ihr Konto."
-  // "der Kopf               Mein Kopf tut weh!"
-  // "kosten                 Wie viel kostet das? – 10 Euro."
-  // "krank                  Ich kann heute nicht zur Arbeit kommen, ich bin krank"
-  // "und liege im Bett."
-  // "kriegen                Ich kriege 15 Euro in der Stunde für meine Arbeit."
-  // "die Küche              Der neue Herd kommt in die Küche."
-  // "der Kuchen             Ich nehme ein Stück Kuchen."
-  // "der Kugelschreiber   Hast du einen Kugelschreiber für mich?"
-  // "der Kühlschrank      Haben wir noch Milch? – Ja, im Kühlschrank."
-  // "kulturell            Ich bin kulturell interessiert. Ich gehe oft ins Museum."
-  // "sich kümmern         Jede Mutter kümmert sich um ihre kleinen Kinder."
-  // "der Kunde, -n        Einen Moment, bitte. Ich habe eine Kundin."
-  // "der Kurs, -e         Der Deutschkurs geht bis zum Sommer."
-  // "kurz                 Ricardo hat kurzes Haar."
+  ["der Kaffee", "", [["Zum Frühstück trinke ich immer Kaffee."]]],
 
-  // L
+  ["kaputt", "", [["Das Glas war teuer. Es geht sehr leicht kaputt."]]],
 
-  // 	"lachen               Die Kinder lachen viel."
-  // "der Laden, -ä        Im Buchladen können Sie Bücher kaufen."
-  // "das Land, -ä, er     Italien ist ein schönes Land."
-  // "lang                 Die Jeans ist zu lang."
-  // "lange                Wie lange fährt der Zug von Hamburg nach Berlin?"
-  // "langsam              Könnten Sie bitte etwas langsamer sprechen?"
-  // "laufen               Ich möchte nicht Auto fahren, ich möchte laufen."
-  // "laut                 Nicht so laut! Das Baby schläft."
-  // "leben                Sie lebt bei ihrer Schwester."
-  // "Ihre Eltern leben nicht mehr."
-  // "das Leben          Das Leben in diesem Land ist teuer."
-  // "die Lebens-"
-  // "mittel (pl.)       Lebensmittel bekommen Sie im Supermarkt."
-  // "ledig                Sind Sie verheiratet? – Nein. Ledig."
-  // "legen                Legen Sie das Buch auf den Tisch."
-  // "der Lehrer, –        Unsere Deutschlehrerin heißt Frau Müller."
-  // "leicht               Der Koffer ist leicht."
-  // "Deutsch ist nicht leicht."
-  // "leider               Leider kann ich nicht kommen. Ich muss zum Arzt."
-  // "leise                Seid leise. Die anderen schlafen schon."
-  // "lernen               Wie lange lernen Sie schon Deutsch?"
-  // "lesen                Ich lese ein Buch von García Márquez."
-  // "letzt-               Morgen ist der letzte Kurstag."
-  // "die Leute (pl.)      In der Disko sind viele Leute."
-  // "das Licht            Wo macht man hier das Licht an?"
-  // "lieb-                Liebe Susanne, lieber Hans,"
-  // "lieben             Ich liebe dich!"
-  // "lieber             Sie fährt lieber mit der Bahn."
-  // "Lieblings-           Mein Lieblingsfilm ist „Schwarze Augen“."
-  // "das Lied, -er        Welches ist dein Lieblingslied?"
-  // "liegen               Um neun Uhr liegt Judith noch im Bett."
-  // "Frankfurt liegt am Main."
-  // "links                Gehen Sie die nächste Straße links."
-  // "der Lkw, -s          Dieser Lastkraftwagen ist sehr groß."
-  // "das Lokal            In unserer Straße gibt es ein neues Lokal."
-  // "die Lösung, -en      Die Lösung ist ganz einfach."
-  // "lustig               Frau Mertens ist lustig. Sie lacht immer."
+  [
+    "die Karte, -n",
+    "",
+    [
+      ["Ich schreibe meinen Bekannten eine Karte aus dem Urlaub."],
+      ["Wollen wir Karten spielen?"],
+      ["Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte."],
+    ],
+  ],
 
-  // M
+  ["(Kredit)-Karte, -n", "", [["Kann ich auch mit Karte (be-) zahlen?"]]],
 
-  // "machen               Was machst du heute Abend?"
-  // "Ich muss jetzt das Essen machen."
-  // "Das macht 5 Euro 95."
-  // "Das macht nichts."
-  // "das Mädchen, –     Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
-  // "man                Hier darf man nicht rauchen."
-  // "der Mann, -ä, er   Mein Mann arbeitet bei der Polizei."
-  // "männlich          Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
-  // "die Maschine, -n   Die Waschmaschine ist günstig."
-  // "das Meer           Wir machen Urlaub am Meer."
-  // "mehr               Dieses Auto kostet 1.000 Euro mehr als das andere."
-  // "mein               Mein Vater ist Arzt."
-  // "meist-             Die meisten Norddeutschen sind sehr groß."
-  // "der Mensch, -en    Die Menschen sind hier anders als bei uns."
-  // "mieten             Ich möchte ein Auto mieten."
-  // "die Miete         Die Miete für diese Wohnung ist 600 Euro."
-  // "die Milch          Die Milch steht im Kühlschrank."
-  // "mit                Trinken Sie den Kaffee mit Milch?"
-  // "mitbringen         Ich gehe einkaufen. Soll ich dir was mitbringen?"
-  // "mitkommen          Ich gehe ins Kino. Kommst du mit?"
-  // "mitmachen          Warum macht ihr nicht mit?"
-  // "mitnehmen          Nehmen wir meine Schwester ins Kino mit?"
-  // "die Mitte          Der Lehrer steht in der Mitte des Klassenzimmers."
-  // "die Möbel (pl.)    Sind die Möbel neu?"
-  // "möchten            Was möchten Sie trinken?"
-  // "mögen              Magst du Kaffee oder Tee?"
-  // "möglich            Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."
-  // "der Moment         Moment mal bitte!"
-  // "Einen Moment bitte."
-  // "morgen             Morgen beginnt die Schule um 10 Uhr."
-  // "müde               Ich bin müde. Ich gehe schlafen."
-  // "der Mund           Öffnen Sie den Mund."
-  // "müssen             Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."
-  // "die Mutter, -ü     Frau Berghäuser ist die Mutter von Michaela."
+  ["die Kartoffel, -n", "", [["Für Pommes frites braucht man Kartoffeln."]]],
 
-  // N
+  ["die Kasse", "", [["Zahlen Sie bitte an der Kasse."]]],
 
-  // "nach               Ich gehe jetzt nach Hause."
-  // "Ich fliege nach München."
-  // "Es ist schon 5 nach 12."
-  // "nächst-            Sehen wir uns nächste Woche?"
-  // "der Name, -n       Mein Name ist Thomas Schmidt."
-  // "Mein Vorname ist Thomas; Schmidt ist der Familienname."
-  // "nehmen             Heute gibt es Hähnchen. Das nehme ich."
-  // "Ich nehme den Bus."
-  // "nein               Fährst du auch nach München? – Nein, ich habe keine"
-  // "Zeit."
-  // "neu                Ich bin der neue Kollege."
-  // "Wir haben eine neue Wohnung."
-  // "nicht              Das stimmt nicht."
-  // "Das ist doch schön, nicht?"
-  // "nichts             Das macht nichts."
-  // "Hier kaufe ich nichts. Der Laden gefällt mir nicht."
-  // "nie                Er kommt nie pünktlich."
-  // "noch                   Vielleicht kommt er noch."
-  // "Wir warten noch fünf Minuten."
-  // "Ich habe noch 20 Euro."
-  // "normal                 75 kg. Sein Gewicht ist normal."
-  // "die Nummer, -n         Sie haben Zimmer Nummer zwölf."
-  // "Welche Hausnummer haben Sie?"
-  // "Können Sie mir Ihre Nummer geben?"
-  // "nur                    Ich möchte nur ein Glas Wasser."
+  ["kaufen", "", [["Tim kauft sich ein neues Auto."]]],
 
+  ["kein", "", [["Es gibt keine Eintrittskarten mehr."]]],
+
+  ["kennen", "", [["Kennen Sie diese Frau? – Nein, leider nicht."]]],
+
+  ["kennenlernen", "", [["Wir sind neu hier. Wir möchten Sie kennenlernen."]]],
+
+  ["das Kind, -er", "", [["Wie viele Kinder haben Sie?"]]],
+
+  [
+    "der Kindergarten",
+    "",
+    [["Die kleine Laura geht schon in den Kindergarten."]],
+  ],
+
+  ["das Kino, -s", "", [["Wir sehen heute Abend im Kino einen schönen Film."]]],
+
+  [
+    "der Kiosk",
+    "",
+    [["Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen."]],
+  ],
+
+  ["klar", "", [["Kommst du mit? – Klar!"]]],
+
+  [
+    "die Klasse",
+    "",
+    [
+      ["In unserer Klasse sind fünfundzwanzig Schüler."],
+      ["Im Zug fahre ich immer 2. Klasse."],
+    ],
+  ],
+
+  [
+    "die Kleidung",
+    "",
+    [["Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock."]],
+  ],
+
+  ["klein", "", [["Eltville ist eine kleine Stadt am Rhein."]]],
+
+  ["kochen", "", [["Herr Georgi kann gut kochen."]]],
+
+  ["der Koffer, –", "", [["Ist das Ihr Koffer?"]]],
+
+  ["der Kollege, -n", "", [["Wie heißt die neue Kollegin?"]]],
+
+  [
+    "kommen",
+    "",
+    [
+      ["Woher kommen Sie? – Aus Frankreich."],
+      ["Kommst du mit ins Schwimmbad?"],
+    ],
+  ],
+
+  [
+    "können",
+    "",
+    [["Ich kann Deutsch und Russisch."], ["Können Sie mir helfen?"]],
+  ],
+
+  [
+    "das Konto",
+    "",
+    [["Das Geld überweisen wir am ersten März auf Ihr Konto."]],
+  ],
+
+  ["der Kopf", "", [["Mein Kopf tut weh!"]]],
+
+  ["kosten", "", [["Wie viel kostet das? – 10 Euro."]]],
+
+  [
+    "krank",
+    "",
+    [
+      [
+        "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.",
+      ],
+    ],
+  ],
+
+  ["kriegen", "", [["Ich kriege 15 Euro in der Stunde für meine Arbeit."]]],
+
+  ["die Küche", "", [["Der neue Herd kommt in die Küche."]]],
+
+  ["der Kuchen", "", [["Ich nehme ein Stück Kuchen."]]],
+
+  ["der Kugelschreiber", "", [["Hast du einen Kugelschreiber für mich?"]]],
+
+  ["der Kühlschrank", "", [["Haben wir noch Milch? – Ja, im Kühlschrank."]]],
+
+  [
+    "kulturell",
+    "",
+    [["Ich bin kulturell interessiert. Ich gehe oft ins Museum."]],
+  ],
+
+  ["sich kümmern", "", [["Jede Mutter kümmert sich um ihre kleinen Kinder."]]],
+
+  ["der Kunde, -n", "", [["Einen Moment, bitte. Ich habe eine Kundin."]]],
+
+  ["der Kurs, -e", "", [["Der Deutschkurs geht bis zum Sommer."]]],
+
+  ["kurz", "", [["Ricardo hat kurzes Haar."]]],
+
+  ["lachen", "", [["Die Kinder lachen viel."]]],
+
+  ["der Laden, -ä", "", [["Im Buchladen können Sie Bücher kaufen."]]],
+
+  ["das Land, -ä, er", "", [["Italien ist ein schönes Land."]]],
+
+  ["lang", "", [["Die Jeans ist zu lang."]]],
+
+  ["lange", "", [["Wie lange fährt der Zug von Hamburg nach Berlin?"]]],
+
+  ["langsam", "", [["Könnten Sie bitte etwas langsamer sprechen?"]]],
+
+  ["laufen", "", [["Ich möchte nicht Auto fahren, ich möchte laufen."]]],
+
+  ["laut", "", [["Nicht so laut! Das Baby schläft."]]],
+
+  [
+    "leben",
+    "",
+    [["Sie lebt bei ihrer Schwester."], ["Ihre Eltern leben nicht mehr."]],
+  ],
+
+  ["das Leben", "", [["Das Leben in diesem Land ist teuer."]]],
+
+  [
+    "die Lebensmittel (pl.)",
+    "",
+    [["Lebensmittel bekommen Sie im Supermarkt."]],
+  ],
+
+  ["ledig", "", [["Sind Sie verheiratet? – Nein. Ledig."]]],
+
+  ["legen", "", [["Legen Sie das Buch auf den Tisch."]]],
+
+  ["der Lehrer, –", "", [["Unsere Deutschlehrerin heißt Frau Müller."]]],
+
+  ["leicht", "", [["Der Koffer ist leicht."], ["Deutsch ist nicht leicht."]]],
+
+  ["leider", "", [["Leider kann ich nicht kommen. Ich muss zum Arzt."]]],
+
+  ["leise", "", [["Seid leise. Die anderen schlafen schon."]]],
+
+  ["lernen", "", [["Wie lange lernen Sie schon Deutsch?"]]],
+
+  ["lesen", "", [["Ich lese ein Buch von García Márquez."]]],
+
+  ["letzt-", "", [["Morgen ist der letzte Kurstag."]]],
+
+  ["die Leute (pl.)", "", [["In der Disko sind viele Leute."]]],
+
+  ["das Licht", "", [["Wo macht man hier das Licht an?"]]],
+
+  ["lieb-", "", [["Liebe Susanne, lieber Hans,"]]],
+
+  ["lieben", "", [["Ich liebe dich!"]]],
+
+  ["lieber", "", [["Sie fährt lieber mit der Bahn."]]],
+
+  ["Lieblings-", "", [["Mein Lieblingsfilm ist „Schwarze Augen“."]]],
+
+  ["das Lied, -er", "", [["Welches ist dein Lieblingslied?"]]],
+
+  [
+    "liegen",
+    "",
+    [["Um neun Uhr liegt Judith noch im Bett."], ["Frankfurt liegt am Main."]],
+  ],
+
+  ["links", "", [["Gehen Sie die nächste Straße links."]]],
+
+  ["der Lkw, -s", "", [["Dieser Lastkraftwagen ist sehr groß."]]],
+
+  ["das Lokal", "", [["In unserer Straße gibt es ein neues Lokal."]]],
+
+  ["die Lösung, -en", "", [["Die Lösung ist ganz einfach."]]],
+
+  ["lustig", "", [["Frau Mertens ist lustig. Sie lacht immer."]]],
+
+  [
+    "machen",
+    "",
+    [
+      ["Was machst du heute Abend?"],
+      ["Ich muss jetzt das Essen machen."],
+      ["Das macht 5 Euro 95."],
+      ["Das macht nichts."],
+    ],
+  ],
+
+  [
+    "das Mädchen, –",
+    "",
+    [["Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"]],
+  ],
+
+  ["man", "", [["Hier darf man nicht rauchen."]]],
+
+  ["der Mann, -ä, er", "", [["Mein Mann arbeitet bei der Polizei."]]],
+
+  ["männlich", "", [["Kreuzen Sie bitte an: „weiblich“ oder „männlich“."]]],
+
+  ["die Maschine, -n", "", [["Die Waschmaschine ist günstig."]]],
+
+  ["das Meer", "", [["Wir machen Urlaub am Meer."]]],
+
+  ["mehr", "", [["Dieses Auto kostet 1.000 Euro mehr als das andere."]]],
+
+  ["mein", "", [["Mein Vater ist Arzt."]]],
+
+  ["meist-", "", [["Die meisten Norddeutschen sind sehr groß."]]],
+
+  ["der Mensch, -en", "", [["Die Menschen sind hier anders als bei uns."]]],
+
+  ["mieten", "", [["Ich möchte ein Auto mieten."]]],
+
+  ["die Miete", "", [["Die Miete für diese Wohnung ist 600 Euro."]]],
+
+  ["die Milch", "", [["Die Milch steht im Kühlschrank."]]],
+
+  ["mit", "", [["Trinken Sie den Kaffee mit Milch?"]]],
+
+  ["mitbringen", "", [["Ich gehe einkaufen. Soll ich dir was mitbringen?"]]],
+
+  ["mitkommen", "", [["Ich gehe ins Kino. Kommst du mit?"]]],
+
+  ["mitmachen", "", [["Warum macht ihr nicht mit?"]]],
+
+  ["mitnehmen", "", [["Nehmen wir meine Schwester ins Kino mit?"]]],
+
+  ["die Mitte", "", [["Der Lehrer steht in der Mitte des Klassenzimmers."]]],
+
+  ["die Möbel (pl.)", "", [["Sind die Möbel neu?"]]],
+
+  ["möchten", "", [["Was möchten Sie trinken?"]]],
+
+  ["mögen", "", [["Magst du Kaffee oder Tee?"]]],
+
+  ["möglich", "", [["Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."]]],
+
+  ["der Moment", "", [["Moment mal bitte!"], ["Einen Moment bitte."]]],
+
+  ["morgen", "", [["Morgen beginnt die Schule um 10 Uhr."]]],
+
+  ["müde", "", [["Ich bin müde. Ich gehe schlafen."]]],
+
+  ["der Mund", "", [["Öffnen Sie den Mund."]]],
+
+  ["müssen", "", [["Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."]]],
+
+  ["die Mutter, -ü", "", [["Frau Berghäuser ist die Mutter von Michaela."]]],
+
+  [
+    "nach",
+    "",
+    [
+      ["Ich gehe jetzt nach Hause."],
+      ["Ich fliege nach München."],
+      ["Es ist schon 5 nach 12."],
+    ],
+  ],
+
+  ["nächst-", "", [["Sehen wir uns nächste Woche?"]]],
+
+  [
+    "der Name, -n",
+    "",
+    [
+      ["Mein Name ist Thomas Schmidt."],
+      ["Mein Vorname ist Thomas; Schmidt ist der Familienname."],
+    ],
+  ],
+  [
+    "nehmen",
+    "",
+    [["Heute gibt es Hähnchen. Das nehme ich."], ["Ich nehme den Bus."]],
+  ],
+
+  ["nein", "", [["Fährst du auch nach München? – Nein, ich habe keine Zeit."]]],
+
+  [
+    "neu",
+    "",
+    [["Ich bin der neue Kollege."], ["Wir haben eine neue Wohnung."]],
+  ],
+
+  ["nicht", "", [["Das stimmt nicht."], ["Das ist doch schön, nicht?"]]],
+
+  [
+    "nichts",
+    "",
+    [
+      ["Das macht nichts."],
+      ["Hier kaufe ich nichts. Der Laden gefällt mir nicht."],
+    ],
+  ],
+
+  ["nie", "", [["Er kommt nie pünktlich."]]],
+
+  [
+    "noch",
+    "",
+    [
+      ["Vielleicht kommt er noch."],
+      ["Wir warten noch fünf Minuten."],
+      ["Ich habe noch 20 Euro."],
+    ],
+  ],
+
+  ["normal", "", [["75 kg. Sein Gewicht ist normal."]]],
+
+  [
+    "die Nummer, -n",
+    "",
+    [
+      ["Sie haben Zimmer Nummer zwölf."],
+      ["Welche Hausnummer haben Sie?"],
+      ["Können Sie mir Ihre Nummer geben?"],
+    ],
+  ],
+
+  ["nur", "", [["Ich möchte nur ein Glas Wasser."]]],
   // O
 
   ["oben", "", [["Ich wohne oben.", ""]]],
@@ -1149,201 +1426,290 @@ const list = [
   ["der Ort, -e", "", [["Der Ort liegt am Meer.", ""]]],
 
   // P
-  // "das Papier             Hier sind Papier und Bleistift."
-  // "die Papiere (pl.)      Haben Sie Ihre Papiere dabei?"
-  // "der Partner, -/"
-  // "die Partnerin, -nen      Sie ist meine Partnerin."
-  // "die Party                Heute Abend machen wir eine Party."
-  // "der Pass, -ä, e          Im Hotel brauchst du deinen Pass."
-  // "die Pause, -n            Von 12.00 bis 12.30 Uhr haben wir Mittagspause."
-  // "der Plan, -ä, e          Ich kaufe mir einen Stadtplan."
-  // "der Platz, -ä, e         Tut mir leid, der Platz ist besetzt."
-  // "Bitte nehmen Sie Platz!"
-  // "Ich wohne Messeplatz 5."
-  // "die Polizei              Holen Sie die Polizei!"
-  // "die Pommes frites (pl.)  Die Kinder essen Hähnchen mit Pommes frites."
-  // "die Post                 Wo ist die Post, bitte?"
-  // "Ist Post da?"
-  // "die Postleitzahl         Wie ist Ihre Postleitzahl?"
-  // "das Praktikum            Ich mache ein Praktikum bei Siemens."
-  // "die Praxis               Die Praxis ist ab acht Uhr geöffnet."
-  // "der Preis, -e            Die Preise sind hoch."
-  // "das Problem, -e          Mein Problem ist die Sprache."
-  // "der Prospekt, -e         Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
-  // "die Prüfung              Die Prüfung ist am Montag um 8.00 Uhr."
-  // "pünktlich                Der Bus fährt pünktlich um acht Uhr."
-  // "Herr Müller ist immer pünktlich."
+  ["das Papier", "", [["Hier sind Papier und Bleistift."]]],
 
-  // R
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
+  ["die Papiere (pl.)", "", [["Haben Sie Ihre Papiere dabei?"]]],
 
-  // "Rad fahren            Das Kind kann schon Rad fahren."
-  // "rauchen               Ich rauche nicht."
-  // "der Raum, -ä, e       Der Unterricht ist in Raum 332."
-  // "die Rechnung, -en     Die Rechnung, bitte."
-  // "rechts                Die Schillerstraße ist hier rechts."
-  // "regnen                Heute regnet es."
-  // "der Regen           Bei diesem Regen gehe ich nicht raus."
-  // "der Reis              Ich esse gern Reis."
-  // "reisen                Ich reise gern."
-  // "die Reise           Wir machen eine Reise nach Österreich."
-  // "das Reisebüro, -s   Mein Mann arbeitet im Reisebüro."
-  // "der Reiseführer     Ich kaufe mir einen Reiseführer von Berlin."
-  // "Unser Reiseführer heißt Peter."
-  // "reparieren            Er hat das Fahrrad repariert."
-  // "die Reparatur       Die Reparatur ist sehr teuer."
-  // "das Restaurant, -s    Wir essen heute in einem Restaurant."
-  // "die Rezeption         Fragen Sie bitte im Hotel an der Rezeption."
-  // "richtig               Habe ich das richtig verstanden?"
-  // "Das ist richtig."
-  // "riechen               Dieser Wein riecht gut."
-  // "ruhig                 Ich möchte ein ruhiges Zimmer."
+  ["der Partner", "", [["Sie ist meine Partnerin."]]],
 
-  // S
+  ["die Party", "", [["Heute Abend machen wir eine Party."]]],
+  ["der Pass, -ä, e", "", [["Im Hotel brauchst du deinen Pass."]]],
+  ["die Pause, -n", "", [["Von 12.00 bis 12.30 Uhr haben wir Mittagspause."]]],
+  ["der Plan, -ä, e", "", [["Ich kaufe mir einen Stadtplan."]]],
+  [
+    "der Platz, -ä, e",
+    "",
+    [
+      ["Tut mir leid, der Platz ist besetzt."],
+      ["Bitte nehmen Sie Platz!"],
+      ["Ich wohne Messeplatz 5."],
+    ],
+  ],
 
-  // "der Saft              Möchtest du einen Apfelsaft?"
-  // "sagen                 Sag mal, wie geht es dir denn?"
-  // "der Salat             Wie schmeckt dir der Salat?"
-  // "das Salz              Herr Ober, kann ich bitte Salz haben?"
-  // "Satz, -ä, e           Dieser Satz ist sehr einfach."
-  // "die S-Bahn            Ich nehme lieber die S-Bahn."
-  // "der Schalter          Gehen Sie bitte zum Schalter drei!"
-  // "scheinen              Die Sonne scheint."
-  // "schicken              Bitte schicken Sie mir eine E-Mail."
-  // "das Schild, -er       Haben Sie nicht das Schild gesehen?"
-  // "der Schinken, –       Ich möchte gern ein Schinkenbrot."
-  // "schlafen              Ich schlafe meistens acht Stunden."
-  // "schlecht              Mir ist schlecht!"
-  // "Sie sehen schlecht aus."
-  // "Wir haben schlechtes Wetter."
-  // "schließen             Bitte, schließen Sie die Tür."
-  // "geschlossen          Die Bank hat am Samstag geschlossen."
-  // "der Schluss           Ich muss jetzt Schluss machen."
-  // "Zum Schluss gibt er uns allen die Hand."
-  // "der Schlüssel, –      Ich gebe Ihnen noch den Zimmerschlüssel."
-  // "schmecken             Schmeckt das gut?"
-  // "schnell               Er fährt schnell."
-  // "schon                 Ist das Essen schon fertig?"
-  // "schön                 Schönen Urlaub!"
-  // "Das ist sehr schön."
-  // "der Schrank, -ä, e    Die Gläser stehen im Schrank."
-  // "schreiben             Er schreibt jeden Tag fünfzig E-Mails."
-  // "der Schuh, -e          Zieh die Schuhe aus!"
-  // "die Schule             Meine Tochter geht schon in die Schule."
-  // "Die Schule ist gleich hier um die Ecke."
-  // "der Schüler, –       In meinem Kurs sind acht Schülerinnen und fünf"
-  // "Schüler."
-  // "schwer                 Ist Ihr Gepäck sehr schwer?"
-  // "Das ist eine schwere Arbeit."
-  // "die Schwester, -n      Meine Schwester kommt am Dienstag."
-  // "schwimmen              Ich schwimme jeden Tag einen Kilometer."
-  // "das Schwimmbad       Kommst du mit ins Schwimmbad?"
-  // "der See                Komm, wir fahren zum Starnberger See."
-  // "sehen                  Ich kann dich nicht sehen."
-  // "Ich habe diesen Jungen schon einmal gesehen."
-  // "die Sehenswürdigkeit, -en"
-  // "Welche Sehenswürdigkeiten gibt es in Frankfurt?"
-  // "sehr                   Danke sehr!"
-  // "Das ist sehr schwer."
-  // "sein                   Herr Müller ist in seinem Zimmer."
-  // "Mir ist kalt."
-  // "Ich bin dreiundzwanzig."
-  // "an sein              Das Licht ist noch an."
-  // "auf sein             Das Fenster ist noch auf."
-  // "weg sein             Herr Meier ist schon weg."
-  // "zu sein              Die Tür ist zu."
-  // "seit                   Ich wohne seit drei Jahren in Köln."
-  // "selbstständig          Er ist selbstständig."
-  // "sich                   Sie müssen sich erst anmelden."
-  // "sie                    Wie heißt sie?"
-  // "Sie                    Wie heißen Sie, bitte?"
-  // "sitzen                 Wo sitzen Sie?"
-  // "so                     Sie müssen das so machen!"
-  // "Fahren Sie bitte nicht so schnell!"
-  // "Meine Frau ist so groß wie ich."
-  // "So, das war‘s/wär‘s!"
-  // "das Sofa               Das Sofa ist neu."
-  // "sofort                 Bitte antworten Sie sofort."
-  // "der Sohn, -ö, e        Das ist Hans, mein Sohn."
-  // "sollen                 Soll ich kommen?"
-  // "Was soll ich mitbringen?"
-  // "die Sonne              Die Sonne scheint."
-  // "spät                   Es ist schon spät, ich muss gehen."
-  // "später                 Das können wir später machen."
-  // "die Speisekarte        Bringen Sie mir die Speisekarte, bitte."
-  // "spielen                Die Kinder spielen draußen."
-  // "Spielen Sie Karten?"
-  // "der Sport              Ich mache viel Sport."
-  // "die Sprache, -n        Welche Sprachen sprichst du?"
-  // "sprechen               Kann ich (mit) Herrn Klein sprechen?"
-  // "die Stadt, -ä, e       Heidelberg ist eine alte Stadt."
-  // "stehen                 Ich glaube es nicht, aber es steht in der Zeitung."
-  // "Der Bus steht schon an der Haltestelle."
-  // "die Stelle, -n         Ich habe eine neue Stelle."
-  // "stellen             Stell die Tasche rechts in die Ecke!"
-  // "der Stock           Unsere Wohnung liegt im ersten Stock."
-  // "die Straße, -n      In welcher Straße wohnen Sie?"
-  // "die Straßenbahn     Wo fährt die Straßenbahn ab?"
-  // "studieren           Ich studiere in Mainz."
-  // "das Studium         Das Studium beginnt im Oktober."
-  // "der Student, -en   Ich bin Studentin."
-  // "die Stunde, -n      Ich bin in einer Stunde zurück."
-  // "suchen              Suchst du etwas?"
+  ["die Polizei", "", [["Holen Sie die Polizei!"]]],
 
-  // T
+  [
+    "die Pommes frites (pl.)",
+    "",
+    [["Die Kinder essen Hähnchen mit Pommes frites."]],
+  ],
+  ["die Post", "", [["Wo ist die Post, bitte?"], ["Ist Post da?"]]],
 
-  // "tanzen              Tanzen Sie gern?"
-  // "die Tasche, -n      Ich habe die Schlüssel in der Tasche."
-  // "das Taxi, -s        Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."
-  // "der Tee             Ich trinke morgens immer Tee."
-  // "der Teil, -e        Lies bitte auch den zweiten Teil."
-  // "telefonieren        Darf ich mal telefonieren?"
-  // "das Telefon       Haben Sie Telefon?"
-  // "der Termin, -e      Am besten machen wir sofort einen Termin."
-  // "der Test            Der Test war einfach."
-  // "teuer               Das ist mir zu teuer."
-  // "der Text, -e        Lesen Sie bitte diesen Text."
-  // "das Thema           Wir sprechen heute über das Thema „Essen und"
-  // "Trinken“."
-  // "das Ticket, -s      Wie viel kostet das Ticket?"
-  // "der Tisch, -e       Die Fotos liegen auf dem Tisch."
-  // "die Tochter, -ö     Das ist meine Tochter Katharina."
-  // "die Toilette, -en   Wo ist die Toilette, bitte?"
-  // "die Tomate, -n      Die Tomate ist noch grün."
-  // "tot                 Sein Vater ist schon lange tot."
-  // "(sich) treffen      Ich treffe in der Stadt einen Kollegen."
-  // "Wir treffen uns immer freitags."
-  // "die Treppe, -n      Die Toilette? Die Treppe hoch und dann links."
-  // "trinken             Möchtest du etwas trinken?"
-  // "tschüss             Junge Leute sagen meistens „tschüss!“ und nicht"
-  // "„auf Wiedersehen“."
-  // "tun                 Ich habe noch etwas zu tun."
-  // "Was tut Ihr Mann?"
+  ["die Postleitzahl", "", [["Wie ist Ihre Postleitzahl?"]]],
 
-  // U
+  ["das Praktikum", "", [["Ich mache ein Praktikum bei Siemens."]]],
+  ["die Praxis", "", [["Die Praxis ist ab acht Uhr geöffnet."]]],
+  ["der Preis, -e", "", [["Die Preise sind hoch."]]],
+  ["das Problem, -e", "", [["Mein Problem ist die Sprache."]]],
+  [
+    "der Prospekt, -e",
+    "",
+    [["Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."]],
+  ],
+  ["die Prüfung", "", [["Die Prüfung ist am Montag um 8.00 Uhr."]]],
+  [
+    "pünktlich",
+    "",
+    [
+      ["Der Bus fährt pünktlich um acht Uhr."],
+      ["Herr Müller ist immer pünktlich."],
+    ],
+  ],
+  ["Rad fahren", "", [["Das Kind kann schon Rad fahren."]]],
+  ["rauchen", "", [["Ich rauche nicht."]]],
+  ["der Raum, -ä, e", "", [["Der Unterricht ist in Raum 332."]]],
+  [
+    "die Rechnung, -en",
+    "",
+    [["Die Rechnung, bitte."], ["Die Schillerstraße ist hier rechts."]],
+  ],
 
-  // "über                Gehen Sie hier über die Straße."
-  // "Er wohnt im zweiten Stock über Familie Meier."
-  // "Sind Sie über 18?"
-  // "übernachten         Du kannst bei mir übernachten."
-  // "überweisen          Sie können das Geld auch überweisen."
-  // "die Uhr             Es ist vier Uhr."
-  // "um                  Er kommt um sieben Uhr."
-  // "Da kommt er gerade um die Ecke."
-  // "umziehen            Nächsten Monat ziehen wir um."
-  // "und                 Peter und Helmut sind meine Söhne."
-  // "unser-               Das ist unsere Lehrerin."
-  // "unten                Er wohnt ganz unten im Haus."
-  // "unter                Unter uns wohnt eine Familie mit drei Kindern."
-  // "der Unterricht       Wir haben Unterricht von 8.00 bis 12.00 Uhr."
-  // "unterschreiben       Wo muss ich unterschreiben?"
-  // "die Unterschrift   Hier fehlt noch Ihre Unterschrift."
-  // "der Urlaub           Ich nehme im September Urlaub."
+  ["regnen", "", [["Heute regnet es."]]],
+  ["der Regen", "", [["Bei diesem Regen gehe ich nicht raus."]]],
+  ["der Reis", "", [["Ich esse gern Reis."]]],
+  ["reisen", "", [["Ich reise gern."]]],
+  ["die Reise", "", [["Wir machen eine Reise nach Österreich."]]],
+  ["das Reisebüro, -s", "", [["Mein Mann arbeitet im Reisebüro."]]],
+  [
+    "der Reiseführer",
+    "",
+    [
+      ["Ich kaufe mir einen Reiseführer von Berlin."],
+      ["Unser Reiseführer heißt Peter."],
+    ],
+  ],
 
+  ["reparieren", "", [["Er hat das Fahrrad repariert."]]],
+  ["die Reparatur", "", [["Die Reparatur ist sehr teuer."]]],
+  ["das Restaurant, -s", "", [["Wir essen heute in einem Restaurant."]]],
+  ["die Rezeption", "", [["Fragen Sie bitte im Hotel an der Rezeption."]]],
+  ["richtig", "", [["Habe ich das richtig verstanden?"], ["Das ist richtig."]]],
+  ["riechen", "", [["Dieser Wein riecht gut."]]],
+  ["ruhig", "", [["Ich möchte ein ruhiges Zimmer."]]],
+  ["der Saft", "", [["Möchtest du einen Apfelsaft?"]]],
+  ["sagen", "", [["Sag mal, wie geht es dir denn?"]]],
+  ["der Salat", "", [["Wie schmeckt dir der Salat?"]]],
+  ["das Salz", "", [["Herr Ober, kann ich bitte Salz haben?"]]],
+  ["Satz, -ä, e", "", [["Dieser Satz ist sehr einfach."]]],
+  ["die S-Bahn", "", [["Ich nehme lieber die S-Bahn."]]],
+  ["der Schalter", "", [["Gehen Sie bitte zum Schalter drei!"]]],
+  ["scheinen", "", [["Die Sonne scheint."]]],
+  ["schicken", "", [["Bitte schicken Sie mir eine E-Mail."]]],
+  ["das Schild, -er", "", [["Haben Sie nicht das Schild gesehen?"]]],
+  ["der Schinken, –", "", [["Ich möchte gern ein Schinkenbrot."]]],
+  ["schlafen", "", [["Ich schlafe meistens acht Stunden."]]],
+  [
+    "schlecht",
+    "",
+    [
+      ["Mir ist schlecht!"],
+      ["Sie sehen schlecht aus."],
+      ["Wir haben schlechtes Wetter."],
+    ],
+  ],
+  ["schließen", "", [["Bitte, schließen Sie die Tür."]]],
+  ["geschlossen", "", [["Die Bank hat am Samstag geschlossen."]]],
+  [
+    "der Schluss",
+    "",
+    [
+      ["Ich muss jetzt Schluss machen."],
+      ["Zum Schluss gibt er uns allen die Hand."],
+    ],
+  ],
+  ["der Schlüssel, –", "", [["Ich gebe Ihnen noch den Zimmerschlüssel."]]],
+  ["schmecken", "", [["Schmeckt das gut?"]]],
+  ["schnell", "", [["Er fährt schnell."]]],
+  ["schon", "", [["Ist das Essen schon fertig?"]]],
+  ["schön", "", [["Schönen Urlaub!"], ["Das ist sehr schön."]]],
+
+  ["der Schrank, -ä, e", "", [["Die Gläser stehen im Schrank."]]],
+  ["schreiben", "", [["Er schreibt jeden Tag fünfzig E-Mails."]]],
+  ["der Schuh, -e", "", [["Zieh die Schuhe aus!"]]],
+  [
+    "die Schule",
+    "",
+    [
+      ["Meine Tochter geht schon in die Schule."],
+      ["Die Schule ist gleich hier um die Ecke."],
+    ],
+  ],
+  [
+    "der Schüler, –",
+    "",
+    [["In meinem Kurs sind acht Schülerinnen und fünf Schüler."]],
+  ],
+  [
+    "schwer",
+    "",
+    [["Ist Ihr Gepäck sehr schwer?"], ["Das ist eine schwere Arbeit."]],
+  ],
+  ["die Schwester, -n", "", [["Meine Schwester kommt am Dienstag."]]],
+  ["schwimmen", "", [["Ich schwimme jeden Tag einen Kilometer."]]],
+  ["das Schwimmbad", "", [["Kommst du mit ins Schwimmbad?"]]],
+  ["der See", "", [["Komm, wir fahren zum Starnberger See."]]],
+  [
+    "sehen",
+    "",
+    [
+      ["Ich kann dich nicht sehen."],
+      ["Ich habe diesen Jungen schon einmal gesehen."],
+    ],
+  ],
+  [
+    "die Sehenswürdigkeit, -en",
+    "",
+    [["Welche Sehenswürdigkeiten gibt es in Frankfurt?"]],
+  ],
+  ["sehr", "", [["Danke sehr!"], ["Das ist sehr schwer."]]],
+  [
+    "sein",
+    "",
+    [
+      ["Herr Müller ist in seinem Zimmer."],
+      ["Mir ist kalt."],
+      ["Ich bin dreiundzwanzig."],
+    ],
+  ],
+  ["an sein", "", [["Das Licht ist noch an."]]],
+  ["auf sein", "", [["Das Fenster ist noch auf."]]],
+  ["weg sein", "", [["Herr Meier ist schon weg."]]],
+  ["zu sein", "", [["Die Tür ist zu."]]],
+  ["seit", "", [["Ich wohne seit drei Jahren in Köln."]]],
+  ["selbstständig", "", [["Er ist selbstständig."]]],
+  ["sich", "", [["Sie müssen sich erst anmelden."]]],
+  ["sie", "", [["Wie heißt sie?"]]],
+  ["Sie", "", [["Wie heißen Sie, bitte?"]]],
+  ["sitzen", "", [["Wo sitzen Sie?"]]],
+  [
+    "so",
+    "",
+    [
+      ["Sie müssen das so machen!"],
+      ["Fahren Sie bitte nicht so schnell!"],
+      ["Meine Frau ist so groß wie ich."],
+      ["So, das war‘s/wär‘s!"],
+    ],
+  ],
+  ["das Sofa", "", [["Das Sofa ist neu."]]],
+  ["sofort", "", [["Bitte antworten Sie sofort."]]],
+  ["der Sohn, -ö, e", "", [["Das ist Hans, mein Sohn."]]],
+  ["sollen", "", [["Soll ich kommen?"], ["Was soll ich mitbringen?"]]],
+  ["die Sonne", "", [["Die Sonne scheint."]]],
+  ["spät", "", [["Es ist schon spät, ich muss gehen."]]],
+  ["später", "", [["Das können wir später machen."]]],
+  ["die Speisekarte", "", [["Bringen Sie mir die Speisekarte, bitte."]]],
+  ["spielen", "", [["Die Kinder spielen draußen."], ["Spielen Sie Karten?"]]],
+  ["der Sport", "", [["Ich mache viel Sport."]]],
+  ["die Sprache, -n", "", [["Welche Sprachen sprichst du?"]]],
+  ["sprechen", "", [["Kann ich (mit) Herrn Klein sprechen?"]]],
+  ["die Stadt, -ä, e", "", [["Heidelberg ist eine alte Stadt."]]],
+  [
+    "stehen",
+    "",
+    [
+      ["Ich glaube es nicht, aber es steht in der Zeitung."],
+      ["Der Bus steht schon an der Haltestelle."],
+    ],
+  ],
+  ["die Stelle, -n", "", [["Ich habe eine neue Stelle."]]],
+  ["stellen", "", [["Stell die Tasche rechts in die Ecke!"]]],
+  ["der Stock", "", [["Unsere Wohnung liegt im ersten Stock."]]],
+  ["die Straße, -n", "", [["In welcher Straße wohnen Sie?"]]],
+  ["die Straßenbahn", "", [["Wo fährt die Straßenbahn ab?"]]],
+  ["studieren", "", [["Ich studiere in Mainz."]]],
+  ["das Studium", "", [["Das Studium beginnt im Oktober."]]],
+  ["der Student, -en", "", [["Ich bin Studentin."]]],
+  ["die Stunde, -n", "", [["Ich bin in einer Stunde zurück."]]],
+  ["suchen", "", [["Suchst du etwas?"]]],
+  ["tanzen", "", [["Tanzen Sie gern?"]]],
+  ["die Tasche, -n", "", [["Ich habe die Schlüssel in der Tasche."]]],
+  [
+    "das Taxi, -s",
+    "",
+    [["Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."]],
+  ],
+  ["der Tee", "", [["Ich trinke morgens immer Tee."]]],
+  ["der Teil, -e", "", [["Lies bitte auch den zweiten Teil."]]],
+  ["telefonieren", "", [["Darf ich mal telefonieren?"]]],
+  ["das Telefon", "", [["Haben Sie Telefon?"]]],
+  ["der Termin, -e", "", [["Am besten machen wir sofort einen Termin."]]],
+  ["der Test", "", [["Der Test war einfach."]]],
+  ["teuer", "", [["Das ist mir zu teuer."]]],
+  ["der Text, -e", "", [["Lesen Sie bitte diesen Text."]]],
+  [
+    "das Thema",
+    "",
+    [["Wir sprechen heute über das Thema „Essen und Trinken“."]],
+  ],
+  ["das Ticket, -s", "", [["Wie viel kostet das Ticket?"]]],
+  ["der Tisch, -e", "", [["Die Fotos liegen auf dem Tisch."]]],
+  ["die Tochter, -ö", "", [["Das ist meine Tochter Katharina."]]],
+  ["die Toilette, -en", "", [["Wo ist die Toilette, bitte?"]]],
+  ["die Tomate, -n", "", [["Die Tomate ist noch grün."]]],
+  ["tot", "", [["Sein Vater ist schon lange tot."]]],
+  [
+    "(sich) treffen",
+    "",
+    [
+      ["Ich treffe in der Stadt einen Kollegen."],
+      ["Wir treffen uns immer freitags."],
+    ],
+  ],
+  ["die Treppe, -n", "", [["Die Toilette? Die Treppe hoch und dann links."]]],
+  ["trinken", "", [["Möchtest du etwas trinken?"]]],
+  [
+    "tschüss",
+    "",
+    [["Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“."]],
+  ],
+  ["tun", "", [["Ich habe noch etwas zu tun."], ["Was tut Ihr Mann?"]]],
+  [
+    "über",
+    "",
+    [
+      ["Gehen Sie hier über die Straße."],
+      ["Er wohnt im zweiten Stock über Familie Meier."],
+      ["Sind Sie über 18?"],
+    ],
+  ],
+  ["übernachten", "", [["Du kannst bei mir übernachten."]]],
+  ["überweisen", "", [["Sie können das Geld auch überweisen."]]],
+  ["die Uhr", "", [["Es ist vier Uhr."]]],
+  [
+    "um",
+    "",
+    [["Er kommt um sieben Uhr."], ["Da kommt er gerade um die Ecke."]],
+  ],
+  ["umziehen", "", [["Nächsten Monat ziehen wir um."]]],
+  ["und", "", [["Peter und Helmut sind meine Söhne."]]],
+  ["unser-", "", [["Das ist unsere Lehrerin."]]],
+  ["unten", "", [["Er wohnt ganz unten im Haus."]]],
+  ["unter", "", [["Unter uns wohnt eine Familie mit drei Kindern."]]],
+  ["der Unterricht", "", [["Wir haben Unterricht von 8.00 bis 12.00 Uhr."]]],
+  ["unterschreiben", "", [["Wo muss ich unterschreiben?"]]],
+  ["die Unterschrift", "", [["Hier fehlt noch Ihre Unterschrift."]]],
+  ["der Urlaub", "", [["Ich nehme im September Urlaub."]]],
   // V
 
   ["der Vater, -ä", "", [["Mein Vater ist Arbeiter.", ""]]],
@@ -1390,66 +1756,127 @@ const list = [
 
   // W
 
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
-  ["", "", [["", ""]]],
+  ["wandern", "", [["Wir wandern um den Chiemsee."]]],
 
-  // "wandern              Wir wandern um den Chiemsee."
-  // "wann                 Wann bist du fertig?"
-  // "Wann kann ich Sie anrufen?"
-  // "Wann sind Sie geboren?"
-  // "warten               Können Sie ein paar Minuten warten?"
-  // "Auf wen warten Sie?"
-  // "warum                Warum kommt er nicht?"
-  // "was                  Was ist das?"
-  // "Was möchten Sie?"
-  // "was für ein          Was für eine Farbe möchten Sie?"
-  // "(sich) waschen       Wo kann ich mir die Hände waschen?"
-  // "Ich muss morgen waschen."
-  // "das Wasser           Ein Glas Wasser, bitte."
-  // "weh tun              Ich muss zum Arzt. Mein Bein tut weh."
-  // "weiblich             Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
-  // "der Wein             Nein danke, ich möchte keinen Wein."
-  // "weit                 Zum Bahnhof ist es nicht weit."
-  // "weiter                Der Bus fährt nicht weiter."
-  // "welch-                Welches Buch möchtest du?"
-  // "die Welt              Es gibt viele Probleme auf der Welt."
-  // "wenig                 Ich habe leider nur wenig verstanden."
-  // "Er verdient wenig."
-  // "wer                   Wer ist das?"
-  // "werden                Mein Sohn will Arzt werden."
-  // "das Wetter            Wir hatten schlechtes Wetter."
-  // "wichtig               Dieses Formular ist sehr wichtig."
-  // "wie                   Wie heißt du?"
-  // "Er schreibt wie ein Kind."
-  // "Meine Frau ist so groß wie ich."
-  // "Wie soll ich das machen?"
-  // "Wie groß ist die Wohnung?"
-  // "Wie bitte?"
-  // "Wie lange bist du schon hier?"
-  // "wiederholen           Können Sie das bitte wiederholen?"
-  // "das Wiederhören       Wir müssen jetzt Schluss machen."
-  // "Also auf Wiederhören!"
-  // "das Wiedersehen       Auf Wiedersehen!"
-  // "wie viel              Wie viel Milch nehmen Sie?"
-  // "willkommen            Herzlich willkommen!"
-  // "der Wind              Der Wind kommt aus Osten."
-  // "wir                   Wir lernen Deutsch."
-  // "wissen                Weißt du, wie er heißt?"
-  // "wo                    Wo waren Sie im Urlaub?"
-  // "Wo ist die Post?"
-  // "Wo sind Sie geboren?"
-  // "woher                 Woher kommen Sie?"
-  // "wohin                 Wohin fährt dieser Bus?"
-  // "Wohin wollen Sie am Wochenende?"
-  // "wohnen                Ich wohne in München."
-  // "die Wohnung, -en     Seit wann haben Sie diese Wohnung?"
-  // "wollen                Wollen Sie einen Kaffee trinken?"
-  // "das Wort, -ö, er/-e   Ich kenne das Wort nicht."
-  // "wunderbar             Das Essen schmeckt wunderbar."
+  [
+    "wann",
+    "",
+    [
+      ["Wann bist du fertig?"],
+      ["Wann kann ich Sie anrufen?"],
+      ["Wann sind Sie geboren?"],
+    ],
+  ],
+
+  [
+    "warten",
+    "",
+    [["Können Sie ein paar Minuten warten?"], ["Auf wen warten Sie?"]],
+  ],
+
+  ["warum", "", [["Warum kommt er nicht?"]]],
+
+  ["was", "", [["Was ist das?"], ["Was möchten Sie?"]]],
+
+  ["was für ein", "", [["Was für eine Farbe möchten Sie?"]]],
+
+  [
+    "(sich) waschen",
+    "",
+    [["Wo kann ich mir die Hände waschen?"], ["Ich muss morgen waschen."]],
+  ],
+
+  ["das Wasser", "", [["Ein Glas Wasser, bitte."]]],
+
+  ["weh tun", "", [["Ich muss zum Arzt. Mein Bein tut weh."]]],
+
+  ["weiblich", "", [["Kreuzen Sie bitte an: „weiblich“ oder „männlich“."]]],
+
+  ["der Wein", "", [["Nein danke, ich möchte keinen Wein."]]],
+
+  ["weit", "", [["Zum Bahnhof ist es nicht weit."]]],
+
+  ["weiter", "", [["Der Bus fährt nicht weiter."]]],
+
+  ["welch-", "", [["Welches Buch möchtest du?"]]],
+
+  ["die Welt", "", [["Es gibt viele Probleme auf der Welt."]]],
+
+  [
+    "wenig",
+    "",
+    [["Ich habe leider nur wenig verstanden."], ["Er verdient wenig."]],
+  ],
+
+  ["wer", "", [["Wer ist das?"]]],
+
+  ["werden", "", [["Mein Sohn will Arzt werden."]]],
+
+  ["das Wetter", "", [["Wir hatten schlechtes Wetter."]]],
+
+  ["wichtig", "", [["Dieses Formular ist sehr wichtig."]]],
+
+  [
+    "wie",
+    "",
+    [
+      ["Wie heißt du?"],
+      ["Er schreibt wie ein Kind."],
+      ["Meine Frau ist so groß wie ich."],
+      ["Wie soll ich das machen?"],
+      ["Wie groß ist die Wohnung?"],
+      ["Wie bitte?"],
+      ["Wie lange bist du schon hier?"],
+    ],
+  ],
+
+  ["wiederholen", "", [["Können Sie das bitte wiederholen?"]]],
+
+  [
+    "das Wiederhören",
+    "",
+    [["Wir müssen jetzt Schluss machen."], ["Also auf Wiederhören!"]],
+  ],
+
+  ["das Wiedersehen", "", [["Auf Wiedersehen!"]]],
+
+  ["wie viel", "", [["Wie viel Milch nehmen Sie?"]]],
+
+  ["willkommen", "", [["Herzlich willkommen!"]]],
+
+  ["der Wind", "", [["Der Wind kommt aus Osten."]]],
+
+  ["wir", "", [["Wir lernen Deutsch."]]],
+
+  ["wissen", "", [["Weißt du, wie er heißt?"]]],
+
+  [
+    "wo",
+    "",
+    [
+      ["Wo waren Sie im Urlaub?"],
+      ["Wo ist die Post?"],
+      ["Wo sind Sie geboren?"],
+    ],
+  ],
+
+  ["woher", "", [["Woher kommen Sie?"]]],
+
+  [
+    "wohin",
+    "",
+    [["Wohin fährt dieser Bus?"], ["Wohin wollen Sie am Wochenende?"]],
+  ],
+
+  ["wohnen", "", [["Ich wohne in München."]]],
+
+  ["die Wohnung, -en", "", [["Seit wann haben Sie diese Wohnung?"]]],
+
+  ["wollen", "", [["Wollen Sie einen Kaffee trinken?"]]],
+
+  ["das Wort, -ö, er/-e", "", [["Ich kenne das Wort nicht."]]],
+
+  ["wunderbar", "", [["Das Essen schmeckt wunderbar."]]],
 
   // Z
 

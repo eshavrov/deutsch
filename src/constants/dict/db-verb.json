@@ -5699,7 +5699,14 @@
       }
     },
     "translate": "давать; подавать; дать",
-    "context": [],
+    "context": [
+      [
+        "Kannst du mir bitte deinen Kugelschreiber geben?"
+      ],
+      [
+        "Es gibt keine Karten mehr."
+      ]
+    ],
     "originals": [
       "geben"
     ],
@@ -5723,7 +5730,11 @@
       }
     },
     "translate": "родиться; рожденный",
-    "context": [],
+    "context": [
+      [
+        "Ich bin in Zagreb geboren."
+      ]
+    ],
     "originals": [
       "geboren"
     ],
@@ -5817,7 +5828,11 @@
       }
     },
     "translate": "нравится; нравиться; быть по вкусу; приглянуться",
-    "context": [],
+    "context": [
+      [
+        "Das gefällt mir."
+      ]
+    ],
     "originals": [
       "gefallen"
     ],
@@ -5840,7 +5855,17 @@
       }
     },
     "translate": "против; около; вопреки; по отношению к; по сравнению с; помимо",
-    "context": [],
+    "context": [
+      [
+        "Fahr nicht gegen den Baum!"
+      ],
+      [
+        "Ich bin gegen diese Lösung."
+      ],
+      [
+        "Wer spielt gegen wen?"
+      ]
+    ],
     "originals": [
       "gegen"
     ],
@@ -5863,7 +5888,23 @@
       }
     },
     "translate": "идти; ходить; уходить",
-    "context": [],
+    "context": [
+      [
+        "Ich weiß nicht, wie das geht."
+      ],
+      [
+        "Wie geht‘s?"
+      ],
+      [
+        "Jetzt muss ich (aber) leider gehen."
+      ],
+      [
+        "Ich muss zum Arzt gehen."
+      ],
+      [
+        "Das geht nicht!"
+      ]
+    ],
     "originals": [
       "gehen"
     ],
@@ -5887,7 +5928,11 @@
       }
     },
     "translate": "принадлежать; относиться; входить в состав",
-    "context": [],
+    "context": [
+      [
+        "Wem gehört das?"
+      ]
+    ],
     "originals": [
       "gehören"
     ],
@@ -6128,7 +6173,11 @@
       }
     },
     "translate": "закрыто; закрытый",
-    "context": [],
+    "context": [
+      [
+        "Die Bank hat am Samstag geschlossen."
+      ]
+    ],
     "originals": [
       "geschlossen"
     ],
@@ -6151,7 +6200,11 @@
       }
     },
     "translate": "умереть",
-    "context": [],
+    "context": [
+      [
+        "Meine Frau ist gestern gestorben."
+      ]
+    ],
     "originals": [
       "gestorben"
     ],
@@ -6174,12 +6227,16 @@
       }
     },
     "translate": "выигрывать; добывать; получать; выиграть; побеждать",
-    "context": [],
-    "irregular": true,
+    "context": [
+      [
+        "Wer gewinnt das Spiel?"
+      ]
+    ],
     "originals": [
       "gewinnen"
     ],
-    "id": "86ef4e12d088b2c1c3a8937fa43fd887"
+    "id": "86ef4e12d088b2c1c3a8937fa43fd887",
+    "irregular": true
   },
   {
     "type": "verb",
@@ -6222,7 +6279,14 @@
       }
     },
     "translate": "полагать; думать; верить",
-    "context": [],
+    "context": [
+      [
+        "Sie können mir glauben, es ist so."
+      ],
+      [
+        "Ich glaube, er kommt gleich."
+      ]
+    ],
     "originals": [
       "glauben"
     ],
@@ -6342,7 +6406,11 @@
       }
     },
     "translate": "поздравлять; поздравить",
-    "context": [],
+    "context": [
+      [
+        "Ich gratuliere dir!"
+      ]
+    ],
     "originals": [
       "gratulieren"
     ],
@@ -6389,7 +6457,11 @@
       }
     },
     "translate": "жарить на гриле; поджаривать на гриле",
-    "context": [],
+    "context": [
+      [
+        "Heute grillen wir im Garten."
+      ]
+    ],
     "originals": [
       "grillen"
     ],
@@ -6505,7 +6577,11 @@
       }
     },
     "translate": "иметь; обладать; владеть",
-    "context": [],
+    "context": [
+      [
+        "Ich habe ein neues Auto."
+      ]
+    ],
     "originals": [
       "haben"
     ],
@@ -6532,7 +6608,11 @@
       }
     },
     "translate": "держать; останавливаться; содержать; соблюдать; останавливать(ся)",
-    "context": [],
+    "context": [
+      [
+        "Dieser Zug hält nicht in Rüdesheim."
+      ]
+    ],
     "originals": [
       "halten"
     ],
@@ -6650,7 +6730,11 @@
       }
     },
     "translate": "жениться; выходить замуж",
-    "context": [],
+    "context": [
+      [
+        "Meine Schwester heiratet einen Japaner."
+      ]
+    ],
     "originals": [
       "heiraten"
     ],
@@ -6696,7 +6780,9 @@
       }
     },
     "translate": "называть; зваться; называться; означать",
-    "context": [],
+    "context": [
+      null
+    ],
     "originals": [
       "heißen"
     ],
@@ -6721,7 +6807,11 @@
       }
     },
     "translate": "помогать; помочь",
-    "context": [],
+    "context": [
+      [
+        "Können Sie mir helfen, bitte?"
+      ]
+    ],
     "originals": [
       "helfen"
     ],
@@ -6817,7 +6907,11 @@
       }
     },
     "translate": "позади; сзади; (там) сзади",
-    "context": [],
+    "context": [
+      [
+        "Die Tür zum Aussteigen ist hinten."
+      ]
+    ],
     "originals": [
       "(da) hinten"
     ],
@@ -6886,7 +6980,11 @@
       }
     },
     "translate": "приносить; привозить; забирать; убирать; вывозить; получать; доставать; вытаскивать",
-    "context": [],
+    "context": [
+      [
+        "Ich hole zwei Flaschen Wasser aus der Küche."
+      ]
+    ],
     "originals": [
       "holen"
     ],
@@ -6956,7 +7054,14 @@
       }
     },
     "translate": "слушать; слышать; уловить",
-    "context": [],
+    "context": [
+      [
+        "Hör mal! Was ist das?"
+      ],
+      [
+        "Ich habe das Lied schon mal gehört."
+      ]
+    ],
     "originals": [
       "hören"
     ],
@@ -7094,7 +7199,11 @@
       }
     },
     "translate": "купить; покупать",
-    "context": [],
+    "context": [
+      [
+        "Tim kauft sich ein neues Auto."
+      ]
+    ],
     "originals": [
       "kaufen"
     ],
@@ -7117,7 +7226,11 @@
       }
     },
     "translate": "знать; быть знакомым; знакомиться",
-    "context": [],
+    "context": [
+      [
+        "Kennen Sie diese Frau? – Nein, leider nicht."
+      ]
+    ],
     "originals": [
       "kennen"
     ],
@@ -7141,7 +7254,11 @@
       }
     },
     "translate": "знакомиться; познакомиться",
-    "context": [],
+    "context": [
+      [
+        "Wir sind neu hier. Wir möchten Sie kennenlernen."
+      ]
+    ],
     "originals": [
       "kennenlernen"
     ],
@@ -7327,7 +7444,11 @@
       }
     },
     "translate": "варить; готовить (пищу); стряпать; кипятить; кипеть; готовить; готовить пищу",
-    "context": [],
+    "context": [
+      [
+        "Herr Georgi kann gut kochen."
+      ]
+    ],
     "originals": [
       "kochen",
       "sieden"
@@ -7351,7 +7472,14 @@
       }
     },
     "translate": "приходить; прибывать; приезжать",
-    "context": [],
+    "context": [
+      [
+        "Woher kommen Sie? – Aus Frankreich."
+      ],
+      [
+        "Kommst du mit ins Schwimmbad?"
+      ]
+    ],
     "originals": [
       "kommen"
     ],
@@ -7421,7 +7549,11 @@
       }
     },
     "translate": "стоить; пробовать; составлять",
-    "context": [],
+    "context": [
+      [
+        "Wie viel kostet das? – 10 Euro."
+      ]
+    ],
     "originals": [
       "kosten"
     ],
@@ -7468,7 +7600,11 @@
       }
     },
     "translate": "получать; вести войну; воевать",
-    "context": [],
+    "context": [
+      [
+        "Ich kriege 15 Euro in der Stunde für meine Arbeit."
+      ]
+    ],
     "originals": [
       "kriegen"
     ],
@@ -7537,7 +7673,14 @@
       }
     },
     "translate": "мочь; уметь; быть в состоянии",
-    "context": [],
+    "context": [
+      [
+        "Ich kann Deutsch und Russisch."
+      ],
+      [
+        "Können Sie mir helfen?"
+      ]
+    ],
     "originals": [
       "können"
     ],
@@ -7607,7 +7750,11 @@
       }
     },
     "translate": "смеяться; хохотать; посмеиваться",
-    "context": [],
+    "context": [
+      [
+        "Die Kinder lachen viel."
+      ]
+    ],
     "originals": [
       "lachen"
     ],
@@ -7708,7 +7855,11 @@
       }
     },
     "translate": "бегать; бежать; убегать",
-    "context": [],
+    "context": [
+      [
+        "Ich möchte nicht Auto fahren, ich möchte laufen."
+      ]
+    ],
     "originals": [
       "laufen"
     ],
@@ -7732,7 +7883,14 @@
       }
     },
     "translate": "жить; существовать",
-    "context": [],
+    "context": [
+      [
+        "Sie lebt bei ihrer Schwester."
+      ],
+      [
+        "Ihre Eltern leben nicht mehr."
+      ]
+    ],
     "originals": [
       "leben"
     ],
@@ -7755,7 +7913,11 @@
       }
     },
     "translate": "класть; положить; ставить; укладывать",
-    "context": [],
+    "context": [
+      [
+        "Legen Sie das Buch auf den Tisch."
+      ]
+    ],
     "originals": [
       "legen"
     ],
@@ -7849,7 +8011,11 @@
       }
     },
     "translate": "учиться; обучаться; узнавать; научиться; изучать",
-    "context": [],
+    "context": [
+      [
+        "Wie lange lernen Sie schon Deutsch?"
+      ]
+    ],
     "originals": [
       "lernen"
     ],
@@ -7875,7 +8041,11 @@
       }
     },
     "translate": "читать",
-    "context": [],
+    "context": [
+      [
+        "Ich lese ein Buch von García Márquez."
+      ]
+    ],
     "originals": [
       "lesen"
     ],
@@ -7899,7 +8069,11 @@
       }
     },
     "translate": "любить; полюбить",
-    "context": [],
+    "context": [
+      [
+        "Ich liebe dich!"
+      ]
+    ],
     "originals": [
       "lieben"
     ],
@@ -7922,7 +8096,14 @@
       }
     },
     "translate": "лежать; быть расположенным; располагаться; находиться",
-    "context": [],
+    "context": [
+      [
+        "Um neun Uhr liegt Judith noch im Bett."
+      ],
+      [
+        "Frankfurt liegt am Main."
+      ]
+    ],
     "originals": [
       "liegen"
     ],
@@ -8110,7 +8291,20 @@
       }
     },
     "translate": "делать; заниматься; совершать; выполнять",
-    "context": [],
+    "context": [
+      [
+        "Was machst du heute Abend?"
+      ],
+      [
+        "Ich muss jetzt das Essen machen."
+      ],
+      [
+        "Das macht 5 Euro 95."
+      ],
+      [
+        "Das macht nichts."
+      ]
+    ],
     "originals": [
       "machen"
     ],
@@ -8370,7 +8564,11 @@
       }
     },
     "translate": "арендовать; снимать; нанимать",
-    "context": [],
+    "context": [
+      [
+        "Ich möchte ein Auto mieten."
+      ]
+    ],
     "originals": [
       "mieten"
     ],
@@ -8441,7 +8639,11 @@
       }
     },
     "translate": "приносить с собой; принести с собой; приносить; принести",
-    "context": [],
+    "context": [
+      [
+        "Ich gehe einkaufen. Soll ich dir was mitbringen?"
+      ]
+    ],
     "originals": [
       "mitbringen"
     ],
@@ -8465,7 +8667,11 @@
       }
     },
     "translate": "пойти вместе; идти вместе",
-    "context": [],
+    "context": [
+      [
+        "Ich gehe ins Kino. Kommst du mit?"
+      ]
+    ],
     "originals": [
       "mitkommen"
     ],
@@ -8489,7 +8695,11 @@
       }
     },
     "translate": "участвовать; принимать участие; испытывать",
-    "context": [],
+    "context": [
+      [
+        "Warum macht ihr nicht mit?"
+      ]
+    ],
     "originals": [
       "mitmachen"
     ],
@@ -8513,7 +8723,11 @@
       }
     },
     "translate": "брать с собой; взять с собой",
-    "context": [],
+    "context": [
+      [
+        "Nehmen wir meine Schwester ins Kino mit?"
+      ]
+    ],
     "originals": [
       "mitnehmen"
     ],
@@ -8583,7 +8797,11 @@
       }
     },
     "translate": "завтра; утро",
-    "context": [],
+    "context": [
+      [
+        "Morgen beginnt die Schule um 10 Uhr."
+      ]
+    ],
     "originals": [
       "morgen"
     ],
@@ -8652,7 +8870,11 @@
       }
     },
     "translate": "хотеть; хотелось бы",
-    "context": [],
+    "context": [
+      [
+        "Was möchten Sie trinken?"
+      ]
+    ],
     "originals": [
       "möchten"
     ],
@@ -8675,7 +8897,11 @@
       }
     },
     "translate": "любить; чувствовать расположение; нравиться; хотеть; желать",
-    "context": [],
+    "context": [
+      [
+        "Magst du Kaffee oder Tee?"
+      ]
+    ],
     "originals": [
       "mögen"
     ],
@@ -8699,7 +8925,11 @@
       }
     },
     "translate": "быть должным; быть вынужденным; долженствовать; быть необходимым; должен",
-    "context": [],
+    "context": [
+      [
+        "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."
+      ]
+    ],
     "originals": [
       "müssen"
     ],
@@ -8773,7 +9003,14 @@
       }
     },
     "translate": "брать; взять; принимать",
-    "context": [],
+    "context": [
+      [
+        "Heute gibt es Hähnchen. Das nehme ich."
+      ],
+      [
+        "Ich nehme den Bus."
+      ]
+    ],
     "originals": [
       "nehmen"
     ],
@@ -9545,7 +9782,11 @@
       }
     },
     "translate": "курить; дымить",
-    "context": [],
+    "context": [
+      [
+        "Ich rauche nicht."
+      ]
+    ],
     "originals": [
       "rauchen"
     ],
@@ -9683,7 +9924,11 @@
       }
     },
     "translate": "идет дождь; дождить; идёт дождь",
-    "context": [],
+    "context": [
+      [
+        "Heute regnet es."
+      ]
+    ],
     "originals": [
       "regnen"
     ],
@@ -9753,7 +9998,11 @@
       }
     },
     "translate": "путешествовать; ездить; странствовать",
-    "context": [],
+    "context": [
+      [
+        "Ich reise gern."
+      ]
+    ],
     "originals": [
       "reisen"
     ],
@@ -9871,7 +10120,11 @@
       }
     },
     "translate": "чинить; ремонтировать; производить ремонт; восстанавливать",
-    "context": [],
+    "context": [
+      [
+        "Er hat das Fahrrad repariert."
+      ]
+    ],
     "originals": [
       "reparieren"
     ],
@@ -9940,12 +10193,16 @@
       }
     },
     "translate": "нюхать; пахнуть",
-    "context": [],
-    "irregular": true,
+    "context": [
+      [
+        "Dieser Wein riecht gut."
+      ]
+    ],
     "originals": [
       "riechen"
     ],
-    "id": "a8a4091c9bf1aff71ea1ad647a622ec4"
+    "id": "a8a4091c9bf1aff71ea1ad647a622ec4",
+    "irregular": true
   },
   {
     "type": "verb",
@@ -10082,7 +10339,11 @@
       }
     },
     "translate": "сказать; говорить; произносить",
-    "context": [],
+    "context": [
+      [
+        "Sag mal, wie geht es dir denn?"
+      ]
+    ],
     "originals": [
       "sagen"
     ],
@@ -10273,7 +10534,11 @@
       }
     },
     "translate": "светить; сиять; казаться",
-    "context": [],
+    "context": [
+      [
+        "Die Sonne scheint."
+      ]
+    ],
     "originals": [
       "scheinen"
     ],
@@ -10368,7 +10633,11 @@
       }
     },
     "translate": "посылать; отправлять; направлять",
-    "context": [],
+    "context": [
+      [
+        "Bitte schicken Sie mir eine E-Mail."
+      ]
+    ],
     "originals": [
       "schicken"
     ],
@@ -10487,7 +10756,11 @@
       }
     },
     "translate": "спать; ночевать",
-    "context": [],
+    "context": [
+      [
+        "Ich schlafe meistens acht Stunden."
+      ]
+    ],
     "originals": [
       "schlafen"
     ],
@@ -10584,12 +10857,16 @@
       }
     },
     "translate": "закрывать; запирать; завершать; заключать; закрыть; завершить",
-    "context": [],
-    "irregular": true,
+    "context": [
+      [
+        "Bitte, schließen Sie die Tür."
+      ]
+    ],
     "originals": [
       "schließen"
     ],
-    "id": "14c74d576fad60e741f5fff19e6170cd"
+    "id": "14c74d576fad60e741f5fff19e6170cd",
+    "irregular": true
   },
   {
     "type": "verb",
@@ -10655,7 +10932,11 @@
       }
     },
     "translate": "пробовать; пробовать на вкус; иметь вкус; отведать; попробовать; быть по вкусу; на вкус",
-    "context": [],
+    "context": [
+      [
+        "Schmeckt das gut?"
+      ]
+    ],
     "originals": [
       "schmecken"
     ],
@@ -10869,7 +11150,11 @@
       }
     },
     "translate": "писать; записывать; написать",
-    "context": [],
+    "context": [
+      [
+        "Er schreibt jeden Tag fünfzig E-Mails."
+      ]
+    ],
     "originals": [
       "schreiben"
     ],
@@ -10989,7 +11274,11 @@
       }
     },
     "translate": "плавать; плыть",
-    "context": [],
+    "context": [
+      [
+        "Ich schwimme jeden Tag einen Kilometer."
+      ]
+    ],
     "originals": [
       "schwimmen"
     ],
@@ -11155,7 +11444,14 @@
       }
     },
     "translate": "смотреть; глядеть; видеть",
-    "context": [],
+    "context": [
+      [
+        "Ich kann dich nicht sehen."
+      ],
+      [
+        "Ich habe diesen Jungen schon einmal gesehen."
+      ]
+    ],
     "originals": [
       "sehen"
     ],
@@ -11358,7 +11654,11 @@
       }
     },
     "translate": "сидеть; сижу; сидишь; сидят",
-    "context": [],
+    "context": [
+      [
+        "Wo sitzen Sie?"
+      ]
+    ],
     "originals": [
       "sitzen"
     ],
@@ -11382,7 +11682,14 @@
       }
     },
     "translate": "долженствовать; быть обязанным; быть должным",
-    "context": [],
+    "context": [
+      [
+        "Soll ich kommen?"
+      ],
+      [
+        "Was soll ich mitbringen?"
+      ]
+    ],
     "originals": [
       "sollen"
     ],
@@ -11523,7 +11830,14 @@
       }
     },
     "translate": "играть; исполнять",
-    "context": [],
+    "context": [
+      [
+        "Die Kinder spielen draußen."
+      ],
+      [
+        "Spielen Sie Karten?"
+      ]
+    ],
     "originals": [
       "spielen"
     ],
@@ -11594,7 +11908,11 @@
       }
     },
     "translate": "разговаривать; говорить",
-    "context": [],
+    "context": [
+      [
+        "Kann ich (mit) Herrn Klein sprechen?"
+      ]
+    ],
     "originals": [
       "sprechen"
     ],
@@ -11807,7 +12125,14 @@
       }
     },
     "translate": "стоять; находиться",
-    "context": [],
+    "context": [
+      [
+        "Ich glaube es nicht, aber es steht in der Zeitung."
+      ],
+      [
+        "Der Bus steht schon an der Haltestelle."
+      ]
+    ],
     "originals": [
       "stehen"
     ],
@@ -11903,7 +12228,11 @@
       }
     },
     "translate": "ставить; помещать; устанавливать; поставить; задавать; определять",
-    "context": [],
+    "context": [
+      [
+        "Stell die Tasche rechts in die Ecke!"
+      ]
+    ],
     "originals": [
       "stellen"
     ],
@@ -12140,7 +12469,11 @@
       }
     },
     "translate": "учиться в вузе; изучать; учиться",
-    "context": [],
+    "context": [
+      [
+        "Ich studiere in Mainz."
+      ]
+    ],
     "originals": [
       "studieren"
     ],
@@ -12209,7 +12542,11 @@
       }
     },
     "translate": "искать; разыскивать",
-    "context": [],
+    "context": [
+      [
+        "Suchst du etwas?"
+      ]
+    ],
     "originals": [
       "suchen"
     ],
@@ -12255,7 +12592,11 @@
       }
     },
     "translate": "танцевать; плясать",
-    "context": [],
+    "context": [
+      [
+        "Tanzen Sie gern?"
+      ]
+    ],
     "originals": [
       "tanzen"
     ],
@@ -12324,7 +12665,11 @@
       }
     },
     "translate": "звонить; звонить по телефону; говорить по телефону",
-    "context": [],
+    "context": [
+      [
+        "Darf ich mal telefonieren?"
+      ]
+    ],
     "originals": [
       "telefonieren"
     ],
@@ -12466,12 +12811,19 @@
       }
     },
     "translate": "встречать; встретить; попасть; настигнуть; встречаться",
-    "context": [],
-    "irregular": true,
-    "originals": [
-      "treffen"
+    "context": [
+      [
+        "Ich treffe in der Stadt einen Kollegen."
+      ],
+      [
+        "Wir treffen uns immer freitags."
+      ]
     ],
-    "id": "9f3def066bdf9877b79365d01a9a6bdf"
+    "originals": [
+      "(sich) treffen"
+    ],
+    "id": "9f3def066bdf9877b79365d01a9a6bdf",
+    "irregular": true
   },
   {
     "type": "verb",
@@ -12588,7 +12940,11 @@
       }
     },
     "translate": "пить",
-    "context": [],
+    "context": [
+      [
+        "Möchtest du etwas trinken?"
+      ]
+    ],
     "originals": [
       "trinken"
     ],
@@ -12902,7 +13258,11 @@
       }
     },
     "translate": "переезжать; переехать",
-    "context": [],
+    "context": [
+      [
+        "Nächsten Monat ziehen wir um."
+      ]
+    ],
     "originals": [
       "umziehen"
     ],
@@ -12925,7 +13285,11 @@
       }
     },
     "translate": "внизу; снизу; ниже; (там) вниз",
-    "context": [],
+    "context": [
+      [
+        "Er wohnt ganz unten im Haus."
+      ]
+    ],
     "originals": [
       "(da) unten"
     ],
@@ -12994,7 +13358,11 @@
       }
     },
     "translate": "подписать; подписаться",
-    "context": [],
+    "context": [
+      [
+        "Wo muss ich unterschreiben?"
+      ]
+    ],
     "originals": [
       "unterschreiben"
     ],
@@ -14121,7 +14489,14 @@
       }
     },
     "translate": "ждать; дожидаться; ожидать; подождать",
-    "context": [],
+    "context": [
+      [
+        "Können Sie ein paar Minuten warten?"
+      ],
+      [
+        "Auf wen warten Sie?"
+      ]
+    ],
     "originals": [
       "warten"
     ],
@@ -14145,9 +14520,16 @@
       }
     },
     "translate": "мыть; стирать; промывать; мыть, стирать",
-    "context": [],
+    "context": [
+      [
+        "Wo kann ich mir die Hände waschen?"
+      ],
+      [
+        "Ich muss morgen waschen."
+      ]
+    ],
     "originals": [
-      "waschen"
+      "(sich) waschen"
     ],
     "id": "4774a29edb020544a6ee913b0efd3bb5",
     "irregular": true
@@ -14359,7 +14741,11 @@
       }
     },
     "translate": "становиться; делаться",
-    "context": [],
+    "context": [
+      [
+        "Mein Sohn will Arzt werden."
+      ]
+    ],
     "originals": [
       "werden"
     ],
@@ -14409,7 +14795,11 @@
       }
     },
     "translate": "повторять; повторить",
-    "context": [],
+    "context": [
+      [
+        "Können Sie das bitte wiederholen?"
+      ]
+    ],
     "originals": [
       "wiederholen"
     ],
@@ -14456,7 +14846,11 @@
       }
     },
     "translate": "добро пожаловать",
-    "context": [],
+    "context": [
+      [
+        "Herzlich willkommen!"
+      ]
+    ],
     "originals": [
       "willkommen"
     ],
@@ -14549,7 +14943,11 @@
       }
     },
     "translate": "знать; уметь",
-    "context": [],
+    "context": [
+      [
+        "Weißt du, wie er heißt?"
+      ]
+    ],
     "originals": [
       "wissen"
     ],
@@ -14573,7 +14971,11 @@
       }
     },
     "translate": "жить; обитать; проживать",
-    "context": [],
+    "context": [
+      [
+        "Ich wohne in München."
+      ]
+    ],
     "originals": [
       "wohnen"
     ],
@@ -14596,7 +14998,11 @@
       }
     },
     "translate": "хотеть; хотетъ; желатъ",
-    "context": [],
+    "context": [
+      [
+        "Wollen Sie einen Kaffee trinken?"
+      ]
+    ],
     "originals": [
       "wollen"
     ],
@@ -15338,7 +15744,11 @@
       }
     },
     "translate": "ночевать; переночевать; остановиться на ночлег",
-    "context": [],
+    "context": [
+      [
+        "Du kannst bei mir übernachten."
+      ]
+    ],
     "originals": [
       "übernachten"
     ],
@@ -15453,7 +15863,11 @@
       }
     },
     "translate": "переводить; перечислять; передавать; направлять",
-    "context": [],
+    "context": [
+      [
+        "Sie können das Geld auch überweisen."
+      ]
+    ],
     "originals": [
       "überweisen"
     ],
