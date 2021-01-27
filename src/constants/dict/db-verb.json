@@ -1912,6 +1912,8 @@
     "config": {
       "generate": 100,
       "type": "a-ä",
+      "prateritum": "backte",
+      "partizip2": "gebacken",
       "_form": {
         "base": "back",
         "ich": "backe",
@@ -2110,6 +2112,8 @@
     "config": {
       "generate": 100,
       "type": "e-ie",
+      "prateritum": "befahl",
+      "partizip2": "befohlen",
       "_form": {
         "base": "befehl",
         "ich": "befehle",
@@ -2179,7 +2183,9 @@
     "base": "beginnen",
     "article": null,
     "config": {
-      "generate": 1,
+      "generate": 99,
+      "prateritum": "begann",
+      "partizip2": "begonnen",
       "_form": {
         "base": "beginn",
         "ich": "beginne",
@@ -3108,7 +3114,9 @@
     "base": "betrügen",
     "article": null,
     "config": {
-      "generate": 1,
+      "generate": 99,
+      "prateritum": "betrog",
+      "partizip2": "betrogen",
       "_form": {
         "base": "betrüg",
         "ich": "betrüge",
@@ -3198,6 +3206,32 @@
   },
   {
     "type": "verb",
+    "base": "bewerben",
+    "article": null,
+    "config": {
+      "generate": 99,
+      "prateritum": "bewarb",
+      "partizip2": "beworben",
+      "_form": {
+        "base": "bewerb",
+        "ich": "bewerbe",
+        "du": "bewerbst",
+        "er,sie,es": "bewerbt",
+        "wir": "bewerben",
+        "ihr": "bewerbt",
+        "sie,Sie": "bewerben"
+      }
+    },
+    "translate": "подавать заявление",
+    "context": [],
+    "irregular": false,
+    "originals": [
+      "bewerben"
+    ],
+    "id": "da8f7703c3982923903b55f7e7b0d849"
+  },
+  {
+    "type": "verb",
     "base": "bezahlen",
     "article": null,
     "config": {
@@ -3230,7 +3264,10 @@
     "base": "biegen",
     "article": null,
     "config": {
-      "generate": 1,
+      "generate": 99,
+      "prateritum": "bog",
+      "partizip2": "gebogen",
+      "partizip2type": "h/s",
       "_form": {
         "base": "bieg",
         "ich": "biege",
@@ -3354,7 +3391,9 @@
     "base": "bitten",
     "article": null,
     "config": {
-      "generate": 1,
+      "generate": 99,
+      "prateritum": "bat",
+      "partizip2": "gebeten",
       "_form": {
         "base": "bitt",
         "ich": "bitte",
@@ -3411,7 +3450,10 @@
     "base": "bleiben",
     "article": null,
     "config": {
-      "generate": 1,
+      "generate": 99,
+      "prateritum": "blieb",
+      "partizip2": "geblieben",
+      "partizip2type": "s",
       "_form": {
         "base": "bleib",
         "ich": "bleibe",
@@ -3731,7 +3773,9 @@
     "base": "bringen",
     "article": null,
     "config": {
-      "generate": 1,
+      "generate": 99,
+      "prateritum": "brachte",
+      "partizip2": "gebracht",
       "_form": {
         "base": "bring",
         "ich": "bringe",

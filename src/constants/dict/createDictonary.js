@@ -7,6 +7,7 @@ const predlogi = require("./in_data/other/predlogi.json");
 const words200 = require("./in_data/de-online_ru/200words.json");
 const verbs = require("./in_data/other/verbs.json");
 const irregularVerbs = require("./in_data/de-online_ru/irregularVerbs.json");
+
 const irregularVerbs2 = require("./in_data/other/verbs_i.json");
 
 const { list } = require("./in_data/other/a1/all");
@@ -28,7 +29,9 @@ const listDeutschA1Schritte = require("./in_data/other/a1/case1/deutsch-a1-schri
 const listDeutschA2Schritte = require("./in_data/other/a1/case1/deutsch-a2-schritte.json");
 const listDeutschB1Schritte = require("./in_data/other/a1/case1/deutsch-b1-schritte.json");
 
+const verbsNormal = require("./in_data/other/verbs/normal.json");
 const verbsIrregular = require("./in_data/other/verbs/irregular.json");
+
 
 const nouns = require("./in_data/other/noun.json");
 
@@ -454,6 +457,20 @@ groups.forEach((g) => g.verbs.forEach((verb) => add(dictonary, verb)));
   ...listDeutschB1Schritte,
 ].forEach((data) => add(dictonary, data, { spliter: "," }));
 
+verbsNormal.forEach((data) => {
+  const [w, t, o] = data;
+
+  addVerb(dictonary, [w, t], { irregular: false }, (entry) => {
+    const config = {
+      generate: 99,
+      ...o,
+    };
+    config._form = sp(w, o);
+
+    return { ...entry, config };
+  });
+});
+
 verbsIrregular.forEach((data) => {
   const [w, t, o] = data;
 
@@ -518,7 +535,7 @@ console.log("---------------- end test --------------");
 });
 
 dictonary.forEach(({ base, translate, level, type }) => {
-  if (level === "A-1" && type === "*") {
+  if (level === "A-1" && type === "verb") {
     console.log("base", base, "-", translate);
   }
 });

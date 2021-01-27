@@ -1,0 +1,60 @@
+[
+	[
+		"beginnen",
+		"начинать; начинаться",
+		{
+			"prateritum": "begann",
+			"partizip2": "begonnen"
+		}
+	],
+	[
+		"betrügen",
+		"обманывать",
+		{
+			"prateritum": "betrog",
+			"partizip2": "betrogen"
+		}
+	],
+	[
+		"bewerben",
+		"подавать заявление",
+		{
+			"prateritum": "bewarb",
+			"partizip2": "beworben"
+		}
+	],
+	[
+		"biegen",
+		"гнуть",
+		{
+			"prateritum": "bog",
+			"partizip2": "gebogen",
+			"partizip2type": "h/s"
+		}
+	],
+	[
+		"bitten",
+		"просить",
+		{
+			"prateritum": "bat",
+			"partizip2": "gebeten"
+		}
+	],
+	[
+		"bleiben",
+		"оставаться",
+		{
+			"prateritum": "blieb",
+			"partizip2": "geblieben",
+			"partizip2type": "s"
+		}
+	],
+	[
+		"bringen",
+		"приносить",
+		{
+			"prateritum": "brachte",
+			"partizip2": "gebracht"
+		}
+	]
+]
