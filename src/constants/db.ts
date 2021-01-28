@@ -7,25 +7,42 @@ import noun from "constants/dict/db-noun.json";
 import { LANGUAGE } from "./index";
 import { getVariants } from "helpers/words";
 
-const projection = ([phrase, translation], index) => {
+const projectionContext = (context) => {
+  return context.map(([phrase, translation = ""]) => {
+    return {
+      phrase,
+      translation,
+    };
+  });
+};
+
+const projection = ([phrase, translation, context], index) => {
   return {
     id: index,
     phrase,
     translation,
+    context: projectionContext(context),
   };
 };
+const COLOR = {
+  die: "#ff7189",
+  der: "#1aa0c5",
+  das: "orange",
+  default: "grey",
+};
 
-const _projection = ({ article, base, translate }, index) => {
+const _projection = ({ article, base, translate, context }, index) => {
   return {
     id: index,
     phrase: `${article ? `${article} ` : ""}${base}`,
-    translation: translate,
+    translation: translate, //.split(";").slice(0, 2).join(";"),
+    context: projectionContext(context),
+    color: COLOR[article] || COLOR.default,
   };
 };
 const getDictonary = ({ count = 100, languages }) => {
   const [lang] = languages;
 
-  console.log("noun", noun.length);
   return (
     // verbs
     noun

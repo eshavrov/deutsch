@@ -5735,7 +5735,7 @@
     "type": "noun",
     "base": "Flug",
     "article": "der",
-    "translate": "рейс; перелет; полет; рейс самолета",
+    "translate": "рейс; перелет; полет; рейс самолёта",
     "context": [],
     "originals": [
       "der Flug, ü-e"
@@ -5763,7 +5763,7 @@
     "type": "noun",
     "base": "Flugzeug",
     "article": "das",
-    "translate": "самолет",
+    "translate": "самолёт",
     "context": [
       [
         "Das Flugzeug aus Berlin kommt heute später an.",
@@ -16021,7 +16021,7 @@
     "type": "noun",
     "base": "Schalter",
     "article": "der",
-    "translate": "окно; касса; выключатель; переключатель; коммутатор; билетная касса",
+    "translate": "касса; выключатель; переключатель; коммутатор; билетная касса",
     "context": [
       [
         "Gehen Sie bitte zum Schalter drei!"

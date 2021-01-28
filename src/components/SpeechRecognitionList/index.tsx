@@ -187,8 +187,8 @@ const SpeechRecognitionList = (props) => {
   const i = indexLine % dict.length;
   const right = dict.length - i - 1;
   const list = dict.slice(
-    Math.max(0, (indexLine % dict.length) - Math.max(1, 3 - right)),
-    Math.max(0, (indexLine % dict.length) + 3)
+    Math.max(0, (indexLine % dict.length) - Math.max(1, 2 - right)),
+    Math.max(0, (indexLine % dict.length) + 2)
   );
 
   return (
@@ -198,27 +198,47 @@ const SpeechRecognitionList = (props) => {
     >
       <table className={s.card}>
         <tbody>
-          {list.map(({ phrase, translation, id }, index) => {
-            const actived = id === dict[indexLine % dict.length].id;
-            const selected = listening && actived;
-            const style = actived
-              ? animatendCardStyle({ mood, signalState })
-              : null;
+          {list.map(
+            ({ phrase, translation, context = [], id, color }, index) => {
+              const actived = id === dict[indexLine % dict.length].id;
+              const selected = listening && actived;
+              const style = actived
+                ? animatendCardStyle({ mood, signalState })
+                : null;
 
-            return (
-              <a.tr key={id} className={s.line} style={style}>
-                <td className={s["cell-word"]}>
-                  <span
-                    className={cn(s.word, {
-                      [s["word--selected"]]: selected,
-                    })}
-                  >
-                    {phrase}
-                  </span>
-                </td>
-              </a.tr>
-            );
-          })}
+              return (
+                <React.Fragment key={id}>
+                  <a.tr className={s.line} style={style}>
+                    <td className={s["cell-word"]}>
+                      <span
+                        className={cn(s.word, {
+                          [s["word--selected"]]: selected,
+                        })}
+                        style={{ color }}
+                      >
+                        {phrase}
+                      </span>
+                    </td>
+                  </a.tr>
+                  <tr>
+                    <td>
+                      {actived &&
+                        context.map(({ phrase, translation = "" }, index) => (
+                          <React.Fragment key={index}>
+                            <p className={s["p-context"]}>{phrase}</p>
+                            {translation && timer === 0 && (
+                              <p className={s["p-context-translate"]}>
+                                {translation}
+                              </p>
+                            )}
+                          </React.Fragment>
+                        ))}
+                    </td>
+                  </tr>
+                </React.Fragment>
+              );
+            }
+          )}
         </tbody>
       </table>
       <p>{transcript}</p>

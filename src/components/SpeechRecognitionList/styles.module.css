@@ -336,3 +336,16 @@
     padding: 0;
   }
 }
+
+.p-context {
+ font-size: 24px;
+ color: #444;
+ font-weight: 400;
+}
+
+.p-context-translate {
+  font-size: 18px;
+  margin-top: -24px;
+  padding-top: 0;
+  color: #e36b45
+ }
