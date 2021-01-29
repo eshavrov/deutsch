@@ -338,12 +338,15 @@
 }
 
 .p-context {
- font-size: 24px;
+ font-size: 26px;
  color: #444;
  font-weight: 400;
+ font-style: italic;
 }
 
 .p-context-translate {
+  font-style: italic;
+
   font-size: 18px;
   margin-top: -24px;
   padding-top: 0;
