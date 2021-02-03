@@ -479,6 +479,120 @@
 		]
 	},
 	{
+		"title": "Wie heißt das Gegenteil?",
+		"type": "write",
+		"list": [
+			[
+				"gut - [schlecht]"
+			],
+			[
+				"klein - [groß]"
+			],
+			[
+				"schwer - [leicht]"
+			],
+			[
+				"lang - [kurz]"
+			],
+			[
+				"hässlich - [schön]"
+			],
+			[
+				"güstig - [teuer]"
+			]
+		]
+	},
+	{
+		"title": "Ergänzen Sie den Artikel.",
+		"type": "write",
+		"list": [
+			[
+				"[Das] Zimmer ist sehr klein."
+			],
+			[
+				"Woher kommt [die] Lampe?"
+			],
+			[
+				"[Der] Sessel ist wirklich schön."
+			],
+			[
+				"[Der] Teppich kostet nur 29 Euro."
+			],
+			[
+				"Wiie viel kostet [das] Bild?"
+			],
+			[
+				"100 Euro? [Der] Preis ist gut."
+			]
+		]
+	},
+	{
+		"title": "Ergänzen Sie die Personalpronomen.",
+		"type": "write",
+		"list": [
+			[
+				"Der Teppich ist schön und groß. [Er] kostet aber 400 Euro. Das ist zu teuer."
+			],
+			[
+				"Die Lampe ist billig. Aber [sie] ist auch klein und hässlich."
+			],
+			[
+				"Das Bett ist nicht schlecht. - Ja. Und [es] ist günstig."
+			],
+			[
+				"Die Couch ist praktisch, oder? - Ja, und [sie] ist im Sonderangebot."
+			],
+			[
+				"Der Stuhl kostet nur 19 Euro. Aber [er] ist sehr schwer."
+			],
+			[
+				"Das Bild ist sehr modern. Und was kostet [es]?"
+			]
+		]
+	},
+	{
+		"title": "Was passt nicht? Streichen Sie das falsche Wort durch..",
+		"type": "variants",
+		"list": [
+			[
+				"Beschaffenheit: [richtig|^leicht|^eckig|^neu|^schwer|^groß]"
+			],
+			[
+				"Farben: [rund|^rot|^grün|^gelb|^braun|^blau]"
+			],
+			[
+				"Materialien: [das Produckt|^das Glas|^das Plastik|^das Papier|^das Holz|^das Metall]"
+			],
+			[
+				"Gegenstände:[die Form|^die Seife|^die Brille|^der Fotoapparat|^ die Uhr|^das Buch]"
+			]
+		]
+	},
+	{
+		"title": "Ergänzen Sie ein/eine/kein/keine.",
+		"type": "write",
+		"list": [
+			[
+				"Wie bitte? Die Brille kostet 190 Euro?! - Oh, ist das [ein] Problem?"
+			],
+			[
+				"Das ist teuer, oder? -  Sehr teuer! Das ist [kein] Sonderangebot."
+			],
+			[
+				"Wie heißt das auf Deutsch? - Das ist [eine] Uhr."
+			],
+			[
+				"Ist das eine Tasche? - Nein. Das ist [keine] Tasche."
+			],
+			[
+				"Wer ist Elmar? - Er ist [ein] Kollege von Frieda."
+			],
+			[
+				"Ist das eine Kollegin? - Nein. Das ist [eine] Freundin."
+			]
+		]
+	},
+	{
 		"title": "Schreiben Sie in Worten",
 		"type": "write",
 		"list": [

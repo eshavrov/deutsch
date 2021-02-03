@@ -54,6 +54,18 @@
   },
   {
     "type": "adjective",
+    "base": "apricot",
+    "article": null,
+    "translate": "абрикосовый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "apricot"
+    ],
+    "id": "46e71cda3089f72f34b5956fe8aa4a77"
+  },
+  {
+    "type": "adjective",
     "base": "arbeitslos",
     "article": null,
     "translate": "безработный",
@@ -121,6 +133,30 @@
   },
   {
     "type": "adjective",
+    "base": "azurblau",
+    "article": null,
+    "translate": "лазурный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "azurblau"
+    ],
+    "id": "abfdacd6b4e899592d475e8250775e2c"
+  },
+  {
+    "type": "adjective",
+    "base": "beige",
+    "article": null,
+    "translate": "бежевый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "beige"
+    ],
+    "id": "35493733ea8a9c5e33d6e83bbf70af20"
+  },
+  {
+    "type": "adjective",
     "base": "bekannt",
     "article": null,
     "translate": "известный; знакомый",
@@ -139,6 +175,18 @@
       "bekannt"
     ],
     "id": "5999bb5ca407ec1c94cb82e1d8ef3e80"
+  },
+  {
+    "type": "adjective",
+    "base": "bernsteingelb",
+    "article": null,
+    "translate": "янтарный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "bernsteingelb"
+    ],
+    "id": "aee44f1d76172a2a488b7f4130ce5a87"
   },
   {
     "type": "adjective",
@@ -214,6 +262,17 @@
   },
   {
     "type": "adjective",
+    "base": "braun",
+    "article": null,
+    "translate": "коричневый",
+    "context": [],
+    "originals": [
+      "braun"
+    ],
+    "id": "91ff0e989da33bee08859c99ee96e03d"
+  },
+  {
+    "type": "adjective",
     "base": "breit",
     "article": null,
     "translate": "широкий; обширный; широко",
@@ -232,6 +291,30 @@
       "breit"
     ],
     "id": "3923a7e5b0405b8fc626848169f96f03"
+  },
+  {
+    "type": "adjective",
+    "base": "bronzen",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "bronz",
+        "ich": "bronze",
+        "du": "bronzt",
+        "er,sie,es": "bronzt",
+        "wir": "bronzen",
+        "ihr": "bronzt",
+        "sie,Sie": "bronzen"
+      }
+    },
+    "translate": "бронзовый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "bronzen"
+    ],
+    "id": "8718782ebfe47b2ef8a4889e5e2c819c"
   },
   {
     "type": "adjective",
@@ -442,6 +525,17 @@
   },
   {
     "type": "adjective",
+    "base": "farbig",
+    "article": null,
+    "translate": "цветной; окрашенный; красочный; пестрый",
+    "context": [],
+    "originals": [
+      "farbig"
+    ],
+    "id": "d13244de0801df3d624135009d86e408"
+  },
+  {
+    "type": "adjective",
     "base": "faul",
     "article": null,
     "translate": "ленивый; тухлый; нерадивый; протухший",
@@ -480,6 +574,42 @@
       "fertig"
     ],
     "id": "4c6744b6fce13734365597952b4a201d"
+  },
+  {
+    "type": "adjective",
+    "base": "fleischfarben",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "fleischfarb",
+        "ich": "fleischfarbe",
+        "du": "fleischfarbst",
+        "er,sie,es": "fleischfarbt",
+        "wir": "fleischfarben",
+        "ihr": "fleischfarbt",
+        "sie,Sie": "fleischfarben"
+      }
+    },
+    "translate": "телесный цвет",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "fleischfarben"
+    ],
+    "id": "519e06a8c2fb0c1044681db8e9d2d566"
+  },
+  {
+    "type": "adjective",
+    "base": "flieder",
+    "article": null,
+    "translate": "сиреневый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "flieder"
+    ],
+    "id": "7ad3b238b93e6664e30b21271ad8919a"
   },
   {
     "type": "adjective",
@@ -597,6 +727,17 @@
   },
   {
     "type": "adjective",
+    "base": "gelb",
+    "article": null,
+    "translate": "желтый; жёлтый",
+    "context": [],
+    "originals": [
+      "gelb"
+    ],
+    "id": "41a2a914b81475b71771ed054ebc4782"
+  },
+  {
+    "type": "adjective",
     "base": "gesund",
     "article": null,
     "translate": "здоровый; полезный для здоровья",
@@ -652,6 +793,18 @@
   },
   {
     "type": "adjective",
+    "base": "glutrot",
+    "article": null,
+    "translate": "багровый, тёмно-красный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "glutrot"
+    ],
+    "id": "7fbd46aacf3cb8dcf02bad749fdd5998"
+  },
+  {
+    "type": "adjective",
     "base": "glücklich",
     "article": null,
     "translate": "счастливый; удачный; удачливый; счастливо",
@@ -669,6 +822,41 @@
       "glücklich"
     ],
     "id": "6bc2c6d7a8c0dd23384cf23fb8bf3574"
+  },
+  {
+    "type": "adjective",
+    "base": "golden",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "gold",
+        "ich": "golde",
+        "du": "goldest",
+        "er,sie,es": "goldet",
+        "wir": "golden",
+        "ihr": "goldet",
+        "sie,Sie": "golden"
+      }
+    },
+    "translate": "золотой",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "golden"
+    ],
+    "id": "896d86d97cdc4922206db6fd4991d130"
+  },
+  {
+    "type": "adjective",
+    "base": "grau",
+    "article": null,
+    "translate": "серый; седой",
+    "context": [],
+    "originals": [
+      "grau"
+    ],
+    "id": "a1b677703d8d08b72d436167508d3038"
   },
   {
     "type": "adjective",
@@ -708,6 +896,17 @@
       "toll; großartig; wunderschön"
     ],
     "id": "56516db4f0afc566a32cd6aa861a142e"
+  },
+  {
+    "type": "adjective",
+    "base": "grün",
+    "article": null,
+    "translate": "зеленый; зелёные; зелёный",
+    "context": [],
+    "originals": [
+      "grün"
+    ],
+    "id": "b413b289d085067342d2a284cba07ab4"
   },
   {
     "type": "adjective",
@@ -827,6 +1026,30 @@
   },
   {
     "type": "adjective",
+    "base": "hellblau",
+    "article": null,
+    "translate": "голубой",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "hellblau"
+    ],
+    "id": "73afd3549bfb01a85549c43aa487a02c"
+  },
+  {
+    "type": "adjective",
+    "base": "hellgrün",
+    "article": null,
+    "translate": "салатовый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "hellgrün"
+    ],
+    "id": "f4be359911b11faf5f104d603af2169c"
+  },
+  {
+    "type": "adjective",
     "base": "herzlich",
     "article": null,
     "translate": "сердечно; сердечный",
@@ -840,6 +1063,18 @@
       "herzlich"
     ],
     "id": "99c3356b208255859b588818dba6e3ba"
+  },
+  {
+    "type": "adjective",
+    "base": "himbeerrot",
+    "article": null,
+    "translate": "малиновый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "himbeerrot"
+    ],
+    "id": "79e2aa0fcfafbc9f1bddfb8cc7d6ae17"
   },
   {
     "type": "adjective",
@@ -876,6 +1111,30 @@
       "hungrig"
     ],
     "id": "3583fa276785e66c8898e4103d53786b"
+  },
+  {
+    "type": "adjective",
+    "base": "hímmelblau",
+    "article": null,
+    "translate": "небесно-голубой",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "hímmelblau"
+    ],
+    "id": "dd897afa9c95a95a337f123f420cce19"
+  },
+  {
+    "type": "adjective",
+    "base": "indigo",
+    "article": null,
+    "translate": "индиго",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "indigo"
+    ],
+    "id": "d5041b34f49798915ede9b8633d0ef8f"
   },
   {
     "type": "adjective",
@@ -965,6 +1224,42 @@
   },
   {
     "type": "adjective",
+    "base": "kastanienbraun",
+    "article": null,
+    "translate": "каштановый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "kastanienbraun"
+    ],
+    "id": "5945ac3aca9d584357f1941ad1b0fd82"
+  },
+  {
+    "type": "adjective",
+    "base": "khakifarben",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "khakifarb",
+        "ich": "khakifarbe",
+        "du": "khakifarbst",
+        "er,sie,es": "khakifarbt",
+        "wir": "khakifarben",
+        "ihr": "khakifarbt",
+        "sie,Sie": "khakifarben"
+      }
+    },
+    "translate": "хаки",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "khakifarben"
+    ],
+    "id": "1d6c5daa1fed6784f36d940d0f28b4b9"
+  },
+  {
+    "type": "adjective",
     "base": "klar",
     "article": null,
     "translate": "ясно; ясный; понятный; понятно; внятно",
@@ -1014,6 +1309,30 @@
       "klug"
     ],
     "id": "05d81f4a71ddeea32ecc859f7705928b"
+  },
+  {
+    "type": "adjective",
+    "base": "korallenrot",
+    "article": null,
+    "translate": "коралловый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "korallenrot"
+    ],
+    "id": "4febe4b7d16e9b5d012a83255c9ebf2f"
+  },
+  {
+    "type": "adjective",
+    "base": "kornblumenblau",
+    "article": null,
+    "translate": "васильковый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "kornblumenblau"
+    ],
+    "id": "fb356a073a2343b8c375570531652df8"
   },
   {
     "type": "adjective",
@@ -1288,6 +1607,17 @@
   },
   {
     "type": "adjective",
+    "base": "lila",
+    "article": null,
+    "translate": "лиловый; сиреневый; лиловый, сиреневый, светло-фиолетовый, фиалковый",
+    "context": [],
+    "originals": [
+      "lila"
+    ],
+    "id": "03944d45609d13e8f36e23ac4d94fc8f"
+  },
+  {
+    "type": "adjective",
     "base": "lustig",
     "article": null,
     "translate": "весёлый; забавный; веселый; смешной; радостный; смешно; весело",
@@ -1451,6 +1781,78 @@
   },
   {
     "type": "adjective",
+    "base": "ockerfarbe",
+    "article": null,
+    "translate": "охра",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "ockerfarbe"
+    ],
+    "id": "2661b0b66d63ac8df9147368139f2e98"
+  },
+  {
+    "type": "adjective",
+    "base": "olívfarbener",
+    "article": null,
+    "translate": "оливковый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "olívfarbener"
+    ],
+    "id": "4d06dfa30bd9cdcb3c9f8dc103f8e0c9"
+  },
+  {
+    "type": "adjective",
+    "base": "orange",
+    "article": null,
+    "translate": "оранжевый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "orange"
+    ],
+    "id": "de4181aaa0a538f0c6e9f5861d84086e"
+  },
+  {
+    "type": "adjective",
+    "base": "purpurfarben",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "purpurfarb",
+        "ich": "purpurfarbe",
+        "du": "purpurfarbst",
+        "er,sie,es": "purpurfarbt",
+        "wir": "purpurfarben",
+        "ihr": "purpurfarbt",
+        "sie,Sie": "purpurfarben"
+      }
+    },
+    "translate": "пурпурный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "purpurfarben; purpurrot"
+    ],
+    "id": "a8f673930a68dac7ff0a3946ff071a08"
+  },
+  {
+    "type": "adjective",
+    "base": "purpurrot",
+    "article": null,
+    "translate": "пурпурный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "purpurfarben; purpurrot"
+    ],
+    "id": "b9324eff780a25701f0180030a6b30c2"
+  },
+  {
+    "type": "adjective",
     "base": "pünktlich",
     "article": null,
     "translate": "пунктуальный; точный; пунктуально; точно; аккуратно; вовремя; аккуратный",
@@ -1525,6 +1927,28 @@
   },
   {
     "type": "adjective",
+    "base": "rosa",
+    "article": null,
+    "translate": "розовый",
+    "context": [],
+    "originals": [
+      "rosa"
+    ],
+    "id": "d243c4c22b8ea5823e01abeed1b59e8a"
+  },
+  {
+    "type": "adjective",
+    "base": "rot",
+    "article": null,
+    "translate": "красный",
+    "context": [],
+    "originals": [
+      "rot"
+    ],
+    "id": "d56e28e380f7afd939e82142b6635024"
+  },
+  {
+    "type": "adjective",
     "base": "ruhig",
     "article": null,
     "translate": "спокойный; тихий; спокойно",
@@ -1545,6 +1969,30 @@
   },
   {
     "type": "adjective",
+    "base": "sandfarben",
+    "article": null,
+    "config": {
+      "generate": 1,
+      "_form": {
+        "base": "sandfarb",
+        "ich": "sandfarbe",
+        "du": "sandfarbst",
+        "er,sie,es": "sandfarbt",
+        "wir": "sandfarben",
+        "ihr": "sandfarbt",
+        "sie,Sie": "sandfarben"
+      }
+    },
+    "translate": "песочный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "sandfarben"
+    ],
+    "id": "81c244e1eab68daa5a621369d0766ac7"
+  },
+  {
+    "type": "adjective",
     "base": "sauber",
     "article": null,
     "translate": "чистый; безупречный; аккуратный; опрятный; чисто; аккуратно; опрятно",
@@ -1558,6 +2006,18 @@
       "sauber"
     ],
     "id": "b355c449dec69f5d202df351ad33166c"
+  },
+  {
+    "type": "adjective",
+    "base": "scharlachrot",
+    "article": null,
+    "translate": "алый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "scharlachrot"
+    ],
+    "id": "e8e2699d962397f452d24f4f4437d8ee"
   },
   {
     "type": "adjective",
@@ -1603,6 +2063,18 @@
   },
   {
     "type": "adjective",
+    "base": "schneeweiß",
+    "article": null,
+    "translate": "белоснежный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "schneeweiß"
+    ],
+    "id": "e6866fcc999846abdbfb43ae5dd50636"
+  },
+  {
+    "type": "adjective",
     "base": "schnell",
     "article": null,
     "translate": "быстро; быстрый; стремительный; скорый",
@@ -1636,6 +2108,29 @@
       "schwach"
     ],
     "id": "395936a7ef5aea24122a31bf7f4ab773"
+  },
+  {
+    "type": "adjective",
+    "base": "schwarz",
+    "article": null,
+    "translate": "черный; чёрный",
+    "context": [],
+    "originals": [
+      "schwarz"
+    ],
+    "id": "a03ab075cd2a1afb9842a2c4f0e15a98"
+  },
+  {
+    "type": "adjective",
+    "base": "schwarz-weiß",
+    "article": null,
+    "translate": "чёрно-белый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "schwarz-weiß"
+    ],
+    "id": "92dc6ec08aece2f0a4765920250e0939"
   },
   {
     "type": "adjective",
@@ -1701,6 +2196,18 @@
   },
   {
     "type": "adjective",
+    "base": "seladon",
+    "article": null,
+    "translate": "цвет морской волны",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "seladon"
+    ],
+    "id": "d9e210c5b3339d528db8fb1381fcdc6b"
+  },
+  {
+    "type": "adjective",
     "base": "selbstständig",
     "article": null,
     "translate": "самостоятельный; независимый; самостоятельно",
@@ -1761,6 +2268,30 @@
   },
   {
     "type": "adjective",
+    "base": "silbern",
+    "article": null,
+    "translate": "серебристый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "silbern"
+    ],
+    "id": "dcb179ee598345a14951be1615613520"
+  },
+  {
+    "type": "adjective",
+    "base": "smaragdgrün",
+    "article": null,
+    "translate": "изумрудный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "smaragdgrün"
+    ],
+    "id": "edd15e73b4fe0fa9c6a4e38f23822861"
+  },
+  {
+    "type": "adjective",
     "base": "spät",
     "article": null,
     "translate": "поздний; поздно; запоздалый",
@@ -1790,6 +2321,18 @@
       "stark"
     ],
     "id": "83999e74923e6891056e4ce85f63e5a5"
+  },
+  {
+    "type": "adjective",
+    "base": "sílberig",
+    "article": null,
+    "translate": "серебристый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "sílberig"
+    ],
+    "id": "0565bda301e1df2da91ebf4698f88018"
   },
   {
     "type": "adjective",
@@ -1826,6 +2369,18 @@
       "tief"
     ],
     "id": "dcb20f8211b69c89006b3aea15752adb"
+  },
+  {
+    "type": "adjective",
+    "base": "tiefblau",
+    "article": null,
+    "translate": "синий",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "tiefblau"
+    ],
+    "id": "a4d638dff8c830409173a9c91e582f14"
   },
   {
     "type": "adjective",
@@ -1927,6 +2482,18 @@
   },
   {
     "type": "adjective",
+    "base": "türkis",
+    "article": null,
+    "translate": "бирюзовый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "türkis"
+    ],
+    "id": "0ce8b8dbac98bd20d097713e4c05df7d"
+  },
+  {
+    "type": "adjective",
     "base": "verheiratet",
     "article": null,
     "translate": "женатый; замужняя; женат; замужем",
@@ -1941,6 +2508,30 @@
       "verheiratet"
     ],
     "id": "475e4cdacc26aa636f0021db8445c16f"
+  },
+  {
+    "type": "adjective",
+    "base": "verschiedenfarbig",
+    "article": null,
+    "translate": "разноцветный",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "verschiedenfarbig"
+    ],
+    "id": "5bc7917e2f04455f0589f5fab7de3720"
+  },
+  {
+    "type": "adjective",
+    "base": "violett",
+    "article": null,
+    "translate": "фиолетовый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "violett"
+    ],
+    "id": "54d2f5599054e0c52c3ab7aacf717bd7"
   },
   {
     "type": "adjective",
@@ -1973,6 +2564,41 @@
       "weiblich"
     ],
     "id": "39b280089e1f457e6b0eec2cb39c3160"
+  },
+  {
+    "type": "adjective",
+    "base": "weinrot",
+    "article": null,
+    "translate": "бордовый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "weinrot"
+    ],
+    "id": "ba2eb97f2ece6f4b2ec1a75d60ee7cc3"
+  },
+  {
+    "type": "adjective",
+    "base": "weiß",
+    "article": null,
+    "translate": "белый",
+    "context": [],
+    "originals": [
+      "weiß"
+    ],
+    "id": "c4b27b727d6a2a65be99d5a2dc8550df"
+  },
+  {
+    "type": "adjective",
+    "base": "weißlich",
+    "article": null,
+    "translate": "белесый, беловатый",
+    "context": [],
+    "theme": "color",
+    "originals": [
+      "weißlich"
+    ],
+    "id": "7ce49c043c01f305dd0d27e66a1e503c"
   },
   {
     "type": "adjective",

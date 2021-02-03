@@ -4,6 +4,8 @@ const { sp, normalizeVerb } = require("./verbs");
 
 const adjectives1 = require("./in_data/other/adjectives/1.json");
 const predlogi = require("./in_data/other/predlogi.json");
+const colors = require("./in_data/other/color.json");
+
 const words200 = require("./in_data/de-online_ru/200words.json");
 const verbs = require("./in_data/other/verbs.json");
 const irregularVerbs = require("./in_data/de-online_ru/irregularVerbs.json");
@@ -31,7 +33,6 @@ const listDeutschB1Schritte = require("./in_data/other/a1/case1/deutsch-b1-schri
 
 const verbsNormal = require("./in_data/other/verbs/normal.json");
 const verbsIrregular = require("./in_data/other/verbs/irregular.json");
-
 
 const nouns = require("./in_data/other/noun.json");
 
@@ -491,6 +492,10 @@ verbsIrregular.forEach((data) => {
 
 adjectives1.forEach((data) => {
   addAdjective(dictonary, data);
+});
+
+colors.forEach((data) => {
+  addAdjective(dictonary, data, { theme: "color" });
 });
 
 // ------------------------------

@@ -1965,17 +1965,6 @@
   },
   {
     "type": "*",
-    "base": "braun",
-    "article": null,
-    "translate": "коричневый",
-    "context": [],
-    "originals": [
-      "braun"
-    ],
-    "id": "91ff0e989da33bee08859c99ee96e03d"
-  },
-  {
-    "type": "*",
     "base": "bringen, brachte, hat gebracht",
     "article": null,
     "translate": "принести; приносить",
@@ -3717,17 +3706,6 @@
   },
   {
     "type": "*",
-    "base": "farbig",
-    "article": null,
-    "translate": "цветной; окрашенный; красочный; пестрый",
-    "context": [],
-    "originals": [
-      "farbig"
-    ],
-    "id": "d13244de0801df3d624135009d86e408"
-  },
-  {
-    "type": "*",
     "base": "fast immer",
     "article": null,
     "translate": "почти всегда",
@@ -4150,17 +4128,6 @@
   },
   {
     "type": "*",
-    "base": "gelb",
-    "article": null,
-    "translate": "желтый",
-    "context": [],
-    "originals": [
-      "gelb"
-    ],
-    "id": "41a2a914b81475b71771ed054ebc4782"
-  },
-  {
-    "type": "*",
     "base": "gemeinsam",
     "article": null,
     "translate": "совместный; общий; совместно; вместе; сообща",
@@ -4423,17 +4390,6 @@
   },
   {
     "type": "*",
-    "base": "grau",
-    "article": null,
-    "translate": "серый; седой",
-    "context": [],
-    "originals": [
-      "grau"
-    ],
-    "id": "a1b677703d8d08b72d436167508d3038"
-  },
-  {
-    "type": "*",
     "base": "großzügig",
     "article": null,
     "translate": "щедрый; великодушный; щедро; великодушно",
@@ -4453,17 +4409,6 @@
       "grundsätzlich"
     ],
     "id": "4057b7b11972403a7fef4b15304b7a0d"
-  },
-  {
-    "type": "*",
-    "base": "grün",
-    "article": null,
-    "translate": "зеленый; зелёные",
-    "context": [],
-    "originals": [
-      "grün"
-    ],
-    "id": "b413b289d085067342d2a284cba07ab4"
   },
   {
     "type": "*",
@@ -5834,17 +5779,6 @@
   },
   {
     "type": "*",
-    "base": "lila",
-    "article": null,
-    "translate": "лиловый; сиреневый",
-    "context": [],
-    "originals": [
-      "lila"
-    ],
-    "id": "03944d45609d13e8f36e23ac4d94fc8f"
-  },
-  {
-    "type": "*",
     "base": "links",
     "article": null,
     "translate": "слева; налево; влево; с левой стороны",
@@ -7183,28 +7117,6 @@
   },
   {
     "type": "*",
-    "base": "rosa",
-    "article": null,
-    "translate": "розовый",
-    "context": [],
-    "originals": [
-      "rosa"
-    ],
-    "id": "d243c4c22b8ea5823e01abeed1b59e8a"
-  },
-  {
-    "type": "*",
-    "base": "rot",
-    "article": null,
-    "translate": "красный",
-    "context": [],
-    "originals": [
-      "rot"
-    ],
-    "id": "d56e28e380f7afd939e82142b6635024"
-  },
-  {
-    "type": "*",
     "base": "rund",
     "article": null,
     "translate": "круглый; округлый; приблизительный; кругом; приблизительно; около; вокруг",
@@ -7526,17 +7438,6 @@
       "schwanger"
     ],
     "id": "e9afdbe0af9aafc6f15981abca86a040"
-  },
-  {
-    "type": "*",
-    "base": "schwarz",
-    "article": null,
-    "translate": "черный",
-    "context": [],
-    "originals": [
-      "schwarz"
-    ],
-    "id": "a03ab075cd2a1afb9842a2c4f0e15a98"
   },
   {
     "type": "*",
@@ -9890,17 +9791,6 @@
       "weiter"
     ],
     "id": "afb63a59cc49621b0e4fd185e63848d2"
-  },
-  {
-    "type": "*",
-    "base": "weiß",
-    "article": null,
-    "translate": "белый",
-    "context": [],
-    "originals": [
-      "weiß"
-    ],
-    "id": "c4b27b727d6a2a65be99d5a2dc8550df"
   },
   {
     "type": "*",
