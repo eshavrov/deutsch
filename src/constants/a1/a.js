@@ -926,7 +926,7 @@ const list = [
   [
     "heißen",
     "",
-    [["Ich heiße Charlotte Meier."]["Wie heißt das auf Deutsch?"]],
+    [["Ich heiße Charlotte Meier."], ["Wie heißt das auf Deutsch?"]],
   ],
 
   ["helfen", "", [["Können Sie mir helfen, bitte?"]]],
@@ -941,7 +941,7 @@ const list = [
 
   ["heute", "", [["Heute ist ein schöner Tag."]]],
 
-  ["hier", "", [["Hier ist 06131-553221, Pamela Linke."]["Hier wohne ich."]]],
+  ["hier", "", [["Hier ist 06131-553221, Pamela Linke."], ["Hier wohne ich."]]],
 
   [
     "die Hilfe",

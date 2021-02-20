@@ -2,6 +2,11 @@ const fs = require("fs");
 const { createHash } = require("crypto");
 const { sp, normalizeVerb } = require("./verbs");
 
+const _all = require("./db-*.json");
+const _adjective = require("./db-adjective.json");
+const _noun = require("./db-noun.json");
+const _verb = require("./db-verb.json");
+
 const adjectives1 = require("./in_data/other/adjectives/1.json");
 const predlogi = require("./in_data/other/predlogi.json");
 const colors = require("./in_data/other/color.json");
@@ -184,7 +189,7 @@ const removeAdv = (text) => {
 
 console.log("---------------- start test ------------");
 
-const dictonary = [];
+const dictonary = [];//[..._all, ..._adjective, ..._noun, ..._verb];
 
 const parsePhrase = (text, options = {}) => {
   const _phrase = phraseNormalize(text);
@@ -312,6 +317,18 @@ const parsePhrase = (text, options = {}) => {
     .map((data) => ({ ...data, ...options }));
 };
 
+const addedContext = (contexts, list = []) => {
+  console.log(">>>>>>>>", contexts, list);
+  const texts = contexts.map(([text]) => text);
+
+  list.forEach((context) => {
+    console.log("c",context);
+    if (!texts.includes(context[0])) {
+      contexts.push(context);
+    }
+  });
+};
+
 const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
   if (data instanceof Array) {
     const [text, translate = "", context = []] = data;
@@ -362,7 +379,9 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
             sn.translate + ";" + entry.translate
           );
         }
-        sn.context.push(...entry.context);
+        console.log(">>", text);
+        // sn.context.push(...entry.context);
+        addedContext(sn.context, entry.context || []);
 
         if (entry.level) {
           sn.level = translateNormalize(sn.level + ";" + entry.level);
