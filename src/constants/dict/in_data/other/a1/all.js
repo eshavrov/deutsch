@@ -1650,7 +1650,11 @@ const list = [
     "",
     [["Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."]],
   ],
-  ["der Tee", "", [["Ich trinke morgens immer Tee."]]],
+  [
+    "der Tee",
+    "чай",
+    [["Ich trinke morgens immer Tee.", "Я всегда пью чай по утрам."]],
+  ],
   ["der Teil, -e", "", [["Lies bitte auch den zweiten Teil."]]],
   ["telefonieren", "", [["Darf ich mal telefonieren?"]]],
   ["das Telefon", "", [["Haben Sie Telefon?"]]],

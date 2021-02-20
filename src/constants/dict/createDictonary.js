@@ -189,7 +189,7 @@ const removeAdv = (text) => {
 
 console.log("---------------- start test ------------");
 
-const dictonary = [];//[..._all, ..._adjective, ..._noun, ..._verb];
+const dictonary = [..._all, ..._adjective, ..._noun, ..._verb];
 
 const parsePhrase = (text, options = {}) => {
   const _phrase = phraseNormalize(text);
@@ -318,15 +318,26 @@ const parsePhrase = (text, options = {}) => {
 };
 
 const addedContext = (contexts, list = []) => {
-  console.log(">>>>>>>>", contexts, list);
   const texts = contexts.map(([text]) => text);
+  let _contexts = contexts.slice();
 
   list.forEach((context) => {
-    console.log("c",context);
-    if (!texts.includes(context[0])) {
-      contexts.push(context);
+    const [phrase, translate] = context;
+
+    if (!texts.includes(phrase)) {
+      _contexts.push(context);
+    } else {
+      _contexts = _contexts.map((value) => {
+        if (value[0] === phrase && !value[1] && translate) {
+          return [phrase, translate];
+        }
+
+        return value;
+      });
     }
   });
+
+  return _contexts;
 };
 
 const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
@@ -351,7 +362,6 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
 
         dictonary.push({ ...entry, originals, id });
       } else {
-        // console.log("skip", sn, entry);
         // merge code
         sn.originals = mergeOriginals(sn.originals, entry.original);
 
@@ -379,9 +389,8 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
             sn.translate + ";" + entry.translate
           );
         }
-        console.log(">>", text);
-        // sn.context.push(...entry.context);
-        addedContext(sn.context, entry.context || []);
+
+        sn.context = addedContext(sn.context || [], entry.context || []);
 
         if (entry.level) {
           sn.level = translateNormalize(sn.level + ";" + entry.level);
