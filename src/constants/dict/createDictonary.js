@@ -13,6 +13,8 @@ const irregularVerbs = require("./in_data/de-online_ru/irregularVerbs.json");
 const irregularVerbs2 = require("./in_data/other/verbs_i.json");
 
 const { list } = require("./in_data/other/a1/all");
+const { list: listB1 } = require("./in_data/other/b1/all");
+
 const { groups } = require("./in_data/other/verbsGroups");
 const { groups: datumGroups } = require("./in_data/other/a1/Datum");
 
@@ -362,6 +364,10 @@ const add = (dictonary, data, { options = {}, cb, spliter = ";" } = {}) => {
         }
         sn.context.push(...entry.context);
 
+        if (entry.level) {
+          sn.level = translateNormalize(sn.level + ";" + entry.level);
+        }
+
         // Optional
         if (entry.config) {
           if (sn?.config?.generate < entry.config?.generate) {
@@ -403,18 +409,22 @@ const addAdjective = (dictonary, data, options = {}, afterCb) => {
   add(dictonary, data, { options, cb });
 };
 
-const addA1 = (dictonary, data, options = {}, afterCb) => {
+const addLevel = (level, dictonary, data, options = {}, afterCb) => {
   const cb = (_entry) => {
     const entry = afterCb ? afterCb(_entry) : _entry;
 
-    return { ...entry, level: "A-1" };
+    return { ...entry, level };
   };
 
   add(dictonary, data, { options, cb });
 };
 
 list.forEach((data) => {
-  addA1(dictonary, data);
+  addLevel("A-1", dictonary, data);
+});
+
+listB1.forEach((data) => {
+  addLevel("B-1", dictonary, data);
 });
 
 [...words200, ...verbs].forEach((data) => add(dictonary, data));

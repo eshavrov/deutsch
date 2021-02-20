@@ -17,7 +17,13 @@
       }
     },
     "translate": "сворачивать; поворачивать; свернуть в сторону",
-    "context": [],
+    "context": [
+      [
+        "An der nächsten Kreuzung müssen Sie links abbiegen.",
+        ""
+      ]
+    ],
+    "level": "B-1",
     "originals": [
       "ab/biegen, bog ab, ist abgebogen"
     ],

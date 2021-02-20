@@ -19,14 +19,15 @@ const Page = (props) => {
 };
 
 Page.getInitialProps = ({ query }) => {
+  const { lang, count = 16 } = query;
   let nativeLanguage = LANGUAGE.RU;
 
   let languages =
-    query.lang === LANGUAGE.RU
+    lang === LANGUAGE.RU
       ? [LANGUAGE.RU, LANGUAGE.DE]
       : [LANGUAGE.DE, LANGUAGE.RU];
 
-  const dict = Object.values(getDictonary({ languages, count: 50 }));
+  const dict = Object.values(getDictonary({ languages, count }));
 
   return { dict, languages, nativeLanguage };
 };

@@ -12,6 +12,23 @@
   },
   {
     "type": "noun",
+    "base": "Abbildung",
+    "article": "die",
+    "translate": "",
+    "context": [
+      [
+        "Auf der Abbildung sehen Sie, wie man das Gerät einschaltet.",
+        ""
+      ]
+    ],
+    "level": "B-1",
+    "originals": [
+      "die Abbildung, -en"
+    ],
+    "id": "b45c516a054c50fc9b1bc2f31be32cf0"
+  },
+  {
+    "type": "noun",
     "base": "Abend",
     "article": "der",
     "translate": "вечер",
@@ -4622,7 +4639,7 @@
     "translate": "получатель; адресат; грузополучатель",
     "context": [
       [
-        "uf dem Brief steht dein Name, also bist du der Empfänger.",
+        "Auf dem Brief steht dein Name, also bist du der Empfänger.",
         ""
       ]
     ],
@@ -7879,7 +7896,12 @@
     "article": "das",
     "translate": "дом; здание; строение; хозяйство",
     "context": [
-      null,
+      [
+        "In welchem Haus wohnst du?"
+      ],
+      [
+        "Ich gehe jetzt nach Hause."
+      ],
       [
         "Paul ist nicht zu Hause."
       ]
@@ -8777,8 +8799,8 @@
     "type": "noun",
     "base": "Jahreszeiten",
     "article": null,
-    "translate": "сезоны",
-    "context": "время года",
+    "translate": "сезоны; время года; времена года",
+    "context": [],
     "originals": [
       "Jahreszeiten"
     ],

@@ -908,7 +908,8 @@ const list = [
     "das Haus, -ä, er",
     "",
     [
-      ["In welchem Haus wohnst du?"]["Ich gehe jetzt nach Hause."],
+      ["In welchem Haus wohnst du?"],
+      ["Ich gehe jetzt nach Hause."],
       ["Paul ist nicht zu Hause."],
     ],
   ],

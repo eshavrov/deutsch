@@ -86,7 +86,7 @@ const groups = [
 
   // Jahr/Jahreszeiten
   [
-    ["Jahreszeiten", "сезоны", "время года", "времена года"],
+    ["Jahreszeiten", "сезоны; время года; времена года"],
     ["der Frühling; das Frühjahr", "весна"],
     ["der Sommer", "лето"],
     ["der Herbst", "осень"],

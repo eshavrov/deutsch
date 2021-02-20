@@ -650,7 +650,7 @@ const list = [
   [
     "der Empfänger, –",
     "",
-    [["uf dem Brief steht dein Name, also bist du der Empfänger.", ""]],
+    [["Auf dem Brief steht dein Name, also bist du der Empfänger.", ""]],
   ],
   ["empfehlen", "", [["Welchen Wein können Sie mir empfehlen?", ""]]],
   ["enden", "", [["Die Straße endet hier.", ""]]],
@@ -937,7 +937,8 @@ const list = [
     "das Haus, -ä, er",
     "",
     [
-      ["In welchem Haus wohnst du?"]["Ich gehe jetzt nach Hause."],
+      ["In welchem Haus wohnst du?"],
+      ["Ich gehe jetzt nach Hause."],
       ["Paul ist nicht zu Hause."],
     ],
   ],

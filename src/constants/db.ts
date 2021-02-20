@@ -46,9 +46,15 @@ const getDictonary = ({ count = 100, languages }) => {
   return (
     // verbs
     noun
-      .filter(({ level }) => level === "A-1")
+      .filter(({ level }) => {
+        let status = true;
+        const levels = level?.split(/\;\s*/i) || [];
+        status = status && levels.includes("A-1");
+        // status = status || levels.includes("B-1");
+
+        return status;
+      })
       .sort((a) => (Math.random() - 0.5, Math.random() - 0.5))
-      .slice(0, 16)
       .slice(0, count)
       .map(_projection)
       .reduce((acc, entry) => {

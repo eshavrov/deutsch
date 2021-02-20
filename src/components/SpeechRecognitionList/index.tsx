@@ -45,6 +45,8 @@ const SpeechRecognitionList = (props) => {
   const [mood, setMood] = React.useState(0);
   const [signal, toggleSignal] = React.useState(false);
 
+  const allCount = React.useMemo(() => dictInitial?.length || 0, [dictInitial]);
+
   const { signalState } = useSpring({
     signalState: signal ? 1 : 0,
     config: { duration: 1000 },
@@ -196,6 +198,9 @@ const SpeechRecognitionList = (props) => {
       className={s.container}
       style={animatedContainerStyle({ mood, signalState })}
     >
+      <p>
+        {dict.length}/{allCount}
+      </p>
       <table className={s.card}>
         <tbody>
           {list.map(

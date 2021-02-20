@@ -902,7 +902,16 @@
     "base": "grün",
     "article": null,
     "translate": "зеленый; зелёные; зелёный",
-    "context": [],
+    "context": [
+      [
+        "Die Ampel zeigt Grün",
+        "Светофор показывает зеленый"
+      ],
+      [
+        "Die Ampel ist grün",
+        "Светофор зеленый"
+      ]
+    ],
     "originals": [
       "grün"
     ],
@@ -2592,7 +2601,7 @@
     "type": "adjective",
     "base": "weißlich",
     "article": null,
-    "translate": "белесый, беловатый",
+    "translate": "белёсый, беловатый",
     "context": [],
     "theme": "color",
     "originals": [
